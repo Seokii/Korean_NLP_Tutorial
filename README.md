@@ -4,5 +4,8 @@
 ## NLP Tasks
 - Sentiment Analysis (감성 분석)
 
+### Sentiment Analysis
+- Naver Movie Riview - LSTM.ipynb
+
 ## Dataset
-- 
+- Naver sentiment movie corpus(네이버 영화 리뷰 데이터셋) -> [e0t/nsmc](https://github.com/e9t/nsmc)
