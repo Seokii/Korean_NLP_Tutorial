@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201506290910056371_5",
+  "metadata": {
+    "doc_id": "PCY_201506290910056371",
+    "doc_type": "도서",
+    "doc_name": "유전자치료제 순도시험법 시험정보집",
+    "author": null,
+    "publisher": "식품의약품안전처",
+    "published_year": null,
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "비바이러스 벡터로 주로 사용되는 Naked/Plasmid DNA 순도 분석을 위한 대표적인 시험항목으로는, 흡광도로 A260/A280 비율 측정과 전기영동(agarose gel electrophoresis)을 통한 supercoiled 형태 DNA 측정이다. 또한, 공정 중 불순물을 확인하기 위해 대장균 유래 DNA, RNA, 단백질의 함량을 측정하고, 각각에 dot blot, 전기영동 시험, BCA 정량법이 대표적으로 사용되고 있다. 최근에는 대부분의 개발회사에서 정량적 PCR과 같은 새로운 시험법을 사용하고 있으며, 유럽 및 미국 허가기관에 개선된 시험방법을 제출하고 있는 추세이다.",
+  "summary": "Naked/Plasmid DNA 순도 분석을 위한 대표적인 시험항목으로 supercoiled 형태 DNA 측정이있다. 요즘에는 대부분 회사에서 정량적 PCR 시험법을 쓰고 있다."
+}

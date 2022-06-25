@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049145505_110_110-0",
+  "metadata": {
+    "doc_id": "CNTS-00049145505",
+    "doc_type": "도서",
+    "doc_name": "공공 및 민간부분의 정보화를 위한 위성통신 활용방안 연구",
+    "author": "손상영",
+    "publisher": "정보통신정책연구원",
+    "published_year": "1999",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "제 4 장 위성망과 타 가입자망과의 비교분석 제 3 절 B-WLL",
+  "passage": "광대역 무선 기술은 1970년대 중반 마이크로파를 이용한 MDS(Multipoint Distribution Service) 방식으로 무선 CATV 사업이 시작되었다. 이후 1980년대부터 MMDS(Multi-point Multichannel Distribution Service)를 거쳐 지금의 LMDS로 발전하였다. MMDS는 2.15-2.682GHz 사이의 500MHz의 대역폭을 이용하여 최대 33개의 아날로그 비디오 채널을 제공하며, 지형적으로 유선 CATV망 포설이 어려운 지역에 약 50Km 반경 이내에 경제적으로 단방향 CATV를 제공하는 기술이다. 그러나 MMDS가 아날로그 기술상의 한계와 위성방송의 발전으로 인해 매력을 잃어가면서 MMDS 기술을 디지털화하고 무선CATV를 포함하여 양방향 비디오, 고속데이터 및 전화서비스를 제공하기 위한 LMDS 서비스가 미국에서 출현하였다. LMDS는 초기에 무선CATV 전송기술로 개발되었고, 단방향 영상전송이 주요 목적이었다.",
+  "summary": "광대역 무선 기술의 시작은 무선 CATV를 위한 MDS 방식이고, 1980년대에는 약 50km 반경에 33개의 아날로그 비디오 채널을 제공하는 MMDS가 개발되었다. 이후, 미국에서 도입된 LMDS는 MMDS를 디지털화한 기술로, 단방향 영상전송이 목적이었다."
+}

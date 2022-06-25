@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201707040218145811_24",
+  "metadata": {
+    "doc_id": "PCY_201707040218145811",
+    "doc_type": "도서",
+    "doc_name": "IP제품혁신매뉴얼 : 무한 경쟁 시대 기업의 생존을 위한 혁신 방법론",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": "2016",
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "예를 들어, 수도관 내부의 스케일을 효율적으로 제거하기 위한 아이디어 발굴 사례의 경우, 예비검색식으로 ‘스케일을 제거하는 방법(remove scale)’을 도출했고, 이를 일반화한 ‘remove solid’를 Effects DB (Production Inspiration)에서 검색한 결과, 총 16개의 자연과학 원리를 이용할 수 있는 것으로 조사되었다. 조사된16개의 자연과학 원리를 각각 검토한 결과, acoustic wave(음파),adsorption(흡착), friction(마찰), vibration(진동) 등이 유용한 대안시스템으로서 도출되었다.",
+  "summary": "아이디어 발굴 사례의 경우 검색을 통해 이용할 수 있는 자연과학의 원리를 조사하고 유용한 대안시스템을 찾았다."
+}

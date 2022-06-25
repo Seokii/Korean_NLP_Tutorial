@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210333535181_8",
+  "metadata": {
+    "doc_id": "PCY_201610210333535181",
+    "doc_type": "도서",
+    "doc_name": "우리나라 P2P 전력거래 가능성 연구",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Open Utility는 피클로 이용 고객을 늘리기 위해 DUoS(Distribution Use of System, 배전시스템이용료) 절감의 중요성도 강조하고 있다. DUoS는 국가 송전시스템에서 전기를 받아 지역 배전네트워크를 통해 각 소비자에게 전송할 때 발생하는 비용을 포함하고 있다. DUoS에는 지역 배전네트워크 설치, 운영, 유지비용이 포함되어 있다. 이 배전네트워크에는 가공선(overhead lines), 지중케이블(underground cables), 변전소, 변압기 및 기타 설비가 포함된다. 지역별로 조금씩 다르긴 하지만 대체로 비가정부문(non-domestic) 전력소비자들이 지불하는 전기요금의 15~19% 정도를 차지하고 있다(trendcontrols.com).",
+  "summary": "Open Utility는 피클로 이용 고객 증가를 위해 국가 송전시스템에서 전기를 받아 지역 배전네트워크를 통해 각 소비자에게 전송할 때 발생하는 비용을 포함한 DUoS 절감의 중요성도 강조하고 있다."
+}

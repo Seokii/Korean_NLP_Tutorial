@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201501090909516861_36",
+  "metadata": {
+    "doc_id": "PCY_201501090909516861",
+    "doc_type": "도서",
+    "doc_name": "잔류동물용의약품 분석법 실무 해설서",
+    "author": null,
+    "publisher": "식품의약품안전처",
+    "published_year": null,
+    "kdc_label": "식품의약안전",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "검출기의 감도는 검출할 수 있는 화합물의 최소량 (minimum detectable quantity, MDQ 또는 limit of detection, LOD)으로 표시되는데 이는 검출기의 화합물에 대한 신호 대 검출기 자체의 잡음비 (signal to noise ratio, S/N)가 3 이상일 때의 화합물의 양으로 표시된다. 이러한 S/N비는 peak의 높이 (peak height)로 결정되기 때문에 chromatography에서의 머무름 시간에 따라 다소 변동될 수 있다. 즉 등온조건에서 머무름 시간이 길수록 화합물의 peak는 넓어지므로 특정 S/N비에서의 화합물의 MDQ는 커진다. 잔류 물질 분석에 실용적으로 이용하기 위해서 요구되는 검출기의 화합물에 대한 감도는 최소한 ng 수준이하이고, ECD, NPD 및 FPD는 이 조건을 만족시킨다",
+  "summary": "검출기의 감도는 검출 가능한 화합물의 최소량으로 나타나는데, 신호 대비 검츨기의 잡음비가 3 이 넘어가는 경우 화합물의 양으로 나타난다. S/N비는 최고조의 높이로 결정되지만 변동 가능성이 있다. "
+}

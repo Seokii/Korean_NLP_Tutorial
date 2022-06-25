@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_202005211108528901_21",
+  "metadata": {
+    "doc_id": "PCY_202005211108528901",
+    "doc_type": "도서",
+    "doc_name": "소셜 로봇의 미래 : 2019년 기술영향평가 결과",
+    "author": null,
+    "publisher": "과학기술정보통신부,한국과학기술기획평가원",
+    "published_year": "2020",
+    "kdc_label": "과학기술연구",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "또 한 가지 고려할 것은 소셜 로봇이 대부분 실내에서 사용될 것이라는 점이다. 기계 장치를 실내에서 사용하기 위해서는 매연이 발생하는 내연 기관보다 전기 모터류가 적합하다. 따라서 2차 전지나 소형 전기 모터의 수요가 늘어날 것을 예측해볼 수 있다. 또한 이동과 주행 솔루션이나 기술 플랫폼 중에서 실내 주행에 특화된 in-door SLAM(Simultaneous Localization and MapBuilding, Simultaneous Localization and Mapping), 실내 자율주행 모듈 및 플랫폼 시장이 성장할 것으로 전망된다.",
+  "summary": "미래 소셜 로봇은 실내에서 사용될 것이라는 것을 고려할 때, 전기 모터류와 실내주행 관련 시장이 성장할 것으로 전망된다."
+}

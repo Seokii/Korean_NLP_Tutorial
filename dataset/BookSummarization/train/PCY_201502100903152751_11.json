@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201502100903152751_11",
+  "metadata": {
+    "doc_id": "PCY_201502100903152751",
+    "doc_type": "도서",
+    "doc_name": "감사논집(2010년 15호)",
+    "author": null,
+    "publisher": "감사원",
+    "published_year": null,
+    "kdc_label": "국정운영",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "법원의 판결에서 인정받고 있는 개별적 추계방법으로는 내적인 기업비교법(사후계산법 (Nachkalkulationen), 시계열 비교법(Zeitreihenvergleich, Chi 2 test 등)과 화폐유통계산법(Geldverkehrsrechnung)(자산증가계산법: Vermoegenszuwachsrechnung)을 들 수 있다. 외적인 기업비교법과 공적인 기준률 비교를 통한 추계방법은 제한적으로만 인정되고 있다. 사후계산법이나 화폐유통계산법 같은 추계방법은 정상적으로 형식을 갖춘 기장자료의 내용 증거력을 소멸시키고 동시에 계산된 금액 내에서 기장되지 않은 수입액을 증명할 수 있는 방법이다(1995년 9월 8일의 연방재정법원 판결).",
+  "summary": "법원이 인정하고 있는 개별적 추계방법으로는 사후계산법, 시계열 비교법, 화폐유통계산법, 자산증가계산법 등을 포함하는 내적인 기업비교법을 들 수 있다."
+}

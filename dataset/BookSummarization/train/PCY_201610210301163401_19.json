@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210301163401_19",
+  "metadata": {
+    "doc_id": "PCY_201610210301163401",
+    "doc_type": "도서",
+    "doc_name": "열병합발전에서 ESS설치의 경제성 분석 연구",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "향후 원자력 발전소의 비중이 증가하고 ESS의 비용이 하락할 것으로 예상되므로, 본 연구에서는 이를 반영하여 ESS의 경제성을 평가하기 위해 2021년의 SMP를 전망하였다. 분석 방법으로는 7차 전력 수급  계획 (산업 통상 자원부, 2015a)의 전력 수요 및 공급 설비 자료를 바탕으로 전력 시장 시뮬레이션 프로그램 M-Core로 SMP를 도출하였다. M-Core 는 Lagrangian Relaxation (LR) 방법과 Dynamic Programming (DP) 방법을 혼합한 Single Unit Dynamic Programming (SUDP) 알고리듬으로 총 발전기들의 발전 비용을 최소화하는 목적 함수를 만족 시키는 개별 발전기의 최적 기동 정지 계획과 발전량을 결정하여 SMP를 도출한다. 본 연구에서 인용한 7차 전력 수급 계획의 기본 입력 자료 는 <표 3-8>에 정리하였다.",
+  "summary": "7차 전력 수급 계획 자료를 바탕으로, M-core로 LR와 DP를 혼합한 SUDP 알고리즘에서 전체 발전 비용 최소화 함수에 따른 개별 발전기의 최적 기동 정지 계획과 발전량으로 2021년 SMP를 도출하여 ESS의 경제성을 평가했다."
+}

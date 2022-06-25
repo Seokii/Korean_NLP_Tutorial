@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201908210236112981_1",
+  "metadata": {
+    "doc_id": "PCY_201908210236112981",
+    "doc_type": "도서",
+    "doc_name": "디스플레이 현황과 발전방향 : 실감 및 스킨 기기로의 확대 (Display Technologies for Immersive Devices and Electronic Skin)",
+    "author": "박영준",
+    "publisher": "한국전자통신연구원",
+    "published_year": "2019",
+    "kdc_label": "과학기술연구",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "OLED 기반 AR/VR 디스플레이는 빠른 응답 속도, 완벽한 블랙 구현, 경량 및 박형 제작 가능 등의 장점으로 AR/VR용 디스플레이에 가장 적합한 것으로 인정되고 있다. 삼성 디스플레이는 2018년 SID에서 1,200ppi 2.43인치 OLED를 시연하였으며, LG디스플레이는 구글과의 파트너십을 통해 프로토타입 수준의 VR용 OLED 디스플레이를개발하였다. 이는 4.3인치 크기에 3,840×4,800,1,443ppi의 해상도를 지원하는 현존하는 최고 수준으로, HTC의 VR 헤드셋 바이브(448ppi)보다거의 3배나 높은 수준이다. 한편, 미국의 Kopin과 eMagin은 각각 2K×2K 해상도의 마이크로 OLED를 발표하였으며, 우리나라의 ETRI는 백색OLED를 적용한 AR/VR용 디스플레이 개발을 진행 중이다.",
+  "summary": "OLED 바탕 AR/VR 디스플레이는 빠른 질문답변, 블랙구현, 가볍고 박형이 되어 제일 알맞다. 미국은 2K×2K 해상도 마이크로 OLED를 발표했고 자국은 백색OLED AR/VR용 디스플레이를 개발중이다."
+}

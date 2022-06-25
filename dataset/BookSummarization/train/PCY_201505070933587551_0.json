@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201505070933587551_0",
+  "metadata": {
+    "doc_id": "PCY_201505070933587551",
+    "doc_type": "도서",
+    "doc_name": "KATS 기술보고서 제71호(ISO TC 204의 스마트카 표준화 동향)",
+    "author": null,
+    "publisher": "국가기술표준원",
+    "published_year": null,
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "제품중심형 스마트카 기술은 일반적으로 수동안전(Passive Safety)을 제외하고, 능동안전(Active Safety) 제품군을 포함하며, ASV(Advanced Safety Vehicle), ADAS(Advanced Driver Assistance System), Cooperative Safety System(통합안전 시스템) 등을 포함한다. 기존의 스마트 안전 차량 기술은, 차량 탑재 센서 기반의 안전기술에서, 내외부 통신을 활용하는 V2X(Vehicle to Vehicle, Vehicle to Infrastructure, Vehicle to Nomadic 등) 기반 기술로 발전하고 있으며, 향후에는 이 두 가지를 통합한 V2X 통합안전기술(V2X Cooperative Safety)로 발전할 것으로 전망되고 있다.",
+  "summary": "제품중심형 스마트카 기술은 대부분 능동안전 제품군, ASV  등을 포함한다. 그리고 스마트 안전 차량 기술은, 차량 탑재 센서에서  V2X 기반으로 발전하고 있으며, 향후에는 V2X 통합안전기술로 발전할 것으로 보인다."
+}

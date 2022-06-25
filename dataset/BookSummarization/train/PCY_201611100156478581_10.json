@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611100156478581_10",
+  "metadata": {
+    "doc_id": "PCY_201611100156478581",
+    "doc_type": "도서",
+    "doc_name": "박사인력활동조사의 개선과 활용",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2014",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "National Science Foundation(NSF)와 National Institutes of Health(NIH) 발주의 박사인력조사로, SDR은 미국 내에서 이공계 전공분야 박사학위를 취득한 4만명을 대상으로 실시하였다. 미국 이공계 박사학위 현황파악을 위한 유일한 데이터로 박사교육과정, 고용현황, 경력개발 등 주요 정보를 수집한다. SDR은 Doctorate Records File(DRF)에서 샘플을 선정하고, DRF는 1920년 이후 매년 미국 내 박사학위 취득자 정보를 수집하는 조사로 Survey of Earned Doctorate(SED)을 수행한다. SDR의 데이터 수집방법은 기존의 설문지 배포, Computer Assisted Telephone Interview(CATI), 웹 기반의 데이터 수집을 전략적으로 통합하였다. SDR 데이터는 NSF의 Scientists and Engineers Statistical Data System(SESTAT)와 함께 활용되어 통계브리프와 세부통계표로 작성되어 배포된다.",
+  "summary": "SDR은 DRF와 SED를 활용하여 미국 이공계 박사학위 현황을 파악하였다. SESTAT와 함께 활용되어 통계브리프와 세부 통계표로 배포된다."
+}

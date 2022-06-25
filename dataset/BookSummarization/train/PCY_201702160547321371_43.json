@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201702160547321371_43",
+  "metadata": {
+    "doc_id": "PCY_201702160547321371",
+    "doc_type": "도서",
+    "doc_name": "산업주도권 확보를 위한 경쟁과 협력(coopetition)의 혁신전략 : 세계 디스플레이 산업구도 분석",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2016",
+    "kdc_label": "과학기술연구",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "첫째, 개별기업 수준에서는 기업의 네트워크 상 위치(network position)를 측정할 것을 제안하고 있다(Gnyawali and Madhavan, 2001). 기업이 네트워크상에서 전략적으로 유리한 위치를 차지할수록 자사에 필요한 자원획득 측면에서 더 큰 이점을 가질 수 있다. 이를 실증적으로 분석하기 위한 구체적인 측정 지표로는 중심성(centrality)과 구조적 자율성(structural autonomy)을 제시하였다(Gnyawali, He, and Madhavan, 2006; Gnyawali and Madhavan, 2001). 중심성은, 하나의 주체(entity)가 네트워크상에서 얼마나 많은, 혹은 중심적인 연결성를 가진 위치에 놓여있는가를 의미한다(Wasserman and Faust, 1994). 이는 통상적으로 연결중심성(degree centrality), 매개중심성(betweenness centrality) (Freeman, 1977), 근접중심성(closeness centrality) (Wasserman and Faust, 1994), 정보중심성(information centrality) (Stephenson and Zelen, 1989) 등으로 구분할 수 있다.",
+  "summary": "개별기업 수준에서 기업이 네트워크 상 어떠한 위치를 가지는지를 하나의 주체가 네트워크 상 중심적인 연결성을 가지는 정도인 중심성, 그리고 구조적 자율성이라는 지표로 측정할 것을 제안하고 있다. 중심성은 연결중심성, 매개중심성, 근접중심성, 정보중심성 등으로 구분된다. "
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118876920_31",
+  "metadata": {
+    "doc_id": "CNTS-00118876920",
+    "doc_type": "도서",
+    "doc_name": "공직가치에 대한 이해와 대응",
+    "author": "한국행정연구원",
+    "publisher": "한국행정연구원",
+    "published_year": "2017",
+    "kdc_label": "행정학",
+    "kdc_code": "350"
+  },
+  "chapter": null,
+  "passage": "셋째, 공직가치와 조직몰입, 직무만족, 윤리적 행동 간의 관계는 PLS(partial least squares) 구조방정식모형(PLS-SEM)인 SmartPLS 2.0.M3을 사용하였다(Ringle, Wende, & Will, 2005). 구조방정식모형(structural equation modeling)은 요인분석과 경로분석을 결합시킨 통계기법으로, 하나의 모형을 통해 모든 변수 간 관계를 동시에 분석할 수 있고 특히 PLS-SEM은 복잡한 모형의 검증에 유용하다(Fornell & Bookstein, 1982). PLS-SEM는 AMOS, LISREL 등 공분산구조방정식모형(covariance structural equation model, CB-SEM)의 대안으로 개발되었으며, CB-SEM이 공통요인(common factor)을 기반으로 하는데 비하여 PLS-SEM은 총 분산인 주성분(principal component)을 기반으로 한다. PLS-SEM은 추정과정에서 발생하는 잔차를 최소화하여 추정계수의 예측력을 극대화한다. PLS-SEM은 연구가 아직 탐색적 차원이거나 변수 간 관계에 대한 기존 이론의 연장선일 때, 변수 간의 관계를 예측하거나 중요한 독립변수를 찾고자 할 때는 CB-SEM보다는 PLS-SEM이 보다 적절하다고 한다(Hair et al., 2011: 144). PLS-SEM 경로계수의 유의성은 부트스트랩(bootstrap) 방법을 이용하여 표본을 2,000회 반복 추출하여 검증하였다(류은영, 2014; Kim, 2012).",
+  "summary": "구조방정식모형(PLS-SEM)은 요인분석과 경로분석을 결합시킨 통계기법으로 하나의 모형으로 모든 변수 사이의 관계를 분석 가능하여 복잡한 모형의 검증에 유용하다. 따라서 연구가 아직 탐색적 차원이거나 변수 간 관계에 대한 기존 이론의 연장선일 경우 변수 간의 관계를 예측하거나 중요한 독립변수를 찾고자 할 때 적절하다."
+}

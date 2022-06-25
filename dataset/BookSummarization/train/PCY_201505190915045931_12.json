@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201505190915045931_12",
+  "metadata": {
+    "doc_id": "PCY_201505190915045931",
+    "doc_type": "도서",
+    "doc_name": "해외 특허분쟁 대응전략 로드맵(3D프린팅)",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": "소송 정보 조사 및 분석",
+  "passage": "기술분야별 소송 이력 분석을 통해 어떤 분야에서 소송이 자주 발생하는지 살펴보면, Vat Photopolymerization(AAF) 분야에서 소송에 사용된 특허가 총 20건으로 다른 분야에 비해 많은 것으로 나타난다. 자세히 살펴보면, 1회 소송이력이 있는 특허가 13건, 4회 소송이력이 있는 특허가 6건, 5회 소송이력이 있는 특허가 1건인 것으로 나타났다. 또한, Vat Photopolymerization(AAF) 분야에서 소송에 사용된 특허 20건은 대부분 SLA에 의한 3D 모델을 만드는 장치 및 방법에 관한 특허이며, 그 중 무려 14건이 3D Systems의 특허인 것으로 나타났다. 그 밖에 Envisiontec의 특허 3건, Stratasys의 특허 3건이 있는 것으로 나타났다.",
+  "summary": "Vat Photopolymerization(AAF) 분야는 소송이력이 가장 잦다. 이에 사용된 특허는 대부분 SLA에 의한 3D 모델을 만드는 장치와 방법에 관하며, 3D Systems의 특허가 대부분이었다."
+}

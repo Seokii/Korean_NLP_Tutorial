@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201509110503133191_40",
+  "metadata": {
+    "doc_id": "PCY_201509110503133191",
+    "doc_type": "도서",
+    "doc_name": "항공분야 빅데이터의 정책적 활용방안 연구",
+    "author": null,
+    "publisher": "한국교통연구원\t",
+    "published_year": null,
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "국제항공안전규정관리 및 구현 시스템(SMIS, SARPs Management & Implementation System)은 ICAO가 회원국을 대상으로 실시중인 항공안전평가에 대비하여 1만 여개의 방대한 국제표준의 이행현황을 매 조항별로 실시간 관리를 위해 2006년 데이터베이스 기반 시스템을 개발 및 해외보급 중이다. SMIS는 국제기준과 국내법령 규정 간 비교, 분석, 차이점 관리, 이력 모니터링, ICAO 체약국 공한(State Letter) 조치현황, 항공안전평가 자료관리 등으로 데이터 구성되어 있으며, SARPs/State Letter, USOAP(Universal Safety Oversight Audit Programme), Regulation 별 분석결과 도출이 가능하다.",
+  "summary": "SMIS은 ICAO의 항공안전평가에 대비하기 위한 데이터베이스 기반 시스템이다. SMIS에는 국제기준과 국내법령 규정 간 비교, 항공안전평가 자료관리 등의 데이터가 있으며 규정별 분석결과를 알 수 있다."
+}

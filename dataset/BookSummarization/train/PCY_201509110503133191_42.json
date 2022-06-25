@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201509110503133191_42",
+  "metadata": {
+    "doc_id": "PCY_201509110503133191",
+    "doc_type": "도서",
+    "doc_name": "항공분야 빅데이터의 정책적 활용방안 연구",
+    "author": null,
+    "publisher": "한국교통연구원\t",
+    "published_year": null,
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "FOQA 데이터 기록을 위해 가장 많이 이용되는 장치는 QAR(Quick Access Recorder)로서, 용이하게 탈부착이 가능한 자기테이프 카트리지 또는 카세트를 의미한다. 비행기록데이터는 항공기에서 수집되는 모든 데이터(ACMS, Aircraft Condition Monitering System)에서 QAR 데이터로 전송되며, 다시 분석시스템을 거쳐 FOQA 데이터가 생성되는 것으로 약 1,600개의 매개 변수가 1/16초, 1/8초 등의 단위로 수집되며, Standard Operation Procedure에 따라 Event Trigger, Exceedance 등을 약 80여 종류 이상 적용할 수 있으며, approach 시 가장 많이 생성된다.",
+  "summary": "FOQA 데이터 기록을 위해 QAR이란 탈부착 가능 자기테이프 카트리지, 카세트가 이용된다. 비행기록데이터는 항공기에서 수집되는 모든 데이터에서 QAR, FOQA 데이터로 전환 생성된다."
+}

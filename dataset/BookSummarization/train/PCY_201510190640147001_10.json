@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201510190640147001_10",
+  "metadata": {
+    "doc_id": "PCY_201510190640147001",
+    "doc_type": "도서",
+    "doc_name": "인간 유용단백질 생산을 위한 형질 전환 소의 개발",
+    "author": null,
+    "publisher": "농림축산식품부",
+    "published_year": null,
+    "kdc_label": "농업·농촌",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "또한 FM 투여와 별도로, 이식배지 내 (intrauterine injection) Dexamethasone 및 hrLIF 첨가를 통한 수태율 제고를 도모하고자 그 효과를 검토하였다. Dexamethasone은 자연적으로 존재하는 cortisol에 비해 약 20배 정도 더 효과적으로 inflammation을 억제하는 물질이며, 이 염증을 억제하기 위해 체내에서 분비되는 물질인 cortisone은 11βHSD1에 의해 cortisol로 바뀌게 되며, 이 물질은 염증에 의해 발생되는 TNFα와 IL-1을 억제하는 역할을 한다. 따라서 dexamethasone을 인위적으로 처치하게 되면 inflammation에 의해 발생되는 PGF2α를 억제할 수 있다. 한편 LIF (leukemia inhibitory factor)는 배반포가 hatching되어 endometrial cell에 부착될 때 중요하게 작용하며, 배반포의 hatching에도 영향을 미치므로 초기배의 착상 시 중요한 역할을 수행한다.",
+  "summary": "이식배지 내 Dexamethasone 및 hrLIF 주입을 통한 수태율 제고를 위해 그 효과를 검토하였다. Dexamethasone을 주입하면 inflammation에 의해 발생되는 PGF2α를 억제한다. 한편, LIF는 초기배 착상에 중요한 역할을 수행한다."
+}

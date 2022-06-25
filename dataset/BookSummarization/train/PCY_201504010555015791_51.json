@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504010555015791_51",
+  "metadata": {
+    "doc_id": "PCY_201504010555015791",
+    "doc_type": "도서",
+    "doc_name": "바이오경제시대 과학기술정책의제 연구사업 (4년차) -개인 유전자 기반 맞춤 의료의 현황과 발전 과제-",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": null,
+    "kdc_label": "기타",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "대규모 인원에 대한 게놈 분석이 진행됨에 따라 게놈 시퀀싱의 결과를 평가할 수 있는 표준의 필요성이 제기되었다. 그동안 유전체 데이터는 기관별, 국가별로 따로 생성되어 관리되고 있어 표준화가 되어 있지 않다는 문제점이 있었다. Genome in a Bottle Consortium(GIAB)은 2012년 4월에 미국 국립표준기술연구소(National Institute of Standards and Technology, NIST)가 미국 식품의약국(Food and Drug Administration, FDA)과 함께 주관한 컨소시엄으로서 이러한 표준의 제시를 목표로 하였다. NGS 기반의 시퀀싱 방법과 데이터 통합 알고리즘 간의 불일치를 해결하기 위해 전 세계의 유전정보 시퀀싱 기관이 벤치마킹할 수 있도록 고도로 정확한 유전형 샘플을 제시하는 것을 주요 내용으로 하고 있다(Zook et al., 2014).",
+  "summary": "게놈 시퀸싱의 결과를 평가할 수 있는 표준이 기관별, 국가별로 다르게 관리되고 있다는 점에서 표준화의 필요성이 대두되었다. 2012년 NIST와 FDA는 전세계가 사용할 수 있는 유전형 샘플과 함께 평가 표준을 제시하고자 하였다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201908160225012641_44",
+  "metadata": {
+    "doc_id": "PCY_201908160225012641",
+    "doc_type": "도서",
+    "doc_name": "에너지 포커스 : 2019년 여름호",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2019",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "DFL은 통상적으로 BFOE 실물 원유를 장래에 형성될 Dated Brent 가격의 월평균가격으로 거래할 때 Dated Brent 가격변동의 위험을 ICE Brent Futures Swaps를 이용하여 헤지를 할 때 활용하는 파생상품이다. 장외시장보다 유동성이 풍부한 ICE의 Brent 선물을 활용해 BFOE 실물 원유를 거래할 때의 가격변동의 위험을 헤지할 수 있다는 점에서 의의가 있다. 구체적으로 DFL 거래란 Dated Brent Swaps(Dated Brent 가격 월평균) 가격과 ICE Brent Futures Swaps(ICE Brent 선물 최근월물 청산가격의 월평균) 가격의 차이를 거래하는 것을 의미한다. CFD에서 언급했던 Dated Brent Swaps가 5일간의 평균가격을 의미했다면, DFL의 Dated Brent Swaps는 월평균 가격을 지칭한다. 자유시장경제의 원칙상 실물 원유를 거래할 때 결제가격의 결정구간을 어떻게 정할지는 거래당사자들의 자유이기 때문에, 3~5일로 할지 한 달로 할지는 당사자들에게 달려 있다. 다만 당사자들이 실물 원유 거래 시의 가격변동의 위험을 헤지하기 위해 파생상품(CFD, DFL)을 선택할 때 결제가격의 결정구간을 포함하는 파생상품인지 여부가 중요할 것이다. 한편 CFD에서 Dated Brent 가격의 변동성을 줄이기 위해 등장하는 상대가격이 Cash BFOE 가격이었다면, DFL에서는 그 역할을 ICE Brent Futures Swaps 가격이 수행하는 점에서 차이가 있다. 일반적으로 석유시장에서 Swaps 가격은 예상평균가격을 의미한다고 이해하면 편리하다.",
+  "summary": "DFL은 미래의 Dated Brent 가격의 월평균으로 BFOE 실물 원유를 거래할 때, ICE Brent Futures Swaps을 통해 Dated Brent 의 가격변동 위험을 해지할 때 활용하는 파생상품이다. DFL 거래는  Dated Brent Swap 가격과 ICE Brent Futures Swaps 가격의 차이에 대한 거래이다. 실물 원유 거래 시의 결제가격 결정구간 설정은 당사자들이 결정한다."
+}

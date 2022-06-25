@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118872498_3",
+  "metadata": {
+    "doc_id": "CNTS-00118872498",
+    "doc_type": "도서",
+    "doc_name": "급성 위장관계 감염 항생제 사용지침",
+    "author": "질병관리본부",
+    "publisher": "질병관리본부",
+    "published_year": "2019",
+    "kdc_label": "의학",
+    "kdc_code": "510"
+  },
+  "chapter": null,
+  "passage": "급성 설사의 원인 균주에 따른 임상 양상의 차이는 크지 않지만, 특징적 증상에 따라 가능성 있는 원인균을 생각해 볼 수는 있다. 지속되는 발열과 전신 증상이 있을 경우 Salmonella, Campylobacter, Yersinia, Shigella를 우선 고려한다. Yersinia의 경우 증상이 급성 충수염과 비슷해 감별이 필요하다. Rotavirus와 Norovirus는 보통 물설사 형태이며, Shigella, Campylobacter jejuni, Salmonella, STEC 또는 enteroinvasive E. coli (이하 EIEC) 경우에는 혈변을 동반하는 경우가 많다. 음식과 관련된 집단 발생의 경우 잠복기에 따라 원인균을 추정할 수 있다. 1~6시간의 짧은 잠복기인 경우에는 독소 섭취에 의한 것으로 추정하여 S. aureus나 emetic toxin을 생산하는 Bacillus cereus를 의심하며, 8~16시간의 경우에는 Clostridium perfringens나 diarrheal toxin을 생산하는 Bacillus cereus, 16~72시간 정도의 잠복기를 보이면 enterotoxigenic E. coli (이하 ETEC), Salmonella, Shigella, Vibrio cholerae를 의심할 수 있다. 콜레라 유행지역으로의 여행력이 있으면서 다량의 쌀뜨물 설사가 있다면 콜레라 가능성에 대해 고려해야 한다. 국내 콜레라는 1990년 이후 연간 10명 이내로 신고되고 있는데 2017년은 모두 해외 유입 사례로 5명(필리핀 4명, 인도 1명)이 발생하였다.",
+  "summary": "급성 설사의 원인 균주에 따른 임상 양상의 차이는 크지 않지만, 특징적 증상에 따라 가능성 있는 원인균을 생각해 볼 수는 있다. 지속되는 발열과 전신 증상이 있을 경우 Salmonella, Campylobacter, Yersinia, Shigella를 우선 고려한다. 국내 콜레라는 1990년 이후 연간 10명 이내로 신고되고 있는데 2017년은 모두 해외 유입 사례로 5명이 발생하였다."
+}

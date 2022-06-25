@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201704260454393161_0",
+  "metadata": {
+    "doc_id": "PCY_201704260454393161",
+    "doc_type": "도서",
+    "doc_name": "중장기 연료가격 변동에 따른 발전원별 경제성 전망 및 민감도 분석",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "학술적인 측면에서도 그 동안 원유 가격이나 천연가스 가격 또는 전력 수요에 대한 단기 예측 연구는 활발한 편이었으나, 각 에너지원별중․장기 가격 전망은 International Energy Agency(IEA), World Bank, Energy Information Administration(EIA) 등 주요 기관의 에너지 수요 모형을 기반으로 수행된 연구 이외에 다른 연구는 찾아보기 어렵다. 이는 중․장기 전망에 많이 사용되는 최종사용자 기반(End-use method 또는 bottom-up approach) 에너지 수요 전망 방법론의 성격 상 대규모 투입 자료와 모형 설정 작업이 필요하여 개인이나 연구실 단위에서 개발하기가 매우 어렵기 때문이다. 이에 본 연구에서는 최근 많은 주목을 받고 있는 기계학습(machine learning) 방법론 중 하나인 인공신경망(artificial neural network, ANN) 모형을 사용하여 최종사용자 기반방식과는 다른 관점에서 중․장기 유가 전망을 수행하였다.",
+  "summary": "본 연구에서는 원유, 천연가스 가격과 전력 수요의 장기 가격 전망을 최종사용자 기반 에너지 사용 전망 방법이 아닌  기계학습 방법론 중 인공신경망 모형을 사용하여 최종사용자 기반 방법과 다른 시각으로 예측해 보았다."
+}

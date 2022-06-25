@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220600459971_59",
+  "metadata": {
+    "doc_id": "PCY_201711220600459971",
+    "doc_type": "도서",
+    "doc_name": "의료기술 관점에서 방사선치료장비의 안전하고 효율적 사용방안",
+    "author": "김민정",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2013",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "NPSA에서는 영국 내 각 방사선치료 센터에서 방사선치료와 관련한 사고들 (incidents)과 근접오류(near miss)를 자발적으로 보고하는 시스템인 NRLS(National Reporting & Learning Service) 체계를 구축, 운영하고 있다. NRLS의 정보는 TSRT(Towards Safer Radiotherapy)의 분류체계와 코딩시스템을 이용하여 분석되며, 사고뿐만 아니라 근접오류까지 포함된 분석 내용은 큰 dataset을 생성하여 관련 의료진들 및 정책결정자에게 학습의 기회를 넓히게 하는데 이용되고 있으며, 이 작업을 통해 국가차원의 사고발생 분석과 지역수준의 사고발생에 대한 비교를 용이하게 할 수 있다. HPA에서는 이와 같은 보고내용을 토대로 연간보고서를 발행하고 있다. NPSA에서는 방사선치료와 관련하여 환자안전을 증진시키기 위해 ‘Implementing Towards Safer Radiotherapy: Guidance on reporting radiotherapy errors and near misses(2010)’을 제작하여 배포하였다. 이 가이드라인에는, 영국 내 각 방사선치료센터에서 방사선치료와 관련한 부작용 및 사고를 radiotherapy error reporting system에 맞게 NRLS에 보고할수 있도록 보고 절차, 방식 및 코딩법 등을 안내하고 있다.",
+  "summary": "NPSA에서는 영국 내 방사선치료 관련 사고들과 근접오류의 자발적 보고 체계를 운영한다. 이 정보는 TSRT의 분류체계와 코딩시스템을 이용, 사고와 근접오류까지 포함한 큰 dataset을 생성, 관련 의료진 등의 학습기회 확대 및 사고발생 분석의 용이함을 도모한다. 또 방사선치료 환자안전 증진을 위해 관련 부작용 및 사고 보고 절차 등을 가이드라인을 통해 안내한다."
+}

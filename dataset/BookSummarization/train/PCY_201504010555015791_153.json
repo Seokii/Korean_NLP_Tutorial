@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504010555015791_153",
+  "metadata": {
+    "doc_id": "PCY_201504010555015791",
+    "doc_type": "도서",
+    "doc_name": "바이오경제시대 과학기술정책의제 연구사업 (4년차) -개인 유전자 기반 맞춤 의료의 현황과 발전 과제-",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": null,
+    "kdc_label": "기타",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "개인식별정보와 관련하여 미국은 National Bioethics Advisory Commission(NBAC) 의 구분을 따르고 있으며, 이에 따르면 신원을 알 수 없는 검체(unidentified or anonymous sample: 획득 단계부터 개인식별정보를 담지 않은 검체), 개인식별정 보와의 연계가 단절된 검체(unlinked anonymized sample: 개인식별정보를 삭제하여 검체의 제공자가 누구인지를 완전히 알 수 없게 만드는 경우), 개인식별정보와 연계된 검체(coded linked or identifiable sample: 탈코드화를 통해 개인식별정보를 확인할 수 있는 경우), 개인식별정보를 포함한 검체(identified sample: 기밀유지의무 부과와 함께 개인식별정보를 포함한 검체)라는 네 가지 종류로 구별된다(이정념·최경석, 2008). 이렇게 개인식별정보가 제거되어 즉, 익명화 된 데이터는 일반적으로 개인정보 보호 규정의 적용을 받지 않게 된다.",
+  "summary": "미국은 개인식별정보와 관련, NBAC의 구분을 따르며 익명화 된 데이터는 개인정보 보호 규정의 적용을 받지 않는다. "
+}

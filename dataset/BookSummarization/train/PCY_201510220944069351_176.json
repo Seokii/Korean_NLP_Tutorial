@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201510220944069351_176",
+  "metadata": {
+    "doc_id": "PCY_201510220944069351",
+    "doc_type": "도서",
+    "doc_name": "2013년 국가수준 학업성취도 평가 결과: 인지적·정의적 특성 및 변화 추이",
+    "author": null,
+    "publisher": "한국교육과정평가원\t",
+    "published_year": null,
+    "kdc_label": "교육일반",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "구조모형에 대한 분석을 위해서는 측정모형의 안정성이 확보되어야 한다(Anderson &,Gerbing, 1988). 따라서 구조모형 분석에 앞서 모든 잠재변인들 간에 상관을 부여하여 확인적 요인분석을 실시하였다. 이론 모형과 실제 자료 간의 부합성을 평가하기 위하여 χ2적합도 검정을 실시하였으며, 표본크기에 민감한 χ2검정의 단점을 고려하여 TLI(TuckerLuwis Index), CFI(Comparative Fit index), RMSEA(Root Mean Squared Error of Approximation) 등의 근사 적합도 지수를 활용하였다. TLI와 CFI는 .9 이상, RMSEA는 .05 이하이면 자료와 모형이 잘 부합함을 나타낸다(Kline, 2010). 모형의 적합도 분석 결과는 <표 Ⅳ-2-9>와 같다.",
+  "summary": "구조모형 분석을 위해서는 안정성이 확보되어야 하기에 모든 잠재적 요인들간에 관계를 분석했다. 표본크기에 예민한 χ2검정의 단점을 고려하여 TLI, CFI, RMSEA 등의 지수를 활용했다."
+}

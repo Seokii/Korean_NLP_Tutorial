@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201710261045297631_13",
+  "metadata": {
+    "doc_id": "PCY_201710261045297631",
+    "doc_type": "도서",
+    "doc_name": "(국민행복시대, 맞춤형 고용복지를 위한) 고용-복지체제 구축 방안 탐색",
+    "author": null,
+    "publisher": "고용노동부,한국직업능력개발원",
+    "published_year": "2013",
+    "kdc_label": "고용노동",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "제조업과 서비스산업 부문 간 생산성 격차는 OECD의 Structural Analysis Database(STAN INDUSTRY 2009e) 자료를 활용하였다. 이 자료에는 전 산업 및 각 산업별 부가가치와 총 종사자 수가 포함되어 있다. 각 산업별 생산성은 산업별 부가가치를 해당산업 총 종사자 수로 나눈 값이다. 제조업과 서비스산업 부문 간 생산성 격차는 제조업 생산성 대비 공공․사회․개인 서비스산업 생산성의 비율로 계산하였다. STAN 자료에 포함된 산업으로는 전 산업(Grand total), 종이 및 종이생산(paper and paper products), 전기 및 광학기계(Electrical and optical equipment), 우편 및 전기통신(post and telecommunication), 금융․보험 부동산 및 비즈니스 서비스(finance, insurance, real estate and business service), 농업․수렵․임업 및 농업(agriculture, hunting, forestry and fishing), 전체 제조업, 공공․사회․개인 서비스 (community and social and personal services), 전체 서비스업(total service)이 있다. 생산성 값은 디플레이터를 사용하였으며, 1991년부터 2008년까지의 기초자료를 활용하여 변수를 구축하였다.",
+  "summary": "OECD의 STAN INDUSTRY 2009e 자료를 활용해 제조업과 서비스산업 간 생산성 격차를 제조업 생산성 대비 공공․사회․개인 서비스산업 생산성의 비율로 계산했다. 해당 자료에 포함된 산업으로는 전 산업, 종이 및 종이생산, 전기 및 광학기계 등이 있다. 생산성 값은 디플레이터를 사용했으며, 1991년부터 2008년까지의 기초자료를 바탕으로 변수를 구축했다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703160345454851_34",
+  "metadata": {
+    "doc_id": "PCY_201703160345454851",
+    "doc_type": "도서",
+    "doc_name": "2016년 보건복지통계정보 통합 관리 및 운영",
+    "author": null,
+    "publisher": "한국보건사회연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Boolean feature vector classification 방법은 각각의 단어가 각각 의 문서에 사용되었는지 그렇지 않은지만 조사하면 되기 때문에 데이터 의 구성이 매우 쉽다는 장점을 가진다. 하지만 오히려 단어의 중요도나 빈도가 전혀 반영되지 않는다는 단점으로 이해할 수도 있다. 이러한 문제 를 해결하기 위해서는 위에서 단어의 중요도를 사전에 정의하고 이러한 중요도를 확률추정 과정에서 가중치로 사용하는 등의 보정 작업을 거쳐 야 한다. Term counts classification 방법은 이러한 단점을 보완하는 단순한 방법의 하나로 각 단어의 중요도를 그 단어의 빈도로 사용하는 방 법이다(Manning et al., 2008).",
+  "summary": "Boolean feature vector classification 방법은 단어의 유무성을, Term counts classification 방법은 단어의 빈도와 중요도를 파악할 수 있다. "
+}

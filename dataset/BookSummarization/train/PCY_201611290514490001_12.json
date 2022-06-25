@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611290514490001_12",
+  "metadata": {
+    "doc_id": "PCY_201611290514490001",
+    "doc_type": "도서",
+    "doc_name": "GTAP모형에서 가계수요 탄력성계수의 추정과정 및 근거",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Reimer and Hertel(2004)은 AIDADS수요함수를 1996년 ICP(International Comparison Program)의 소비자지출에 대한 지역횡단면자료와 GTAP 5의 자료를 이용하여 각각 추정하였다. ICP자료는 소비자가격으로 평가된 자료이고 GTAP자료는 생산자가격으로 평가된 자료이어서 도소매마진만큼 차이가 나지만 두 자료의 추정결과는 서로 상당히 일치하는 것으로 나타났다(Reimer and Hertel, 2004). GTAP자료가 CGE모형의 핵심 자료인 사회계정행렬(SAM)의 구축에 필요한 투입산출자료에 기초하였기 때문에 GTAP은 GTAP자료를 이용한 추정결과를 이용한다.",
+  "summary": "Reimer and Hertel(2004)은 AIDADS수요함수를 1996년 ICP의 소비자지출에 대한 지역횡단면자료와 GTAP자료를 이용해 각각 추정했는데 높은 일치도를 보였다."
+}

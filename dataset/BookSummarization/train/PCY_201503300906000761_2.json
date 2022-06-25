@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201503300906000761_2",
+  "metadata": {
+    "doc_id": "PCY_201503300906000761",
+    "doc_type": "도서",
+    "doc_name": "무기체계 RAM 업무지침",
+    "author": null,
+    "publisher": "방위사업청",
+    "published_year": null,
+    "kdc_label": "병무행정",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "RAM 업무는 [그림 1-1]에서와 같이 체계공학의 일부로서 형상관리(CM : Configuration Management), 인간공학(HFE : Human Factor Engineering), 군수지원분석(LSA : Logistics Support Analysis), 비용대효과분석(COEA : Cost and Operational Effectiveness Analysis), 종합군수지원(ILS : Integrated Logistics Support) 등과 관계가 깊으며, 장비의 고장을 최소화하고 고장발생시 정비시간 단축을 통해 장비의 가용도를 향상시키는 업무로 제2차 세계대전 이후 미국에서부터 본격적으로 시작되었다.",
+  "summary": "장비고장률을 감소시키고 정비시간 단축으로 장비의 효율을 높이는 RAM 업무는 형상관리, 인간공학, 군수지원분석, 비용대효과분석, 종합군수지원과 많은 관련이 있다."
+}

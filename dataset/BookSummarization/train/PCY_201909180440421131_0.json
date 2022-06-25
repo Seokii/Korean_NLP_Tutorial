@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201909180440421131_0",
+  "metadata": {
+    "doc_id": "PCY_201909180440421131",
+    "doc_type": "도서",
+    "doc_name": "5G 네트워크 자동화 및 지능 기술 표준화 동향 (Trends of 5G Network Automation and Intelligence Technologies Standardization)",
+    "author": "신명기, 이수환, 이종화",
+    "publisher": "한국전자통신연구원",
+    "published_year": "2019",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "네트워크 지능 기술은 네트워크로부터 수집된 다양한 데이터를 분석하여 인공지능 기반의 폐쇄형 반복 제어(Closed-loop Control) 등을 통해 네트워크의 자동화 및 최적화가 가능하도록 하는 기술들을 포함하고 있다. 폐쇄형 반복 제어란 데이터의 자동 수집, 머신러닝과 같은 인공지능 기술을 이용한 데이터 분석, 분석된 결과 기반 자율 의사 결정을 위한 피드백 등 일련의 절차를 반복함으로써 자동으로 네트워크가 최적의 상태로 제어 및 관리될 수 있도록 하는 것을 의미한다. (그림 1)은 폐쇄형 반복 제어 방식을 통한 네트워크 지능 기술의 적용 개념도를 도식화한 것이다. 네트워크 상태 정보나 실시간 이벤트, 로그와 같은 스토리지 데이터 등은 자동으로 수집한 후, 빅데이터 분석 방법이나 머신러닝과 같은 인공지능 분석을 통해 최적의 의사 결정 및 정책(Policy)을 생성하며, 이러한 결정 및 정책이 OAM(Operations, Administration and Maintenance)과 MANO(Management and Orchestration), SDN(Software-Defined Networking) 등을 통해 네트워크 내 물리 및 가상자원에 실시간 반영될 수 있는 구조를 가진다.",
+  "summary": "네트워크 지능 기술은 인공지능의 폐쇄형 반복 제어로써 네트워크 기반 데이터를 효과적으로 활용하고 네트워크를 최적화하는 기술이다. 네트워크 지능 기술 적용 시 데이터 자동 수집 후 인공지능이 이를 분석하여 최적의 활용 방안을 도출하며 이것이 OAM과 MANO로써 네트워크에 실시간으로 반영된다."
+}

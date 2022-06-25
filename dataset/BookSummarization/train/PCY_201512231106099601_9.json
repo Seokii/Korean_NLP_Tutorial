@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201512231106099601_9",
+  "metadata": {
+    "doc_id": "PCY_201512231106099601",
+    "doc_type": "도서",
+    "doc_name": "주거안정 사업 평가",
+    "author": null,
+    "publisher": "국회예산정책처",
+    "published_year": null,
+    "kdc_label": "기획재정",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "주요 선진국에서 주거복지와 관련해서 가장 많이 사용하고 있는 주거비부담능력(affordability) 평가방식은 '소득대비 주거비 비율방식(ratio approach)'이다. HAI(Housing Affordability Index)는 가구소득의 일부분으로 주택구입자금 대출의 원리금을 지불할 수 있는지 여부를 측정하는 지수로 PTI(payment to income)와 LTV(loan to value) 등에 대한 가정에 따라 다양한 지수가 존재할 수 있다. HAI가 100을 넘어서면 주택을 구입할 수 있는 것을 의미하고 그 수치가 커질수록 주택구입가능수준이 높아짐을 의미한다. 미국부동산협회(NAR: National Association of Realtors) 에서 개발한 HAI는 PTI 25%, LTV 80%, 고정금리 (r), 원리금균등분할상환 30년 만기를 가정하며 다음과 같은 산식을 사용한다.",
+  "summary": "주요 선진국에서 주거복지와 관련하여 가장 많이 사용하는 주거비부담능력 평가방식은 '소득대비 주거비 비율방식'이다."
+}

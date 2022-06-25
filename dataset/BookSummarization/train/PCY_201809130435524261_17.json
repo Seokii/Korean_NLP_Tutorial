@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201809130435524261_17",
+  "metadata": {
+    "doc_id": "PCY_201809130435524261",
+    "doc_type": "도서",
+    "doc_name": "해운기업의 선박투자 행태 분석과 대응방안 (Analysis of Ship Investment Behavior of Shipping Companies and Counter-measures)",
+    "author": "김태일, 윤재웅, 박성화",
+    "publisher": "한국해양수산개발원",
+    "published_year": "2017",
+    "kdc_label": "해운·항만",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "이에 활용된 분석 데이터는 다음과 같다. 컨테이너선 시황은 CCFI(China Containerized Freight Index)로 나타낼 수 있으며, 동 지수는 2003년부터 발표되어 2003년 이후 데이터를 활용하기로 한다. 아울러 선가 지수는 Clarkson이 발표하는 CNPI(Containership Newbuilding Prices Index)를 활용하여 분석하기로 한다. 또한 각 선사별 선박량 데이터는 Clarkson과 Alphaliner가 제공하는 연도별 데이터를 활용하기로 한다. 아울러 선사의 선박투자 데이터는 2009년 이후 제공되고 있는 한국선주협회 자료를 참고하기로 한다.",
+  "summary": "컨테이너선 시황은 CCFI로, 2003년 이후 데이터를 활용한다. 선가지수는 CNPI를 활용, 선사별 데이터는 연도별 데이터를, 선박투자 데이터는 한국선주협회 자료를 참고한다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611140504439121_22",
+  "metadata": {
+    "doc_id": "PCY_201611140504439121",
+    "doc_type": "도서",
+    "doc_name": "표준특허 길라잡이",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": "2016",
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "또한 대부분의 표준화 기구에서는 특허권자가 표준과 관련된 특허의 보유 여부를 가능한 즉시 신고하여 공개하도록 하고 있는데, 이를 특허 선언(IPR Declaration)이라고 부른다. 특허 선언서는 ISO/IEC/ITU에서는 Patent Statement and Licensing Declaration, IEEE에서는 Letter of Assurance, ETSI에서는 IPR Information Statement and Licensing Declaration 등의 용어로 달리 불린다. 특허 선언을 하지 않고 추후에 표준특허의 권리 행사를 하고자 하는 경우 권리 행사가 제한될 수 있다.",
+  "summary": "특허권자는 표준과 관련된 특허의 보유 여부를 특허 선언을 통해 공개해야 한다. 특허 선언을 하지 않을 경우 권리 행사가 제한될 수 있다."
+}

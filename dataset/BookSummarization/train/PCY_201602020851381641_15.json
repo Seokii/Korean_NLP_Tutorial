@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201602020851381641_15",
+  "metadata": {
+    "doc_id": "PCY_201602020851381641",
+    "doc_type": "도서",
+    "doc_name": "빈곤과 불평등 분석을 위한 한국의 동태적 연산가능 일반균형(CGE) 모형 개발",
+    "author": null,
+    "publisher": "경제‧인문사회연구회",
+    "published_year": null,
+    "kdc_label": "기초생활보장",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "초기의 수준 값과 그 이후의 증가율 벡터를 이용하여 일반균형 모형의 해를 구하는 Johansen 앨고리즘은 현재 호주방식의 CGE Modeling 방법의 핵심을 이루고 있다. 통상 ORANI 모형이라고 알려진 호주방식의 CGE 모형이 보편화된 데에는 최근에 작고한 故 Ken Pearson 교수의 공이 지대하였다. 그는 수준값 대신에 초기값과 그 이후의 증가율을 이용하여 해(solution)을 구하는 Johansen 앨고리즘을 이용하면 ORANI 모형의 해(solution)를 쉽고 빠르게 구할 수 있다는 것을 입증하면서 부터 호주의 ORANI 모형이 전 세계로 급속하게 보급되기 시작하였다.",
+  "summary": "일반균형 모형 해를 구하는 Johansen 알고리즘은 통상 ORANI 모형으로 알려진 호주방식의 CGE 모델링이 핵심이며, 여기에는 Ken Pearson 교수가 큰 기여를 했다."
+}

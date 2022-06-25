@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220887235891_71",
+  "metadata": {
+    "doc_id": "PCY_201711220887235891",
+    "doc_type": "도서",
+    "doc_name": "벤조다이아제핀 계열 약물의 처방양상 및 안전성",
+    "author": "권진원",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2012",
+    "kdc_label": "식품의약안전",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "두 디자인의 경우 매칭 된 자료 분석방법을 적용해야 하므로 환자교차설계 방법의 경우 conditional logistic regression 모형을 적용하여 오즈비(odds ratio, OR)와 95% 신뢰구간을 제시하였으며 자신-대조 환자-씨리즈 연구 방법의 경우 conditional Poisson regression 모형을 적용하여 발생률비(incidence rate ratio, IRR)와 95% 신뢰구간을 제시하였다. 하위그룹분석으로서 벤조다이아제핀다디아제핀 계열 약물을 속효성제제, 장기작용제제, z-drug (zolpidem), alprazolam, diazepam으로 구분하여 세부분석을 수행하였으며, 성별 및 연령대별(65세 미만, 65세 이상) 추정치 및 95% 신뢰구간을 제시하였다.",
+  "summary": "환자교차설계 방법은 오즈비와 95% 신뢰구간을 제시하고 자신-대조 환자-씨리즈 연구 방법은 발생률비와 95% 신뢰국간을 제시하였다. 하위그룹분석으로 성별 및 연령대별 추정치 및 95% 신뢰구간을 제시하였다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201705180424145831_43",
+  "metadata": {
+    "doc_id": "PCY_201705180424145831",
+    "doc_type": "도서",
+    "doc_name": "에너지효율향상 R&D 투자효과 분석 및 정책방향 연구",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Kamiru and Bränlund(2015)은 OECD 13개 국가의 1980년부터2006년까지 데이터를 이용하여 에너지 효율 R&D 투자가 에너지 소비에 미치는 영향을 실증 분석하고 있다. 그들은 에너지 가격, 1인당소득 및 난방도일을 통제변수로 사용하고 국가별 영속적 특성을 고려하는 고정효과 모형을 이용하여 에너지 R&D 자본 축적량과 1인당에너지 소비의 관계를 실증 분석하였다.39) 그들은 특정 국가의 R&D가 주변국에 미치는 파급효과(spillover effect)를 명시적으로 고려하기 위해 Pesaran(2006)과 Eberhart and Teal(2010) 등이 제안한 수정된평균 그룹 추정 방법론(Augmented Mean Group estimation)을 이용하였고 이를 고정효과 모형 추정량, 평균 그룹 추정량(Mean Group estimators) 등과 함께 비교 제시하였다.",
+  "summary": "OECD 13개 국의 1980~2006년 에너지 효율 R&D 투자가 에너지 소비에 미치는 영향을 분석했다. 수정된 평균 그룹 추정 방법론을 이용하여 에너지 R&D 자본 축적량과 1인당 에너지 소비의 관계를 밝혔다."
+}

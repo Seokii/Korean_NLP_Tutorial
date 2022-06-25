@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118875570_32",
+  "metadata": {
+    "doc_id": "CNTS-00118875570",
+    "doc_type": "도서",
+    "doc_name": "글로벌 주도권 확보를 위한 사물인터넷 플랫폼 전략(2차년도)",
+    "author": "최병삼",
+    "publisher": "과학기술정책연구원",
+    "published_year": "2017",
+    "kdc_label": "총류일반",
+    "kdc_code": "000"
+  },
+  "chapter": null,
+  "passage": "스마트 팩토리는 ‘CPS (사이버물리시스템, Cyber-Physical Systems)’의 일종이다. CPS는 기업이 보유한 기계, 설비, 창고 등의 물리적인 자산들을 네트워크로 연결하여 데이터를 교환, 축적, 분석하는 체계를 말하며, 이를 통해 제조, 엔지니어링, 재료 사용, 공급사슬 및 제품수명 관리 등의 산업 프로세스를 대폭 개선할 수 있다.(Industrie 4.0 Working Group, 2013.4). 제조 부문에 적용된 CPS를 특별히 CPPS (Cyber-Physical Production System)이라고 부른다.",
+  "summary": "스마트 팩토리는 CPS의 일종이며 이를 통해 제조, 엔지니어링, 재료 사용 등의 산업 프로세스를 큰 폭으로 더 좋게 만들 수 있다."
+}

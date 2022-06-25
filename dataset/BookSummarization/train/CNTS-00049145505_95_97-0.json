@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049145505_95_97-0",
+  "metadata": {
+    "doc_id": "CNTS-00049145505",
+    "doc_type": "도서",
+    "doc_name": "공공 및 민간부분의 정보화를 위한 위성통신 활용방안 연구",
+    "author": "손상영",
+    "publisher": "정보통신정책연구원",
+    "published_year": "1999",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "제 4 장 위성망과 타 가입자망과의 비교분석 제 1 절 xDSL(x Digital Subscriber Line)",
+  "passage": "2. xDSL의 구조 및 현황\nxDSL을 이용하여 멀티미디어 서비스를 제공하기 위해서 필요한 것은 데이터전송부분으로부터 음성을 분리하는 스플리터(splitter)가 장착된 이더넷 인터페이스(Ethernet Interface)를 가지는 가입자 모뎀이다. 서비스 제공자측에서 영상서버와 xDSL 모뎀이 필요하고 가입자측에서 xDSL 모뎀과 셋탑박스(set-top box)가 필요하다. 서비스 제공자의 xDSL 모뎀은 영상서버로부터 제공되는 디지털 영상신호를 압축하는 기능을 수행하며, 가입자측의 xDSL 모뎀은 압축신호를 다시 복원하는 역할을 한다. 셋탑박스는 분배 플랫폼에서 가입자에게 들어오는 신호를 가입자에게 TV 신호형태로 전환시켜 주는 장치이다.\n가. DSL(Digital Subscriber Line)\nDSL은 ISDN-BRI(Basic Rate Interface)의 다른 명칭이다. 1980년대초에 개발된 DSL은 2개의 전송채널(bearer channel)과 1개의 데이터 채널(date channel)을 제공한다. DSL은 160Kbps의 속도로 최대 5.4Km까지 양방향으로 전송할 수 있다.\n최근 들어 소개되고 있는 IDSL(ISDN DSL)은 IDSN의 128kbps를 인터넷과 같은 하나의 서비스에 전용할 수 있도록 변형한 것이다. 표준 IDSN은 전화국의 교환기 포트로 직접 연결되어 연결을 원하는 번호로 루팅되는 교환서비스(switched service) 또는 전용 (dedicated ISDN)이라 부른다.",
+  "summary": "xDSL를 통한 멀티미디어 서비스를 하려면 데이터전송에서 음성 분리 가능한 스플리터가 장착된 모뎀이 필요하다. 서비스 제공자는 영상서버와 xDSL 모뎀, 가입자는 xDSL 모뎀과 셋탑박스가 필요하다. DSL은 전송채널 2개와 데이터 채널을 1개를 제공한다. 이는 160Kbps 속도로 5.4Km까지 양방향 전송이 가능하다. IDSL은 DSL의 128kbps를 인터넷처럼 하나의 서비스를 쓰도록 한 것이다. "
+}

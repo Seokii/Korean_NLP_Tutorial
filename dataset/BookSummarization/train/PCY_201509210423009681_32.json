@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201509210423009681_32",
+  "metadata": {
+    "doc_id": "PCY_201509210423009681",
+    "doc_type": "도서",
+    "doc_name": "에너지저장시스템(ESS) 수요관리 효과 분석 및 시장조성 방안 연구",
+    "author": null,
+    "publisher": "에너지경제연구원\t",
+    "published_year": null,
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "일반적으로 에너지저장시스템은 설치 위치나 전력시장 환경의 영향을 많이 받지만 에너지저장시스템이 전력 공급용량(supply capacity)으로 활용할 경우, 추가적인 공급이동(electric energy time-shift), 공급예비력(electric supply reserve capacity), 송 배전시스템 개선의 지연(T&D upgrade deferral), 전압조정(voltage support), 전기 신뢰도(electric service reliability), 전력 품질(electric service power quality) 향상 목적으로도 활용될 수 있다.",
+  "summary": "에너지저장시스템은 설치위치와 시장 환경뿐 아니라, 공급이동·공급예비력·송배전시스템개선의 지연·전압조정·전기신뢰도·전력품질 향상 목적으로 쓰일 수 있다."
+}

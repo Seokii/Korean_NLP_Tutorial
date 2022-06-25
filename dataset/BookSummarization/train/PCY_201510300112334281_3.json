@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201510300112334281_3",
+  "metadata": {
+    "doc_id": "PCY_201510300112334281",
+    "doc_type": "도서",
+    "doc_name": "KDI Journal of Economic Policy=韓國開發硏究",
+    "author": null,
+    "publisher": "한국개발연구원\t",
+    "published_year": "2015",
+    "kdc_label": "금융",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "전자상거래 확대에 따라 전자서명에 법적 지위를 부여하는 인증문제는 이미 1980년 대부터 OECD 국가를 중심으로 활발히 논의되었다. 그리고 유엔국제상거래법위원회 (United Nations Commission on International Trade Law: UNCITRAL)는 2001년 ｢전자서명 모델법(Model Law on Electronic Signitures)｣을 채택하여 국가 간 관련법의 조화를 추구하였다. UNCITRAL 전자서명 모델법의 근본 원칙은 현대 전자상거래법 설립 원칙인 비차별성(non-discrimination), 기술중립성(technological neutrality), 기능 동등성(functional equivalence) 등 세 가지이다. 비차별성 원칙은 문서가 전자형태로 되어 있다는 이유만으로 법적 효력과 유효성 또는 시행이 거부되지 않는다는 원칙이다. 기술중립성 원칙은 특정 기술의 강제 사용을 배제하여 전자상거래 구현을 위해 사용되는 기술이 특정 기술에 종속되는 것을 방지하는 것을 목적으로 한다. 이 원칙은 전자상 거래 관련 기술이 급속히 발전하고 있는 상황에서 미래의 진보된 기술이 추가 입법작업 없이 수용될 수 있는 것을 목표로 하고 있다. 기능동등성 원칙은 전자통신이 종이 기반의 통신과 동등하게 간주될 수 있는 조건을 제시하는 것을 목적으로 한다.",
+  "summary": "1980년대부터 OECD 국가들은 전자서명에 법적 지위를 주는 인증문제에 대해 논의했고, 2001년 유엔국제상거래법위원회는 '전자서명 모델법'을 채택해 여러 국가 간 관련법이 조화될 수 있도록 했다. 전자서명 모델법은 비차별성, 기술중립성, 기능 동등성이라는 원칙을 가진다."
+}

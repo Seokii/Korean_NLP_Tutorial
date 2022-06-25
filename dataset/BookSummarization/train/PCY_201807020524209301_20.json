@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201807020524209301_20",
+  "metadata": {
+    "doc_id": "PCY_201807020524209301",
+    "doc_type": "도서",
+    "doc_name": "한국청소년패널조사에서의 종단적 최초표본이탈에 영향을 미치는 표본특성요인",
+    "author": "이경상, 이순래",
+    "publisher": "한국청소년정책연구원",
+    "published_year": "2017",
+    "kdc_label": "노인·청소년",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "이러한 연구모형은 생존분석(survival analysis) 중 콕스의 비례위험 회귀분석 모형(cox proportional hazard model)을 적용해 분석해 볼 수 있다. 생존분석(survival analysis) 혹은 사건사분석(event history analysis)은 시간의 흐름을 반영한 종속변수의 변화를 분석하는 방법이다. 콕스의 비례위험 회귀분석 모형은, 준모수적 추정방법(semi-parametric estimation method)으로 독립변수의 효과를 판별하는 방법으로, 종속변수인 비례위험도(위험요인이 없는 경우의 위험도와 위험요인이 있는 경우의 위험도의 비례)에 여러 독립변수들이 미치는 영향을 검증하는 분석모형을 말한다.",
+  "summary": "시간 흐름을 반영해 종속변수의 변화를 분석하는 생존분석에 해당되는 콕스의 비례위험 회귀분석 모형이란 종속변수인 비례위험도에 다양한 독립변수가 미치는 영향을 검증하는 분석모형을 뜻한다. "
+}

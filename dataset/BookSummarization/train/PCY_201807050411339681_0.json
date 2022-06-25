@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201807050411339681_0",
+  "metadata": {
+    "doc_id": "PCY_201807050411339681",
+    "doc_type": "도서",
+    "doc_name": "세탁소 VOCs 관리현황 고찰 및 정책제언 (Study on the Enhancement of VOCs Management at Laundry Facilities in Korea)",
+    "author": "김재혁, 유경선",
+    "publisher": "한국환경정책·평가연구원",
+    "published_year": "2017",
+    "kdc_label": "환경일반",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "VOCs는 대기 중에서 오존 생성 전구물질의 역할을 하며 질소산화물(NOx)과 반응하여 오존을 생성하는데, 오존은 강력한 산화제로 오존의 농도가 0.1 ppm을 넘어서면 건강에 악영향을 끼치게 된다(Derwent et al., 2007, pp.445-453). 미국 EPA(2009)는 벤젠, 부타디엔, 톨루엔 등을 포함한 많은 종류의 VOCs가 면역체계, 중추신경계, 피부, 호흡기계, 신상 및 간 등에 유해한 영향을 미치며(Delfino et al., 2003, pp.647-656; Wichmann et al., 2009, pp.632-638), 지속적으로 노출될 경우 암을 유발할 수 있다고 보고하였다(Steinemann, 2008, pp.32-38).",
+  "summary": "VOCs는 낮은 농도에도 건강에 악영향을 끼치는 오존을 생성한다. 또 면역체계, 중추 신경계, 피부, 호흡기계, 신상 및 간 등에 유해하며 지속적으로 노출 시 암을 유발하기도 한다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_202003160223106501_16",
+  "metadata": {
+    "doc_id": "PCY_202003160223106501",
+    "doc_type": "도서",
+    "doc_name": "탄소효율성과 기업성과 간 관계 분석 : 국내 기업의 사례 분석",
+    "author": "신동현",
+    "publisher": "에너지경제연구원",
+    "published_year": "2019",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "이후 Fama-French(2015)에서는 시장 베타, SMB, HML 이외에 추가적인 요인으로 수익성(profitability)효과를 반영하기 위한 RMW(robust minus weak)과 투자효과(investment)를 반영하기 위한 CMA(conservative minus aggressive)를 제시하였다. RMW란 수익성이 높은 기업 포트폴리오 (robust) 수익률에서 낮은 기업 포트폴리오(weak) 수익률을 차감하는 방식으로 계산된다. 또한 CMA는 투자성향이 보수적인 기업 포트폴리오(conservative) 수익률에서 공격적인 기업 포트폴리오(aggressive) 수익률을 차감하여 계산된다.",
+  "summary": "Fama-French에서는 수익성에 따른 방식을 적용하는 RMW과 투자성향에 따른 방식을 적용하는 CMA를 제시하였다."
+}

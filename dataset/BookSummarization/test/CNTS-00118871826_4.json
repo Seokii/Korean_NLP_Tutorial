@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118871826_4",
+  "metadata": {
+    "doc_id": "CNTS-00118871826",
+    "doc_type": "도서",
+    "doc_name": "건강기능식품 기능성 평가 가이드",
+    "author": "식품의약품안전평가원",
+    "publisher": "식품의약품안전평가원",
+    "published_year": "2019",
+    "kdc_label": "가사, 가정학",
+    "kdc_code": "590"
+  },
+  "chapter": null,
+  "passage": "후보소재 처리 24시간 후 lysis buffer (50mM Tris-HCl pH 8.0, 5mM EDTA, 150mM NaCl, 0.5mM PMSF, 0.5mM DTT)를 가하여 4℃에서 30분 동안 sonication을 실시하여 시료를 얻는다. 시료는 SDS-PAGE를 이용하여 분리한 다음, polyvinylidene fluoride membrane으로 transfer 한다. Membrane에 특이적 1차 항체를 붙인 후 horseradish peroxidase-conjugated 2차 항체를 붙인다. 항원-항체 결합은 chemiluminescence kits을 통해 확인한다.",
+  "summary": "후보소재 처리 24시간 후 lysis buffer를 가하여 시료를 얻고, 분리하는 과정을 거쳐 1,2차 항체를 붙인다. 항원-항체 결합도 확인할 수 있다."
+}

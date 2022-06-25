@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201704050359535751_155",
+  "metadata": {
+    "doc_id": "PCY_201704050359535751",
+    "doc_type": "도서",
+    "doc_name": "규제집행체계 개선방안 연구 : 산업안전 분야를 중심으로",
+    "author": null,
+    "publisher": "한국행정연구원",
+    "published_year": "2016",
+    "kdc_label": "일반행정",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "PA는 규제집행 기능을 갖는데 PA를 제외한 다른 local authority(Enforcing Authority: EA)가 피규제자에 대한 규제집행행위(enforcement action)를 취하려 할 경우, 반드시 PA에게 해당 규제집행행위에 대하여 PA에게 알려야한다. 이때 PA는 EA가 알려온 enforcement action에 대하여 일정기간 동안 검토 후 기존의 PA의 조언이나 지침에 위배될 경우 해당 enforcement action의 실행을 금지시킨다. 만약 PA가 검토기간 이후에도 local authority에게 특별한 지시를 하지 않는다면 enforcing authority(이하 EA)는 해당 enforcement action을 실시하며, 이에 대하여 피규제자에게 반드시 공지해야 한다.",
+  "summary": "규제집행 기능을 가진 PA를 제외한 다른 EA가 피규제자에 대한 규제집행행위가 있을 경우 반드시 PA에게 해당 건에 대해 알려야 한다. 검토된 건이 PA조언 등과 위배될 경우 해당 건 실행을 금지시킨다."
+}

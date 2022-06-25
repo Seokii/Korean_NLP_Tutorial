@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118884028_37",
+  "metadata": {
+    "doc_id": "CNTS-00118884028",
+    "doc_type": "도서",
+    "doc_name": "농경지 부문 탄소 축적량 산정 개선방안 연구",
+    "author": "이동근",
+    "publisher": "통계청 통계개발원",
+    "published_year": null,
+    "kdc_label": "농업, 농학",
+    "kdc_code": "520"
+  },
+  "chapter": null,
+  "passage": "목질 원예작물 면적 변화로 인한 CO2 흡수량은 IPCC Tier 1 접근법 및 GPG 2003의 온대 지역 지상부 목질 바이오매스(above ground woody biomass) 기본 계수를 사용하여 산정하며, 원예작물 재배면적은 호주통계청 농산품 통계(ABS agricultural commodity statistics)에서 제공한다. 즉, 목질 원예작물 재배면적에 바이오매스 성장으로 인한 연간 축적률 기본계수 값(2.1 tonnes C/ha/year)을 곱하고, 수확 또는 기타 제거와 관련된 손실량을 공제하는 방식을 적용한다. 손실량은 제거된 목질 원예작물 재배면적에 바이오매스 탄소 축적량 기본계수 값(63 tonnes C/ha/year)을 곱하여 산정한다.",
+  "summary": "목질 원예작물 면적 변화로 인한 CO2 흡수량은 바이오매스 연간 축적률 기본계수 값을 곱하고 수확과 손실량을 제하여 산출하고 원예작물 재배면적은 호주통계청 농산품 통계에서 제공한다. "
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049144800_16_18-0",
+  "metadata": {
+    "doc_id": "CNTS-00049144800",
+    "doc_type": "도서",
+    "doc_name": "Ethernet 기술혁신과 정책시사점",
+    "author": "강홍렬",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2000",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "II. Ethernet기술의 진화 1. Ethernet기술의 혁신: GigE와 10GigE",
+  "passage": "GigE과는 달리 40km에 이르는 WAN을 위한 대안으로서 Ethernet 표준화가 진행되고 있는 것은 Ethernet의 새로운 시장 가능성(MAN, WAN 시장)을 표준화의 차원에서 인정하고 있다는 점에서 주목할 필요가 있다. MAN과 WAN을 위한 Ethernet의 가능성에 대한 고려는 10GigE의 표준화와 관련한 논의의 중심에 자리잡고 있다. 그리고, GigE과는 달리 아직은 최종 단말(end-station, termination)을 직접 연결하여 지원할 수 있는 대안으로서 표준화되는 것이 아니라는 점에서 과거와 같이 동케이블(copper cabling; twisted pair)을 통한 접속에 대한 내용은 없다.\n 10GigE이 full-duplex만 지원하고 half-duplex는 지원하지 않는 점은 눈여겨보아야 한다. Half-duplex에서와 같이 트래픽이 충돌하는 경우는 발생하지 않을 것이고 MAC계층(OSI 2계층, data link layer)에서는 충돌에 대비하여 전송을 기다린다는 개념이 사라지기 때문에 Ethernet에서 늘 기술적인 한계를 가져왔던 CSMA/CD(Carrier-Sense Multiple Access / Collision Detection) 프로토콜을 사용하지 않아도 된다. 이에 따라 CSMA/CD에 따른 거리의 제한이나 효율성의 한계가 나타나지 않는다. 따라서 10GigE의 전송거리는 Ethernet 특유의 기술적인 한계보다는 전송미디어의 특성등(\"the characteristic of the physical medium and devices, power budgets, and modulation.\")에만 의존하게 된다. 그럼에도 불구하고 이것이 비용효율적이고 설치, 운영이 편리하다는 Ethernet의 기존 전통에 큰 변화를 의미하는 것은 아니다. ",
+  "summary": "MAN과 WAN에 대한 Ethernet의 고려는 10GigE의 표준화관련 주요 주제이다.  Ethernet의 한계였던 CSMA/CD 프로토콜을 사용하지 않아서 거리제한이나 효율성의 한계와 같은 제약이 사라진다. 10GigE의 전송거리는 전송미디어의 특성에만 의존하게 된다. 하지만 이것이 Ethernet의 장점인 비용효율성과 설치, 운영이 편리함의 변화를 초래하진 않을 것이다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220378646811_14",
+  "metadata": {
+    "doc_id": "PCY_201711220378646811",
+    "doc_type": "도서",
+    "doc_name": "파킨슨병 의심 환자에서 18F FP-CIT PET/CT의 임상적 유용성 평가 및 기존진단법과의 비교효과연구",
+    "author": "박정미, 유영훈, 안정훈",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2015",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "정량분석의 목적은 시각적 분석의 판독신뢰도를 비교 평가하기 위해 처음 연구기간부터 파킨슨병으로 진단된 환자를 연속적으로 44명을 선택하여 분석을 하였다. 18F FP-CIT PET/CT 영상의 두개골 제거 CT 견본(skull-stripped CT template)을 사용하였다 (Rorden C 등, 2012). 이는 정상 대조군(n=71)의 PET/CT로 얻은 뇌 CT 영상에서 두개골 제거 CT 영상을 두개골 제거 MRI 영상에 정합(coregister) 및 공간 정규화 (spatial normalization)를 시킨 후, 개개인의 영상을 평균화하여 두개골 제거 CT 견본을 만들었 다. 상기 CT 견본을 이용하여 본 연구에 포함된 환자들의 18F FP-CIT PET/CT에 맞추어 공간정규화를 시행한 후 관심영역견본(VOI template)을 입힌 후, 소뇌 VOI값을 기준값 (reference)으로 하여 각각 미상핵, 피각에서의 결합능(BPnd; non-displaceable binding potential)을 구하여 육안판독의 3 point scale로 구분한 섭취를 비교하였다.",
+  "summary": "정량분석의 목적은 시각적 분석의 판독신뢰도를 비교 평가하기 위하여 처음 연구기간부터 파킨슨병 진단을 받은 44명의 환자를 연이어 선택한 후 18F FP-CIT PET/CT 영상의 두개골 제거 CT 견본을 이용해 분석하였다."
+}

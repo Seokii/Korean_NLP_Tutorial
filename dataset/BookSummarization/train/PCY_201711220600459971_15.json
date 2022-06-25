@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220600459971_15",
+  "metadata": {
+    "doc_id": "PCY_201711220600459971",
+    "doc_type": "도서",
+    "doc_name": "의료기술 관점에서 방사선치료장비의 안전하고 효율적 사용방안",
+    "author": "김민정",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2013",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": "연구방법",
+  "passage": "본 연구 대상은 외부방사선치료장비(External beam radiotherapy equipment)로 크게 엑스선 발생장치, 감마선 발생장치, 양성자치료기, 중입자치료기로 분류된다. 엑스선 발생장치는 선형가속기(linear accelator, LINAC)와 함께 특수장치로 토모테라피(Tomotherapy), 사이버나이프(Cyberknife)가 있다. 감마선 발생장치는 신경외과에서 주로 사용하는 감마나이프(GammaKnife)가 있으며, 그 밖에 양성자치료기 (protontherapy) 및 중입자치료기가 있으며 후자의 경우는 우리나라에 도입되어 있지 않고 국가 프로젝트로 개발 중에 있다.",
+  "summary": "연구의 대상은 외부방사선치료장비이며 엑스선 발생장치, 감마선 발생장치 등으로 나뉘는데, 전자는 선형가속기 등이 해당하고, 후자는 감마나이프가 있다. "
+}

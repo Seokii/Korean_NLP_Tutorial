@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210249083571_14",
+  "metadata": {
+    "doc_id": "PCY_201610210249083571",
+    "doc_type": "도서",
+    "doc_name": "신재생에너지 공급인증서(REC) 가격 예측 방법론 개발 및 운용",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "최근 연구인 조규철(2014)은 ‘Eco-System: 클라우드 컴퓨팅환경’에서 REC 가격예측을 시뮬레이션하였다. 클라우드 환경1)은 RPS 빅데이터를 활용하여 정보 간 상호연관성과 가격결정 변수 분석을 도와준다. 매물수량과 매매가격을 이용하여 클라우드 환경에서 ‘퍼지로직(fuzzy logic)’기반으로 REC 가격을 예측하였다. 퍼지기반 REC 가격예측(Fuzzy-based REC Price Prediction, FRPP), 과거 평균거래가격기반 REC(AVG-based REC Price Prediction, ARPP), 거래추이기반 REC가격 예측방법론(Trend-based REC Price Prediction, TRPP)을 실제 REC 거래가격과 비교결과 FRPP의 가격정확도 평균은 약 94.2%로 ARPP보다 2.2%, TRPP보다 11.9% 더 유사하게 나타났다. REC거래비용을 비교하면 14개월(’12년 12월~’14년3월) 간의 전체 거래비용 오차합계는 FRPP가 ARPP보다 약 80백만원, TRPP보다 127백만원 적었다.",
+  "summary": "클라우드 환경에서 ‘퍼지로직’기반으로 REC 가격을 예측해 실제 REC 거래가격과 비교한 결과 가격정확도 평균은 약 94% 유사하게 나타났고 ARPP, TRPP 대비 약 2%, 12% 더 유사하게 나타났다 반면 전체 거래비용 오차합계는 약 80백만원, 127백만원 적었다."
+}

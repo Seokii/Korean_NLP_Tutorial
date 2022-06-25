@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201612210519468291_11",
+  "metadata": {
+    "doc_id": "PCY_201612210519468291",
+    "doc_type": "도서",
+    "doc_name": "기후변화 영향에 취약한 직종 파악을 위한 탐색적 연구",
+    "author": null,
+    "publisher": "한국노동연구원",
+    "published_year": "2015",
+    "kdc_label": "고용노동",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "취약 직종 도출을 위해 앞에서 논의한 세 가지 물리적 위험(physical risk)의 노출 수준을 기준으로 계층적 군집분석(hierarchical clustering methods)을 활용하였다. 직종이 특성에 기초한 직종 군집화(occupation clustering)는 지역 경제분석 등에서 이미 시도된 바 있는 것으로, 지식(knowledge), 숙련(skills)의 정도 등을 기준으로 O*NET 자료 등을 활용하여 직종을 군집화하고, 지역 경제에 미치는 영향을 살펴보는 데 활용된 사례가 있다(Feser, 2003; Chrisinger et al., 2012). 선행연구에서는 주로 계층적 군집분석과 Ward의 방법, AGNES를 조합한 방법 등을 활용하고 있다.",
+  "summary": "직종 군집화는 지역 경제분석 등에서 시도된 바 있고, 지식, 숙련의 정도 등을 기준으로 O*NET 자료 등으로 활용하여 직종을 군집화하고 지역경제에 미치는 영향을 살펴보는데 활용되었다."
+}

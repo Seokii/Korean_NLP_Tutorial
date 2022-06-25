@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220164852261_23",
+  "metadata": {
+    "doc_id": "PCY_201711220164852261",
+    "doc_type": "도서",
+    "doc_name": "치료법의 수용에 있어서 치료적 효과 크기에 대한 의학-사회적 의미",
+    "author": "이상무",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2009",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "연구진이 NNT mapping으로 선정한 Acute Coronary Syndrome(이하 ACS)의 SIGN 가이드라인에는 초기 질병 관리(initial management), ST 상승 급성 관상동맥 증후군에 대한 재관류(Reperfusion therapy for ST elevation acute coronary syndrome), 비침습적 검사와 위험 분류(Risk stratification and non-invasive testing), 침습적 검사와 혈관성형술(Invasive investigation and revascularisation), 조기 약제 치료(Early pharmacological intervention), 저산소증과 심장 쇼크의 치료(Treatment of hypoxia and cardiogenic shock), 환자 지지와 정보 충족(Patient support and information needs) 등 총 7개의 치료법이 제시되어 있다. SIGN 가이드라인은 각 치료법에 대해 대부분의 연구에서 근거등급과 함께 ARR 값과 RRR 값을 제시하였다. 연구진은 SIGN 가이드라인에서 근거등급이 1+(잘 수행된 무작위임상시험들의 메타분석, 체계적 문헌고찰 혹은 비뚤림의 위험도(risk of bias)가 낮은 무작위임상시험) 이상인 치료법을 수용성 높은 치료법으로 보고 해당연구의 NNT 값에 대해 mapping을 하였다.",
+  "summary": "Acute Coronary Syndrome의 SIGN 가이드라인은 초기 질병 관리를 포함하여 총 7개의 치료법을 제시하고 있다. SIGN 가이드라인에 선정된 7개의 치료법은 근거등급이 1+ 이상인 치료법들로, 이는 수용성이 높은 치료법임을 의미한다."
+}

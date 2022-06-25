@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201502160915374341_15",
+  "metadata": {
+    "doc_id": "PCY_201502160915374341",
+    "doc_type": "도서",
+    "doc_name": "OECD 국제 학업성취도 평가 연구 : PISA 2015 예비검사 시행 결과 보고서",
+    "author": null,
+    "publisher": "한국교육과정평가원",
+    "published_year": null,
+    "kdc_label": "교육일반",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "PISA 2006부터 도입된 CBA는 PISA 2012까지 과학․읽기․수학 영역의 PBA에 추가하여 일부 영역에 한해 시행되어 왔다(<표 Ⅰ-2-1> 참조). 과학이 주영역이었던 PISA 2006에는 컴퓨터 기반 과학 평가(Computer Based Assessment in Science; 이하 CBAS; 이미경 외, 2006), 읽기가 주영역이었던 PISA 2009에는 디지털 읽기 평가(Digital Reading Assessment; 이하 DRA; 김경희 외, 2009)가 실시되었다. 수학이 주영역인 PISA 2012에는 컴퓨터 기반 수학 평가(Computer Based Assessment of Mathematics; 이하 CBAM)와 컴퓨터 기반 문제해결력 평가(Computer Based Assessment of Problem Solving; 이하 CBAPS)를 각각 최초로 실시하였고, PISA 2009에 도입한 디지털 읽기 평가(DRA)도 실시하였다(조지민 외, 2012). 정보화 환경의 변화를 반영하여 CBA의 적용 범위를 확대하여 PISA 2015에서는 모든 영역에 적용한다. PISA 2006부터 PISA 2012까지는 PBA와 별도로 CBA를 추가 실시하고 학생들의 소양 수준과 추이는 PBA 결과로 파악해 왔으나, PISA 2015에서는 평가 방식을 전면 전환하여 PBA대신 CBA를 시행한다. CBA에서는 다양한 유형의 문항을 활용함으로써 PBA로는 제약이 있는 주요한 능력에 대한 측정, 문항 풀이를 위한 접근에 대한 정보 수집과 측정이 가능하다는 장점이 있다.",
+  "summary": "PISA 2006은 컴퓨터 기반 과학 평가(CBAS),  2009은 디지털 읽기 평가(DRA),  2012에는 컴퓨터 기반 수학 평가(CBAM), 컴퓨터 기반 문제해결력 평가(CBAPS), 디지털 읽기 평가(DRA)가 실시되었다. 또 PISA 2015는 CBA 가 모든 영역에 적용되었다. PISA 2006부터 2012까지는 PBA에 CBA를 부가 시행하였고 PISA 2015에서는 PBA를 CBA로 전환하였다."
+}

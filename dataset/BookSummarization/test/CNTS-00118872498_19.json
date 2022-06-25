@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118872498_19",
+  "metadata": {
+    "doc_id": "CNTS-00118872498",
+    "doc_type": "도서",
+    "doc_name": "급성 위장관계 감염 항생제 사용지침",
+    "author": "질병관리본부",
+    "publisher": "질병관리본부",
+    "published_year": "2019",
+    "kdc_label": "의학",
+    "kdc_code": "510"
+  },
+  "chapter": null,
+  "passage": "국내 질병관리본부에서 2014년에 발생한 감염성 설사 환자에서 분리된 3,526개의 원인균을 분석한 자료를 보면, Salmonella species가 13.5%, Campylobacter species 6.1%를 차지하였고, 일개 대학병원 자료이기는 하나 Campylobacter 균주의 29%(63/218)가 fluoroquinolone 계열 항생제에 내성으로 보고된 바가 있다. 따라서, 향후 국내에도 감염성 설사에서 Campylobacter의 비중 및 fluoroquinolone 내성 증가에 대하여 주의를 기울일 필요가 있겠고, azithromycin과 같은 macrolide 계열의 항생제 사용도 고려되어야 하겠다.",
+  "summary": "감염성 설사의 원인균 중 하나인 Campylobacter 균주가 fluoroquinolone 계열 항생내성 증가됨이 보고되었다. Macrolide 계열 항생제 사용도 고려해야 하겠다."
+}

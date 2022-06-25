@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201612290529323821_5",
+  "metadata": {
+    "doc_id": "PCY_201612290529323821",
+    "doc_type": "도서",
+    "doc_name": "미국의 무정산(Bill & Keep)으로의 상호접속제도 개편과 시사점",
+    "author": null,
+    "publisher": "정보통신정책연구원",
+    "published_year": "2012",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "접속요율 및 상호보상요율은 통화 유형별로 상이하게 적용될 뿐만 아니라 발신 및 착신 사업자 유형별로도 상이하게 적용된다. 발신 및 착신측의 사업자 유형을 살펴보면 크게 기존 시내전화사업자인 ILEC(incumbent local exchange carriers)와 경쟁 시내전화사업자인 CLEC(competitive local exchange carriers) 및 이동전화사업자(commercial mobile radio services, CMRS)로 구분할 수 있으며, 상호접속체계에서 이동전화사업자는 경쟁사업자인 CLEC로 간주된다. 이하에서는 발신 및 착신 사업자 유형을 구분하여, 접속요율 및 상호보상요율을 살펴본다.",
+  "summary": "접속요율 및 상호보상요율은 발신 및 착신 사업자 유형별로 다르게 적용되므로 기존 시내전화사업자(ILEC)와 경쟁 시내전화사업자(CLEC)로 구분하여 접속요율 및 상호보상요율을 살펴본다."
+}

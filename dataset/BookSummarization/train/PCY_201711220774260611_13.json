@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220774260611_13",
+  "metadata": {
+    "doc_id": "PCY_201711220774260611",
+    "doc_type": "도서",
+    "doc_name": "수면호흡장애 진단을 위한 수면다원검사의 평가",
+    "author": "신상진",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2012",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "중추성 수면무호흡증의 진단은 일반적으로 흡입노력(Inspiratory effort)을 확인하는 것에 초점을 맞추어 수면다원검사(Full-night recording) 지표를 측정하는 것이 필요하다. 무호흡이 중추성인 것을 확인하기 위해서는 무호흡 동안 흡입노력(Inspiratory effort)이 없음을 확인해야 한다. 이는 환기노력(Ventilatory effort)을 확인하기 위한 흉강내압변화(Intrathoracic pressure swing)를 측정하는 식도 풍선 카테터(Esophageal ballon catheter)로 가장 효과적이고 일관되게 측정할 수 있다. 그러므로 무호흡의 종류를 정확하게 확인하기 위해서는 식도압력(Esophageal pressure)이 측정되어야 한다.",
+  "summary": "중추성 수면무호흡증의 진단을 위해 흡입노력을 확인하고 수면다원검사지표를 측정한다. 중추성 여부는 흡입노력 부재로 확인한다. 식도 풍선 카테터로 측정한다. 그러므로 식도압력을 측정해야 한다."
+}

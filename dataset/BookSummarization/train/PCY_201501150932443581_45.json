@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201501150932443581_45",
+  "metadata": {
+    "doc_id": "PCY_201501150932443581",
+    "doc_type": "도서",
+    "doc_name": "코넥스(Konex) 활성화 방안에 대한 연구",
+    "author": null,
+    "publisher": "경제‧인문사회연구회",
+    "published_year": null,
+    "kdc_label": "산업·중소기업일반",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Nomad와 더불어 지정 브로커를 선정해야 하는데,지정 브로커는 해당기업주식의 원활한 거래를 보장하는 역할을 수행한다. Broker는 AIM 신규 상장기업의 주식거래가 활성화될 수 있도록 지속적인 자문 및 거래 촉진의 역할을 수행하며, 주식의 적정가격 평가와 같은 문제에 있어 보조할 수 있다. Nomad와Broker는 동일한 회사일 수 있으며,해당기업이 이를 선택하여 지정 할 수 있다. Marketmaker는 신시장에 있어 유동성 공급과 원활한 거래를 위하여 양방향 호가를 제공하는 역할을 하며 거래소에 등록된 브로커가 추가로 Marketmaker의 역할을 수행할 수 있다. 6 그 밖에도 “Reporting accountant”,“Lawfirm”,“PRfirm”등을 갖추어야 하며 이 또한 Nomad의 협조와 자문 하에 이루어진다.",
+  "summary": "기업은 Nomad와 Broker를 선정해야 한다. 브로커는 원활한 주식거래를 위한 자문 및 거래 촉진 역할, 주식 가격 책정 보조를 한다. Marketmaker은 양방향 호가를 제공하며, 등록된 브로커도 수행가능하다."
+}

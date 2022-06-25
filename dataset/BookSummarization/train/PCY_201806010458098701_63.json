@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201806010458098701_63",
+  "metadata": {
+    "doc_id": "PCY_201806010458098701",
+    "doc_type": "도서",
+    "doc_name": "교통연구 (Journal of Transport Research), 제24권 제2호",
+    "author": null,
+    "publisher": "한국교통연구원",
+    "published_year": "2017",
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "NDVI는 Landsat-7 위성 영상 이미지를 이용하여 토양피복을 녹지와 비녹지로 구분하는 지표이다. NDVI는 다양한 종류의 remote sensing 데이터에서 녹지면적을 구분하는데 일반적으로 사용되는 방법이며, 가시광선 중 적색 복사(ρRED, red radiance reflectance)와 근적외선 복사(ρNIR, near-infrared radiance reflectance)를 이용하여 식 (5)와 같이 계산한다. 이론적으로 NDVI 값은 –1에서 1 사이의 값을 가지며, 양의 값을 가진 픽셀은 녹지를 의미한다. 적색복사의 값이 적으면 NDVI 값이 커지게 되며, 이는 광합성이 활발한 녹지를 의미하게 된다. 녹지에 도달한 가시광선은 나뭇잎에 포함된 클로로필이 광합성을 위해 가시광선의 대부분을 흡수하는 반면, 근적외선은 대부분 재 반사시키는 원리를 사용하여 녹지와 비녹지를 판별한다(Tucker, 1979, p. 128; NASA, 2007).",
+  "summary": "토양피복을 녹지와 비녹지로 구분하는 지표인 NDVI는 는 가시광선의 적색 및 근적외선 복사를 통해 계산하며, 적색복사 값이 적은 것은 녹지를 의미한다. 근적외선은 재반사시키는 원리를 기반으로 녹지 여부 판별에 사용된다. "
+}

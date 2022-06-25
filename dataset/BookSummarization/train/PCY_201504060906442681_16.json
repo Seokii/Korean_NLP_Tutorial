@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504060906442681_16",
+  "metadata": {
+    "doc_id": "PCY_201504060906442681",
+    "doc_type": "도서",
+    "doc_name": "반도체설계재산유통가이드북",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Document Revision에는 Date, Version information 및 변경 사항이 반드시 포함되어야 하며 Revision 주요 내용에 대해 담당자를 포함할 수도 있다. 변경 사항 작성 시에는 ‘어떠한 원인으로’, ‘어떻게 변경되었는지’가 분명하게 나타나도록 한다. References에는 상호참조가 필요한 문서의 정보를 기술한다. Silicon Characterization Report는 주로 Datasheet, Integration Application Notes와 연관성이 크기 때문에 해당 문서의 고유 번호, 문서명과 함께 보다구체적으로 참조가 필요한 항목을 기술하는 것이 바람직하다.",
+  "summary": "Document Revision에는 Date, Version information 및 변경사항이 반드시 포함되야 하며 Revision 주요 내용에 대해 담당자를 포함할 수도 있다."
+}

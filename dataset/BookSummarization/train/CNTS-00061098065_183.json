@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00061098065_183",
+  "metadata": {
+    "doc_id": "CNTS-00061098065",
+    "doc_type": "도서",
+    "doc_name": "문화기술 연감",
+    "author": "한국콘텐츠진흥원",
+    "publisher": "한국콘텐츠진흥원",
+    "published_year": "2010",
+    "kdc_label": "예술",
+    "kdc_code": "600"
+  },
+  "chapter": null,
+  "passage": "XSI, 마야(Maya), 3D 맥스(3D Max) 등은 3D 애니메이션 제작을 위한 종합적인 상용 도구로서 모델링, 애니메이션, 물리기반 시뮬레이션, 렌더링 등의 기능을 제공한다27). 무료 도구로는 비영리 재단인 블렌더재단(Blender Foundation)의 블렌더(Blender)가 대표적이나 국내에서는 아직 널리 알려져 있지 않다. 블렌더는 마이크로소프트 윈도우즈, Mac OS X, 리눅스, FreeBSD, SGI Irix, 선솔라리스(Sun Solaris) 등의 다양한 플랫폼을 지원하며, 모델링, 렌더링, 애니메이션뿐만 아니라 파이썬(Python) 스크립트를 이용하여 게임을 제작할 수 있는 엔진도 내장하고 있다.",
+  "summary": "XSI, 마야(Maya), 3D 맥스(3D Max) 등은 3D 애니메이션 제작을 위한 종합적인 상용 도구로서 모델링, 애니메이션, 물리기반 시뮬레이션, 렌더링 등의 기능을 제공한다."
+}

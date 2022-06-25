@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201708220340129841_13",
+  "metadata": {
+    "doc_id": "PCY_201708220340129841",
+    "doc_type": "도서",
+    "doc_name": "교육광장 2014 가을호 (Vol. 53)",
+    "author": null,
+    "publisher": "한국교육과정평가원",
+    "published_year": "2014",
+    "kdc_label": "교육일반",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "c-rater는 답안의 내용을 채점할 때 학생들의 답안과 정답을 단순히 기계적으로 비교하여 채점하는 것이 아니라, 다른 단어 또는 표현을 사용하더라도 동일한 의미를 가지는 답안으로 인식하여 채점할 수 있는 개념기반(concept-based)의 채점 방식을 사용 한다(Sukkarieh & Blackmore, 2009). 한편, Intelli gent Essay Assessor와 IntelliMetric 자동채점 프로 그램도 답안의 내용에 대해 총체적 채점을 할 수 있 지만, c-rater는 약 100단어 이하의 단문형 답안의 내용에 대해서 분석적 채점을 하는 것이 가능하다 (Sukkarieh & Stoyanchev, 2009). Lecock(2004)과 Leacock & Chodorow(2003)는 NAEP(National Assess ment of Educational Progress) 및 주단위 시험과같은 대규모 시험의 수학, 과학, 독해 과목의 단문형 답안을 c-rater로 채점한 결과를 분석하였는데, 자동 채점의 정확도가 평균 84% 이상인 것으로 나타났다.",
+  "summary": "c-rater는 답안을 채점할 때 단순히 기계적으로 채점하는 것이 아니라 개념기반의 채점 방식을 사용 한다. 또한 c-rater는 약 100단어 이하의 단문형 답안의 내용에 대해서 분석적 채점을 하는 것이 가능하며, 자동 채점의 정확도는 평균 84% 이상이었다."
+}

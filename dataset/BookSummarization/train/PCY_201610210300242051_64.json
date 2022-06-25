@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210300242051_64",
+  "metadata": {
+    "doc_id": "PCY_201610210300242051",
+    "doc_type": "도서",
+    "doc_name": "ICT발전의 산업별 전력수요 영향 분석",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "ICT산업의 생산성이 일시적으로 향상되면 ([그림 23]의 점선) ICT투자와 소비 그리고 비ICT투자는 일시적으로 증가한다. 반면 ICT산업의 전력수요는 ICT자본의 효율성 향상에 따른 대체효과로 일시적 감소를 보인다. 그러나 ICT자본의 효율성 개선(intensive margin)은 에너지 효율이 높은 ICT자본에 대한 수요를 증가시키는 물량효과(extensive margin)를 유발한다. 그리고 물량효과가 ICT자본의 효율 향상을 압도하면서 총 전력수요는 반등한다. 이러한 반등효과(rebound effect)는 식(56)과 식 (58)으로부터 도출된 다음 식에서도 확인할 수 있다.",
+  "summary": "ICT산업 생산성향상으로 ICT투자, 소비, 비ICT투자는 증가한다. ICT산업의 전력수요는 감소하나 ICT자본의 효율성 개선이 유발한 물량효과로 인해 총 전력수요는 반등한다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00061098065_295",
+  "metadata": {
+    "doc_id": "CNTS-00061098065",
+    "doc_type": "도서",
+    "doc_name": "문화기술 연감",
+    "author": "한국콘텐츠진흥원",
+    "publisher": "한국콘텐츠진흥원",
+    "published_year": "2010",
+    "kdc_label": "예술",
+    "kdc_code": "600"
+  },
+  "chapter": null,
+  "passage": "DRM에서의 패키징 기술은 디지털콘텐츠의 보호 및 신뢰성 있는 유통을 위해 디지털콘텐츠를 암호화하고, 메타데이터를 추가하여 하나의 전자적 정보구조체 형태로 구성하는 기술이다. 일반적으로 콘텐츠의 패키징은 콘텐츠별로 랜덤하게 생성된 비밀키(CEK)를 이용하여 콘텐츠를 암호화함으로써 기밀성을 보호하게 되며, 생성된 Secure Container를 전자서명 함으로써 유통되는 콘텐츠의 무결성 보장과 저작권 소유에 대한 인증처리를 하게 된다. 디지털콘텐츠의 패키징을 위해선 암호화된 콘텐츠와 메타데이터, 그리고 기타 유통관련 정보들이 하나의 Secure Container 파일로 구성될 수 있어야 하는데, Secure Container의 포맷은 이러한 구조체 정보들이 삽입될 수 있는 전자적 정보구조체를 제공한다. 이 구조체의 대표적 예로는 국제표준화기구인 MPEG-21에서 개발되고 있는 MPEG-21 DID(Digital Item Declaration)와 FF(File Format), 그리고 OMA DRM의 DCF(Digital Content Format) 등이 있으나 Microsoft의 WMRM와 Apple의 FairPlay 등 현재까지 상용화된 대부분의 DRM 제품은 개발 업체별 독자적인 포맷을 사용하고 있다.",
+  "summary": "DRM에서의 패키징 기술이란 디지털콘텐츠의 암호화와 메타데이터 추가를 통한 전자적 정보구조체의 단일 형태를 구성하는 기술이다. 이때 Secure Container는 암호화된 콘텐츠, 메타데이터, 기타 유통관련 정보 삽입이 가능하도록 전자적 정보구조체를 제공하며 대표적 구조체로는 Microsoft의 WMRM 등을 들 수 있다."
+}

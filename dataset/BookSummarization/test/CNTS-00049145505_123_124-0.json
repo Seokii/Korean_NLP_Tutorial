@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049145505_123_124-0",
+  "metadata": {
+    "doc_id": "CNTS-00049145505",
+    "doc_type": "도서",
+    "doc_name": "공공 및 민간부분의 정보화를 위한 위성통신 활용방안 연구",
+    "author": "손상영",
+    "publisher": "정보통신정책연구원",
+    "published_year": "1999",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "제 4 장 위성망과 타 가입자망과의 비교분석 제 4 절 광가입자망",
+  "passage": "FTTH는 전화국 측의 OLT(Optical Line Terminal)와 가입자 측의 ONU(Optical Network Unit)로 구성된다. FTTH는 광가입자망 구축의 궁극적인 목표 구조였으나, 경제성, 선로구축 문제, 선도서비스와 수요의 부족, 중간적인 다른 대안들의 등장으로 현재 투자가 연기되어 있는 상태이다. 그러나 FTTH 구조가 가지는 대역폭의 크기, 운용유지와 보수, 전력공급 등의 장점으로 인해 저가격으로 실현하기 위한 노력이 계속 이루어지고 있다. 예전에는 주로 점대점(point to point)구성이 주종을 이루었으나 최근 광선로 기술 및 WDM(Wavelength Division Multiplexing) 및 광증폭기, 광교환소자 기술 등이 진전함에 따라 보다 효율적으로 구성할 수 있게 되었다. 이 중 대표적인 기술은 PON(Passive Optical Network) 방식으로 ONU(Optical Network Unit)을 공유하여 경제성을 획득하는 방법이 유럽을 중심으로 폭넓게 시도되고 있다.",
+  "summary": "FTTH는 전화국 측의 OLT와 가입자 측의 ONU로 구성되며, 경제성 문제로 현재 투자가 연기된 상태이다. 하지만 최근 광선로 기술 등이 진전됨에 따라 보다 효율적인 가격으로 실현할 수 있게 되었다. 이 중 대표적인 기술 PON은 유럽을 중심으로 시도되고 있다."
+}

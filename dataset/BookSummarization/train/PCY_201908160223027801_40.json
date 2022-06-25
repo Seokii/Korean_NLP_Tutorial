@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201908160223027801_40",
+  "metadata": {
+    "doc_id": "PCY_201908160223027801",
+    "doc_type": "도서",
+    "doc_name": "에너지 포커스 : 2019년 봄호",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2019",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "스마트그리드 표준화 포럼의 표준문서 제·개정 절차는와 같다. 새로운 표준문서 및 기술보고서 제정을 위해서는 NP(New Work Item Proposal)를 제안하여야 한다. 이는 PT(Project Team)를 통하여 표준 문서 및 기술보고서(WD, Working Draft)로 작성되고 도메인위원회에서 투표를 거쳐 CD(Committee Draft)라는 표준문서 및 기술보고서가 제정된다. 최종적으로 운영위원회를 대상으로 투표를 거쳐 FDFS(Final Draft Forum Standard)의 최종 표준문서 및 기술보고서가 작성되며 이를 포럼표준(SGSF)로 제정하게 된다. SGSF 표준을 작성한 후 표준협회에 단체표준의 절차를 거쳐야 한다. 또한 기술기준은 산업통상자원부 국가기술표준원의 표준담당에서 주관하여 안전기준, 성능기준 등을 제·개정하고 있다.",
+  "summary": "새로운 표준문서 및 기술보고서 제정을 위해서는 도메인위원회, 운영위원회, 표준협회, 국가기술표준원 등을 거쳐야 한다."
+}

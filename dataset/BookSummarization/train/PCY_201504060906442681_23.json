@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504060906442681_23",
+  "metadata": {
+    "doc_id": "PCY_201504060906442681",
+    "doc_type": "도서",
+    "doc_name": "반도체설계재산유통가이드북",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "I/O Signal Description 부분은 IP에 사용된 입출력(Input & Output) 신호에 대한 간단한 설명을 기술하며, 일반적으로 Block-diagram에 사용된 신호를 기준으로 신호의 종류와 특성, 사용 구분에 따라 나누어 작성한다. Blockdiagram에는 IP를 구성하고 있는 요소 블록을 모두 나타내는 것이 좋으며, 반드시 전체 블록 기준에서의 입출력 신호를 나타내어야 한다. 이처럼 외부 입출력 신호에 대한 내용이 다양하게 표현되어야 하는 이유는 반도체 설계 IP를 활용하는 가장 기본이 되는 방법이 다른 IP와의 집적화(Integration)이기 때문에 다른 설계 자료와의 Interface 부분이 매우 중요하기 때문이다. IP 사용자의 관점에서 볼 때 다양한 IP를 사용하여 집적화하는 과정에서 I/O 신호에 대한 정의가 부족하거나 누락되어 있을 경우 많은 시간을 소비하여야하기 때문이다. Block-diagram 만으로 부족한 경우 별도의 Flowchart 등을 도식화하여 포함하는 것이 좋으며, 반드시 동일한 Signal Name을 사용하여 혼란을 방지하여야 한다. Block-diagram은 전체 IP의 구성(Organization), 구조(Structure), 기능별 분할 정보(Partitioning), 데이터 흐름(Data Flow) 및 상호관계(Critical Interaction) 정보가 포함되도록 구현되어야 한다.",
+  "summary": "I/O Signal Description 부분은 입출력 신호를 기술하고, Block-diagram 신호를 기준으로 신호의 종류·특성·사용 구분으로 나누며 전체 IP 구성, 구조, 기능별 분할 정보, 데이터 흐름·상호관계 정보가 포함돼야 한다. IP 활용에 다른 IP와의 집적화가 가장 기본이 되며 Flowchart 등을 도식화해 포함하거나 Signal Name을 사용해야 한다. "
+}

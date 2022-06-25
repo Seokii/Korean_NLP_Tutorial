@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118875215_7",
+  "metadata": {
+    "doc_id": "CNTS-00118875215",
+    "doc_type": "도서",
+    "doc_name": "디지털 증거의 계층화 연구",
+    "author": "원용기",
+    "publisher": "대검찰청",
+    "published_year": "2018",
+    "kdc_label": "법학",
+    "kdc_code": "360"
+  },
+  "chapter": null,
+  "passage": "사용자가 ‘물리매체에 저장된 디지털 정보’에 접근하기 위해서는 적절한 시스템이필요하고, 이 시스템 운영에 필요한 기본 기능들의 집합 프로그램을 운영체제라 한다. 시스템은 운영체제를 통해 사용자 프로그램과 하드웨어 사이를 연결하게 되는데, 운영체제의 핵심기능과 구조는 1986년 Maurice J. Bach가 저술한 “The Design of the UNIX Operating System” 에 상세히 기술되어 있다. 이 책에서는 커널(Kernel)로 널리 알려진 운영체제 핵심기능을 중심으로 물리 장치와 사용자 프로그램 사이의 관계를 3단계로 구분하여  도식화(이하 Bach’s Kernel Diagram) 하였다. 이 3단계는 사용자가 접근하는‘사용자 단계(User level)’, 시스템 내부적으로 자료를 처리하는 ‘커널 단계(Kernel level)’, 물리 장치를 직접 지칭하는 ‘장치 단계(Hardware level)’로 구분되고, 커널 단계 안쪽에 위치한 ‘파일 하위시스템(File Subsystem)’에서 물리매체에 기록된 정보 접근 기능을 제공한다.",
+  "summary": "1986년에 Maurice J. Bach가 쓴 책인 The Design of the UNIX Operating System에서는 커널로 알려진 운영체제의 핵심기능을 중심으로 물리 장치와 사용자 프로그램 간의 관계를 사용자 단계, 커널 단계, 장치 단계 등 3단계로 나누어 도식화하였다."
+}

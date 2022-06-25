@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201509110425316271_48",
+  "metadata": {
+    "doc_id": "PCY_201509110425316271",
+    "doc_type": "도서",
+    "doc_name": "ICT 생태계에서 산업 내, 산업 간 혁신 전이 : 콘텐츠 산업을 중심으로",
+    "author": null,
+    "publisher": "정보통신정책연구원\t",
+    "published_year": "2015",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "특히 ICT 산업에 메타프론티어 분석이 활발히 적용되고 있다. Lee and Hwang(2011)은 인터넷 서비스 제공자(ISP)와 애플리케이션 서비스 제공자(ASP)간에서 발생하는 망중립성 사안을 검토하기 위해 ASP를 UCC, 게임, 음악, 웹 서비스의 네 가지 그룹으로 나누어 각 그룹의 효율성 변화를 검토하였다. 또한, Hong, Lee, & Hwang(2011)은 한국의 케이블 TV 산업의 수직결합과 수평결합에 대한 효율성을 분석하였다. 이 연구에서는 DEA와 SFA를 이용하여 케이블 TV 산업에서 발생하고 있는 수직적 결합과 수평적 결합에 대한 효율성을 메타프론티어 분석법으로 검토하였다. Hsiao, Chern, and Yu(2012)는 대만의 반도체 디자인 회사(Integrated Circuit design firm)를 대상으로 메타프론티어를 적용, 효율성을 측정하였다. Liao and Lien(2012)는 Asia-Pacific Economic Cooperation(APEC)의 주요 통신기업을 가입률(penetration rate)로 구분하고 DEA 기반의 메타프론티어 방법론으로 효율성을 측정하여 비교하였다.",
+  "summary": "ICT 분야에 메타프론티어 분석이 활발히 적용되고 있다. 이 같은 분석을 통해 11년에 UCC, 게임, 음악, 웹 서비스 그룹으로 나누어 망중립성을 검토하고, 케이블 TV 산업의 결합에 대한 효율성을 검토하였다. 12년에는 대만의 반도체 디자인 회사와 APEC의 통신기업 가입률의 효율성을 측정하여 비교하였다."
+}

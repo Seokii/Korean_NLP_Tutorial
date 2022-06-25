@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118875215_21",
+  "metadata": {
+    "doc_id": "CNTS-00118875215",
+    "doc_type": "도서",
+    "doc_name": "디지털 증거의 계층화 연구",
+    "author": "원용기",
+    "publisher": "대검찰청",
+    "published_year": "2018",
+    "kdc_label": "법학",
+    "kdc_code": "360"
+  },
+  "chapter": null,
+  "passage": "디지털 증거를 법정에 제출하는 증거로 사용하기 위해서는 우선적으로 무결성 또는 진정성, 신뢰성, 원본성 문제가 해결되어야 한다. 따라서, 최초 수집 정보와 최종 제출 정보가 동일함을 입증하고 정보 수집 과정인 압수ㆍ수색이 적법절차에 따라 객관적으로 이루어졌음을 입증하는 것이 필요하다. 때문에 많은 연구자들이 급변하는 기술 환경에 적합한 디지털 증거 처리 절차를 꾸준히 연구 해왔다. 2012년 ICDF2C에서 캐나다 소재 Concordia university college of alberta의 Information Systems Security Department 소속 Kwaku kyei 외 3명은 2001년 발표된 Digital Forensic Investigation Model(Kruse&Heiser) 부터 2011년까지 발표된 총 9가지 디지털 증거 처리 모델을 검토하고 이전 연구결과의 단점을 보완한 디지털 증거 처리 절차인 Enhanced Systematic Digital Forensic Investigation Model(이하 ESDFIM)을 소개하였다. ESDFIM은 디지털 증거 처리 절차를 준비(Preparation), 보존(Acquisition/Preservation), 분석(Examination/Analysis), 공유(Information Sharing), 제출(Presentation), 결과확인(Review) 등 총 5단계로 구분하였는데, 다수의 매체에 분산 저장된 디지털 증거 처리환경도 고려하여 이전의 디지털 증거 처리 모델보다 일반적으로 사용할 수 있다. 따라서 이를 바탕으로 디지털 증거 계층구조의 실무 적합성을 살펴보고자 한다.",
+  "summary": "법정 증거로 채택되는 디지털 증거는 다양한 기준에 부합해야 하므로 꾸준한 연구가 이루어져 왔다. 본 연구는 그중 디지털 증거 처리 절차를 5단계로 나눈 캐나다 ESDFIM을 바탕으로 디지털 증거 계층구조의 실무 적합성에 대해 알아보고자 한다."
+}

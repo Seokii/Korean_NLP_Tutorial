@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00061098065_150",
+  "metadata": {
+    "doc_id": "CNTS-00061098065",
+    "doc_type": "도서",
+    "doc_name": "문화기술 연감",
+    "author": "한국콘텐츠진흥원",
+    "publisher": "한국콘텐츠진흥원",
+    "published_year": "2010",
+    "kdc_label": "예술",
+    "kdc_code": "600"
+  },
+  "chapter": null,
+  "passage": "디지털 시네마의 표준 분야에서는 ITU-R Study Group6에서 Task Force6/9을 구성하여 표준화를 추진하고 있으며, 미국에서는 7대 영화 스튜디오17)로 구성된 DCI(Digital Cinema Initiative), 유럽에서는 ECDF(European Digital Cinema Forum), 일본에서는 DCCJ(Digital Cinema Consortium of Japan)이 디지털시네마의 표준을 위한 테스트를 수행하고 있다. DCI를 기준으로 극장 상영 기준 2K급 이상의 해상도를 지원하는 영사시스템을 갖추었을 때 디지털 시네마로 간주하며, 최근에는 4K급 이상의 고화질 영사시스템으로 전환되는 추세이다.",
+  "summary": "디지털 시네마의 표준은 ITU-R Study Group6에서 Task Force6/9을 구성하여 추진한다. DCI 기준의 2K급 이상 해상도의 영사시스템에 대해 디지털 시네마로 간주한다."
+}

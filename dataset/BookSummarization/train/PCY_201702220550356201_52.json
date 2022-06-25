@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201702220550356201_52",
+  "metadata": {
+    "doc_id": "PCY_201702220550356201",
+    "doc_type": "도서",
+    "doc_name": "국제비교를 위한 유아발달평가 기초연구",
+    "author": null,
+    "publisher": "육아정책연구소",
+    "published_year": "2015",
+    "kdc_label": "유아및초·중등교육",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "먼저 Model Selection(모델 선정) 과정에서 문항반응이론(Item Response Theory)을 측정하였다. 문항반응이론을 통해 피검사자의 능력이나 심리적 특성과 같은 ‘잠재적 특성’을 측정하고 문항이 이원, 다원화되는지 확인하고자 하였다. 1-모수 로지스틱 모형(Rasch model), 2-모수 로지스틱 잠재 특성 모형(two-parameter logistic latent trait model), 그리고 Birnbaum's three-parameter model을 검토한 결과, 2-모수 로지스틱 잠재 특성 모형이 가장 적합한 것으로 나타났다(AIC=2689.19, LRT=119.45, p<0.001) (Rao, 2012).",
+  "summary": "모델 선정 과정에서 문항반응이론을 측정하여 피검사자의 잠재적 특성을 측정하고 문항의 다원화를 확인하였다. 세 가지 모형을 검토한 결과 2-모수 로지스틱 잠재 특성 모형이 가장 적합하였다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201909180440421131_1",
+  "metadata": {
+    "doc_id": "PCY_201909180440421131",
+    "doc_type": "도서",
+    "doc_name": "5G 네트워크 자동화 및 지능 기술 표준화 동향 (Trends of 5G Network Automation and Intelligence Technologies Standardization)",
+    "author": "신명기, 이수환, 이종화",
+    "publisher": "한국전자통신연구원",
+    "published_year": "2019",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "이동통신 시스템 표준화 단체인 3GPP(3rd Generation Partnership Project)는 5G 네트워크 자동화 및 지능화를 위해 5G 시스템 내의 새로운 표준기능으로 NWDAF(Network Data Analytics Function)를 정의하고, 규격 개발을 진행하고 있다. 이 외 네트워크 분야 표준화 기구에서도 이와 관련한 적극적인 표준화 작업을 진행하고 있다. 대표적으로 유럽표준화기구인 ETSI(European Telecommunications Standards Institute) 산하의 산업규격개발그룹(ISG: Industry Specification Group)으로 ZSM(Zero-touch network and Service Management)과 ENI(Experiential Networked Intelligence)이 신설되어 활발한 활동을 진행하고 있으며, ITU-T에서도 새로운 포커스 그룹으로 ML5G(Machine Learning for Future Networks including 5G) 그룹을 신설하여 논의를진행하고 있다.",
+  "summary": "이동통신 시스템 표준화 단체 3GPP는 5G 시스템 내 새 표준기능으로 NWDAF를 정의하고, 규격 개발을 진행 중이다. 이 외 네트워크 분야 표준화 기구도 관련 적극 표준화 작업을 진행하고 있고, 대표적으로 ZSM, ENI 등이 있다."
+}

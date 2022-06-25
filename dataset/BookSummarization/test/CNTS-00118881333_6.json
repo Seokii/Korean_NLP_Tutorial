@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118881333_6",
+  "metadata": {
+    "doc_id": "CNTS-00118881333",
+    "doc_type": "도서",
+    "doc_name": "Systemic approach in foresight",
+    "author": "윤정현",
+    "publisher": "과학기술정책연구원",
+    "published_year": "2015",
+    "kdc_label": "기술과학",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "전통적인 귀납적(Inductive), 연역적(Deductive) 접근방식은 모두 복잡해진 현대사회를 설명하는데 있어서 분명한 한계를 갖는다. 이를 보완하기 위해 복잡계 연구 분야에서는 계산모형에 의한 시뮬레이션을 폭넓게 활용하고 있다. 국제응용시스템분석연구소(IIASA)의 레나 이몰라(Leena Ilmola) 박사는 ‘Korean Dream Valley for Foresight - Why, How and What Results Case : Energy Shock’를 주제로 ABM을 한국적 맥락에 적용하기 위해 지능형 모사연구방법으로 고안된 ‘Dream Valley Simulator(DV)’를 소개하였다. 이를 통해 한국경제의 에너지 급변 이슈에 적용한 구체적인 시나리오와 정책적 시사점을 제시하였다.",
+  "summary": "전통적인 귀납, 연역 방식은 복잡한 현대사회에 부적합하다. 이를 보완하고자 복잡계 연구분야는 계산모형 시뮬레이션을 활용한다. 레나 이몰라 박사는 이를 통해 한국경제의 에너지 급변 시나리오와 시사점을 제시하였다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201708160413045821_6",
+  "metadata": {
+    "doc_id": "PCY_201708160413045821",
+    "doc_type": "도서",
+    "doc_name": "교육정책포럼 2015년 09월 (통권 267호)",
+    "author": null,
+    "publisher": "한국교육개발원",
+    "published_year": "2015",
+    "kdc_label": "교육일반",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "K-MOOC의 주요 특징으로는 먼저 K-MOOC 공용플랫폼을 Open edX를 기반으로 함에 따라 기존 Open edX의 주요 기능을 모두 활용할 수 있다는 점이다. 그리고 한국어 지원 등의 지역화 과정을 우선적으로 추가했고 한국형 무크를 위해 다양한 기능을 추가했다. 표절검사 기능,  WYSIWIG 수식 편집기, Youtube를 사용하지 않는 자체 CDN (Contents Delivery Network) 및 동영상 재생기, 국내 대형 포털 및 SNS와의 계정 연동, 평생학습계좌제 등 기존 평생학습제도 시스템과 연동 등이 그것이다.",
+  "summary": "K-MOOC는 Open edX를 기반으로 하여 그 주요 기능을 모두 활용할 수 있다. 또한 한국어 지원을 비롯하여 한국형 무크를 위한 다양한 기능들이 추가됐다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201506290910056371_8",
+  "metadata": {
+    "doc_id": "PCY_201506290910056371",
+    "doc_type": "도서",
+    "doc_name": "유전자치료제 순도시험법 시험정보집",
+    "author": null,
+    "publisher": "식품의약품안전처",
+    "published_year": null,
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "비바이러스 벡터를 사용한 유전자치료제의 순도시험법 개발 및 검증을 위하여, 비바이러스벡터 중 가장 많은 임상시험에 사용되고 있는 Naked/Plasmid DNA를 대상으로 하였다. Naked DNA는 대부분 Plasmid DNA 형태이므로 시험법 개발 및 검증을 위해 3종의 Plasmid DNA를 사용하였다. 이 정보집에 사용된 Plasmid DNA Vaccine은 개발중인 제품으로, 면역반응을 유도하기 위한 바이러스 또는 세균 유래 항원유전자를 가진 것으로 1종류는 바이러스유래 항원 유전자가 삽입된 임상시험용 검체이며, 2종류는 세균 유래 항원 유전자가 삽입된 비임상시험용 검체이다.",
+  "summary": "유전자치료제의 순도시험법 개발 및 검증을 위해서 개발중인 제품인 Plasmid DNA Vaccine(임상시험용 1종과 비임상시험용 2종)을 대상으로 면역반응 유도 시험을 했다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201612210534318841_1",
+  "metadata": {
+    "doc_id": "PCY_201612210534318841",
+    "doc_type": "도서",
+    "doc_name": "신기술과 산업 지형의 변화 2 : 3D 프린팅",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2016",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "3D 프린팅 기술의 특성을 분석할 때 주의할 점은 3D 프린팅은 하나의 기술이 아니라 장점과 단점이 매우 다른 여러 기술들의 합집합이라는 사실이다. 현존하는 다양한 3D 프린팅 기술들은 필라멘트 등의 재료를 압출하여 층을 쌓는 고체 방식, 액상의 광경화 수지를 빛에 노출하여 응고하는 액체 방식, 플라스틱이나 금속 분말을 소결(燒結)하는 분말 방식 등 3가지로 구분할 수 있다. 고체 방식의 가장 대표적인 기술은 FDM (Fused Deposition Modeling)이고 액체 방식과 분말 방식의 가장 대표적인 기술은 각각 SLA (Stereolithography)와 SLS (Selective Laser Sintering)이다.",
+  "summary": "3D 프린팅 기술은 다른 여러 기술들의 합집합이며, 고체 방식, 액체 방식, 분말 방식이 있다. 이들 각각의 대표적인 기술은 FDM, SLA, SLS이다. "
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049144800_11_12-0",
+  "metadata": {
+    "doc_id": "CNTS-00049144800",
+    "doc_type": "도서",
+    "doc_name": "Ethernet 기술혁신과 정책시사점",
+    "author": "강홍렬",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2000",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "II. Ethernet기술의 진화 1. Ethernet기술의 혁신: GigE와 10GigE",
+  "passage": "GigE은 8-16정도의 10/100Mpbs 포트를 1, 2개 정도의 1Gbps uplinks와 같이 제공하거나 8-12개의 1Gbps 포트를 제공하는 “low-end” 제품에서부터 200-300 10/100Mbps 포트, 24-48개의 1Gbps 포트를 제공하는 “high-end” 제품에 이르기까지 다양한 용도의 제품이 존재한다. low-end 제품은 기존의 FDDI 링구조를 대체하거나 LAN의 백본을 지원할 수 있는 제품의 부류이고, high-end 제품의 경우 네트워크의 서버들이나 허브, 스위치들을 연결하는 네트워크를 구성하게 된다.\n GigE은, Ethernet이나 Fast Ethernet에 의하여 광범위하게 기반을 확보하고 있는 기존의 네트워크를 업그레이드할 수 있는 \"가장 깨끗하고(cleanest), 설치가 가장 용이하며, 가장 신뢰할 만한(affordable and reliable) 차세대 선택\", 특히 네트워크의 백본을 위한 최선의 선택으로 최선의 선택으로서 부각되고 있다. Network World-Tolly Group, BCR(Business Communications Review), West Virginia University, ENL(European Network Laboratories)-Data Comm 등의 기관에 의하여 몇 차례 공개적으로 GigE 제품에 대하여 성능시험이 이루어졌다. 비록 한정된 제품들에 대한 시험이었지만, 결과는 대부분 만족스러웠던 것으로 발표되었다. ",
+  "summary": "GigE의 low-end 제품은 FDDI 링구조를 대체하거나 LAN을 지원하는 부류이고, high-end 제품은 네트워크서버들이나 허브, 스위치를 연결하는 네트워크를 구성한다.  Network World-Tolly Group, BCR, West Virginia University, ENL 등의 기관에 의해 GigE의 한정된 제품의 시험결과, 대부분 만족스러움으로 발표되었다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220725726651_18",
+  "metadata": {
+    "doc_id": "PCY_201711220725726651",
+    "doc_type": "도서",
+    "doc_name": "임상진료지침 개발 협력 모형 구축 및 적용성 평가",
+    "author": "최미영, 김남순",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "GIRAnet에는 영역별로 도구를 제공하고 있으며, 지침의 적용(Implementation) 영역과 관련해서는 ‘장애요인 평가(Barrier assessment)', '적용 계획(Implementation planning)' 및 ‘현장 진단 템플릿/도구(Point-of-care template/instrument)'의 세 가지 요소들로 구분하여 제시하고 있다. 이 중, 진료지침 적용의 장애요인 평가(Barrier assessment) 도구는 표 2-7과 같다. 대부분의 도구는 개별적인 진료지침에 대한 장애요인을 평가하는 도구를 제공하고 있으며, 이 중 도구의 목적, 개발방법 등 4가지 부분의 기술을 충족하는 도구는 Shiffman 등이 개발한 Guideline Implementability Appraisal (GLIA) 도구 및 Funk S.가 개발한 도구 두 가지였다.",
+  "summary": "GIRAnet이 제공하는 영역별 도구 중 '지침의 적용' 부문에는 '장애요인 평가', '적용 계획', '현장 진단 템플릿/도구' 이 세가지 요소가 있는데 그 중 장애요인 평가는 개별 진료지침에 대한 장애요인을 평가하는 도구다. "
+}

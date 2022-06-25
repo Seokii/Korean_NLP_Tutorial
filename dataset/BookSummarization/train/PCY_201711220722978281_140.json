@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220722978281_140",
+  "metadata": {
+    "doc_id": "PCY_201711220722978281",
+    "doc_type": "도서",
+    "doc_name": "의료기술평가제도의 국제 비교연구",
+    "author": "김수경",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2015",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "2004년 이후 프랑스는 공공 및 민간 분야 모두에서 포괄수가형(DRG) 지불시스템이 도입되었다. 따라서 대부분의 의료기기를 이용한 의료행위 역시 DRG 수가가 적용된다. 여기에 해당하는 의료기기에는 안과수술 시 이용되는 삽입물(ophthalomogical implants), 정형외과 수술시 사용되는 보형물(osteosynthetic materials), 소화기계 수술시 사용되는 봉합사 및 스테이플 등이 있다(HAS, 2009). DRG 지불방식이 적용되는 의료기기의 경우 국가수준의 의료기술 평가는 없고, 대신 병원이 공공입찰제를 통해 의료기기의 구매자가 되며 병원 내 구매위원회(Comité des Médicaments et des Dispositifs Médicaux Stériles, Committees for drugs and sterile medical devices, COMEDIMS)가 의료기기의 구매 및 병원 내 급여 목록 포함 여부 등을 결정한다. 병원은 더 낮은 가격으로 의료기기를 구매하기 위해 다른 병원과 연합하기도 하며 이는 보건부에서도 장려하고 있다.",
+  "summary": "프랑스는 포괄수가형 지불시스템을 적용하여 의료행위에서도 DRG 수가가 적용된다. DRG가 적용되는 안과수술에 이용되는 삽입물 등의 의료기기는 국가수준의 평가가 없으며 병원 내의 위원회가 구매를 결정하게 되며 여러 병원과의 협력도 가능하다."
+}

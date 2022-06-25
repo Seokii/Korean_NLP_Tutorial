@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610200103451461_14",
+  "metadata": {
+    "doc_id": "PCY_201610200103451461",
+    "doc_type": "도서",
+    "doc_name": "중저기술 산업의 혁신특성 분석과 발전방향",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2015",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "기술산업군을 구분하기 위한 기준설정과 관련한 연구로는 Hatzichronoglou(1997)의 연구를 들 수 있다. Hatzichronoglou(1997)은 OECD 회원국 중 10개국의 R&D 데이터를 토대로 22개 제조업을 기술집약도에 따라 4개의 그룹으로 분류하였다. 이 연구를 바탕으로 OECD에서는 제조업을 각 산업부문의 기술집약도에 따라 구분하고 있다. 이에 따라 OECD에서는 산업을 고기술(High-tech), 중고기술(Medium-high tech), 중저기술(Medium-low tech), 저기술(Low tech)의 4개로 구분하고 있으며(OECD, 2005, p.206), OECD(2011)에서는 산업총생산 대비 R&D 지출에 부가가치 효과 등을 고려한 기술집약도로 ISIC(국제표준산업분류)상의 19개 제조업 부문을 재구분하였다. <표 3-1>은 ISIC3에 따른 OECD의 기술집약도 분류 결과를 보여준다.",
+  "summary": "Hatzichronoglou(1997)의 연구에서 기술집약도에 따라 OECD 국가들의 기술산업군을 고기술, 중고기술, 중저기술, 저기술로 구분하였다. 반면 OECD(2011)에서는 ISIC(국제표준산업분류)상의 19개 제조업 부문을 재구분하였다."
+}

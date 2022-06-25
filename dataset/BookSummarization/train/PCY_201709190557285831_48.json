@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201709190557285831_48",
+  "metadata": {
+    "doc_id": "PCY_201709190557285831",
+    "doc_type": "도서",
+    "doc_name": "에너지 포커스 : 2016 여름호",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "용량시장에 DR은 LSE(Load Serving Entity, PJM 지역에서 최종소비자에 전력을 공급하는 부하서 비스회사, 판매사업자)과 소매사업자만 참여가 가능하다. 용량시장은 Limited DR, Extended Summer DR, Annual DR로 구성되어 있는데, 이는 2018/19년부터 없어지고 Base Capacity DR과 Capacity Performance DR로 대체될 예정이다. 2013/14년 강추위로 인해 설비고장이 증가하면서 신뢰도 확보를 위해 용량시장 개선 필요성이 제기되었고, 이에 따라 엄격한 운영기준과 불이행시 패널티 강화 등으로 성과 향상에 중점을 두었다.",
+  "summary": "용량시장에 DR은 LSE 및 소매사업자만 참가할 수 있으며, 2019년도부터 Base Capacity DR로 바뀔것이다. 설비고장이 늘었기에 성과 향상에 초점을 맞추었다. "
+}

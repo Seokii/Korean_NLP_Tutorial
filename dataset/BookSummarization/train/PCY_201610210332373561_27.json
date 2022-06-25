@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210332373561_27",
+  "metadata": {
+    "doc_id": "PCY_201610210332373561",
+    "doc_type": "도서",
+    "doc_name": "합리적 송전망 비용회수 방안 연구",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "영국의 송전요금은 2005년 이후 송전요금 체계가 일원화 되었으며 영국계통운영자(Great Britain System Operator)인 NGET가 지역독점 3사를 대신해 요금산정 및 수금업부를 실시하고 있다. 송전요금은 사용자가 송전설비에 접속하기 위한 설비의 건설 및 운영비용을 회수하기 위한 접속요금(Connetion Charge), 송전계통의 건설 및 운영·유지비용을 회수하기 위한 송전이용요금(Transmission Network Use of System Charge:TNUoS), 그리고 실시간 수급균형 유지를 위해 영국계통운영자인 NGET가 균형조정 에너지 및 예비력을 구매하는데 사용되는 비용을 회수하기 위한 균형조정요금(Balancing Services Use of System Charge:BSUoS)로 구성되어 있다.",
+  "summary": "영국은 송전요금 체계가 일원화 되었으며 NGET가 요금산정 및 수금업무를 실시하고 있다. 그리고 송전요금은 접속요금, 송전이용요금, 균형조정요금으로 구성되어 있다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201505070933587551_20",
+  "metadata": {
+    "doc_id": "PCY_201505070933587551",
+    "doc_type": "도서",
+    "doc_name": "KATS 기술보고서 제71호(ISO TC 204의 스마트카 표준화 동향)",
+    "author": null,
+    "publisher": "국가기술표준원",
+    "published_year": null,
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "802.11 WG 산하의 Task Group p (TGp)에서는 OFDM 방식을 사용하는, 혹독한 외부 환경에 적용할 수 있는 무선통신 표준을 개발해 왔다. 미국은 ITS 통신 시스템에 적용할 이 표준을 WAVE(Wireless Access in Vehicular Environment; 802.11p)로 명명하였으며, WAVE 표준은 현재 세계적으로 차량용 전용 통신의 차세대 주자로 자리매김하고 있다. 802.11p 표준은 1609 표준과 연관되어져 있다. IEEE 1609 표준은, 1609.0 Architecture, 1609.4 Multi-Channel Operation, 1609.5 Communication Manager 등의 주요 관련 표준을 포함하고 있다.",
+  "summary": "WG 산하의 Task Group p에서는 OFDM 방식을 사용하는 무선통신 표준을 개발해왔다. 미국은 이 표준을 WAVE로 명명했고, 현재 세계적으로 차량 전용 통신의 차세대 주자로 자리매김하고 있다."
+}

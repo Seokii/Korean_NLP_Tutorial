@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201410230944171811_15",
+  "metadata": {
+    "doc_id": "PCY_201410230944171811",
+    "doc_type": "도서",
+    "doc_name": "대학 및 전문대학 졸업자의 직종별 수요 추정 : 직업사전을 활용하여",
+    "author": null,
+    "publisher": "한국직업능력개발원",
+    "published_year": null,
+    "kdc_label": "고용노동",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "직업사전을 이용한 연구들은 주로 숙련의 지표를 추출하려는 목적으로 이루어졌다. Howell & Wolff(1991)는 숙련을 인지적 숙련, 상호적 숙련, 운동적 숙련의 세 가지로 유형화하고, 인지적(cognitive) 숙련은 직업사전의 수리, 언어, 논리 점수 등의 요구 수준으로 상호적(interactive) 숙련은 직업 요구 자율성, 재량권, 책임성 등의 요구 수준으로 운동적(motor) 숙련은 사물에 대한 기능수준, 육체적 힘과 정교함 등의 요구 수준으로 측정하였다. 이후 Ingram & Neumann(1999,2006)은 직업사전에서 제공하는 53가지 정보를 모두 활용하여 요인분석의 방법을 통해 지능적(intelligence) 숙련, 미세운동적(fine motor) 숙련, 종합운동적(gross motor) 숙련, 육체적(physical) 숙련(strength)을 추출하였다. Poletaev & Robinson(2008)도 요인 분석의 방법을 사용하여 일반지능(general intelligence) 숙련, 운동(motor) 숙련, 육체적(physical) 숙련(strength), 시각적(visual) 숙련을 추출하고, 전치된 근로자들의 임금 하락은 산업이나 직종의 바뀜보다는 숙련구성의 변화에 기인함을 보였다.",
+  "summary": "직업사전을 이용한 연구의 주목적은 숙련지표 추출로 Howell & Wolff가 인지적, 상호적, 운동적 숙련으로 유형화하고 Ingram & Neumann이 지능적, 미세운동적, 종합운동적, 육체적 숙련을 추출,  Poletaev & Robinson은 일반지능, 운동, 육체적, 시각적 숙련을 추출하였다."
+}

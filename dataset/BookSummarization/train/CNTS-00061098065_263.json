@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00061098065_263",
+  "metadata": {
+    "doc_id": "CNTS-00061098065",
+    "doc_type": "도서",
+    "doc_name": "문화기술 연감",
+    "author": "한국콘텐츠진흥원",
+    "publisher": "한국콘텐츠진흥원",
+    "published_year": "2010",
+    "kdc_label": "예술",
+    "kdc_code": "600"
+  },
+  "chapter": null,
+  "passage": "또한, 전자책 콘텐츠를 제작하는 데 주로 사용하는 기술은 전자책 포맷 기술과 DRM 기술로 나눠 볼 수 있는데, 전자책 포맷 기술은 이전에는 XML, PDF, 플래시(Flash)를 기반으로 하는 제작기술이 주로 사용되었으나, 요즘에는 IDPF(International Digital Publishing Forum)가 주도하는 EPUB 방식이 주류를 이루고 있다. 그리고 전자책 DRM의 경우 국내에서는 Adobe에서 만든 DRM과 국내 업체들이 자체적으로 만든 DRM이 사용되고 있으나, Adobe에서 만든 DRM은 국제적인 신뢰성은 높으나, 라이선스 비용이 높다는 단점이 있다.",
+  "summary": "전자책 포맷 기술과 DRM기술은 전자책 콘텐츠를 제작하는 데 사용하는 기술이다."
+}

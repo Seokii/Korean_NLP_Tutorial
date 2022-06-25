@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118869525_87",
+  "metadata": {
+    "doc_id": "CNTS-00118869525",
+    "doc_type": "도서",
+    "doc_name": "2019 우주산업 실태조사",
+    "author": "과학기술정보통신부",
+    "publisher": "과학기술정보통신부",
+    "published_year": "2019",
+    "kdc_label": "기계공학",
+    "kdc_code": "550"
+  },
+  "chapter": null,
+  "passage": "2014년 ALOS-2호 발사 후, JAXA는 후속 지구관측 위성 시리즈를 개발 중으로 광학 및 SAR 위성으로 구성되며 두 위성 모두 2020년 발사예정이다. JAXA는 또한 2022년 발사예정인 GOSAT-3호에 탑재될 차세대 극초단파 방사계(microwave radiometer) 개발을 계획 중이다. 한편 METI의 경우 광학 ASNARO 위성을 지난 2014년 발사한데 이어 SAR 위성인 ASNARO-2호를 2017년 발사하였으며 2019년 ISS에 탑재될 HISUI 초분광 센서(hyperspectral sensor) 개발을 준비 중이다.",
+  "summary": "JAXA와 SAR 위성은 2020년 발사 예정이며 둘은 각각 극초단파 방사계와 HISUI 초분광 센서를 탑제하기 위해 개발 중이다. "
+}

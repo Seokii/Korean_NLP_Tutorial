@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504010555015791_89",
+  "metadata": {
+    "doc_id": "PCY_201504010555015791",
+    "doc_type": "도서",
+    "doc_name": "바이오경제시대 과학기술정책의제 연구사업 (4년차) -개인 유전자 기반 맞춤 의료의 현황과 발전 과제-",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": null,
+    "kdc_label": "기타",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "유전체 분석이 의료 분야에서 제공할 수 있는 가장 기본적인 서비스는 진단이다. 단일 유전자 이상으로 발생하는 유전질환을 멘델리안 질환(Mendelian Disorder)이라고 하는데 이에 대한 진단이 대표적이다. Online Mendelian Inheritance in Man DB(http://omim.org)에 따르면 현재 3,676개의 멘델리안 유전질환이 확인되었고, 비슷한 수의 미 발견 유전질환이 있을 것으로 추정된다(McCarthy et al., 2013: 4). 최근에는 통상적인 수단으로는 진단이 안 되는 원인불명 질환(이를 Diagnostic Dilemmas라고 한다)에 대해 차세대 염기서열 분석(Next Generation Sequencing, NGS)을 통해 정확한 진단이 내려지는 경우가 나타나고 있다. 이 경우 새로운 유전 질환이 발견되는 셈이다(McCarthy et al., 2013: 4-5).",
+  "summary": "유전체를 분석하면 기본적으로 단일 유전자 이상이 원인인 약 3600개 유전 질환을 진단할 수 있다. 또한 차세대 염기서열 분석을 이용하면 원인불명 질환에 대한 정확한 진단도 가능하여 새로운 유전 질환도 밝혀낼 수 있다."
+}

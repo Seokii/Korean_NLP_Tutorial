@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201509110503133191_15",
+  "metadata": {
+    "doc_id": "PCY_201509110503133191",
+    "doc_type": "도서",
+    "doc_name": "항공분야 빅데이터의 정책적 활용방안 연구",
+    "author": null,
+    "publisher": "한국교통연구원\t",
+    "published_year": null,
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "둘째, 항공사 분야에는 Booz Allen Hamiton 및 Southwest Airline, NASA 등에서 활용한 사례가 포함된다. Booz Allen Hamiton에서 연구한 빅데이터는 항공사, 공항 등에서 생성되는 대용량의 빅데이터에서 데이터 분석을 통하여 가치 있는 예측방향을 제시하였다. Southwest Airline은 수준 높은 고객 서비스 제공을 목표로 빅데이터의 개념이 생겨나기도 전에 이미 생성된 각 부서의 비즈니스 정보와 빅데이터 분석을 적극 활용하였다. NASA와 의 공동연구를 통해 센서 데이터, 조종사 및 항공교통시스템의 다양한 데이터의 데이터 마이닝 분석을 통해 항공안전 증대 및 이를 통한 NASA의 운항 안전 프로그램을 개발하여 사용하고 있다.",
+  "summary": "항공사 분야에서는 Booz Allen Hamiton이 예측방향 제시, Southwest Airline은 고객 서비스 수준 향상, NASA는 항공안전을 위해 빅데이터를 활용한 사례가 있다. "
+}

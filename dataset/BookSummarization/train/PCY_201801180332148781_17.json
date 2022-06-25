@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201801180332148781_17",
+  "metadata": {
+    "doc_id": "PCY_201801180332148781",
+    "doc_type": "도서",
+    "doc_name": "음성인식 AI 비서 시장의 현황과 시사점",
+    "author": "최지혜, 이선희",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2017",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Google은 지난 2014년 인수한 Nest Lab의 스마트 온도조절장치를 중심으로 Google Nest라는 플랫폼을 구축하고 IoT 전용 OS인 “Brillo”를 출시하는 등 스마트홈 시장 선점을 위해 노력해 왔는데, Google Home은 이런 기존 플랫폼을 연결하는 인터페이스의 역할을 할 수 있을 것으로 보인다(Kotra해외시장뉴스, 2016. 6. 29). Chromecast를 보유하고 있는 가정에서는 Google Home으로 TV나 홈엔터테인먼트 기기 제어도 가능해지기 때문에 Google이 구축해 온 미디어 플랫폼도 AI 스피커를 매개로 통합될 수 있다.",
+  "summary": "Google은 Google Nest을 만들어 스마트홈 시장 선점을 위해 노력했다. 이것은 AI스피커를 통해 통합될 수 있고, 인터페이스의 역할을 할 수 있을 것이다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201909180436084151_3",
+  "metadata": {
+    "doc_id": "PCY_201909180436084151",
+    "doc_type": "도서",
+    "doc_name": "스마트공항과 차세대 보안검색 기술 (Smart Airport and Next Generation Security Screening Technology)",
+    "author": "홍진우, 오정훈, 이한규",
+    "publisher": "한국전자통신연구원",
+    "published_year": "2019",
+    "kdc_label": "항공·공항",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "신체에 대한 접촉 없이 여객 신체를 검색하는 장비는 금속물체 위험물만 찾는 문형 금속장비에서 고도화되고 있는 테러 위협에 대비하여 비금속 무기 또는 폭발물 등의 위험성이 있는 물건 탐지가가능한 전신검색 장비로 발전하고 있다. 현재 공항에 많이 적용된 전심검색장비로는 L3 Sec. & Det. Systems사의 ProVision2와 Rehode & Schvarz사의 QPS200이 있으며, 휴대전화 전자파보다 낮은 밀리미터파를 이용하여 옷 속에 숨겨진 위험물 탐지가 가능하다. 또한, 여객 수화물 검색을 위한 엑스선검색장비는 수하물 내 물품을 좀 더 세밀하고 사각지대가 없이 빠른 검사를 위하여 2-D scanner에서 3-D scanner, 컴퓨터단층촬영(CT: Computed Tomography) 기술이 도입되고 있다. Anlogic사의 3D-CT 엑스선검색장비는 ETD 기능이 포함된 all-in-one 엑스선검색장비로 장비 설치 공간을 줄일 뿐만 아니라 정확하고 신속한 수하물검색을 가능케 했다.",
+  "summary": "신체 접촉없이 여객 신체를 검색하는 장비는 고도화되고 있는 테러 위협에 대비하여 금속물체 위험물만을 찾는 장비에서 비금속 무기 또는 폭발물과 같이 위험성이 있는 물건도 탐지가 가능한 전신검색 장비로 발전하고 있다."
+}

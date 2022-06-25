@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711241026438931_6",
+  "metadata": {
+    "doc_id": "PCY_201711241026438931",
+    "doc_type": "도서",
+    "doc_name": "병원 외래고객 만족도 평가의 의료서비스 최적화 방법 적용",
+    "author": "지은희, 강성홍, 김유지",
+    "publisher": "한국보건사회연구원",
+    "published_year": "2017",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "고객만족도 측정 데이터에 따라 고객만족도 품질관리 방안으로 Kano Model, SERVQUAL(A multiple-item scale for Measuring Consumer Performance of Service Quality), SERVPERF(Performance-based measure of Service Quality), QFD(Quality Function Deployment), IPA(Importance –Performance Analysis) 등 여러 가지 기법 이 사용되고 있으나, 일반화하여 사용하기에 어려움이 있고, 분야별 개선방안 도입 시 고가의 구축비용이 발생하거나 즉각적으로 시스템에 반영하기 어려운 한계점이 있다. 이의 해결을 위해 고객만족도 조사결과 분석에 따른 개선 요인선택 방법으로 대화식 의사결정나무 기법을 선택하였는데, 이를 기반으로 한 분석은 실무지식을 가진 사용자 가 보다 효용성 있게 해석될 수 있는 변수를 대화식으로 결정함으로써 의사결정나무의 형성과정에 개입할 수 있는 기회를 제공할 수 있고 데이터에만 기반 한 모형과 실제 환경간의 차이를 최소화할 수 있는 장점을 갖고 있어 자동차보험사의 콜량 예측과 산재 보험 부정수급 식별을 위한 연구에 활용되고 있다(백웅, 2010; 함승오, 2008).",
+  "summary": "고객만족도 품질관리 방안으로 여러 기법이 사용되나 다양한 한계점이 있다. 이를 해결하기 위해 사용자가 의사결정나무의 형성과정에 개입할 수 있는 기회를 가지고 데이터에만 기반 한 모형과 실제 환경간의 차이를 최소화할 수 있는 대화식 의사결정나무 기법을 선택했다."
+}

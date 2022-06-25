@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220339270511_30",
+  "metadata": {
+    "doc_id": "PCY_201711220339270511",
+    "doc_type": "도서",
+    "doc_name": "사회적 합의도출을 위한 원탁회의",
+    "author": null,
+    "publisher": "한국보건의료연구원",
+    "published_year": "2015",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "알츠하이머 치매 진단을 위한 신경촬영법에는 구조적 영상촬영(Structural Imaging), 기능적 영상촬영(Functional Imaging), 분자영상촬영(Molecular Imaging)이 있다. 구조적 영상촬영은 MRI, CT와 같은 방법으로 뇌 조직의 양이나 위치 모양에 대한 정보를 제공하고, FDG-PET, 기능적 MRI(fMRI), 동맥 스핀 라벨링(arterial spin labeling, ASL)과 같은 기능적 영상촬영은 세포가 당이나 산소를 얼마나 활발하게 사용하는지 보여줌으로써 뇌의 여러 부분에 있는 세포가 얼마나 잘 작동하고 있는 보여준다. 분자영상촬영은 특정 질환과 관련된 화학적 변화나 세포 변화를 발견한기 위하여 방사성 트레이서 사용하며, Amyloid PET이 대표적이다.",
+  "summary": "알츠하이머 치매 진단을 위한 신경촬영법에는 뇌 조직의 정보를 제공하는 구조적 영상촬영, 뇌세포가 잘 작동하는가를 보여주는 기능적 영상촬영, 특정 질환 관련 세포 변화를 발견하는 분자영상촬영이 있다. "
+}

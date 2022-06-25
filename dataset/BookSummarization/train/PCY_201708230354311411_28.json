@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201708230354311411_28",
+  "metadata": {
+    "doc_id": "PCY_201708230354311411",
+    "doc_type": "도서",
+    "doc_name": "환경정책 제24권 제2호 (2016년 6월)",
+    "author": null,
+    "publisher": "한국환경정책·평가연구원,한국환경정책학회",
+    "published_year": "2016",
+    "kdc_label": "환경일반",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "InVEST는 Natural Capital Project (NatCap)에서 생태계서비스에 대한 가치 평가 및 트레이드 오프 분석을 통한 자연자본의 지속가능한 관리를 목적으로 개발한 것이다. 모듈은 2016년 3월 현재 총 18개로, 각각은 생태계 내의 탄소고정량 추정(Carbon sequestration), 서식처 질(Habitat quality) 추정, 레크리에이션(Recreation) 등 다양한 범위에서 모델링할 수 있도록 설계되어 있다. 특히 자연과학에 기반한 생태계서비스 평가를 통해 생물·물리적 결과를 얻을 수 있고 생태계서비스의 가치를 경제적 측면에서 추정할 수 있다. 본 연구에서는 제주 지역의 탄소고정량 추정을 위해 InVEST의 다양한 모듈 가운데 탄소고정 모듈(Carbon Storage and Sequestration)을 활용하였다.",
+  "summary": "InVEST는 생태계서비스의 가치 평가, 자연자본의 관리를 위해 개발하였다. 자연과학에 기반한 생태계서비스 평가를 통해 생물·물리적 성과를 얻고 생태계서비스의 가치를 경제적 관점에서 예측할 수 있다. "
+}

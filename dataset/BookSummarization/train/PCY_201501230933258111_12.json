@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201501230933258111_12",
+  "metadata": {
+    "doc_id": "PCY_201501230933258111",
+    "doc_type": "도서",
+    "doc_name": "보건복지 빅데이터 효율적 관리방안 연구",
+    "author": null,
+    "publisher": "한국보건사회연구원",
+    "published_year": null,
+    "kdc_label": "일반행정",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "OECD는 개인정보보호지침(Guidelines on the Protection of Privacy and Transborder Flows of Personal Data)에서 개인데이터(Personal Data)는 식별되거나 식별될 수 있는 개인에 관한 모든 정보를 지칭한다고 정의하고 있다. EU도 개인정보 보호지침(Directive95/46EC)에서 개인데이터(Personal Data)는 식별되거나 식별될 수 있는 자연인에 관한 모든 정보를 지칭 한다고 규정하고 식별가능한 개인이란 직접 또는 간접적으로 신원확인번호, 신체적, 생리적, 정신적, 경제적, 사회적동일성(identity)을 나타내는 요소를 참조하여 그 신원이 확인될 수 있는 사람을 지칭한다고 정의하고 있다.",
+  "summary": "OECD는 개인정보보호지침에서 개인데이터는 식별되거나 식별될 수 있는 모든 정보를 지칭한다고 정의하며 EU도 같으며, 식별가능한 개인이란 직간접적으로 정보로 신원이 확인되는 사람을 지칭한다."
+}

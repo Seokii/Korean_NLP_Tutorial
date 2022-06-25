@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201601060939441731_40",
+  "metadata": {
+    "doc_id": "PCY_201601060939441731",
+    "doc_type": "도서",
+    "doc_name": "2014 미래융합법제 연구논문 보고서",
+    "author": null,
+    "publisher": "법제처",
+    "published_year": null,
+    "kdc_label": "법무및검찰",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "NISCC는 내각장관을 의장으로 7개 유관부처의 대표로 구성된 운영위원회(Management Board)에 의해 운영되는데 운영위원회는 내각 사무처(Cabinet Office), 통신정보부(GCHOQ)의 전자통신보안국(CESG, Communication Electornics Security Group),보안정보국(SS, Security Service), 내무부, 국방부, 경찰 등 관련 부처로 구성되어 있다.또한 실무부서는 사이버 위협정보 분석 및 평가, 침해사고 발생 시 위기대응, 민간 및국가기관 대상 보안 및 정책자문, 정보보안기술개발 등의 업무를 담당하고 있다.NISCC는 모든 전자적 침해사고로부터 국가 주요기반시설(CNI, Critical NationalInfrastructure)의 방어를 위한 보안조정 센터의 역할을 하며 정부기관과 다른 기관들의 사이버테러 관련 전문 의견 및 위협 정보들을 필요 기관에 정기적, 비정기적으로 제공 한다.",
+  "summary": "NISCC는 내각장관과 내각 사무처, 통신정보부의 전자통신보안국,보안정보국, 내무부,국방부, 경찰의 7개로 되어있다. 실무부서는 사이버 위협정보 분석, 위기대응, 보안 정책자문 일을 수행하고 국가 중요시설의 방어를 위해 사이버테러 정보를 알려준다."
+}

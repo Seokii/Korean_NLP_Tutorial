@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201909180440421131_4",
+  "metadata": {
+    "doc_id": "PCY_201909180440421131",
+    "doc_type": "도서",
+    "doc_name": "5G 네트워크 자동화 및 지능 기술 표준화 동향 (Trends of 5G Network Automation and Intelligence Technologies Standardization)",
+    "author": "신명기, 이수환, 이종화",
+    "publisher": "한국전자통신연구원",
+    "published_year": "2019",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "첫째, NWDAF가 각 네트워크 기능과 응용 기능으로부터 데이터를 수집하는 방법은 기존의 네트워크 기능 이벤트 개방 서비스(NF event exposure service)를 이용하여 특정 슬라이스, 특정 사용자 혹은 사용자 그룹, 특정 데이터 네트워크로의 서비스 등에 대한 범주를 정해 수집 데이터 아이템(CDI: Collectable Data Item) 단위로 특정 주기를 설정하여 데이터를 수집하는 방법과 NRF(Network Repository Function)를 통해 특정 네트워크 기능의 프로파일(네트워크 기능의 용량, 부하, 상태 등) 및 네트워크 기능의 서비스(서비스별 용량, 서비스별 부하, 서비스별 상태) 등의 정보를 NRF가 제공하는 NFDiscovery_Request, NFManagement_NFStatusNotify 서비스를 사용하여 제공받는 것으로 합의하였다.",
+  "summary": "첫째, NWDAF 데이터 수집 방법은 기존 서비스를 이용한 수집 데이터 아이템 단위의 주기 설정 방법과, NRF 제공 서비스를 받는 것으로 합의했다."
+}

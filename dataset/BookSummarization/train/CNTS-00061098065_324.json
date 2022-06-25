@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00061098065_324",
+  "metadata": {
+    "doc_id": "CNTS-00061098065",
+    "doc_type": "도서",
+    "doc_name": "문화기술 연감",
+    "author": "한국콘텐츠진흥원",
+    "publisher": "한국콘텐츠진흥원",
+    "published_year": "2010",
+    "kdc_label": "예술",
+    "kdc_code": "600"
+  },
+  "chapter": null,
+  "passage": "콘텐츠 유통기술의 구성기술 중 콘텐츠 및 저작권 보호기술은 제1절 콘텐츠 보호에서 다루었으므로, 본 절에서는 자세한 설명을 생략한다. 콘텐츠 관리 및 서비스 기술 중에서 QoS(Quality of Service) 기술과 캐리어 서비스 기술은 통신 분야의 기술이므로 본 절의 구성 기술에서는 상세한 서술을 제외하는 대신에 콘텐츠 저장 및 관리기술에 대하여 상세히 서술한다. 콘텐츠 관리 및 서비스 기술을 구성하는 대표 기술은 CMS(Content Management System), CDN(Content Delivery Network) 등이 있다.",
+  "summary": "본절에서는 콘텐츠 저장 및 관리기술에 대해서 구체적으로 살펴보기로 한다."
+}

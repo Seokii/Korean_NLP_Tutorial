@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201804110528430511_74_75-0",
+  "metadata": {
+    "doc_id": "PCY_201804110528430511",
+    "doc_type": "도서",
+    "doc_name": "청아람(2018년 03+04월호, Vol.88)",
+    "author": null,
+    "publisher": "방위사업청",
+    "published_year": "2018",
+    "kdc_label": "병무행정",
+    "kdc_code": "300"
+  },
+  "chapter": "III. MAN, WAN의 새로운 대안 2. MAN, WAN을 위한 새로운 선택",
+  "passage": "10GigE이 MAN, WAN의 영역에서 잠재력을 지니는 것은, 기존에 광범위하게 활용되는 Ethernet이 기존의 사설 정보통신네트워크와 공중데이터네트워크를 연결하고 LAN들을 중장거리 광통신망과 융합시키는 데 중요한 역할을 수행하기 때문이다. 광통신 네트워크을 활용한 인터넷, \"Optical Internet\"이 현실로 등장할 것이다. 그리고 올해, 2000년에 시장화 될 것으로 예상되는 관련제품들은 경제적인 측면, 새로운 서비스의 도입, 새로운 차원의 속도, 그리고 새로운 네트워크 구조의 면에서 새 장을 열 것이다. 데이터트래픽의 비중이 공중망(public networks) 트래픽의 대부분을 점하게 될 정보통신환경에서 보다 나은 선택의 하나로 부각하게 될 것이다.\n Extreme Networks의 회장인 Gordon Stitt는 2000년 5월의 NetWorld+Interop컴퍼런스에서 이와 같은 네트워크의 구조적 혁신 가능성에 대하여 강조한 바 있다. 이와 같은 변화는 분명히 기존의 네트워크 비전과는 상당히 다른 모습을 담고 있으며, 기본적인 발상의 전환을 의미한다. 이미 Alcatel에 흡수된 Packet Engines의 CEO인 Bernard Daines가 ATM이 GigE에 자리를 내줄 것이라고 예견한 점에 주목할 필요가 있다. 그는 LAN기술인 Ethernet이 널리 보급되어 MAN, WAN의 영역을 커버하는 현상을 \"글로벌 LAN\"이라고 표현하고 MAN과 WAN의 의미 자체가 사라질 것이라고까지 이야기한다. ",
+  "summary": "10GigE이 MAN, WAN의 영역에서 가진 잠재력은, Ethernet이 사설 정보통신네트워크와 공중데이터네트워크를 연결하고 LAN들을 중장거리 광통신망과 융합시키는 역할을 수행하기 때문이다.   Gordon Stitt 회장은 Ethernet이 널리 보급되어 MAN, WAN의 영역을 커버하는 현상을 \"글로벌 LAN\"이라고 표현하며 MAN과 WAN의 의미 자체가 사라질 것이라고 한다. "
+}

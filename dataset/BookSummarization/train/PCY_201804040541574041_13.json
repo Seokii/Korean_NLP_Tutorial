@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201804040541574041_13",
+  "metadata": {
+    "doc_id": "PCY_201804040541574041",
+    "doc_type": "도서",
+    "doc_name": "공공수역 수질개선을 위한 공공하수처리시설 관리제도의 합리적 개선방안 연구",
+    "author": "김익재, 김호정, 한대호, 김교범, 곽효은",
+    "publisher": "한국환경정책·평가연구원",
+    "published_year": "2017",
+    "kdc_label": "상하수도·수질",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "미국 환경보호청(US EPA: United States Environmental Protection Agency)은 Clean Water Act법에서 신설오염원 운영기준(NSPS: New Source Performance Standards)을 통해 오염물질을 제어하기 위해 대기오염 배출기준, 지표수로 배출되는 산업폐수 수질오염 배출기준을 만들었다. 방류수 가이드라인(ELGs: Effluent Limitation Guidelines)은 폐수배출 및 공공처리 작업(POTW)에 대해 ｢EPA 청정수질법(CWA:Clean Water Act) Title III｣에 따라 유출지침을 발행하였다. 방류수 지침규정 수립 시 기존 산업 카테고리에 해당하지 않은 새로운 물질에 대한 전처리 기준을 확인하고, 이 기준은 처리 BAT(Best Available Techniques Economically Achievable) 등 처리 및 제어기술의 효율을 기반으로 산정된다. 또한 BADCT(Best Available Demonstrated Control Technology)를 운영하여 특정 산업 부문에 대해 기존 배출시설에 사용되는 경제적으로 달성가능한 최상의 기술보다 높은 수준을 적용하여 오염물질 무배출기준을 설정하기도 한다.",
+  "summary": "미국은 오염물질 제어를 위해 NSPS를 통해 대기오염 배출기준, 산업폐수 수질오염 배출기준 등을 만들어 운영 중에 있다. 또한 방류수 가이드라인을 만들고 BADCT를 운영하여 무배출기준을 설정하는 등 오염물질 배출에 관련하여 많은 신경을 쓰고 있다."
+}

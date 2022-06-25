@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201509110503133191_30",
+  "metadata": {
+    "doc_id": "PCY_201509110503133191",
+    "doc_type": "도서",
+    "doc_name": "항공분야 빅데이터의 정책적 활용방안 연구",
+    "author": null,
+    "publisher": "한국교통연구원\t",
+    "published_year": null,
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": "빅데이터의 개념과 정부 정책 현황",
+  "passage": "기존의 데이터 분석은 업종별, 시스템 별 또는 직무별 한정된 범위 내에서 정형화된 데이터를 수집·정제하여 분석하는 방식이었으나, 빅데이터 분석은 기존 데이터 분석과 데이터 ‘크기’와 ‘정형화 정도’에서 확연한 차이가 존재하여 정형 및 비정형의 대용량 데이터 분석이 가능하다. 분석 기술에 있어서도 기존의 데이터 분석은 Statistical Analysis, Querying and Reporting, OLAP, Database, Data Warehouse 등의 기술이 적용되었으나, 빅데이터 분석에서는 Advanced Statistical Analysis, Data Mining and Text Mining, Social Network Analysis, Hadoop 등의 다양한 분석 기술이 개발되어 적용하고 있다.",
+  "summary": "기존의 데이터 분석은 한정적인 범위에서 정형화된 데이터를 사용하였으나, 빅데이터 분석은 데이터 ‘크기’와 ‘정형화 정도’가 기존 데이터 분석과 크게 달라 정형 및 비정형의 대용량 데이터 분석을 할 수 있다. "
+}

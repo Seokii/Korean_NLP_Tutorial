@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201802050507463711_15",
+  "metadata": {
+    "doc_id": "PCY_201802050507463711",
+    "doc_type": "도서",
+    "doc_name": "주택용 연료전지시스템의 사회적 수용성 분석(Analysis of the Social Acceptability of Fuel Cell Systems for Residential Buildings)",
+    "author": "손범석, 손상학, 박환일",
+    "publisher": "한국환경정책·평가연구원",
+    "published_year": "2017",
+    "kdc_label": "주택",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "우선 전반적인 모형적합도에 대한 평가를 수행한다. 김현제·박찬국(2012)에서 정리된 내용에 따라 살펴보면, 적합도 지수에는 크게 절대적합지수, 증분적합지수, 간명적합지수가 존재한다. 절대적합지수는 모형의 전반적 적합도와 모형 설명력을 나타내며, RMR(Root Mean square Residual), RMSEA(Root Mean Square Error of Approximation), GFI(Goodness of Fit Index), AGFI(Adjusted Goodness of Fit Index) 등이 존재한다. 증분적합지수는 기초모형에 대한 제안모형의 부합도를 평가한다. 기초모형은 연구자가 최초로 제시한 연구모형을 말하며 제안모형은 이론적인 배경 하에 연구모형을 수정한 모형이다. 여기에는 NFI(Normed Fit Index), CFI(Comparative Fit Index), IFI(Incremental Fit Index) 등이 있다. 간결적합지수는 모형이 가급적 간결하면서도 적합도가 높은 정도를 평가한다. 여기에는 PNFI(Parsimony Normed Fit Index), PGFI(Parsimony Goodness of Fit Index) 등이 존재한다(김현제·박찬국(2012)).",
+  "summary": "모형적합도를 평가한 김현제·박찬국(2012)의 정리된 내용을 보면, 적합도 지수에는 절대적합지수, 증분적합지수, 간명적합지수가 있다. 절대적합지수는 모형의 전반적 적합도와 모형 설명력을 나타낸다. 증분적합지수는 기초모형에 대한 제안모형의 부합도를 평가한다. 간결적합지수는 모형이 가급적 간결하면서도 적합도가 높은 정도를 평가한다."
+}

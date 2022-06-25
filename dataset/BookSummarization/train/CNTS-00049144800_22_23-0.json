@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049144800_22_23-0",
+  "metadata": {
+    "doc_id": "CNTS-00049144800",
+    "doc_type": "도서",
+    "doc_name": "Ethernet 기술혁신과 정책시사점",
+    "author": "강홍렬",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2000",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "II. Ethernet기술의 진화 1. Ethernet기술의 혁신: GigE와 10GigE",
+  "passage": "다. GigE와 10GigE의 활용\n물론 GigE이나 10GigE이 데스크탑을 지원하기 위한 기술로서 당장 사용되는 것은 아닐 것이다. Greg Collins와 Tam Dell'Oro는, 주요 이용자가 가까운 시일내에 GigE을 데스크탑을 지원하기 위하여 도입하지 않는 이유로서 다음과 같은 몇가지 이유를 들고 있다. 첫째, GigE과 Fast Ethernet 사이의 가격비율이 GigE의 시장을 확보할 만큼 차이가 나야 한다. 1998년에 그 가격 비율은 6:1이었다. 데스크탑으로의 대규모 네트워크 전이(migration)가 이루어지기 위해서는 2:1 정도가 되어야 하지만, 2002년에도 4:1정도 수준에 머물게 될 것으로 예측된다. 둘째, 데스크탑 PC나 그 응용서비스들이 1Gbps에 달하는 데이터 전송을 충분히 활용하지 못할 것이라는 것이다. 우선 iMac이나 Windows Pentium 등의 프로세서가 기껏해야 아직은 Fast Ethernet을 활용할 수 있는 수준에 머물고 있으며, GigE을 활용할 수 있게 되기까지는 아직은 시간적인 여유가 많아 보인다. 그리고 저장기(storage devices)의 저장, 복원 속도도 1Gbps에 훨씬 미치지 못하고 있다. 물론 복수의 병렬(parallel) 저장방식에 의한 빠른 속도의 Contents switching과 통합(aggregator)이 결합될 수 있을 경우 1Gbps의 속도를 이론적으로 도출할 것이나 아직은 경제성이 없어 보인다. 나아가 단위 서버(저장기기 포함), 트래픽 제어장비(소프트웨어에 의존하는 라우팅기능을 가진 장비) 등에서 직접 발생하는 트래픽의 속도가 1Gbps 또는 10Gbps에 도달하지 않을 것이다.",
+  "summary": "Greg Collins와 Dell'Oro는, 이용자가 가까운 시일 내 GigE을 도입하지 않는 이유로 첫째, GigE와 Fast Ethernet의 가격비가 GigE의 시장을 확보할 만큼이어야 하고, 둘째, 데스크탑 PC나 그 응용서비스가 1Gbps의 전송속도를 활용하지 못할 것을 들고 있다. 프로세서가 아직 Fast Ethernet을 활용할 수 있는 수준에 머물고 있어 GigE를 활용하기 위해서는 시간이 필요해 보인다."
+}

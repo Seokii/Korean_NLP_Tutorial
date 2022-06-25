@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118871397_16",
+  "metadata": {
+    "doc_id": "CNTS-00118871397",
+    "doc_type": "도서",
+    "doc_name": "차세대염기서열분석(Next Generation Sequencing) 검사의 임상적 변이해석 및 검증방법 해설서(민원인 안내서)",
+    "author": "식품의약품안전처 의료기기정책과",
+    "publisher": "식품의약품안전처",
+    "published_year": "2019",
+    "kdc_label": "화학공학",
+    "kdc_code": "570"
+  },
+  "chapter": null,
+  "passage": "Discordant mate-pair 방법(소프트클립 reads 분석 포함)과 split-read 방법은 SV식별을 위해 사용되며, 이는 breakpoint 위치 확인을 위한 단일 염기 수준의 정확도를 제공한다. 서로 다른 SV 탐지 툴은 민감도 및 특이도에 대해 차이가 크기 때문에 다양한 툴을 평가하여 특정 분석법의 최적화된 특성이 결정되어야 한다. RNA 또는 cDNA를 시작물질로 사용하는 SV 검출 방법 중 특히 유전자 증폭(amplification)기반의 시퀀싱을 사용할 경우 별도의 생물정보학적 접근법을 사용한다. 이 경우 융합된 전사체(fused transcript)는 특정 chimeric fusion transcript의 gene reference에 배열 확인(aligning)한다.",
+  "summary": "Discordant mate-pair 방법과 split-read 방법은 SV 식별에 사용된다. 다양한 SV탐지 툴을 평가한 후 특정 분석법에 최적화된 특성이 결정되어야 한다. "
+}

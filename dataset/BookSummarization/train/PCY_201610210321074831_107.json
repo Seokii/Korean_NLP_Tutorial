@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210321074831_107",
+  "metadata": {
+    "doc_id": "PCY_201610210321074831",
+    "doc_type": "도서",
+    "doc_name": "녹색에너지협동연구 :우리나라 적정 사회적 할인율 및 탄소의 사회적 비용 추정",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": "우리나라 적정 사회적 할인율 추정",
+  "passage": "기후변화에 따른 경제성장 시나리오를 반영하기 위해 IPCC(Intergovermental Panel on Climate Change)에서 발행한 온실가스 배출 시나리오(Special Report Emissions Scenarios, 이하 SRES)를 참조하였다. IPCC에서 발행한 여러 리포트들은 각국 정책 입안자들과 전문가들에게 과학적 객관성을 인정받고 있다. IPCC SRES는 기후 변화의 위험 이해를 위한 과학과 기술 그리고 사회 경제학적인 정보를 평가하기 위해 The World Meteorological Organization (WMO)와 The United Nations Environment Programme (UNEP) 이 공동 작업한 것으로, 각 국가마다 다른 기술적인 변화와 경제 발전 정도를 감안하여 평가한 온실가스 배출에 대한 기준치를 제공한다. 이러한 시나리오들은 설계 시점부터 전문가 집단으로부터의 피드백과 입력 값에 대한 조언을 받는 공개 과정(open process)을 통하여 도출되었다.",
+  "summary": "참조한 IPCC 온실가스 배출 시나리오는 국가별 기술 및 경제 수준에 따른 온실가스 배출 기준치를 제시한다. 이 결과값은 전문가집단의 개입 하에 입력값에 대한 조언을 적용하는 공개과정을 거쳐 나온  것이다."
+}

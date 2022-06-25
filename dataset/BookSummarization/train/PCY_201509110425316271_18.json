@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201509110425316271_18",
+  "metadata": {
+    "doc_id": "PCY_201509110425316271",
+    "doc_type": "도서",
+    "doc_name": "ICT 생태계에서 산업 내, 산업 간 혁신 전이 : 콘텐츠 산업을 중심으로",
+    "author": null,
+    "publisher": "정보통신정책연구원\t",
+    "published_year": "2015",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "ASP(Application Service Provider)에서 혁신(innovation)이 일어나면 이 혁신은 다양한 경로를 거쳐 ISP(Internet Service Provider) 영역으로까지 전이(spillover)된다. 예를 들어 YouTube에서 제공하는 동영상 서비스가 엄청난 인기를 끌게 되자 YouTube에서 제공하는 동영상 UCC를 안정적으로 끊김없이 보여주는 것이 ISP의 중요한 기능이 되었다. 이에 따라 ISP는 대역폭(bandwidth)을 확충하고 QoS(Quality of Service)를 제공하는 등 네트워크 품질을 향상시키기 위해 노력하게 된다. 반대로 ISP에서 혁신이 일어나도 마찬가지로 다양한 경로를 거쳐 ASP 영역까지 전이된다. 예를 들어 ISP에서 QoS라는 기능을 통해 넓고 안정적인 네트워크 서비스가 제공되지 못하였다면, Voice over Internet Protocol(VoIP)라는 서비스도 생겨나지 못했을 것이다.",
+  "summary": "ASP에서 혁신이 일어나면 다양한 경로를 거쳐 ISP 영역으로까지 전이된다. YouTube 동영상 서비스가 인기를 끌게 되자 동영상 UCC를 안정적으로 보여주는 것이 ISP의 중요한 기능이 되었다. 이에 ISP는 네트워크 품질을 향상을 위해 노력하게 된다."
+}

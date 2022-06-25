@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118869612_181",
+  "metadata": {
+    "doc_id": "CNTS-00118869612",
+    "doc_type": "도서",
+    "doc_name": "2019 외국의 통상환경",
+    "author": "산업통상자원부 통상정책총괄과",
+    "publisher": "산업통상자원부 통상정책총괄과",
+    "published_year": "2019",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": null,
+  "passage": "DPD(Direct Port Delivery System)는 컨테이너를 수화인에게 직접 배송해주는 시스템으로 통관에서 CFS(Container Freight Station)에 컨테이너가 장치되는 단계를 생략함으로써 통관 시간을 단축시키고 있다. 또한,SWIFT(Single Window Interface For Facilitating Trade)는 수입자가 통관에 필요한 규제기관 서류 및 인증서를 세관 단일 창구로 온라인 제출하는 시스템으로 한국의 Single Window 시스템과 유사하나, 현재 세관 전산망에 연계된 기관은 6개(Food Safety and Security, Animal Quarantine, Plant Quarantine, Drug Controller, Textile Committee등)로 한정되어 있다. E-Sanchit은 Paperless통관을 위해 통관 관련 서류를 전자통관시스템(IGES)에 업로드할 수 있도록 개발된 것으로 한국의 paperless 제도와 유사하다.",
+  "summary": "DPD는 컨테이너를 수화인에게 직접 배송해주는 시스템으로 통관 시간을 단축시키며, SWIFT는 수입자가 규제기관 서류 및 인증서를 온라인 제출하는 시스템이며,  E-Sanchit은 통관 관련 서류를 전자통관시스템에 업로드할 수 있도록 개발된 것이다."
+}

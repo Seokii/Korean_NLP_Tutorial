@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220725726651_3",
+  "metadata": {
+    "doc_id": "PCY_201711220725726651",
+    "doc_type": "도서",
+    "doc_name": "임상진료지침 개발 협력 모형 구축 및 적용성 평가",
+    "author": "최미영, 김남순",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "이에, AHRQ (American Health Research and Quality)에서 임상진료지침 데이터베이스인 NGC (National Guideline Clearinghouse)의 진료지침 등록 기준을 IOM의 2011년 임상진료지침에 대한 정의에 의거해서, 방법론으로는 반드시 ‘체계적 문헌고찰’ 을 적용하고, ‘이득과 위해’에 대한 평가가 포함되어야 한다‘는 기준을 추가하였다. 변경된 등록기준은 2013년에 공표, 2014년 6월부터 적용하였다. 2015년 3월 AHRQ는 진료지침국제연합(G-I-N, Guideline International Network) 북미지역 심포지엄 발표에서 적용 전후의 NGC 등록 진료지침의 변화에 대한 통계현황을 발표하였다.",
+  "summary": "AHRQ에서 임상진료지침 데이터베이스의 진료지침 등록 기준을 추가, 공표하여 적용하였으며 진료지침국제연합 북미지역 심포지엄 발표에서 적용 전후의 변화에 대한 통계현황이 발표되었다."
+}

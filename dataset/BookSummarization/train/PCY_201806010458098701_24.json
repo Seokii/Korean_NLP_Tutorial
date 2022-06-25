@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201806010458098701_24",
+  "metadata": {
+    "doc_id": "PCY_201806010458098701",
+    "doc_type": "도서",
+    "doc_name": "교통연구 (Journal of Transport Research), 제24권 제2호",
+    "author": null,
+    "publisher": "한국교통연구원",
+    "published_year": "2017",
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Tobit 모형은 James Tobin(1958년)에 의해 제안된 모형으로 종속변수가 중도절단(censored)된 형태의 자료에 적용이 가능한 모형이다. 여기서, 중도절단이라 함은 자료의 집단(clustering)이 특정값보다 아래에 있거나(left-censored), 위쪽에 있는 경우(rightcensored) 또는 이 두 가지 모든 상태를 말하는 것으로 자료의 제한성을 의미한다. 교통사고자료의 경우, 사고발생이 구간 및 지점에서 특정기간 동안 발생하지 않은 경우가 있기 때문에 ‘0’을 기준으로 한 left-censored의 형태가 되며, 이를 고려한 tobit 모형의 식은 다음과 같다.",
+  "summary": "Tobit 모형은 종속변수가 중도절단(censored)된 형태의 자료에 적용이 가능한 모형이다. 여기서, 중도절단이라 함은 자료의 제한성을 의미한다. "
+}

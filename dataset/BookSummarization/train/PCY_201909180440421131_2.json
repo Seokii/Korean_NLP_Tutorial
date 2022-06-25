@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201909180440421131_2",
+  "metadata": {
+    "doc_id": "PCY_201909180440421131",
+    "doc_type": "도서",
+    "doc_name": "5G 네트워크 자동화 및 지능 기술 표준화 동향 (Trends of 5G Network Automation and Intelligence Technologies Standardization)",
+    "author": "신명기, 이수환, 이종화",
+    "publisher": "한국전자통신연구원",
+    "published_year": "2019",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "NWDAF는 2017년에 완성된 5G Phase 1 (Release 15)규격에서 네트워크 슬라이스 선택을 돕고자 다양한 네트워크 데이터를 수집 및 분석하는 기능으로 처음 규격화되었다. 2018년부터 시작된 5G Phase 2 (Release 16)단계에서는 NWDAF의 유즈케이스를 네트워크 슬라이스 선택에 국한하지 않고, 네트워크 지능 기술이 필요한 5G 전반의 영역으로 기능을 확장하자는 요구가 화웨이(Huawei)를 비롯하여 다수의 통신사업자들로부터 있었다. 해당 요구가 3GPP 회원사의 동의를 얻어 eNA(Study of enablers for Network Automation for 5G)라는 신규 기술보고서(TR 23.791)를 통해 NWDAF의 본격적인 기능에 대한 논의가 진행되었다. eNA 기술보고서는 2018년 말 개발 완료되었으며, 2019년에는 기술보고서에 합의된 사항들에 대한 5G Phase 2 규격화 작업이 본격적으로 진행 중이다.",
+  "summary": "NWDAF는 네트워크 슬라이스 선택을 위해 처음 도입되었고 이후 여러 통신 사업자들의 요구에 의해 5G 영역으로 기능이 확대되었다."
+}

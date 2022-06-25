@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201501260907004551_72",
+  "metadata": {
+    "doc_id": "PCY_201501260907004551",
+    "doc_type": "도서",
+    "doc_name": "2014년 12월호(Vol.7, No.2): 위성 기술과 활용",
+    "author": null,
+    "publisher": "기상청",
+    "published_year": null,
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "European Space Agency (ESA)는 우주기상 예보업무를 본격화하기 위해 2009년 Space Situational Awareness (SSA)의 준비 프로그램을 시작했다. 이 프로그램에는 현재 13개국이 참여하여 유럽의 독자적인 우주기상 자료 확보를 위해 위성 탑재체를 개발 및 운영할 계획을 수립하고 있다. 이 프로그램이 완성되는 2010년 후반에는 SSA Space Weather Data Center와 Space Weather Service Coordination Center를 설립·운영할 계획이다. 특히 기기의 신뢰성이 이미 검증된 우주기상 탑재체 20여개를 선정하여 각종 위성에 piggybag 방식으로 탑재 기회를 조사하고 있다(개인 교신, J.-P. Lunthama, SSA Space Weather Manager). 영국은 2012년 올림픽 개최와 재난 관리 차원에서 우주기상에 대한 정책적 관심이 높아짐에 따라, UK Met Office에서 우주기상 업무를 본격적으로 수행할 계획이다. 우주기상 측정 장비 측면에서 UK Met Office는 미국과 타이완이 추진하는 COSMIC 위성의 자료를 직수신할 계획이며, 전리층 D-region의 관측 기지인 ATDMet를 확충할 예정이다. 또한 저층대기의 기상예보모델을 열권/전리권까지 확장하여 우주기상의 일부인 전리권 예보 모델을 개발하고 있다.",
+  "summary": "ESA는 우주기상 예보를 본격화하기 위해 SSA 준비 프로그램을 시작, 13개국의 참여로 유럽 우주기상 자료 확보 운영 계획을 수립했다. 프로그램이 완성되면 SSA 우주기상 데이터센터와 우주기상 서비스 공조센터를 운영할 계획이다. 영국은 우주기상 관심도가 높아 우주기상 업무의 본격화와 확충을 준비 중이다."
+}

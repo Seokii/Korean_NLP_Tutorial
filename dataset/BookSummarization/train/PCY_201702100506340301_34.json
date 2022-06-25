@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201702100506340301_34",
+  "metadata": {
+    "doc_id": "PCY_201702100506340301",
+    "doc_type": "도서",
+    "doc_name": "지진포커스. 통권5호",
+    "author": null,
+    "publisher": "기상청",
+    "published_year": "2014",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Onsite 시스템의 예로는 일본의 UreDAS 시스템이 있다. 이 시스템의 목적은 지진에 의한 고속철 신칸센의 피해를 줄이기 위한 것으로 평균 20km 정도 떨어진 변전소마다 지진계를 설치하여 기준 규모 이상의 지진이 예측되면 즉시 해당 구간의 전원을 차단하여 열차가 자동 정지하도록 한다. 또한 일본에서 구조팀의 안전을 위해 개발된 이동이 자유로운 FREQL(Fast Response Equipment against Quake Load)도 Onsite 시스템이라고 할 수 있다. Network-based 방식의 예로는 미국의 ElarmS와 PreSEIS, 일본 기상청이 제공하는 긴급지진속보, 이탈리아 남부의 Presto, 터키의 SOSEWIN 등이 있다. 이 시스템은 진원 정보가 풍부하고 동시에 수신 지역이 멀리 떨어져 있는 경우에도 사용한다. 예를 들어, 멕시코시티의 지진조기경보시스템인 SAS의 경우 멕시코시티에서 320km 거리의 게레로(Guerrero) 해안에서 지진이 빈번하여 해안선을 따라 지진계를 일렬로 설치, 활용하고 있다.",
+  "summary": "Onsite site 시스템의 예로는 일본의 UreDAS,  FREQL등이 있다. Network-based 방식의 예로는 미국의 ElarmS와 PreSEIS, 일본 기상청의 긴급지진속보, 이탈리아의 Presto, 터키의 SOSEWIN 등이 있다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_202003160257388331_23",
+  "metadata": {
+    "doc_id": "PCY_202003160257388331",
+    "doc_type": "도서",
+    "doc_name": "주요국의 전력설비예비율 비교 연구",
+    "author": "박명덕",
+    "publisher": "에너지경제연구원",
+    "published_year": "2019",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "미국 NERC에서는 발전연료별 정격설비를 두 가지로 분류하여 설비예비율을 산정하고 있다. 먼저 “Anticipated Resource”는 기 운영 중인 확정설비와 기 계획되어 운영이 확실시되는 건설 중인 설비를 포함한 개념이다. “Prospective Resource”는 Anticipated Resource에 최대부하수급에 기여할 수 있으나 송전이 불안정한 설비와 건설되었음에도 불구하고 수급계획에는 포함되지 않은 설비들을 추가한 개념이다. 즉, Anticipated Resource는 보수적으로 측정한 “확정적 설비용량”에 해당하며, Prospective Resource는 설비예비율 산정 대상요건을 비교적 완화하여 측정한 “가용 설비용량”에 해당하는 것으로 이해할 수 있다.",
+  "summary": "미국 NERC에서는 정격설비를 Anticipated Resource와 Prospective Resource로 분류한다. 전자는 확정적 설비용량에 해당하며, 후자는 가용 설비용량에 해당한다."
+}

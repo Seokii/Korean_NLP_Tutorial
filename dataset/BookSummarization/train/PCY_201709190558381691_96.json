@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201709190558381691_96",
+  "metadata": {
+    "doc_id": "PCY_201709190558381691",
+    "doc_type": "도서",
+    "doc_name": "에너지 포커스 : 2016 가을호",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "영국의 송전요금은 2005년 이후 송전요금 체계가 일원화되었으며, 영국 계통운영자(Great Britain SystemOperator)인 NGET(National Grid Electric Transmission)가 지역독점 3사를 대신해 요금산정 및 수금업무를 수행하고 있다. 송전요금은 접속요금(Connection Charge), 송전이용요금(Transmission Network Use of System Charge, TNUoS), 그리고 균형조정요금(Balancing Service Use of System Charge, BSUoS)로 구성되어 있다. 접속요금은 송전망 사용자가 송전설비에 접속하기 위한 설비의 건설 및 운영비용을 회수하려는 목적의 요금이고, 송전이용요금은 송전계통의 건설 및 운영·유지를 위한 비용 회수, 균형조정요금은 NGET가 실시간 수급균형 유지를 위해 균형조정 에너지 및 예비력을 구매하는 비용을 회수하는 것이 목적인 요금이다.",
+  "summary": "영국의 송전요금은 2005년 이후 체계가 일원화되어 NGET가 요금산정 및 수금업무를 수행하며, 접속요금(송전설비 접속을 위한 비용), 송전이용요금(송전계통의 건설, 운영, 유지를 위한 비용), 균형조정요금(실시간 수급균형 유지 비용)으로 구성된다."
+}

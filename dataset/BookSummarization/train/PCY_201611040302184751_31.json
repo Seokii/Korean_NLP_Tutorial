@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611040302184751_31",
+  "metadata": {
+    "doc_id": "PCY_201611040302184751",
+    "doc_type": "도서",
+    "doc_name": "행위자기반모형(Agent-Based Modeling)을 이용한 신기술과 지식 확산 연구",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2015",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Davis의 Technology Acceptance Model (TAM)은 개인이 특정 기술을 사용하게 되는 이유가 무엇인지를 설명하기 위한 이론으로 특히 두 가지 요소를 중요하게 여기고 있다. 하나는 사용자가 생각하는 해당 기술의 유용성 (perceived usefulness)이고, 다른 하나는 사용자가 생각하는 해당 기술의 사용 용이성 (perceived ease of use)이다. TAM에 따르면, 이 두 요소는 해당 기술에 대한 개인의 태도에 영향을 미치고, 행위 의지에도 영향을 미치게 되며, 궁극적으로는 해당 기술을 사용하느냐 그렇지 않느냐에 영향을 미치게 된다.",
+  "summary": "Davis의 TAM은 개인이 특정 기술을 사용하는 이유에 해당 기술의 유용성과 사용 용이성을 중시하며, 이 두요소가 개인의 태도·행위의지·사용여부에 영향을 준다고 본다."
+}

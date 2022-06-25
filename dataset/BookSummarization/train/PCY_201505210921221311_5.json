@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201505210921221311_5",
+  "metadata": {
+    "doc_id": "PCY_201505210921221311",
+    "doc_type": "도서",
+    "doc_name": "지식재산과 경제발전-IP중심의 창업기업 생존전략 연구",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "생존분석은 연구에 포함된 개체들의 생존 시간을 분석하여 그 개체가 속한 집단 전체의 생존 경험을 요약하는 연구 방법을 의미한다. 기업 도산에 관한 연구 모형은 단변량 분석 기법인 Beaver(1967)의 이원 분류 검정(dichotomous classification test)에서 시작하여 다변량 분석 기법으로 점차 발전했으며, Ohlson(1980)의 로짓 모형(logit model), Zmijewski(1984)의 프로빗 모형(probit model) 등으로 대표되는 이산 확률 모형(discrete probability model)로 확대되었다. 이산 확률 모형은 판별분석에 비해 다변량 정규분포 가정에 위배되는 경우에 있어서 보다 안정적(robust)인 추정 결과를 나타낸다는 장점이 있다(남재우, 이회경, 년도 필요).",
+  "summary": "개체의 생존 시간을 통해 집단 전체의 생존을 추론하는 것이 생존분석이다. 기업 도산 연구 모형은 이원 분류 검정에서 다변량 분석 기법을 거쳐 이산 확률 모형으로 변하였다. 이산 확률 모형은 추정 결과가 안정적이다."
+}

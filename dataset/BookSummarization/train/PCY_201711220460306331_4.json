@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220460306331_4",
+  "metadata": {
+    "doc_id": "PCY_201711220460306331",
+    "doc_type": "도서",
+    "doc_name": "미평가 의료기술의 안전성 평가 방안",
+    "author": "김석현",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "체계적 문헌고찰(systematic review)은 이번 연구에 참여하고 있는 참여 연구진 중 책임연구원급 SR 전문가 2인을 통해 실시하였다. 검색대상 DB는 일반적으로 SIGN(Scottish Intercollegiate Guidelines Network)에서 체계적 문헌고찰의 문헌검색 범위를 Ovid-MEDLINE과 Ovid-EMBASE 및 Cochrane Library을 충족요건으로 보고 있어, 본 연구는 국외 의료기술 안전성 평가 관련 제도 및 평가방법론을 확인하기 위하여 국외 ovid-MEDLINE 및 ovid-EMBASE, 2차 DB(Cochrane Library)에서 검색대상으로 하였다(참고 1). 문헌검색은 PICO 형식을 준수하여 전략을 수립하였으며, 검색어는 전문가 등의 자문을 거쳐 체계적이고 포괄적인 검색을 실시하기 위해 의료기술과 안전성 평가, 제도를 포괄할 수 있는 용어로 선정하였다.",
+  "summary": "국외 의료기술 안전성 평가 관련 제도 및 평가방법론을 확인하기 위하여 체계적 문헌 고찰은 책임연구원급 SR 전문가 2인을 통해 Ovid-MEDLINE과 Ovid-EMBASE 및 Cochrane Library에서 검색대상을 선정하였다."
+}

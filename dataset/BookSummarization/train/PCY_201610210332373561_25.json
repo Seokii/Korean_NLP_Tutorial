@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210332373561_25",
+  "metadata": {
+    "doc_id": "PCY_201610210332373561",
+    "doc_type": "도서",
+    "doc_name": "합리적 송전망 비용회수 방안 연구",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "영국의 전력시장은 장외거래(OTC: Over The Counter) 및 선물거래에 의한 전력거래가 전체 전력도매거래의 약 93%를 이루고 있을 정도로 높은 비중을 차지하고 있으며 이들 거래의 대부분은 쌍무계약 즉 양방향계약이다. 이러한 전력거래시장형태에 따라 송전손실이나 송전혼잡에 대한 비용은 도매시장에서 반영하기 어려운 상황이며 송전이용요금의 차등화를 통해 지역적 가격신호를 주고 있는 현실이다. 송전운영은 3개의 지역독점회사에 의해 운영 및 관리되고 있는데 잉글랜드와 웨일즈는 National Grid Electric Transmmision(NGET), 스코틀랜드 남부는 Scottish Power Transmission(SPT), 스코틀랜드 북부는 Scottish Hydro Electric Transmission(SHETL)이 각각 지역독점회사이며 영국의 전체계통의 운영은 NGET가 담당하고 있다.",
+  "summary": "영국의 전력시장은 장외거래 및 선물거래가 전체 전력도매거래의 약 93%를 이루며 대부분은 양방향계약이다. 따라서 송전손실, 혼잡에 대한 비용은 도매시장에 반영되기 어렵다. 송전운영은 지역별로 3개의 지역독점회사에 의해 운영 관리되고 있다."
+}

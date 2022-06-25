@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611030408446161_29",
+  "metadata": {
+    "doc_id": "PCY_201611030408446161",
+    "doc_type": "도서",
+    "doc_name": "바이오 경제시대 과학기술정책 의제 연구사업 : 5년차",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2016",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "1960년대 초에 이르자 HeLa 샘플이 오염되었거나 잘못 분류되었을 수 있다는 우려가 표출되었다. 이에 1962년 미국의 암연구소(National Cancer Institute)는 ATCC에 표준 세포(reference cell)를 확보하는 사업을 지원하였으나 샘플의 오염 문제에 대한 불안감은 여전히 지속된다. 이후 1968년 유전학자 Stanley Cartler는 자신이 고안한 특성 분석 법으로 ATCC에 소장된 셀라인(cell line)을 검사하게 되는 데, 독립적 셀라인으로 분류되었던 36개의 샘플 중 24개가 오염된 HeLa 샘플인 것으로 밝혀졌다.",
+  "summary": "1960년대 초 HaLa 샘플의 오염에 대한 우려 표출 후, 1969년 툭성 분석법에 의해 36개 중 24개가 오염됐음을 확인했다."
+}

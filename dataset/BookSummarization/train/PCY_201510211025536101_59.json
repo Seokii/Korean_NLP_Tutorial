@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201510211025536101_59",
+  "metadata": {
+    "doc_id": "PCY_201510211025536101",
+    "doc_type": "도서",
+    "doc_name": "KIPA 조사포럼 Vol.14",
+    "author": null,
+    "publisher": "한국행정연구원\t",
+    "published_year": null,
+    "kdc_label": "국정운영",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "AHP를 활용한 사례나 논문을 보면 ‘쌍대비교를 통한’ priority의 도출에 초점을 맞춘 것이 대부분이다. 그리고 AHP의 과학성과 논리성, 그리고 넓은 활용성 등을 강조한다. 그러나 이는 hierarchy 내에서의 축제일 뿐이다. 즉 ‘a tempest in a teapot’이다. ‘콩 심은 데 콩 나고, 팥 심은 데 팥 난다’는 말처럼, hierarchy가 좋아야 AHP 분석 결과도 좋을 수 있다. AHP를 창안한 Saaty 교수도 hierarchy 구축 과정을 the art of modeling이라고 부르며 중요성을 강조하고 있다. 그 간의 경험으로 볼 때, AHP 분석의 전 과정에서 hierarchy 구축이 70% 이상의 중요도를 갖는다고 말하고 싶다. Hierarchy를 잘 구축하는 기술적인 방법들이 몇 가지 있으나, 가장 중요한 것은 hierarchy의 구성요소들이 ‘MECE(mutually exclusive collectively exhaustive) 원칙’과 ‘trade-off 관계의 유지’에 맞게 되었는지를 확인하는 것이다.",
+  "summary": "연구사례와는 다르게 AHP 분석의 전 과정 hierarchy구축이 매우 중요하다고 생각한다. hierarchy를 잘 구축하기 위해선 이것의 구성요소들이 MECE원칙인 trade-off  유지에 맞게 되었는지 확인해야 한다."
+}

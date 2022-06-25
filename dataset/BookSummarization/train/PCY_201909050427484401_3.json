@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201909050427484401_3",
+  "metadata": {
+    "doc_id": "PCY_201909050427484401",
+    "doc_type": "도서",
+    "doc_name": "전장관리체계 통합환경 구축, 미국의 사례를 보면",
+    "author": "안병오, 이경복",
+    "publisher": "한국국방연구원",
+    "published_year": "2019",
+    "kdc_label": "병무행정",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "다음은 JIE의 추진체계이다. JIE 거버넌스(governance)는 2012년에 발표된 ‘JIE 관리 구조’를 따르는데, JIE 집행위원회, 계획 조정반(Planning and Coordination Cell), DoD 최고정보책임자(Chief Information Officer, 이하 CIO), 사이버사령부, 전투사령부, DoD 구성군, 기술 동기화 국(Technical Synchronization Office)으로 구성된다. JIE 집행위원회는 JIE의 전체적인 방향과 목표를 설정하고, 계획 및 일정 등의 정책 수립과 주요 사항을 결정하고 감독하는 컨트롤타워 역할을 한다. 계획 조정반은 관련 일정, 주요 이슈, 구현계획 등을 조정한다. DoD CIO는 JIE 거버넌스를 총괄하며, 사이버사령부는 JIE 운영 지원을, 전투사령부는 전구 수준의 JIE 능력 확보를, 구성군은 JIE 능력의 설계, 구현, 운영 등의 업무를 담당한다. JIE 기술 동기화 국은 JIE 구현상의 기술적 업무를 담당한다.",
+  "summary": "JIE 집행위원회는 컨트롤 타워 역할, 계획 조정반은 관련 일정, 구현계획 등 조정, DoD CIO는 JIE 거버넌스 총괄, 사이버사령부는 운영 지원, 전투사령부는 능력 확보, DoD 구성군 능력 설계, 구현 등의 업무, JIE 기술 동기화 국은 기술적 업무를 담당한다."
+}

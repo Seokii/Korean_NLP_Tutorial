@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201506290910056371_0",
+  "metadata": {
+    "doc_id": "PCY_201506290910056371",
+    "doc_type": "도서",
+    "doc_name": "유전자치료제 순도시험법 시험정보집",
+    "author": null,
+    "publisher": "식품의약품안전처",
+    "published_year": null,
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "유전자 치료기술은 질병의 예방이나 치료를 목적으로 유전물질(DNA 혹은 RNA)을 전달하여 유전자발현을 조절하려는 기술이다. 지난 2003년에 중국의 Shenzhen SiBiono GeneTech(SiBiono; Shenzhen, China)사는 아데노바이러스를 이용하여 종양 억제인자(p53)을 발현하는 유전자를 삽입한 두경부암(Head and Neck squamous cell carcinoma) 치료제인 Gendicine을 중국내에서 품목허가 받은 바 있다. 최근에는, 2012년 11월에 유럽의약품청(EMA, European Medicines Agency)에서 허가를 받은 Alipogene Tiparvovec (Glybera, rAAV1/LPL, UniQure)은 아데노부속바이러스를 이용하여 지단백질 지질 분해효소(LPL, Lipoprotein lipase) 발현 유전자를 삽입한 제품으로 전 세계적으로 인정을 받을 수 있는 최초의 유전자치료제라고 평가되고 있다.",
+  "summary": "유전자 치료 기술은 질병의 예방이나 치료를 위해 체내로 유전물질을 넣어 유전자 발현을 조절하는 기술로서, 이를 활용하여 아데노 바이러스에 발현 유전자를 삽입한 치료제들이 만들어지고 있다."
+}

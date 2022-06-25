@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201702100441471731_128",
+  "metadata": {
+    "doc_id": "PCY_201702100441471731",
+    "doc_type": "도서",
+    "doc_name": "바이오 정보 수집·이용 실태조사",
+    "author": null,
+    "publisher": "국가인권위원회",
+    "published_year": "2016",
+    "kdc_label": "국민권익·인권",
+    "kdc_code": "300"
+  },
+  "chapter": "바이오 정보 관련 국내외 법제도 현황",
+  "passage": "본 연구가 대상으로 하는 바이오 정보는 개인을 식별할 수 있는 신체적, 행동적 특징에 관한 정보를 기계가 가독할 수 있도록 처리한 생체인식 정보(biometric data), DNA 유전정보(genetic data) 및 웨어러블 디바이스나 스마트기기 어플리케이션을 이용한 라이프로그(LifeLog)형 건강관련 정보(data concerning health)를 포함한다. 이들 정보는 순차적으로 한국 법제도에 포함되어 원칙적으로 규율받아 왔으나 용어와 규율 체계에 있어 통일성이 부족한 측면이 있다. 반면 유럽에서 최근 제정된 개인정보보호규정(General Data Protection Regulation)은 생체인식 정보(biometric data for the purpose of uniquely identifying a natural person), 유전정보(genetic data) 및 건강관련 정보(data concerning health)를 구분하되 같은 규범 하에서 규율하고 있다.",
+  "summary": "본 연구의 대상이 되는 바이오 정보에는 생체인식 정보, DNA 유전정보, 라이프로그형 건강관련 정보 등이 있다. 이 정보들은 용어와 체계 면에서 통일성이 다소 부족했다. 그러나 최근 제정된 유럽의 개인정보보호규정의 경우 명확한 기준하에 각 정보들을 관리하고 있다."
+}

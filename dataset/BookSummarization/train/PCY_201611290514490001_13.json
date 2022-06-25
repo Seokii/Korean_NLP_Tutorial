@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611290514490001_13",
+  "metadata": {
+    "doc_id": "PCY_201611290514490001",
+    "doc_type": "도서",
+    "doc_name": "GTAP모형에서 가계수요 탄력성계수의 추정과정 및 근거",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "AIDADS는 Rimmer and Powell(1996)가 LES함수를 소득-소비 경로의 비선형성을 허용하도록 확장시킨 수요함수로서 Clements and Chen(1996)이 제시한 유용한 수요함수가 갖추어야할 6개 기준을 모두 충족한다. 또한 Cranfiel et al.(2003)는 AIDADS와 Quadratic Almost Ideal Demand System(QUAIDS), Quadratic Expenditure System(QES), AIDS, LES 등을 비교한 연구에서 AIDADS가 가장 좋은 수요함수체계임을 보였다.",
+  "summary": "AIDADS는 확장된 수요함수로서 Clements and Chen의 6개 기준을 모두 충족하며, 연구에서 가장 좋은 수요함수체계임을 보였다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118880039_1",
+  "metadata": {
+    "doc_id": "CNTS-00118880039",
+    "doc_type": "도서",
+    "doc_name": "정책과 이슈",
+    "author": "산업연구원",
+    "publisher": "산업연구원",
+    "published_year": "2017",
+    "kdc_label": "사회과학",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "선진국에서는 인공지능 SW 개발을 위해 국가 차원 혹은 글로벌 기업의 주도하에 대형·장기 프로젝트를 진행하고 있다. 미국의 DARPA에서는 자연어 처리·질의응답 기술을 개발, 애플 시리 및 IBM 왓슨 QA의 모태가 되었으며, 현재 자연어 의미 이해를 위한 DEFT(Deep Exploration and Filtering of Text) 프로젝트를 추진하고 있다. 일본에서는 2021년 동경대 입시 합격을 목표로 Todai 로봇 프로젝트를 2011년부터 추진하다가 작년에 언어의 의미분석 한계에 직면하여 포기하였다. 글로벌 기업의 경우로는 IBM의 왓슨 QA, Google의 Knowledge Graph, MS의 Bing 검색엔진과 Apple의 Siri에 정답을 제공하는 울프럼 알파(Wolfram Alpha)가 대표적인 사례이다.",
+  "summary": "현재 많은 선진국들에서 인공지능 SW 개발을 위해 글로벌 기업 또는 국가 차원의 대형·장기 프로젝트를 진행하고 있다."
+}

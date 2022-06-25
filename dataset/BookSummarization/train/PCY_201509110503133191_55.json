@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201509110503133191_55",
+  "metadata": {
+    "doc_id": "PCY_201509110503133191",
+    "doc_type": "도서",
+    "doc_name": "항공분야 빅데이터의 정책적 활용방안 연구",
+    "author": null,
+    "publisher": "한국교통연구원\t",
+    "published_year": null,
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Air Traffic Management(ATM)에서 Automatic Safety Data Gathering(ASDG)에 의해 수집된 자료를 바탕으로 Automatic Safety Monitoring Tool(ASMT)이 연구 개발되었다. ASMT는 유사 실시간 레이더 추적, 비행 계획, 시스템 경보를 끊임없이 감시하면서 Safety Data의 수집과 분석을 통해 항공교통관리에 활용되고 있으나 분석 관점과 운영 관점은 모두의 이익을 보장하기 위해서는 서로 분리된 채로 유지되어야 하지만 Big Data의 분석에서는 이들 간의 서로 상호보완하기 위한 방법이 필요한 문제점이 존재한다.",
+  "summary": "ATM에서 수집 자료를 바탕으로 ASMT가 개발되었는데 분석, 운영 관점을 보장하기 위해 분리해 유지돼야 하지만 Big Data의 분석에서는 상호보완을 위한 방법이 필요하다. "
+}

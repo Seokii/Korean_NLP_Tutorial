@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504010555015791_96",
+  "metadata": {
+    "doc_id": "PCY_201504010555015791",
+    "doc_type": "도서",
+    "doc_name": "바이오경제시대 과학기술정책의제 연구사업 (4년차) -개인 유전자 기반 맞춤 의료의 현황과 발전 과제-",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": null,
+    "kdc_label": "기타",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Mi-Oncoseq 프로젝트에서는 전장유전체분석(whole genome sequenicng), 표적엑솜분석(targeted exome sequenicng), 전사체분석(transcriptome sequencing)을 모두 포함하는 통합 시퀀싱(integrated sequencing)을 지향한다(Roychowdhury et al., 2011). 다양한 유전체 레벨에서의 분석을 통해 구조재배열(structural rearrangements), 복제번호의 변경(copy number alterations), 유전자 변이(point mutations), 그리고 유전자 발현(gene expression)에 대한 결과를 보다 정확하고 효과적으로 도출할 수 있기 때문이다(Roychowdhury et al., 2011). 또한 통합 시퀀싱은 광범위한 서열-기능 지도에 대한 정보를 제공하며 암조직의 발생을 저지하는 단백질의 설계도 가능하게 한다(Chinnaiyan, 2013). 즉, Mi-Oncoseq 프로젝트를 통해서 암 질환에 유망한 치료제도 개발할 수 있다.",
+  "summary": "Mi-Oncoseq 프로젝트는 통합 시퀸싱을 지향하며 이유는 다양한 유전체를 분석하여 유전자 발현의 보다 정확하고 효율적을 결과를 알아낼 수 있기 때문이다. 이 프로젝트는 암 질환 치료제를 개발할 가능성이 있다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201801180332148781_19",
+  "metadata": {
+    "doc_id": "PCY_201801180332148781",
+    "doc_type": "도서",
+    "doc_name": "음성인식 AI 비서 시장의 현황과 시사점",
+    "author": "최지혜, 이선희",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2017",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Alexa의 Skill처럼 AI 스피커에서 구동되는 기능은 Google Home과 Assistant 생태 계에서 “Action”으로 불린다. “Actions on Google”로 명명된 Google Assistant 개발자용 플랫폼은 2016년 12월 공개되었으며, 외부 개발자들은 이 플랫폼을 활용하여 Google Home에 써드파티 서비스를 연동시킬 수 있다. Alexa Skills와 Google Action의 가장 큰 차이는 구동 방식에 있다. Echo 사용자는 특정한 Skill을 사용하기에 앞서 해당 기능을 직접 활성화시켜야 하지만, Google Home에서는 Google Home App의 서비스섹션에 등록된 Action이라면 별도의 활성화 과정 없이 음성명령만으로 구동시킬 수 있다(CNET, 2017. 1. 3).",
+  "summary": "AI 스피커에서 구동되는 기능은 Action이라고 하는데, 외부 개발자들도 자유롭게 써드파티 서비스를 연동시킬 수 있다. 또한 서비스섹션에 등록된 Action이라면 음성명령만으로 구동할 수 있다는 장점이 있다."
+}

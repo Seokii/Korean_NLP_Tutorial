@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118871568_0",
+  "metadata": {
+    "doc_id": "CNTS-00118871568",
+    "doc_type": "도서",
+    "doc_name": "3D 프린팅 치과용임플란트가이드 허가(인증)·심사 가이드라인(민원인안내서)",
+    "author": "식품의약품안전처 식품의약품안전평가원",
+    "publisher": "식품의약품안전처 식품의약품안전평가원",
+    "published_year": "2019",
+    "kdc_label": "총류일반",
+    "kdc_code": "000"
+  },
+  "chapter": null,
+  "passage": "3D 프린팅 기술은 적층방식 및 원재료에 따라 다양하게 개발되고 있다. 사용되는 원재료로는 금속, 고분자, 세라믹 분말 등 다양하게 사용될 수 있으며, 사용되는 재료에 따라 분말베드용융방식(Powder Bed Fusion), 직접에너지증착방식(Directed Energy Deposition), 재료압출방식(Material Extrusion), 재료분사방식(Material Jetting), 액체광중합방식(Vat Photopolymerization) 등 다양한 방법이 있다. 분말베드용융방식(Powder Bed Fusion)은 SLS/SLM, EBM, DMSL 기술, 재료압출방식(Material Extrusion)에는 FDM 기술, 재료분사방식(Material Jetting)에는 Polyjet, MJM기술, 액체 광중합방식(Vat Photopolymerization)에는 SLA, DLP 기술이 사용되고 있다.",
+  "summary": "3D 프린팅 기술은 방식에 따라 다양하다. 사용되는 원재료, 재료에 따라 다양한 기술이 사용되고 있다."
+}

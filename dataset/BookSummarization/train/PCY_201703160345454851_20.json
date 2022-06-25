@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703160345454851_20",
+  "metadata": {
+    "doc_id": "PCY_201703160345454851",
+    "doc_type": "도서",
+    "doc_name": "2016년 보건복지통계정보 통합 관리 및 운영",
+    "author": null,
+    "publisher": "한국보건사회연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Association rule mining 방법은 대표적인 Data mining 방법의 하 나로 사용자의 아이템구매 패턴 간의 연관관계를 구축하는 방법이다 (Sarwar et al., 2000b; Lin, 2000; Lin et al., 2002; Fu et al., 2000; Mobasher et al., 2001; Shyu et al., 2005). 예를 들어 유아용 식품을 구매한 사용자들의 70%는 기저귀를 구매한다는 연관관계는 유아용 식품 과 기저귀를 대상으로 하여 다양한 마케팅 전략을 구축할 수 있도록 해준 다. 하지만 시스템에 기록된 아이템의 목록이 다양할수록 연관관계 규칙 은 기하급수적으로 늘어나므로 유용한 연관규칙을 효율적으로 추출할 수 있는 알고리즘이 필요하다. 참고로 아이템 간의 Association rule이 아 니라 사용자 간의 Association rule을 사용할 수도 있다.",
+  "summary": "Association rule mining 을 통해 아이템 구매 패턴 간의 관계를 알아볼 수 있다. 시스템 상에 기록된 아이템이 많을 수록 효율적인 규칙을 도출해 낼 수 있으며, 사용자 간의 관계로도 파악할 수 있다. "
+}

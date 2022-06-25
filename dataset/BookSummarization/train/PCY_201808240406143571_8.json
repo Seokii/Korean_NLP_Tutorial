@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201808240406143571_8",
+  "metadata": {
+    "doc_id": "PCY_201808240406143571",
+    "doc_type": "도서",
+    "doc_name": "근로시간이 주관적 건강상태에 미치는 영향 : 내생적 순서형 프로빗 모형을 중심으로",
+    "author": "유혜림",
+    "publisher": "한국노동연구원",
+    "published_year": "2018",
+    "kdc_label": "고용노동",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "주관적 건강상태 변수는 개인의 생활습관 또는 고용상태를 반영한 변수들과 오차항 간의 상관관계가 있으므로 내생성이 있을 가능성이 잠재적으로 있다(Jones et al., 2013). 이 경우 단변량 프로빗 모형(univariate probit model)에서는 내생성으로 인해 추정결과가 일치추정량이 될 수 없다. 따라서 분석에서는 관찰되지 않은 이질성(heterogeneity)과 내생성을 통제한 다변량 프로빗 모형(multivariate probit model)이나 구조방정식이 추정을 위해 사용된다. 국외 실증 연구(Auster et al., 1969; Rosenzweig & Schultz, 1983; Grossman & Joyce, 1990; Mullahy & Portney, 1990; Mullahy & Sindelar, 1996)에서는 내생성을 고려하여 2단계 최소 제곱법(Two-Stage Least Squares, 2SLS) 또는 GMM(Generalized Method of Moments)을 사용하였다(Jones et al., 2013).",
+  "summary": "주관적 건강상태 변수는 내생성이 있을 가능성이  있다. 따라서 분석에서는 관찰되지 않은 이질성과 내생성을 통제한 다변량 프로빗 모형이나 구조방정식이 추정을 위해 사용된다. 국외 실증 연구에서는  2단계 최소 제곱법 또는 GMM을 사용하였다."
+}

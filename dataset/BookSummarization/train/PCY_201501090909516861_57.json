@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201501090909516861_57",
+  "metadata": {
+    "doc_id": "PCY_201501090909516861",
+    "doc_type": "도서",
+    "doc_name": "잔류동물용의약품 분석법 실무 해설서",
+    "author": null,
+    "publisher": "식품의약품안전처",
+    "published_year": null,
+    "kdc_label": "식품의약안전",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "잔류 분석을 위한 LC-MS에서 일반적으로 사용되는 질량분석관은 GC-MS와 마찬가지로 quadrupole과 ion-trap analyzer 이다. LC-MS에서는 분자이온 (M+H)+나 (M-H)-의 높은 abundance를 이용, SIM mode에서 잔류분석을 수행할 수는 있으나, fragment ion의 종류나 abundance가 적기 때문에 구조적 정성이 다소 미흡할 수 있다. 따라서, 이를 극복하기 위하여 텐덤 질량분석법 (tandem MS, MS/MS)을 주로 사용한다. 텐덤 질량 분석법은 분석 대상 이온을 선별한 후, 적절한 방법을 통해 해당 이온을 조각내고, 이들 조각 이온들의 m/z 값을 측정하는 방법이다. 따라서, 이 방법을 통해 대상 이온의 자세한 구조적 정보를 획득할 수 있으며, 이 방법이 HPLC와 함께 사용될 경우에는 LC-MS/MS라고 칭한다. LC-MS/MS의 용도로 가장 널리 사용되는 질량 분석관은 quadrupole 방식으로 직렬로 3개를 연결 (triple quadrupole) 하여 사용한다. Triple quadrupole에서 첫 번째 quadrupole은 관심 이온만을 선별하는 역할을 하고, 두 번째 quadrupole에서는 선별된 이온이 쪼개진다. 마지막으로 세 번째 qudrople은 쪼개진 이온들을 스캔하거나 (product ion scan의 경우에 해당), 특정 이온만을 검출 (selected reaction monitoring, SRM의 경우에 해당) 하는 역할을 수행한다. 특히 SRM의 경우, 두 번의 m/z 값 선정을 통해, 선택성이 향상되고, 결과적으로 분석 감도도 향상된다. 질량분석관을 통과한 이온들은 GC-MS에서와 마찬가지로 보통 electron multiplier에 의하여 검출된다.",
+  "summary": "LC-MS에서 사용되는 질량분석관은 quadrupole과 ion-trap analyzer이며, 주로 텐덤 질량분석법을 사용한다. 이를 통해 대상 이온의 구조적 정보를 자세하게 얻을 수 있다. HPLC와 함께 사용되면 LC-MS/MS라고 하며, quadrupole 방식이 사용되고, 관심이온을 선별하고 쪼개어 스캔하거나 특정 이온만을 검출한다. SRM의 경우, 선택성과 분석 감도가 향상된다. 통과한 이온은 보통 electron multiplier에 의해 검출된다."
+}

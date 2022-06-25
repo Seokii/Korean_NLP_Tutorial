@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201601290640269801_21",
+  "metadata": {
+    "doc_id": "PCY_201601290640269801",
+    "doc_type": "도서",
+    "doc_name": "미래정책포커스 2015. 겨울호 Vol.7",
+    "author": null,
+    "publisher": "경제‧인문사회연구회",
+    "published_year": null,
+    "kdc_label": "무역및투자유치",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "그동안 개발된 영향분석 모형의 국내 적용 가능성을 종합 검토한 결과 통합모형으로 PMP, CGE, IMPACT 등의 모형 활용이 바람직한 것으로 판단되었다. 또한 현재의 여건을 종합적으로 고려할 때 우리 여건에 적합한 경제적 영향분석 모형은 기후변화에 따른 식량공급 분석을 위해, 작물생육모형의 단수 변화와 한국농촌경제연구원의 농업관측사업에서 활용하는 농업시뮬레이션모형(KREIKASMO)을 연계한 기후-농업 연계 시뮬레이션 모형(SIMCAR; Simulation Model for Climate-Agriculture Relations)을 개발하여 적용하였다.",
+  "summary": "국내 적용으로 바람직한 통합모형은 PMP, CGE, IMPACT 이며 경제적 영향 분석 모형에는 기후-농업 연계 시뮬레이션 모형을 개발하여 사용하였다."
+}

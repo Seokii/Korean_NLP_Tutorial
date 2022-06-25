@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201908280958171131_45",
+  "metadata": {
+    "doc_id": "PCY_201908280958171131",
+    "doc_type": "도서",
+    "doc_name": "시간 빈곤(Time-Poor)에 관한 연구",
+    "author": "이경희, 김근주",
+    "publisher": "한국노동연구원",
+    "published_year": "2018",
+    "kdc_label": "고용노동",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Bittman(2002)은 1993∼94년 호주가구지출조사(Australian Household Expenditure Survey)를 통해 여가시간을 기준으로 한 시간 빈곤의 정도를 측정하였다. 이를 위해 여가시간 중위 값의 50% 수준인 주당 19시간 15분을 여가시간 빈곤선으로 설정하여 이 값 이하에 포함된 그룹을 시간 빈곤층으로 보았다. Bardasi and Wodon(2006, 2010)은 아프리카 기니(Guinea)의 2002∼03년 가구자료를 통해 유급노동과 무급노동을 합한 노동시간을 파악한 후 표본샘플의 노동시간 분포 및 중위수를 산출하고, 시간 빈곤선은 산출된 중위 값의 1.5배 또는 2배의 시간에 해당되는 경우로 설정하였다. Burchardt(2008)는 2000년 영국의 시간사용조사(UK Time Use Survey 2000) 자료를 활용하여 (24×7)시간에서 유급노동, 무급노동, 개인유지를 차감한 자유시간의 부족을 시간 빈곤으로 정의한 후, 자유시간 중위 값의 60%인 26시간 42분을 시간 빈곤선으로 설정하였다. 2009년 PNAD 자료를 통해 브라질의 시간 빈곤에 대해 분석한 Ribeiro and Marinho(2012)의 연구에서는 기존 연구에서 주로 기준으로 사용되었던 중위 값 대신 표본샘플을 통해 확인된 자유시간의 평균값을 기준으로 시간 빈곤을 정의하고 있다. Kalenkoski et al.(2011)과 Kalenkoskiand Hamrick(2013)은 미국 시간사용조사(American Time Use Survey) 자료를 이용하여 필수시간을 차감한 재량시간을 기준으로 중위 값의 50%, 60%, 70%를 시간 빈곤선으로 설정하여 표본 전체 및 가구구성원수, 소득수준별, 고용여부에 따른 시간 빈곤선을 분석하였다.",
+  "summary": "시간 빈곤의 정도를 측정하기 위해 Bittman, Bardasi and Wodon, Burchardt, Ribeiro and Marinho, Kalenkoski et al. , Kalenkoskiand Hamrick 등은 각각 다양한 방법를 사용하였다."
+}

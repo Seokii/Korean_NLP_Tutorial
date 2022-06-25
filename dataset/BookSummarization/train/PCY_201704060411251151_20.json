@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201704060411251151_20",
+  "metadata": {
+    "doc_id": "PCY_201704060411251151",
+    "doc_type": "도서",
+    "doc_name": "실시간 수질측정자료 정확도 향상을 위한 관리방안 연구",
+    "author": null,
+    "publisher": "환경부",
+    "published_year": "2013",
+    "kdc_label": "기타",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "미국의 Aquatic Sensor Workgroup은 수자원 관리분야, 연구분야, 민간 분야의 대표들이 참여하여 수질센서를 통한 환경 모니터링 및 데이터 처리에 관한 표준을 개발하는 조직이다. 해당 조직에는 국가기관인 USGS, EPA와 민간분야인 YSI, In-Situ Inc., HACH, 연구기관인 ALLIANCE for COASTAL TECHNOLOGIES, Virginia Tech 등이 참여하고 있다. 아래에는 해당 그룹에서 센서를 이용한 실시간 데이터 수집 시에 정도 관리 및 정도 보증을 위해 제시한 일반적인 사항을 정리하였다 .",
+  "summary": "미국의 Aquatic Sensor Workgroup은 수질센서를 통한 환경 모니터링, 데이터 처리 표준을 개발하는 조직으로 국가기관, 민간분야, 연구기관이 있다."
+}

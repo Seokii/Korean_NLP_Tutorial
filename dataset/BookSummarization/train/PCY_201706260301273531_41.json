@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201706260301273531_41",
+  "metadata": {
+    "doc_id": "PCY_201706260301273531",
+    "doc_type": "도서",
+    "doc_name": "OECD ESP 역량 역동성 종단연구(Ⅲ) : OECD 본조사 한국 실행가능성 연구 및 3개년 종단자료 분석",
+    "author": "김미숙",
+    "publisher": "한국교육개발원",
+    "published_year": "2016",
+    "kdc_label": "교육일반",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "시간의 변화에 따른 인간 종단자료의 분석은 크게 위계적 선형모형(Hierarchical Linear Modeling: HLM)과 잠재성장모형(Latent Growth Modleing: LGM)이며 위계적 선형모형과 잠재성장모형은 동일한 통계적 수식으로 표현되어지고 있는 활용에서 다소 차이가 있다. 하지만 위계적 선형모형은 다단계 층에 속해 있는 횡단자료(cross-sectional data)를 분석하는데 적합한 반면 잠재성장모형은 종단자료 분석에 적합한 것으로 받아들여지고 있으며(Curran, Bauer, & Willoughby, 2004) OECD ESP 1, 2, 3차년도 종단자료를 분석하는 본 연구에서는 잠재성장모형이 더 적합한 것으로 생각된다.",
+  "summary": "인간 종단자료의 분석 모형 중 위계적 선형모형은 다단계 층에 속한 횡단자료 분석이 적합하므로 본 연구의 OECD ESP 1, 2, 3차년도 종단자료 분석에는 잠재성장모형이 더 적합하다. "
+}

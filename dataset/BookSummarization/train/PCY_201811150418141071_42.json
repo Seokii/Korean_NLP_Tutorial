@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201811150418141071_42",
+  "metadata": {
+    "doc_id": "PCY_201811150418141071",
+    "doc_type": "도서",
+    "doc_name": "2017 IP Insight: 해외 지식재산권 판례 심층분석 보고서",
+    "author": "한국지식재산보호원",
+    "publisher": "특허청",
+    "published_year": "2018",
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": "",
+  "passage": "대상판결에서 문제된 특허는 유전자 검사(genetic testing)를 위한 키트(kit)에 대한 특허로 “Tautz Patent”로 칭해진다. “Tautz Patent”는 재발급된 특허로 특허번호는 “U.S. Reissue Patent No. RE 37,984”이다. “Tautz Patent”가 구체화하고 있는 키트는 5개의 구성부품, 즉 ① 복제가능한 DNA 가닥(strand) 부분을 표시하는 “프라이머 조합물(Primer mixture)”, ② 복제된 DNA 가닥을 형성하는 “뉴클레오티드(nucleotides)”, ③ “태그 폴리머라제(Tag Polymerase)”로 알려진 효소(enzyme), ④ 증폭(amplification)을 위한 “완충용액(buffer solution)”, ⑤ “대조(control) DNA”로 구성되어 있다. 원고 Promega 사는 “Tautz Patent”의 독점적인 실시권자(exclusive licensee)로서, 유전자 테스트 키트를 생산하는 피고 Life Technologies 사에게 특정 지역에서 이 키트를 생산, 판매할 수 있는 실시권을 설정하여 주었다. 피고 Life Technologies 사는 구성부품의 하나인 “Tag Polymerase”를 제외한 나머지 4개의 구성부품을 영국에서 생산하였고, 하나의 구성부품인 “Tag Polymerase”를 미국에서 생산하여 영국으로 배송한 후에, 5개의 모든 구성부품을 영국에서 조립하였다. 실시권설정 계약이 체결되고 4년 후, 원고 Promega 사는 피고 Life Technologies 사가 실시권 설정범위를 초과하여 유전자 테스트 키트를 판매하였다는 이유로, Wisconsin 주 서부지구 지방법원에 특허침해소송을 제기하였다. 특히 원고 Promega 사는 피고 Life Technologies 사가 구성부품인 “Tag Polymerase”를 미국에서 생산하여 영국으로 수출하는 행위가 미국 특허법 제271조(f)(1)이 규정하는 특허침해행위에 해당한다고 주장하였다.",
+  "summary": "원고 Promega 사는 피고 Life Technologies 사에게 특정 지역에서 Tautz Patent의 키트를 생산, 판매할 수 있는 실시권을 설정하여 주었다. 피고 Life Technologies 사는 Tag Polymerase를 미국에서 생산하여 영국으로 배송한 후, 영국에서 생산한 나머지 구성부품과 함께 조립을 영국에서 하였다. 원고는 피고가 실시권 설정 범위를 초과하여 키트를 판매하였다는 이유와 Tag Polymerase를 미국에서 생산하여 영국으로 수출하는 행위가 특허침해행위에 해당한다는 이유로 소를 제기하였다."
+}

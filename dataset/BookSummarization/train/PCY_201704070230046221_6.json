@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201704070230046221_6",
+  "metadata": {
+    "doc_id": "PCY_201704070230046221",
+    "doc_type": "도서",
+    "doc_name": "[특집] 공간정보를 활용한 국토진단과 정책방향 : 02. 국토진단을 위한 오픈소스 GIS 분석기능의 발전동향",
+    "author": null,
+    "publisher": "국토연구원",
+    "published_year": "2017",
+    "kdc_label": "지역및도시",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "공간 데이터가 갖는 공간적 의존성과 공간적 이질성이라는 공간 효과를 통제함으로써 회귀모델의 신뢰도를 높이는 방식을 공간계량경제모델(Spatial EconometricsModel)이라 하며, 이에는 공간회귀모델(Spatial Regression: SAR)과 지리가중회귀모델(Geographically Weighted Regression: GWR)이 있다. 공간회귀모델은 공간 데이터가가지는 공간적 자기상관을 통제하여 회귀모델의 신뢰도를 높이는 공간계량모델이다. 공간 객체들의 인접성을 측정한 공간가중치행렬(Spatial Weight Matrix)을 회귀모델에 반영하는 기법으로 대표적으로 공간시차모델(Spatial Lag Model)과 공간오차모델(SpatialError Model)이 있으며, 이 두 가지를 통칭하여 공간자기회귀모델(Spatial Autoregressive Model: SAR)이라도 한다.",
+  "summary": "영향을 주는 사업 수행시, 특히 이주, 선주민 토지에 위험물질 저장이나 처리를 할 때 사전동의를 구하도록 하고 있다."
+}

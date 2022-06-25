@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201602020851381641_19",
+  "metadata": {
+    "doc_id": "PCY_201602020851381641",
+    "doc_type": "도서",
+    "doc_name": "빈곤과 불평등 분석을 위한 한국의 동태적 연산가능 일반균형(CGE) 모형 개발",
+    "author": null,
+    "publisher": "경제‧인문사회연구회",
+    "published_year": null,
+    "kdc_label": "기초생활보장",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "본 연구에서는 Peter Dixon교수를 중심으로 호주의 Monash University에서 개발된 ORANI-G 모형을 한국에 적용하고자 한다. 이를 위하여 ORANI-G모형에 맞추어 한국 데이터베이스를 개발하고 제도 부문을 추가하였으며, 한국의 사회회계행렬을 이용할 수 있도록 ORANI-G 모형의 구조를 부분적으로 수정하였다. CGE 모형의 근간이 되는 데이터베이스인 사회회계행렬(Social Accounting Matrix, SAM)은 Sir Richard Stone에 의하여 일찍이 1960년대 초에 이미 개발되었으나, 본격적으로 현실에 적용되기 시작한 것은 1970년대 말에 들어와서 World Bank가 개발도상국을 위한 개발전략을 설계하는데 표준적인 분석 도구로 CGE 모형을 채택하면서부터 CGE모형의 기본 데이터베이스로 활발하게 보급되기 시작하였다.",
+  "summary": "본 연구에서는 호주의 Peter Dixon 교수가 개발한 ORANI-G 모형을 한국에 적용하여 한국의 데이터베이스에 맞게 수정하였다. 사회회계행렬에 기반한 데이터베이스는 CGE 모형의 채택으로 부터 활발히 보급되었다."
+}

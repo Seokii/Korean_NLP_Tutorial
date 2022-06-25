@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220600459971_45",
+  "metadata": {
+    "doc_id": "PCY_201711220600459971",
+    "doc_type": "도서",
+    "doc_name": "의료기술 관점에서 방사선치료장비의 안전하고 효율적 사용방안",
+    "author": "김민정",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2013",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "둘째, 원격감사(off-site audit)는 모든 참가 기관들을 정기적으로 방문할 수는 없기 때문에 원격 선량측정 검토(off-site dosimetry review)를 하기 위함이며 다음의 사항을 포함한다 - 주기적으로 기계의 출력량을 확인하기 위한 우편 발송 가능한 TLD 프로그램(mailable TLD program), 환자의 dose 계산에 사용한 데이터의 잠재적인 문제를 식별하기 위해 RPC ‘표준 선량측정(standard dosimetry)’ 데이터와 기관의 선량측정 (dosimetry) 데이터를 비교, 치료계획 알고리즘의 확인을 위해 실제 혹은 참고 환자의 계산을 평가, 기관의 서면으로 된 품질보증 절차와 기록을 검토, IMRT, 정위적 방사선수술 등과 같은 특별한 치료 기술들의 전달 선량을 확인하기 위한 mailed anthropomorphic phantoms.",
+  "summary": "원격감사를 통해 모든 기관들에 대해 정기적으로 치료기기의 방사선 출력량 검사한다. 여기에는 공유 가능한 일반 및 특수 선량계, 데이터 신뢰성 판별, 치료계획 평가, 품질보증 검토, IMRT가 요구된다."
+}

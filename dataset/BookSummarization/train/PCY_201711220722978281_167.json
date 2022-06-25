@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220722978281_167",
+  "metadata": {
+    "doc_id": "PCY_201711220722978281",
+    "doc_type": "도서",
+    "doc_name": "의료기술평가제도의 국제 비교연구",
+    "author": "김수경",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2015",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "입원 시 제공되는 의료기술은 DRG로 고정되어 있으며, 편익의 결여로 인하여 G-BA에 의해 명백히 배제되지 않는 이상 모든 기술은 SHI에 의해 급여 받는다(negative list). 이는 SGB V의 137c에 “permission unless explicitly banned\"로 기술되어 있다. 기존 기술은 대부분 독일 DRG시스템에 비용계산이 되어 있다. 새로운 진단법 및 치료법은 기존 DRG에 계산되어 있는 것보다 더 비싸고 질병금고와 지역단위 병원 간에 기금합의가 있다면 추가 예산인 \"NUB(new examination and treatment methods)\" 에 해당된다.",
+  "summary": "SGB V의 137c에 의하면 입원 시 의료기술을 DRG에게 제공받으며 이 기술은 SHI가 급여한다. 새로운 진단법과 치료법은 추가 예산인 \"NUB\"에 해당되기도 한다. "
+}

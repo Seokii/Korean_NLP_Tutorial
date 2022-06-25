@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610201031372971_68",
+  "metadata": {
+    "doc_id": "PCY_201610201031372971",
+    "doc_type": "도서",
+    "doc_name": "국가연구개발 정성평가 현황과 발전방향",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2015",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "EC(European Commission)는 각 연구주제별로 발표하는 Work Programme을 통해 공모의 내용 기간, 실시방법을 공개하고, 프로포절 공모(calls for proposals)를 통해 연구과제 제안서를 접수한다. 접수된 연구 프로포절을 평가할 전문가는 CORDIS(Community Research and Development Information Service)의 데이터 베이스 등에서 선정된다. 평가위원으로는 학계 산업계 출신 등 EU 지역의 다양한 전문가가 선정되며, 이 때 젠더 출신국가 지역 등의 균형도 고려한다. EU FP는 유럽 내 다양한 국가에서 연구과제 프로포절이 제출되므로, 평가위원에게는 해당 분야의 전문성과 동시에 언어능력도 선정기준으로 요구되며, 비밀유지계약에 대한 동의여부, 이해관계의 유무 등이 사전에 평가된다. EC는 평가위원을 대상으로 Work Programme 및 평가기준 프로세스 설명, 이해관계 확인 등의 절차를 수행한다. 제출된 연구 프로포절에 대해 EC는 사무적 차원에서 필요한 서류의 제출 누락여부, 연구프로그램과 제안서 주제의 일치 등을 확인 한다(European Commission, 2010).",
+  "summary": "EC는  Work Programme에 공모내용과 기간, 실시방법을 알리고, 프로포절공모에서 연구과제제안서를 접수한다. 평가전문가는 CORDIS데이터로 선정하는데, 전문성과 언어능력, 비밀유지계약 동의여부, 이해관계유무 등이 사전검토된다. EC는 평가위원의 적정성을 심사하고, 제안서의 주제일치여부 등 확인작업을 한다."
+}

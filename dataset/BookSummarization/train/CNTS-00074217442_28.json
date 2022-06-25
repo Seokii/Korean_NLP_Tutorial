@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00074217442_28",
+  "metadata": {
+    "doc_id": "CNTS-00074217442",
+    "doc_type": "도서",
+    "doc_name": "蔚珍德川里新羅墓群",
+    "author": "박광열",
+    "publisher": "聖林文化財硏究院",
+    "published_year": "2015",
+    "kdc_label": "아시아",
+    "kdc_code": "910"
+  },
+  "chapter": null,
+  "passage": "이식 제작에 사용된 재료의 성분을 밝히기 위하여 비파괴 성분 분석기인 X선형광분석기(XRF, XRay Fluorescence Sequential Spectrometer, Model : Seiko Instruments Ins., SEA2220A, Japan)를 사용하였다. 이때 사용한 콜리메이터의 직경은 3㎛이고, 전압은 50㎸, 전류는 자동전류, 분석시간은 150s의 조건에서 수행하였다. 분석 위치는 표면이 가장 양호한 세 지점을 분석하였으며, 분석데이터는 그 평균치를 산출하였다. 분석 결과는 불순물 또는 이물질로 추정되거나 기존의 금공 장신구 분석 자료를 통해 소량으로 판단되는 극미량원소는 전체 정량분석 값에서 제외하고 Au, Ag, Cu, Fe를 주성분으로 분석하였다. 또한 이식의 제작 기법을 파악하기 위해 실체현미경(LEICA M75)으로 10~20배 확대하여 관찰하였다.",
+  "summary": "X선형광분석기를 통해 재료 성분을 조사했고 Au, Ag, Cu, Fe를 주성분으로 분석하였다. 기법을 파악하기 위해 실체현미경(LEICA M75)도 사용했다."
+}

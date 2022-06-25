@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210302347061_9",
+  "metadata": {
+    "doc_id": "PCY_201610210302347061",
+    "doc_type": "도서",
+    "doc_name": "사물인터넷을 통한 에너지 신산업 발전방향 연구 : 텍스트마이닝을 이용한 미래 신호 탐색",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": "사물인터넷 확산과 영향",
+  "passage": "사물인터넷(IoT, Internet of Things)은 물리적 세계의 사물이 인터넷에 연결되어 데이터를 공유하는 것을 지칭한다(WEF, 2015; Government Office for Science, 2014). 사물인터넷은 네트워크의 네트워크(network of networks)로서 센싱(sensing), 통신(communication), 컴퓨팅(computing), 분석(analysing) 기술의 결합으로 물리적 세계와 버추얼(virtual) 세계 간 데이터의 전달, 저장, 처리를 가능하게 하는 기술이다(The Faktory, 2014)",
+  "summary": "사물인터넷은 실제 사물이 인터넷에 연결되어 데이터를 공유하는 것으로 여러 기술의 결합으로 물리적 세계와 버추얼 세계를 연결한다."
+}

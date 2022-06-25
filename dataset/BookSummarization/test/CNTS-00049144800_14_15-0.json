@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049144800_14_15-0",
+  "metadata": {
+    "doc_id": "CNTS-00049144800",
+    "doc_type": "도서",
+    "doc_name": "Ethernet 기술혁신과 정책시사점",
+    "author": "강홍렬",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2000",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "II. Ethernet기술의 진화 1. Ethernet기술의 혁신: GigE와 10GigE",
+  "passage": " 나. 10GigE\n 최근의 기술동향과 관련하여 새로이 주목을 끌기 시작한 기술중의 하나가 10Gbps 속도의 Ethernet기술, 즉 10GigE이다. 10GigE은 Ethernet bandwidth hierarchy의 논리적 차세대 주자(\"next logical development in this Ethernet bandwidth hierarchy\")로서, 종전 Ethernet의 특성을 유지하고, 비용 효율적이고 설치가 편리한 Ethernet의 기존 전통과 조직이나 기업 단위의 기존 네트워크 기반을 그대로 계승하는 기술이다. 10GigE은 정보통신이용자수의 증가와 전자상거래, 인터넷 음성통신의 확대, 그리고 멀티미디어 응용서비스의 확산으로 인한 정보통신서비스 수요의 확대에 맞추어 전달 대역(bandwidth)의 수요를 수용하기 위한 기술혁신의 하나라고 이해할 수 있다.\n 1999년 5월 Lucent Technologies가 Networld+Interop에서 세계 최초의 10GigE multiplexer를 선보인 이래, 이미 많은 기업들이 10GigE 관련기술의 개발에 돌입하고 있는 것으로 보인다. 이것은 10GigE이 단순히 개념의 단계를 지난 것을 의미한다. 그리고 2000년 2월에 Cisco Systems, 3Com, World Wide Packets 등의 메이저 장비업체를 중심으로 '10 Gigabit Ethernet Alliance'가 구성되어 2000년 5월 9일 현재 50개 이상의 기업이 참여하고 있다. Mark LaPedus는 10GigE에 의해서 제시되는 새로운 가능성은 '10 Gigabit Ethernet Alliance'와 함께 네트워크 환경을 뒤흔들 것으로 평가하고 있다.",
+  "summary": "최근 새로 주목받는 기술인 10GigE는, Ethernet의 특성을 유지하고 정보통신서비스 수요확대에 맞춰 전달 대역의 수요를 수용하기 위한 기술혁신의 하나이다. 1999년 세계 최초 10GigE multiplexer를 선보인 이래, 많은 기업이 10GigE 기술개발에 돌입한 후 주요 장비업체를 중심으로 '10 Gigabit Ethernet Alliance'가 구성되어 2000년 5월 50개가 넘는 기업이 참여하고 있다."
+}

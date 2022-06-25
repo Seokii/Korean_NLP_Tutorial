@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504031018274731_33",
+  "metadata": {
+    "doc_id": "PCY_201504031018274731",
+    "doc_type": "도서",
+    "doc_name": "행위자 기반의 공간변화 시뮬레이션 모형구축과 국토도시정책 활용방안 연구",
+    "author": null,
+    "publisher": "국토연구원",
+    "published_year": null,
+    "kdc_label": "기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "컴퓨터 환경 상에서 구현되는 시뮬레이션 모형은 다양한 대안적 미래를 산출할 수 있는데, 결과물의 특징을 손쉽게 이해하기 위해서는 적절한 분석지표(measurement metrics or indicators)를 활용할 필요가 있다. 예를 들어 공간변화 시뮬레이션 수행 결과, 개별적인 토지이용패치수(Number of Patches)가 높으면 신규 개발지가 확산(diffusion)되는 것을 의미하며, 최대패치지수(Largest Patch Index)가 높을 때는 기존 개발지로의 융합(coalescence)이 되고 있는 것을 의미한다(Nassar, Alan Blackburn, & Duncan Whyatt, 2014). 또한 단순한 토지이용 패턴보다는 다차원의 밀도지표를 활용하면 도시공간을 밀도분포 특성에 따라 다양하게 구분가능하며, 이를 기반으로 에너지 절감형 공간정책 등의 다양한 정책방안 마련이 가능하다(Kickert, Berghauser Pont, & Nefs, 2014).",
+  "summary": "컴퓨터 환경의 시물레이션 모형은 다수의 대안적 미래를 경험하게 하는데 이해도를 높이기 위해 분석지표를 사용해야 한다. 예로 공간변화 시뮬레이션은 특성에 따른 다양한 구분으로 에너지 절감형 공간정책 등 여러가지 정책방안을 생각할 수 있다."
+}

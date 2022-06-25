@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118875513_48",
+  "metadata": {
+    "doc_id": "CNTS-00118875513",
+    "doc_type": "도서",
+    "doc_name": "과학기술 정책평가 모형 탐색",
+    "author": "이명화",
+    "publisher": "과학기술정책연구원",
+    "published_year": "2017",
+    "kdc_label": "공학, 공업일반",
+    "kdc_code": "530"
+  },
+  "chapter": null,
+  "passage": "먼저 일반적인 논리모형 적용사례를 살펴보자. 첫째, R&D 사업의 논리모형 개발사례로 “미국 에너지청(DOE), Office of Energy Efficiency and Renewable Energy(EERE) 논리모형”을 들 수 있다. 해당 논리모형은 연구기획에서부터 활용(사업화) 단계까지 모두 포함하는데, EERE의 전략이 논리모형에서 활동(activities)로 표현되어 있다. 위에서 아래로는 기본적인 논리모형의 구성요소를, 왼쪽에서 오른쪽으로는 각 전략의 요소들을 포함하여 각 활동에 대한 산출 및 결과를 단계별로 작성하였다. 즉, 해당 모형은 EERE의 전략과 활동이 목표와 연결되어 있는지 보여주고 있다.",
+  "summary": "R&D 사업의 논리모형 개발사례로 Office of Energy Efficiency and Renewable Energy(EERE)논리모형은 전략, 활동이 목표와 연결됐는지 보여준다."
+}

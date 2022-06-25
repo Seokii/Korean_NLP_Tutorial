@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611030408446161_197",
+  "metadata": {
+    "doc_id": "PCY_201611030408446161",
+    "doc_type": "도서",
+    "doc_name": "바이오 경제시대 과학기술정책 의제 연구사업 : 5년차",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2016",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "정동수(2015)는 미국 NCBI(National Center for Biotechnology Information)에 등록된 Taxonomy DB에서 국내외 BRC로부터 분양받은 생물자원으로 생산된 연구성과 등록 비중을 분석했다. Taxonomy DB는 연구자들이 논문 발표, 특허 등 연구 성과를 발표하기 위해 염기서열 정보 생산에 활용된 생물자원을 등록하도록 요청받게 되면서, NCBI에 등록된 염기서열 정보 관련 생물자원을 검증, 분류하기 위해 개발 갱신되고 있다. 따라서 Taxonmy DB는 전 세계에서 NCBI에 등록하고 있는 연구 성과(염기서열 정보)에 활용된 생물자원의 목록으로, 활용되고 있는 생물자원의 추세, 나아가 활용되는 생물자원을 주로 제공하는 BRC의 현황 등을 가늠할 수 있는 간접적 척도가 될 수 있다.",
+  "summary": "Taxonmy DB는 NCBI에 등록된 연구 성과에 활용되는 생물적 자원의 목록으로서, 생물자원의 추세와 이를 주로 제공하는 BRC의 현황 등에 대한 간접적인 척도가 된다. "
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220737328041_9",
+  "metadata": {
+    "doc_id": "PCY_201711220737328041",
+    "doc_type": "도서",
+    "doc_name": "체계적 문헌고찰 및 임상진료지침 매뉴얼 개발",
+    "author": "김수영",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2011",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "체계적 문헌고찰 보고 지침인 PRISMA(Preferred Reporting Items for Systematic Reviews and Meta-Analyses)는 2인이(SY, HS) 1차로 국문 번역후 다른 연구진이(JE, YJ, HJ, BH, HJ) 검토하여 최종안을 만든 후 연구와 관계없는 3자에 의해 영문으로 다시 역번역(back translation) 되었다. 역번역한 PRISMA 영문판의 검증을 위해 PRISMA group의 코디네이터와 이메일로 3차에 걸쳐 검토와 수정 과정을 거쳤으며 이를 통해 영문판을 확정하였다. 또한 수정된 영문판 결과에 따라 국문판도 동시에 3차에 걸쳐 수정하였으며 확정된 영문판에 따라 국문판 PRISMA 역시 확정하였다.",
+  "summary": "체계적 문헌고찰 보고 지침인 PRISMA는 1차 국문 번역 후 영문으로 다시 역번역 되었다. 이를 검토 및 수정하여 영문판을 확정하고 국문판도 3차에 걸친 수정 후 확정하였다."
+}

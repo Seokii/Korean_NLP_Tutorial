@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201906140203470051_112",
+  "metadata": {
+    "doc_id": "PCY_201906140203470051",
+    "doc_type": "도서",
+    "doc_name": "4차 산업혁명 시대에서 정보인권 보호를 위한 실태조사",
+    "author": null,
+    "publisher": "국가인권위원회",
+    "published_year": "2018",
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "이 같은 지능형 감시는 CCTV-Deep learning으로 확대하고 있는데, 2018년 1월 LG유플러스 CCTV가 지나가는 사람들의 얼굴을 촬영, 성별과 나이를 알아내고 기록하는 기술을 선보였다. 성별과 나이를 알아내는 기술은 딥러닝 기반의 인공지능이지만, 수많은 정보를 실시간으로 전달하는 일은 네트워크가 맡는다. 이처럼 폐쇄형이었던 CCTV가 4차 산업혁명 시대를 맞아 개방형으로 변화하면서 ICBAM(IoT, Cloud, Bigdata, AI, Mobile)과 융합되고, 저화질 영상에서 초고화질 영상으로, 영상을 촬영하고 확인하는 것을 넘어 상황을 판단하는 등 사람의 역할을 대신하는 지능형으로 발전하고 있다.",
+  "summary": "폐쇄형 CCTV가 ICBAM(IoT, Cloud, Bigdata, AI, Mobile)과 융합하여 CCTV-Deep learning을 통해 상황을 판단하는 지능형 감시로 발전하고 있다."
+}

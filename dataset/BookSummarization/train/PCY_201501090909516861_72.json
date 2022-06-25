@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201501090909516861_72",
+  "metadata": {
+    "doc_id": "PCY_201501090909516861",
+    "doc_type": "도서",
+    "doc_name": "잔류동물용의약품 분석법 실무 해설서",
+    "author": null,
+    "publisher": "식품의약품안전처",
+    "published_year": null,
+    "kdc_label": "식품의약안전",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "측정된 회수율의 범위와 분석오차 결과에 근거하여 분석법의 정확성 및 재현성을 평가한다. 동물용의약품 분석법으로 검증되기 위해서는 일정한 범위의 회수율과 분석오차를 만족하여야 한다. CODEX guidline (CAC/GL 71-2009)의 경우 허용되는 분석오차 즉, 반복 회수율 수치 간 변이계수(coefficient of variance, CV) 또는 상대표준편차 (relative standard deviation, RSD)는 아래의 표에 나타낸 바와 같이 분석성분의 처리수준과 실험의 방법에 따라 허용범위가 상이하게 설정되어 있다.",
+  "summary": "동물용의약품 분석법으로 검증되려면 일정 범위 회수율과 분석오차를 만족해야 하는데, CODEX guidline의 경우 허용되는 분석오차가 아래와 같이 상이하다. "
+}

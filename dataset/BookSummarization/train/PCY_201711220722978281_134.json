@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220722978281_134",
+  "metadata": {
+    "doc_id": "PCY_201711220722978281",
+    "doc_type": "도서",
+    "doc_name": "의료기술평가제도의 국제 비교연구",
+    "author": "김수경",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2015",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "병원은 공공병원 및 민간병원으로 나눌 수 있으며, 민간병원은 다시 비영리병원과 영리병원으로 나뉜다. 병원의 2/3는 정부소유 혹은 비영리 법인이며 재원의 90%는 SHI로부터 받고, 7%는 사보험(VHI : voluntary health insurance), 3%는 환자로부터 직접 받는다. 모든 대학병원은 공공병원이다. 사립병원도 공공병원과 재원 시스템이 같지만 SHI, VHI, 개인의 비율이 다르다(Durand-Zaleski, 2012). 2004년 정신과를 제외한 급성병원은 포괄수가제(diagnosis-related group, DRG) 방식으로 의료비가 지급된다. 자영업 의사(self-employed professionals)의 경우 행위별수가제(fee-for-service) 방식으로 재원이 공급된다. 일반적으로 1차 진료의 경우 개인 클리닉(self-employed professionals)에 외래파트(ambulatory sector)에서 의해 이루어지며 2차 진료의 경우 외래파트(ambulatory sector) 및 병원에서 이루어진다. 의약품은 자영업 약국(self-employed pharmacists)에 의해 판매되며 의약품의 가격은 SHI에 의해 결정된다.",
+  "summary": "병원의 2/3은 공공 혹은 비영리이며 재원 대부분을 SHI에서 받는다. 대학병원은 모두 공공병원이며 사립과 공공은 재원시스템의 구성요소 비율이 다르다. 급성병원과 자영업 의사는 각기 다른 수가제가 적용되며 진료는 개인클리닉, 외래파트 및 병원 순으로 진행된다. 의약품 판매는 자영업 약국이 담당하고 가격은 SHI가 결정한다."
+}

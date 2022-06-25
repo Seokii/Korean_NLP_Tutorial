@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201508310209218561_15",
+  "metadata": {
+    "doc_id": "PCY_201508310209218561",
+    "doc_type": "도서",
+    "doc_name": "HRD-Index(인적자원개발지수) 구축 및 활용",
+    "author": null,
+    "publisher": "한국직업능력개발원\t",
+    "published_year": null,
+    "kdc_label": "고용노동",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "HRI는 HRSI(HR System Index)와 WCI(Workforce Competence Index)의 2대 영역 지표로 구분된다. HRSI는 다시 REI(Recruiting Excellence Index), HRDI(Human Resource Development Index), PCI (Performance and Compensation Index), HRCI(HR Competence Index) 등 4개의 복합지수로 구성된다. 복합지수는 REI의 경우 10개, HRDI는 5개, PCI는 10개, HRCI는 11개의 개별지수로 세분된다.",
+  "summary": "HRI는 HRSI와 WCI의 2대 영역 지표로 구분된다. HRSI는 REI,  HRDI,  PCI, HRCI 등 복합지수로 구성되며 이는 다시 개별지수로 세분된다."
+}

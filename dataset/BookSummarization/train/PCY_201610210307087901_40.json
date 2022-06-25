@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210307087901_40",
+  "metadata": {
+    "doc_id": "PCY_201610210307087901",
+    "doc_type": "도서",
+    "doc_name": "원자력발전의 경제적·사회적 비용을 고려한 적정 전원믹스 연구(3차년도)",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "오염물질의 사회적 외부비용은 다양한 방법으로 추정될 수 있는데, 크게 보아 비시장재 가치평가, 잠재가격 평가, 약물반응 평가의 세 가 지 방식으로 분류될 수 있다. 비시장재 가치평가는 다시 현시선호법 (revealed preference method)과 진술선호법(stated preference method) 으로 구분되는데, 전자의 현시선호법은 여행비용법(travel cost method) 과 헤도닉기법(hedonic price method)을 포함하며, 후자의 진술선호법에는 대표적으로 가상가치평가법(CVM: contingent valuation method) 이 있다.",
+  "summary": "오염물질의 사회적 외부비용은 비시장재 가치평가, 잠재가격 평가, 약물반응 평가의 세 가지로 분류되며 비시장재 가치평가는 다시 현시선호법과 진술선호법으로 구분할 수 있다."
+}

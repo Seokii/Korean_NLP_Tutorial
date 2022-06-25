@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201702210514175301_13",
+  "metadata": {
+    "doc_id": "PCY_201702210514175301",
+    "doc_type": "도서",
+    "doc_name": "미래 고온환경 변화와 직종 간 임금격차 추정",
+    "author": null,
+    "publisher": "한국환경정책·평가연구원",
+    "published_year": "2016",
+    "kdc_label": "고용노동",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "연구의 목적에 맞는 임금 방정식을 구성한 후 임금의 불평등성을 파악하는 방법은Blinder(1973)와 Oaxaca(1973)의 임금 격차 분석 방법을 표준적인 접근으로 이용한다.이는 생산성에 의해 설명되는 부분과 차별적 효과를 의미하는 설명되지 않는 부분으로 구분하는 방법이다. Lee(2012), Salinas-Jiménez, Rahona-López, and Murillo-Huertas(2013), Antoni, Janser, and Lehmer(2015) 등은 가장 기본적인 모델인 Blinder(1973)와Oaxaca(1973)의 방법을 활용한다. Salinas-Jiménez, Rahona-López, and Murillo-Huertas(2013)은 교육의 불일치성(mismatch)와 수준(attainment)에 초점을 맞추어 이를 필요한 학력(Required Schooling), 초과 학력(Years of Over Schooling), 미달 학력(Years ofUnder Schooling) 등으로 구분하고 임금의 차별적 요소를 분석하였다. Lee(2012)는 중국 도시 노동자의 구성, 즉 농촌으로부터 이주한 노동자와 그렇지 않은 노동자 간의 차별에 대한 연구를 수행하였다. Antoni, Janser, and Lehmer(2015)의 연구는 독일 신 재생 에너지 기업과 관련된 기업 간의 임금 차별을 기업 단위를 이용하여 추정하였다.",
+  "summary": "임금의 불평등성을 파악하는데 많은 학자들이 Blinder와 Oaxaca의 임금 격차 분석 방법을 표준적인 접근으로 이용했는데, 생산성으로 설명되는 부분과 차별적 효과를 의미하는, 설명되지 않는 부분으로 구분하는 방법이다. 교육의 불일치성와 수준에 초점을 맞추어 임금의 차별적요소를 분석한 연구와 중국 도시 노동자의 구성간의 차별에 대한 연구 등이 있다."
+}

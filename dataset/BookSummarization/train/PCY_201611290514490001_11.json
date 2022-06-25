@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611290514490001_11",
+  "metadata": {
+    "doc_id": "PCY_201611290514490001",
+    "doc_type": "도서",
+    "doc_name": "GTAP모형에서 가계수요 탄력성계수의 추정과정 및 근거",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "CDE(Constant Difference of Elasticities)는 Hanoch(1975)에 의해 처음 제시되었으며, Tanslog함수보다 모수 수가 적으면서 동시에 LES와 CES와 같은 가법적인 함수보다 유연성이 더 높은 함수를 목표로 개발되었다. CDE함수에서 이러한 중간적 성격은 선호체계에 암묵적 가법성(implict additivity)를 도입함으로써 달성된다. 암묵적 가법성이란 효용함수 자체는 비가법적이지만 무차별곡선이 재화에 대해 분리가능하고(separable) 가법적인 형태를 말한다(Hanoch, 1975, p.396). CDE효용함수에서 선호체계를 표현하는 암묵적 지출함수는 다음과 같이 수식으로 표현된다(Hanoch, 1975, p.411; Hertel et al., 2012, p.4).",
+  "summary": "Hanoch가 처음 CDE를 증명하고, Tanslog함수보다 모수 수가 적고 LES 및 CES와 같은 가법적인 함수보다 유연성이 높은 함수를 대상으로 만들었다."
+}

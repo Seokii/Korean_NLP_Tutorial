@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118874961_4",
+  "metadata": {
+    "doc_id": "CNTS-00118874961",
+    "doc_type": "도서",
+    "doc_name": "문재인 정부 통상정책",
+    "author": "경제·인문사회연구회",
+    "publisher": "경제·인문사회연구회",
+    "published_year": "2018",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": null,
+  "passage": "TBT의 정량적 연구에 있어서 가장 중요한 이슈는 바로 관련 데이터의 질적 우수성 여부이다. 대부분의 실증분석 선행연구에서 주로 사용되었던 WTO I-TIP(Integrated Trade Intelligence Portal)의 TBT 통보문은 WTO 회원국 전체를 대상으로 1995년에서 최근까지의 TBT 현황을 분석할 수 있다는 장점에도 불구하고 약 30%만이 HS(harmonized system) 코드가 기록되어 있어 산업별 분석을 할 때 표본선택오차가 발생하는 문제점이 있다. 반면, 본 연구가 고려한 Ghodsiet al.(2017)의 TBT 통보문 자료는 1995∼2015년 사이 WTO I-TIP의 TBT 통보문 자료에서 누락된 HS 코드를 6단위로 추가하여 약 70%의 통보문으로 표본선택오차 문제를 최소화하면서 패널구조에서 산업별 분석을 할 수 있다는 장점이 있다.",
+  "summary": "TBT의  연구에 있어서 문제는 HS코드였다. 따라서 HS코드를 6단위로 추가하여 표본선택오차 문제를 최소화 할 수 있다."
+}

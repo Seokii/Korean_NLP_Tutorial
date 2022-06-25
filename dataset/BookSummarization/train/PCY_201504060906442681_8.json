@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504060906442681_8",
+  "metadata": {
+    "doc_id": "PCY_201504060906442681",
+    "doc_type": "도서",
+    "doc_name": "반도체설계재산유통가이드북",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Electrical Characteristics에서는 해당 IP의 성능 정보를 모두 포함해야 하고 DC적 성능(Static)과 AC적 성능(Dynamic)으로 구분하여 작성한다. 공급자는 성능 기재 시 보증 가능한 범위내의 값을 기재하도록 한다. 해당 IP가 SoC에 집적화되면서 성능 저하가 발생될 수 있으므로 Integration Application Notes 또는 Datasheet에 해당 사항을 기술하여 사용자와 사전에 공감대를 형성하는 것이 필요하다. 성능 인자를 발굴함에 있어 많은 연구가 필요하며 각 성능 파라미터에 대한 Test 방법론 및 기술 방법 등은 여러 Standard(IEEE Standard 등)를 참고하도록 한다. 간혹 Parameter Definition에 대해 사용자와 공급자간 이견이 있을 수 있으므로 1.2.11의 Terminology를 함께 제공하는 것을 권한다. 또한 성능을 기술함에 있어 Min. Typ. Max로 나누어 기술해야 하며 각 Parameter의 성능이 어느 정도의 검증을 통해  산출되었는지 기술할 필요가 있다. 본 문서에서는 이를 ‘Test level’로 정의하고 있으며 각 성능 인자별로 Test level을 부여하여 해당 Parameter의 값이 어느 정도의 검증을 통해 산출된 것인지를 구체적으로 확인할 수 있도록 하였다.",
+  "summary": "Electrical Characteristics에서는 해당 IP의 성능 정보를 모두 포함해야 하고 DC 적 성능과 AC적 성능으로 구분하여 작성하며, 공급자는 성능 기재 시 보증 가능한 범위내의 값을 기재해야 한다. 성능 인자를 발굴함에 있어 많은 연구가 필요하며 성능 파라미터에 대한 Test 방법론과 기술 방법 등은 여러 Standard를 참고한다."
+}

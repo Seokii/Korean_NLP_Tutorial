@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201510080125420301_0",
+  "metadata": {
+    "doc_id": "PCY_201510080125420301",
+    "doc_type": "도서",
+    "doc_name": "동태적 확률적 일반균형 모형에 있어서 온실가스저감 정책의 최적조합(An Optimal Mix of Greenhouse Gas Reduction Policies in the Dynamic Stochastic General Equilibrium Models)",
+    "author": null,
+    "publisher": "에너지경제연구원\t",
+    "published_year": null,
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "본 연구에는 다음과 같은 몇 가지 한계가 있다. 첫째, 본 연구에서는 배출권의 이월 및 차입을 허용하지 않았다는 점이다. 장기적으로는 이월 및 차입의 영향이 크진 않지만, 단기에서는 다를 수 있다. 둘째, 본 연구의 모형에서는 에너지 생산 부문의 충격을 고려하지 않았다. 단기적으로 이는 자연스러운 가정이지만, 최근 셰일가스 혁명을 고려해볼 때 이 역시 고려할 필요가 있을 것이다. 셋째, BAU 감축목표는 단기 목표에 불과하고, 언젠가는 결국 절대량 목표로 전환되어야 한다. 목표 전환의 최적 타이밍을 도출할 수 있도록 모형을 확장시킬 필요가 있다.",
+  "summary": "본 연구는 배출권의 이월 및 차입의 불허, 에너지 생산 부분의 충격에 대해 고려하지 않은 점, 절대량이 아닌 BAU기준의 감축목표를 모형으로 했다는 한계가 있다."
+}

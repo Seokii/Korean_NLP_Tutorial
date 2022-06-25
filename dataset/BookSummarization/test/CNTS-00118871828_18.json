@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118871828_18",
+  "metadata": {
+    "doc_id": "CNTS-00118871828",
+    "doc_type": "도서",
+    "doc_name": "건강기능식품 기능성 평가 가이드",
+    "author": "식품의약품안전평가원",
+    "publisher": "식품의약품안전평가원",
+    "published_year": "2019",
+    "kdc_label": "가사, 가정학",
+    "kdc_code": "590"
+  },
+  "chapter": null,
+  "passage": "NF-κB는 염증을 조절하는 중요한 전사인자로, p50과 p65 단백질을 구성하는 heterodimer이다. 세포질 내에서 IkB와 결합되어 불활성화된 상태로 존재하다가, 자극을 받으면 IkB kinase(IKK)가 활성화되어 IkB를 분해시킨다. 활성화된 NF-kB는 핵 내로 들어가 유전자의 promoter에 결합하여 염증 및 다양한 반응을 일으키는 것으로 알려져 있다. NFκB 활성화에 관여하는 인자들은 mitogens, bacterial lipopolysaccharides (LPS), 산화스트레스, 자외선 및 TNF-α, IL-1β와 같은 염증성 cytokine 등이 있다. 따라서 뇌조직 내NF-kB 활성을 지연시키는 것은 염증 반응을 억제함으로써 기억력을 개선하는 데 효과가 있다고 판단한다.",
+  "summary": "NF-kB가 세포질 내에서 IkB와 결합된 후 자극을 받으면 활성화되고, 핵 내로 들어가면 염증 등을 일으킨다. 그러므로 활성화를 지연시키면 염증을 억제하여 기억력을 개선하는 효과가 있을 것이다."
+}

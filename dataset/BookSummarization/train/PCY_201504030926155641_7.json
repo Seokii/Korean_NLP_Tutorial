@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504030926155641_7",
+  "metadata": {
+    "doc_id": "PCY_201504030926155641",
+    "doc_type": "도서",
+    "doc_name": "Taxonomy 구조 및 한국표준산업분류(KSIC)에 기초한 상품 및 서비스업 분류체계 연구",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Telecommunication services [텔레커뮤니케이션업]본 타이틀 중 \"Telecommunication\" 이란 그리스 어로 ‘거리가 먼’이란 뜻의 ‘tele’와 라 틴 어로 ‘연결’이라는 뜻의 ‘communication’의 합성어로, 한 지역(발신자, 송신기 또는 신호원)에서 멀리 떨어져 있는 다른 지역(수신자, 수신기 또는 목적지)에 정보를 전송하 는 것을 뜻하는 용어로서 송수신에 필요한 모든 하드웨어와 소프트웨어를 포함하여 케 이블이나 무선 매체를 통한 정보의 전송이란 매우 광범위한 뜻으로 사용되므로, \"Transmision and reception (transmision) of database information via the telecommunication network\" 와 같이 좀 더 명확한 명칭으로 한정하는 것이 바람직할 것이다.",
+  "summary": "Telecommunication services라는 용어가 송수신에 필요한 모든 소프트웨어 장비를 포함하여 케이블, 무선매체를 통한 정보의 전송으로 광범위한 뜻으로 사용되기 때문에 좀 더 명확한 명칭으로 제한하는 것이 맞다."
+}

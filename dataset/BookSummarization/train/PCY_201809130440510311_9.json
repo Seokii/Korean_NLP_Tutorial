@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201809130440510311_9",
+  "metadata": {
+    "doc_id": "PCY_201809130440510311",
+    "doc_type": "도서",
+    "doc_name": "동북아 전자상거래 해상운송 전환수요 분석 (A Study on the Analysis of E-commerce Conversion Demand of Maritime Transport in Korea)",
+    "author": "이기열, 김근섭, 김은우, 심기섭, 신수용",
+    "publisher": "한국해양수산개발원",
+    "published_year": "2017",
+    "kdc_label": "해운·항만",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "일본에서는 통관은 대부분 자동통관시스템(Nippon Automated Cargo and port Consolidated System, NACCS)을 사용한다. NACCS의 구분에는 3가지(1: 서류심사 생략 즉시허가, 2: 서류심사, 3: 화물검사)가 있는데, 구분 3으로 분류된 물품의 경우 반드시 X-Ray 검사를 받아야 한다. 통관업자는 X-RAY 기기가 있는 장소로 물품을 반입하여야 하며, 세관은 이 물품을 심사한다. 다만, 보세장치장(FEDEX, UPS, DHL,기타 공항에 있는 대형 보세장치장)을 운영하는 대형 통관업자의 경우 세관이 X-Ray를 세관의 비용으로 설치하고 있는 경우가 있다.",
+  "summary": "일본은 대부분 자동통관시스템을 사용하며, 이는 물품을 3가지로 구분한다. 이 중 구분 3으로 분류된 물품은 X-Ray 기기가 있는 장소로 반입해 세관에서 검사를 받아야 한다."
+}

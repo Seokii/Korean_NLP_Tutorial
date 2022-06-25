@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118871967_17",
+  "metadata": {
+    "doc_id": "CNTS-00118871967",
+    "doc_type": "도서",
+    "doc_name": "건강기능식품 기능성 평가 가이드",
+    "author": "식품의약품안전처.  식품의약품안전평가원",
+    "publisher": "식품의약품안전평가원",
+    "published_year": "2019",
+    "kdc_label": "가사, 가정학",
+    "kdc_code": "590"
+  },
+  "chapter": null,
+  "passage": "LXR은 지방산과 중성지방 합성의 전사인자인 SREBP-1c의 발현을 증가시킨다. SREBP-1c 발현은 지방과 간조직의 lipogenesis에 관여한다. 따라서 LXR의 발현이 감소되면 SREBP-1c 발현이 감소하여 중성지방 합성이 억제되므로 혈중 중성지방 농도가 감소하는 효과가 기대 된다. FABPs는 세포막 사이에서 지방산 이동을 촉진하는 지방산 결합단백질들이다. PPARγ는 주로 지방 조직에 발현되는 전사인자로 중성지방합성에도 관여하며 지방-FABP(a-FABP) 및 LPL과 같은 단백질 유전자 전사를 유도한다. CD36은 지방세포에서 FABP 및 fatty acid transport protein(FATP)와 상호작용하여 지방산 이동을 촉진시키는 단백질이다. GLUT4는 세포내로 포도당을 수송하는 단백질로, 발현이 증가하면 세포내 포도당의 유입이 증가하여 중성지방 합성도 증가한다.",
+  "summary": "LXR, FABPs, PPARY, GLUT4의 발현이 감소되면 중성지방이 억제되어 혈중 중성지방 농도가 줄어드는 효과를 볼 수 있다."
+}

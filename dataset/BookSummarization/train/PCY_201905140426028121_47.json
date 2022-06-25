@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201905140426028121_47",
+  "metadata": {
+    "doc_id": "PCY_201905140426028121",
+    "doc_type": "도서",
+    "doc_name": "2017년 기준 의약품 소비량 및 판매액 통계",
+    "author": null,
+    "publisher": "보건복지부,건강보험심사평가원",
+    "published_year": "2018",
+    "kdc_label": "식품의약안전",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "룩셈부르크의 의약품 소비량 산출 자료원은 국민건강보험(Caisse nationale de santé, CNS)을 활용하고 있다. 소비량은 건강보험자료를 기초로 산출하여 전체 국민을 대상이 아니라 피보험자만을 대상으로 한다. 2017년 자료는 2018년 버전의 ATC코드를 따르고, 2013년부터 2016년까지 자료는 2017년 버전의 ATC코드를 따른다. 1995년부터 2010년까지 자료는 2013년 버전의 ATC코드를 따른다. 소비량은 병원에서 조제되는 의약품과 일반의약품은 제외되었다. ATC 분류의 3단계(level)에서 일부 정보 부족으로 소비량 통계가 과소 추정될 수 있다. 1997년부터 2008년의 전신성 항균물질(J01) 소비량은 유럽항균제소비감시네트워크(European Surveillance of Antimicrobial Consumption Network, ESAC-Net) 데이터베이스에서 추출하였다.",
+  "summary": "2008년의 전신성 항균물질(J01) 소비량은 유럽항균제소비감시네트워크(European Surveillance of Antimicrobial Consumption Network, ESAC-Net) 데이터베이스에서 추출하였다."
+}

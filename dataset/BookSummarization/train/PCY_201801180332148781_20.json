@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201801180332148781_20",
+  "metadata": {
+    "doc_id": "PCY_201801180332148781",
+    "doc_type": "도서",
+    "doc_name": "음성인식 AI 비서 시장의 현황과 시사점",
+    "author": "최지혜, 이선희",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2017",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Google Home은 Echo와 비교했을 때 간단한 음성명령의 수행이나 검색에서는 두 기기 간 큰 차이가 없으나, 무작위 질문에 대한 응답에서 Echo보다 우수한 성능을 갖고 있는 것으로 보인다(WSJ, 2016. 11. 7). 그러나 두 기기 모두 스피커의 본질적인 기능인 음악 감상에는 적절하지 않은 것으로 보인다. 이에 대해 CNET(2016. 11. 3) 에서는 Google Home과 Echo의 음질을 분석한 기사의 말미에 “만약 음악용 스피커를 찾고 있다면 둘 다 적절한 선택은 아니다(If you want a musical speaker, the choice is simple: get neither).”라는 혹평을 내리기도 했다.",
+  "summary": "Google Home은 Echo와 비교했을 때, 무작위 질문에 대한 응답에서 더 나은 성능을 갖고 있는 것으로 보인다. 그러나 두 기기 모두 음악 감상에는 적절하지 않은 것으로 보인다."
+}

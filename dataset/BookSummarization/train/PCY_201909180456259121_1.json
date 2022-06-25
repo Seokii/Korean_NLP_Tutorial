@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201909180456259121_1",
+  "metadata": {
+    "doc_id": "PCY_201909180456259121",
+    "doc_type": "도서",
+    "doc_name": "2017-2018년 국내 중증열성혈소판감소증후군(SFTS) 실험실 검사 현황",
+    "author": null,
+    "publisher": "질병관리본부",
+    "published_year": "2019",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "SFTS 의사 환자에 대한 실험실 검사로 유전자 검출 검사, 항체 검출 검사, 배양검사를 수행하고 있다. 질병관리본부에서 SFTS로 의뢰되는 검체 중에서 발병일로부터 약 2주 전까지의 검체에 대해서는 유전자 검출 검사(Real-time reverse transcriptionpolymerase chain reaction, rRT-PCR)를 수행하고 있으며, 항체 검출 검사는 급성기 혈청과 회복기 혈청에서 항체가 상승 여부를 IFA(Immunofluorescence assay) 방법으로 확인하고 있다. 검체에서 SFTS 확진은 바이러스 특이 유전자가 검출되거나, 급성기 및 회복기 혈청 비교 시 항체가 상승되거나, 세포배양으로 바이러스를 분리한 경우로 판정하고 있다.",
+  "summary": "SFTS  검사로 유전자 검출, 항체 검출, 배양검사를 하는데 바이러스 특이 유전자 검출, 급성기 및 회복기 혈청 비교시 항체가 상승, 세포배양으로 바이러스를 분리한 경우에 SFTS 확진을 판정한다."
+}

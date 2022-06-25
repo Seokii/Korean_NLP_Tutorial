@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201811150418141071_68",
+  "metadata": {
+    "doc_id": "PCY_201811150418141071",
+    "doc_type": "도서",
+    "doc_name": "2017 IP Insight: 해외 지식재산권 판례 심층분석 보고서",
+    "author": "한국지식재산보호원",
+    "publisher": "특허청",
+    "published_year": "2018",
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "그러나 Enpat 판결과는 달리, 2003년 Imagexpo, L.L.C. v. Microsoft Corp. 판결에서, Virginia 주 동부지구 지방법원은 소프트웨어가 미국 특허법 제271조(f)가 규정하고 있는 “구성부품들(components)”에 해당한다고 판시하였다. 이 사건에서 특허권자인 Imagexpo 사는 피고 Microsoft 사의 “NetMeeting” 소프트웨어가 인터넷상에서 원격화상회의를 가능하게 하는 자신의 특허를 침해하였다고 특허침해소송을 제기하였다. 피고 Microsoft 사는 소프트웨어 복제를 위한 견본(template)이 되는 “golden master”라는 소프트웨어 프로그램을 수출하였는데, Microsoft 사는 소프트웨어는 유체적(tangible)이지 않기 때문에 미국 특허법 제271조(f)가 규정하는 “구성부품들(components)”에 해당하지 않는다고 주장하였다. 지방법원은 Microsoft 사가 해외에 판매한 “golden master”에 포함된 소프트웨어 코드는 최종 컴퓨터 산물(finished computer product)의 기능적인 핵심(functional nucleus)을 유도하고, 또한 “golden master”를 통하여 전달된다는 이유로, 이 사건 소프트웨어는 미국 특허법 제271조(f)가 규정하고 있는 구성부품들에 해당한다고 판결하였다.",
+  "summary": "2003년 판결에서, Virginia 주 동부지구 지방법원은 Microsoft 사가 해외에 판매한 “golden master” 에 포함된 소프트웨어 코드는 최종 컴퓨터 산물의 기능적인 핵심을 유도하고, 또한 “golden master” 를 통하여 전달되므로 구성부품들에 해당한다고 판결하였다."
+}

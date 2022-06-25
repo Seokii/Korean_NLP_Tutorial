@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201501260914052391_103",
+  "metadata": {
+    "doc_id": "PCY_201501260914052391",
+    "doc_type": "도서",
+    "doc_name": "2014년 12월호(Vol.7, No.2): 위성 기술과 활용",
+    "author": null,
+    "publisher": "기상청",
+    "published_year": null,
+    "kdc_label": "기타",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "DMSP 위성들에서 얻은 데이터는 뇌우, 허리케인, 태풍과 같은 심각한 기상현상을 인식하고 추적하며 강도를 측정하는 데 도움을 주며, 3D 구름 분석을 형성하는 데에도 사용된다. 3D 구름 분석은 군사적 요구사항들을 만족시키기 위한 수치예보모델의 기반을 이루는 개념이다. 그리고 우주 환경 자료는 고주파수 통신, 초지평(over-the-horizon) 레이더, 위성 Drag/Re-entry에도 도움을 제공한다. 이 프로그램을 통해 빠른 시간 내 얻을 수 있는 정보들은 다양한 전략/전술적 작전들의 시작, 진행, 목표물 탐색 등을 지원하여 군사 지휘관들의 의사 결정에 도움을 준다. DMSP 위성들은 실시간으로 공군, 육군, 해군, 해병대 전술기지와 전 세계 해군 함대들에게 기상학 자료를 제공하며, 이 자료는 Alaska의 Fairbanks와 New Hampshire의 New Boston, Greenland의 Thule Air Base, Hawaii의 Kaena Point 등 4개의 지상 기지에 전송이 가능하도록 저장된다. 저장된 자료는 이 지상기지들로부터 Nebraska에 소재한 OffuttAir Force Base의 Air ForceWeather Agency로 전송되고 그 다음 California Monterey에 소재한 미 해군의 Fleet Numerical Meteorological and Oceanographic Center로 전달되어 전 세계 수많은 기상/우주환경 산출물들을 생산하는 데 사용된다.",
+  "summary": "DMSP 위성 데이터는 기상현상 인식, 추적, 강도 측정에 도움을 주며, 군사적 요구사항을 위한 수치예보모델의 기반인 3D 구름 분석을 형성하는 등에 사용되어 군 지휘관들의 의사 결정에 도움을 준다. DMSP 위성들은 실시간으로 공군, 육군, 해군, 해병대 전술기지와 전 세계 해군 함대에 자료를 전송하며, 지상기지에 저장된 자료는 전 세계의 기상/우주환경 산출물 생산에 사용된다."
+}

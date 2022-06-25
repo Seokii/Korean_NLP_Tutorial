@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610200103451461_20",
+  "metadata": {
+    "doc_id": "PCY_201610200103451461",
+    "doc_type": "도서",
+    "doc_name": "중저기술 산업의 혁신특성 분석과 발전방향",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2015",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Heidenreich(2009)는 LMT(low- and medium-low-technology) 산업에 특정한 혁신패턴이 존재하는지, 존재한다면 이러한 패턴이 경제적으로 성과를 내는 개발의 기반이 되는지를 EU Community Innovation Survey(CIS4) 데이터를 이용하여 검증한 바 있다. 그 결과, 유럽의 고기술산업과 저기술산업은 각각 Pavitt의 과학기반형과 공급자주도형(supplier-dominated) 혁신패턴을 따르고 있음을 실증적으로 보여주었고, 저기술산업에서는 제품혁신보다는 공정혁신의 비중이 더 크며, 내부R&D 역량의 부족하여 외부 기계장비와 자본재 구입 등을 통해 혁신기술을 획득하며, 공급업체가 혁신활동의 가장 주요한 정보원천으로 작용하고 있음을 확인하였다. Heidenreich(2009)의 연구결과 역시 앞의 Utterback의 연구와 유사한 견해를 보이고 있음을 확인할 수 있다.",
+  "summary": "Heidenreich는 LMT 산업의 특정한 혁신형태가 실존하는지, 실존하면 이 형태가 경제적으로 성과를 내는지를 테이터를 통해 검증하였는데, 이 결과 Utterback의 연구와 비슷한 견해를 보여주고 있음을 확인할 수 있었다."
+}

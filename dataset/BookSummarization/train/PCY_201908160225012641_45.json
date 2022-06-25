@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201908160225012641_45",
+  "metadata": {
+    "doc_id": "PCY_201908160225012641",
+    "doc_type": "도서",
+    "doc_name": "에너지 포커스 : 2019년 여름호",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2019",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "DFL이 활용되는 구체적인 예를 살펴보자. 2015년 9월 23일 현재 A 회사는 실물 BFOE 원유 63만 배럴을 보유하고 있다. A 회사는 향후에 BFOE 실물 63만 배럴을 11월에 Platts사가 발표하는 Dated Brent 가격의 월평균으로 매도할 계획이다. A같은 매도자 입장에서는 11월 동안 형성될 Dated Brent의 월평균 가격이 하락하는 것이 위험으로 작용할 것이다. 이때 A는 BFOE 실물 가격이 하락하는 위험을 제거하기 위해 DFL을 활용할 수 있다. 참고로 ‘DFL = Dated Brent Swaps – ICE Brent Futures Swaps’이므로, DFL의 매도는 Dated Brent Swaps를 매도하고 동시에 ICE Brent Futures Swaps를 매수하는 포지션을 갖게 되며 DFL의 매수는 이와 반대의 포지션이 형성된다.",
+  "summary": "실물 BFOE 원유 63만 배럴을 보유하고 있는  A 회사는 향후 11월에 Platts사가 발표하는 Dated Brent 가격의 월평균으로 매도할 계획이며, 실물 가격이 하락하는 위험을 제거하기 위해 DFL을 활용할 것이다."
+}

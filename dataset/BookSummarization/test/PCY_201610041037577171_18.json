@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610041037577171_18",
+  "metadata": {
+    "doc_id": "PCY_201610041037577171",
+    "doc_type": "도서",
+    "doc_name": "국내 언론에 나타난 ‘예술경영’ 관련 이슈의 의미연결망 분석",
+    "author": null,
+    "publisher": "한국문화관광연구원",
+    "published_year": "2015",
+    "kdc_label": "문화체육관광일반",
+    "kdc_code": "600"
+  },
+  "chapter": null,
+  "passage": "의미연결망 분석에서는 ‘중심성(centrality)’을 통해 전체 구조에 특정 키워드의 위치와 역할을 분석할 수 있다. 중심성은 사회연결망에서 꼭짓점(vertex) 혹은 노드(node)의 ‘상대적 중요성’을 나타내는 척도를 말한다(Freeman, 1979). 중심성의 지수는 계산 방법에 따라 연결중심성(degree centrality), 근접중심성(closeness centrality), 아이겐벡터 중심성(eigenvector centrality), 매개 중심 성(betweenness centrality) 등으로 나뉘는데, 각 방법은 개별 노드가 네트워크 내에서 어떤 역할을 하는지 분석하고 있다.",
+  "summary": "의미연결망 분석에서는 특정 키워드의 위치와 역할을 분석할 수 있다. 중심성은 사회연결망에서 꼭짓점, 노드의 ‘상대적 중요성’을 나타내며, 네트워크에서의  역할을 분석한다."
+}

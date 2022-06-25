@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210301163401_33",
+  "metadata": {
+    "doc_id": "PCY_201610210301163401",
+    "doc_type": "도서",
+    "doc_name": "열병합발전에서 ESS설치의 경제성 분석 연구",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "ESS에 대한 용량 요금은 용량 요금 정산 수익의 기본 전제에 따라 ESS 방전량에 한해서 만 공급 용량으로 인정하는 안을 채택하였다. 따라서 용량 정산 수익()은 거래 시간 별 용량 정산금(Trading Period Capacity Payment, TPCP)의 합으로 계산된다. TPCP는 방전량과 현행 기준 용량 가격(Reference Capacity Payment, RCP), 7.46원/kWh에 지역 별 용량 가격 계수(Regional Capacity Coefficient, RCF)와 시간대 별 용량 계수 (Time of the day Capacity Coefficient, TCF)를 곱하여 산정한다. 해당 수익은 아래와 같다.",
+  "summary": "ESS에 대한 용량 요금은  ESS 방전량에 한하며, 거래 시간 별 용량 정산금의 합으로 계산되는데, 이는 방전량과 현행 기준 용량가격에 지역 별 및 시간대 별 용량 계수를 곱하여 산정한다."
+}

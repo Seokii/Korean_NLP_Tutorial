@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049603859_53_54-0",
+  "metadata": {
+    "doc_id": "CNTS-00049603859",
+    "doc_type": "도서",
+    "doc_name": "2000년도 금융정보화 추진현황",
+    "author": "금융정보화추진분과위원회 사무국",
+    "publisher": "한국은행",
+    "published_year": "2001",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "제 3장 금융정보망의 운영/관리 제 1절 한국은행 금융결제망(BOK-Wire)",
+  "passage": "EU지역에는 15개의 실시간총액결제시스템이 있는데 각 시스템은 유럽 중앙은행이 운영 하는 범유럽실시간총액결제시스템(TARGET ; Trans-European Automated Real-Time Gross Settlement Express Transfer)에 연결되어 하나의 결제시스템으로 운영되고 있다. TARGET은 국가 간 거래가 용이하고 거래비용이 작아 중소규모 은행의 이용이 증가하는 등 현재 참 가기관이 5,000개에 달한다. 영국은 ’84년부터 파운드 결제시스템인 CHAPS(Clearing House Automated Payment System) Sterling을 운영하였으며 유로화의 출범에 따라 ’99년부터 유로화 결제용 CHAPS Euro를 같이 가동해왔으나 2000년 8월에 New CHAPS로 통합(Dual Currency System)하였다. 동 시스템에서는 중앙대기시스템(Central Scheduler)을 도입하여, 지급지시의 우선순위를 부여하고 유동성관리의 효율성을 제고하였으며 CLS은행(Continuous Linked Settlement Bank)에 대한 지급(Pay-In)과 같은 특정 지급지시를 위한 자금서비스 기능, 문제발생시 특정 은행에 대한 지급중지 기능을 추가하였다. 또한 New CHAPS는 2001년 3월부터 새로운 모니터링 시스템인 Inquiry Link를 도입하여 지급지시의 처리상황을 실시간으로 모니터링하고 지급지시의 우선순위 변경도 가능하며 하나의 화면에서 CLS은행, 독일의 RTGSplus, 영국의 증권결제시스템인 Crest 등 SWIFTNet를 이용하는 여타 결제시스템의 상황도 모니터링 할 수 있다.",
+  "summary": "EU에는 15개의 실시간총액결제시스템이 있고, 유럽 각 중앙은행이 운영하는 범유럽실시간총액결제시스템에 연결되어 하나의 시스템으로 운영된다. 영국은 2000년부터 파운드와 유로를 통합한 결제시스템인 New CHAPS를 운영한다. 그곳에 중앙대기시스템을 도입하여 지급지시의 우선순위 부여 및 특정 지급지시, 특정 은행에 대한 지급중지가 가능하며 Inquiry Link의 도입으로 지급지시의 우선순위 변경 및 여타 결제시스템의 모니터링도 가능하다."
+}

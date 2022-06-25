@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504030502327861_118",
+  "metadata": {
+    "doc_id": "PCY_201504030502327861",
+    "doc_type": "도서",
+    "doc_name": "사람중심 정보화 실행 전략",
+    "author": null,
+    "publisher": "정보통신정책연구원",
+    "published_year": "2014",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "품질지표는 규격 적합성을 판정하는 결과품질지표와 서비스 이용 관련 지표와 품질 개선에 소요되는 시간지연 지표 등 경과품질지표로 세분되어 있다. 한편 관리지표는 서비스 품질 측정도구(Servqual) 개발의 토대가 된 GAP 모델(Parasuraman et al., 1985)의 다섯 가지 간극, 즉 이용자 요구와 제공자 예상의 차이(Needs Gap), 이용자 기대와 설계자 예상의 차이(Design Gap), 설계와 구현의 차이(Delivery Gap), 홍보와 실제의 차이(Marketing Gap), 서비스 지각과 기대의 차이(Service Gap)를 차용하였다.",
+  "summary": "품질지표는 결과품질지표와 경과품질지표로 나누어져 있으며 관리지표는 GAP 모델의 다섯 가지 간극을 빌려와 사용하였다. "
+}

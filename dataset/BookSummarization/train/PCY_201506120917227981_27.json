@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201506120917227981_27",
+  "metadata": {
+    "doc_id": "PCY_201506120917227981",
+    "doc_type": "도서",
+    "doc_name": "한반도 통일이 미국에 미칠 편익비용 분석(대외경제정책연구원, 2014)",
+    "author": null,
+    "publisher": "통일부",
+    "published_year": null,
+    "kdc_label": "무역및투자유치",
+    "kdc_code": "300"
+  },
+  "chapter": "IV 중력모델을 통해 본 미국에 대한 시사점",
+  "passage": "총 샘플링 기간은 2000~12년이다. 양국의 수출 값은 UN Comtrade에서 발췌한 것이고, 상대 국가와 무역을 하지 않는 양국에는 0값을 추가한다. 인구 및 명목 GDP에 관한 데이터는 UN의 국민계정주요데이터베이스(UN’s National Accounts Main Aggregates Database)에서 발췌한 것이다. 인접성, 공통 식민지관계, 동일 국가 기원, 거리, 토지면적과 같은 시간적 요소와 무관한 지리적 통제변수는 CEPII의 ‘geodist’ 데이터베이스에서 발췌한 것이다. 양국이 지역무역협정을 맺고 있는지 여부 또는 모두 WTO 회원국인지 여부에 관한 데이터는 CEPII의 ‘gravity’ 2000~06년 데이터베이스로부터 발췌한 것이다. 여기에 저자는 WTO 웹사이트를 사용하여 2007년에서 2012년까지의 새로운 무역정보를 직접 입력하였다.섬국가와 내륙국은 CIA World Factbook 및 저자가 직접 입력한 값으로부터 나온 것이다.",
+  "summary": "총 샘플링 기간은 2000~12년으로 UN Comtrade, UN의 국민계정 주요데이터베이스, CEPII의 geodist 및 gravity 데이터베이스, WTO 웹사이트, CIA World Factbook으로부터 발췌했다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201411280929527901_52",
+  "metadata": {
+    "doc_id": "PCY_201411280929527901",
+    "doc_type": "도서",
+    "doc_name": "선진국 법질서 확립 사례집",
+    "author": null,
+    "publisher": "대검찰청",
+    "published_year": null,
+    "kdc_label": "법무및검찰",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "건설국과 정보통신국(Department of Information Technology and Telecommunications)은 뉴욕시 웹사이트인 NYC.GOV상의 건설국 홈페이지를 경유하여 건설정보시스템(BIS: Building Information System)에 대한 접근을 허용하는 인터넷 지원(internet application)을 시작했다. 이러한 지원을 통해, 이전에는 모뎀이나 전화를 걸어 건설국 내의 주전산기(mainframe terminal)를 통해서만 이용할 수 있었던 재산 및 허가 관련 정보를 일반 대중과 건설업계 구성원들이 손쉽게 획득할 수 있게 되었다.",
+  "summary": "건설국과 정보통신국이 건설정보시스템에 접근할 수 있는 인터넷 지원을 개시하여, 제한적이었던 재산 및 허가 관련 정보를 일반과 건설업계 종사자들이 쉽게 취득할 수 있었다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220766169681_43",
+  "metadata": {
+    "doc_id": "PCY_201711220766169681",
+    "doc_type": "도서",
+    "doc_name": "비교효과연구를 위한 인프라 현황분석",
+    "author": "신상진",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2012",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "본 연구에서 제안하는 자료공개의 좋은 예로는 미국의 Biologic Specimen and Data Repository Information Coordinating Center(BioLINCC)가 있다. BioLINCC는 미국 NIH 산하 NHLBI와 Division of Blood Disease and Resources(DBDR)와의 계약을 통해 2008년 9월에 설립되었다. BioLINCC의 목표는 NHLBI Biorepository와 Data Repository의 활동을 용이하게 조정하며, 그들의 범위와 유용성을 단일의 web-based user interface를 통하여 연구자그룹에게 확대하는 것이다. BioLINCC는 자료원을 공유하는 것을 지원하기 위해 세부적으로 아래의 주요기능을 수행한다.",
+  "summary": "모범적인 자료공개의 사례로는 미국의 BioLINCC를 들 수 있으며 이들은 NHLBI Biorepository와 Data Repository의 활동 조정 및 연구자 집단에게까지 그 유용성을 제공하는 일을 한다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210256353111_2",
+  "metadata": {
+    "doc_id": "PCY_201610210256353111",
+    "doc_type": "도서",
+    "doc_name": "확률적 전력계통망 최적화모형 구축 연구",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "기존 SCOPF(Security-Constraint Optimal Power Flow, 안전도 제약최적조류모형)와 차별되는 MPSOPF의 특징은, 기존의 일반적 SCOPF는 특정시간에 snapshot적인 전력시스템 분석만이 가능했던 데에 비해, MPSOPF는 특정 기간(time horizon)동안 연속적인 전력시스템 분석이 가능하고, MPSOPF는 입력값으로 결정론적(deterministic) 정보뿐만 아니라 확률분포를 따르거나 확률적 값을 가지는(stochastic)정보도 처리가 가능하며, MPSOPF는 전력시스템의 안정성을 유지하는 데 필요한 예비력(reserve)의 양을 모형 내부적으로 결정해준다.",
+  "summary": "MPSOPF는 기존 SCOPF와 달리 연속적인 전력시스템 분석과 확률적 값을 가지는 정보의 처리도 가능하며, 전력시스템의 안정성을 유지하는 데 필요한 예비력의 양도 결정해준다."
+}

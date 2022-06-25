@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201801300533260171_5",
+  "metadata": {
+    "doc_id": "PCY_201801300533260171",
+    "doc_type": "도서",
+    "doc_name": "LPWA 기반 IoT 전용 네트워크 기술동향",
+    "author": "박태준, 이계선, 정운철, 최병철, 방효찬",
+    "publisher": "한국전자통신연구원",
+    "published_year": "2017",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "RPMA(Random Phase Multiple Access)는 OnRamp Wireless사의 독자개발 기술로서, 2015년 Ingenu로 사명을 변경하고, 32개 핵심특허 기반의 유일한 생산자이면서 유일한 공급자로서 독자적인 사업을 진행하고 있다. RPMA는 2.4GHz ISM밴드를 사용하는 DSSS기반의 Slotted ALOHA 프로토콜을 적용한 기술로서, 송신을 위해 코딩된 데이터는 Gold Code로 확산하여 송신한다. Gold Code의 확산계수는 2k(2 £ k £13)이다. 상하향 통신은 반이중통신으로 에너지 제약이 없는 하향통신은 보다 높은 출력을 사용할 수 있어서, 하향에 비해 작은 SF를 적용한다.",
+  "summary": "OnRamp Wireless은 독자적 기술 RPMA을 사용하여 유일하게 생산과 공급을 동시에 진행하고 있다. 특정 코드로 확산이 되며 통신도 다르게 진행된다. "
+}

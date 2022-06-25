@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201509110420252211_71",
+  "metadata": {
+    "doc_id": "PCY_201509110420252211",
+    "doc_type": "도서",
+    "doc_name": "에너지 부문 정보통신 융합의 전개구도와 영향",
+    "author": null,
+    "publisher": "에너지경제연구원\t",
+    "published_year": null,
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "스마트에너지 부문의 서비스화에서는 에너지사업자도 고객이 될 수 있다. 사실상 에너지기업이 충분한 재정능력과 인력을 보유하고 있지 않다면, 스마트에너지 관련 시스템 구축에 자원 활용 부담이 클 것이다. 이에 에너지산업 하드웨어 및 소프트웨어 제공업체들은 시스템과 인력을 임대해주고 관리해주는 방식으로 에너지기업으로부터 서비스료를 받을 수 있다. 스마트그리드 분야에서는 HEM, AMI, DA(distribution automation, 배전자동화), SA(substation automation, 변전자동화), AMCM(asset management and condition monitoring, 자산관리 및 상태 모니터링), DR, 소프트웨어 솔루션 및 분석도구 등에서 서비스화가 확장 추세에 있다(Navigant Research, 2014).",
+  "summary": "스마트그리드 분야에서는 에너지 기업이, 자력으로 에너지 관련 시스템구축이 부담이 될 경우, 에너지 산업 솔루션제공업체의 서비스를 공급받고 서비스료를 제공할 수 있다는 측면에서 에너지 사업자도 고객이 될 수 있다."
+}

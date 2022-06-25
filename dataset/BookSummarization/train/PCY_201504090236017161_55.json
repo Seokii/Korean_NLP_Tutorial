@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504090236017161_55",
+  "metadata": {
+    "doc_id": "PCY_201504090236017161",
+    "doc_type": "도서",
+    "doc_name": "산업별 해외투자의 현황분석과 진출기업의 유턴 가능성에 대한 연구",
+    "author": null,
+    "publisher": "산업연구원",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "추가적으로, 첫 번째 방법으로 도출한 Data 1을 이용한 실증분석이 해외진출 상태에서 유턴 상태로의 전환 여부에 대한 결정요인 분석만이 가능한 것과 달리, 두 번째 방법으로 도출한 Data 2는 상태지속(state dependence)을 반영하는 기존 시점(연도)의 유턴 여부를 설명변수로 포함한 동태적 패널 모형(dynamic panel model)을 사용하면 우리나라기업 유턴 지원 정책과 관련해 중요한 의미를 가질 수 있는 유턴 상태의 지속적 유지의 정도나 이에 영향을 미치는 변수들의 추가적 식별도가능하다는 장점을 가진다. 뒤에 보다 자세히 설명하겠지만, 기업의 이질성(individual heterogeneity)이나 시간 이질성(time heterogeneity)을 통제한 후, 상태지속성(state dependence)을 반영할 수 있는 확률효과 동태적 패널 이항 로짓 모형(random effect dynamic panel binary logit model)을 사용하여 유턴 상태지속성 검증 동태적 패널 모형을 실증 분석한다.",
+  "summary": "첫 번째 방법으로 도출한 Data 1은 해외진출 상태에서 유턴 상태로 전환한 결정적 요인을 분석한다. 한편 동태적 패널 모형을 사용한 Data 2는 더 나아가 해외진출 상태에서 유턴 상태로 전환했을 시 유턴 상태지속성이나 이에 영향을 끼친 변수들을 분석할 수 있다."
+}

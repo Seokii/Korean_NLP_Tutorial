@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201708100505502341_14",
+  "metadata": {
+    "doc_id": "PCY_201708100505502341",
+    "doc_type": "도서",
+    "doc_name": "농업기술 : 2015.10 (vol.593)",
+    "author": null,
+    "publisher": "농촌진흥청",
+    "published_year": "2015",
+    "kdc_label": "농업·농촌",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "수박 덩굴마름병 저항성 자원(PI189225)과 감 variety 수성 자원(920533)간의 다형성을 나타내는 383개의 동형성(homozygous) SNP 중에서 인트론에 위치한 25개의 SNP를 바탕으로 HRM(High Resolution Melting) 분석을 위한 22개 프라이머쌍을 제작하였다. 그 중에서 14개 SNP 프라이머쌍(SWF01, SWF02, SWF03, SWF06, SWF07, SWF08, SWF09, SWF10, SWF13, SWF16, SWF18, SWF20, SWF21, SWF22)들이 realtime PCR을 이용한 HRM 분석을 통해 수박 덩굴마름병 저항성 자원(PI189225, PI482322) 2점과 감수성 자원(920533) 1점 간 용융 수지온도(melt temperature) 차이를 나타냈다. 선발된 14개 SNP프라이머쌍들은 저항성과 감수성 자원들 간에 특이적 차이를 보임에 따라 수박 덩굴마름병 저항성 연관 분자마커로서 수박 병저항성 품종육성에 활용 가능할 것으로 기대할 수 있다.",
+  "summary": "수박 덩굴마름병 저항성 연관 분자마커로써 수박 병저항성 품종육성을 위해 선발한 14개의 SNP프라이머쌍들은 감수성 자원과 용융수지온도 간의 특이성을 보이고 있다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210250228611_32",
+  "metadata": {
+    "doc_id": "PCY_201610210250228611",
+    "doc_type": "도서",
+    "doc_name": "신기후협약하에서 선진국 국경탄소 조치의 파급효과에 관한 연구",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "본 연구에서는 무역에 함유된 탄소배출량과 배출무역수지를 도출하기 위해서 Input-Output(I-O) 분석을 이용하였다. I-O 테이블의 수출·수입량과 탄소집약도 계수를 통해 무역에 함유된 탄소량을 도출하며, 업종별 탄소집약도 계수는 최종 생산재의 단위당 탄소배출량을 설명할 수 있다. I-O 테이블을 이용하여 탄소누출을 측정할 수 있는 지수로 업종별 무역에 함유된 배출 수지(Balance of Emissions Embodied in Trade: BEET)와 배출교역조건(Pollution Terms of Trade: PTT)을 도출한다.",
+  "summary": "무역에 함유된 탄소배출량과 배출무역수지 도출을 위해  I-O 분석을 이용, I-O 테이블의 수출·수입량과 탄소집약도 계수로 무역에 함유된 탄소량을 도출한다."
+}

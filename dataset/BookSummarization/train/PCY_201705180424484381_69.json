@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201705180424484381_69",
+  "metadata": {
+    "doc_id": "PCY_201705180424484381",
+    "doc_type": "도서",
+    "doc_name": "네트워크 기반의 전기자동차 충전인프라 구축방안 연구",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "사실 그동안 단지 관념상의 개념으로만 상정되어 있던 이러한 마켓플레이스(B2B 시장) 운영업체가 실제로 최근 등장하기 시작했다. 대표적인 사례로서, 충전장비(EVSE) 제조사, 관련 소프트웨어 제조업체, 네트워크 시스템 운영업체와 기타 이해당사자들로 구성된 미국의 OCA(Open Charge Alliance)가 있다. 최근 OCA는 충전소와 충전소 네트워크 운영자(EVSP) 간의 통신을 위한 공개 프로토콜인 OCPP (Open Charge Point Protocol)를 개발하였으며, 이를 기반으로 로밍서비스를 Circontrol, CLEVER, DBT, Driivz, Ecotricity, Efacec, EV-Box, Greenlots, Recargo, Schneider Electric 등 제휴업체들에 제공하고 있다. 유사한 사례로서 2015년 프랑스 정부 지원으로 EDF, Engie, Bouygues Energy Services, Vinci Energies, Renault, Bolloré 등 주요 충전서비스 공급업체, 전력업체, 주요 PEV 제조사 등이 참여하는 Afirev 이니셔티브가 발족되었으며, 이를 기반으로 로밍시스템을 개발하기 위해 GIREVE 컨소시엄이 설립되었다. 또한 같은 해 BMW 북미법인, Nissan, Audi, Honda, Efacec, SemaConnect, ChargePoint, NRG eVgo, CarCharging/Blink 등이 참여하는 ROEV 컨소시엄도 출범하여, 로밍서비스를 위한 시스템 구축작업에 들어갔다. 이처럼 최근 컨소시엄 형태의 마켓플레이스 운영업체들이 실제 일부 시장에 진입하면서, 해당 전기차 충전서비스 시장이 보다 진화하는 양상을 보이고 있다.",
+  "summary": "관념상의 개념으로만 상정되있던 마켓플레이스 운영업체로  미국의 OCA가 있다.   최근 OCA는 OCPP를 개발하여 로밍서비스를 제휴업체들에 제공하고 있으며 로밍시스템을 개발하기위한 컨소시엄이 설립되어 로밍서비스를 위한 시스템 구축작업에 들어갔다.  이처럼  컨소시엄 형태의 마켓플레이스 운영업체들이 시장에 진입하면서 해당 전기차 충전 서비스 시장의 활성화가 나타나고 있다."
+}

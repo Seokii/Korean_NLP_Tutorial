@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220259368981_27",
+  "metadata": {
+    "doc_id": "PCY_201711220259368981",
+    "doc_type": "도서",
+    "doc_name": "진단 및 치료재료의 재사용 원칙에 관한 연구",
+    "author": "이상무",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2009",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "2002년 10월 FDA의 Medical Device User Fee and Modernization Act(MDUFMA)는 법으로 등록되었다. MDUFMA하에서 일회용의 재사용을 규제하기 위해 몇몇의 추가적인 요구조건이 부과되었는데, FDA로 하여금 사전에는 Premarket notification(510(k))로부터 예외였던 critical과 semicritical인 재처리 일회용 의료기기를 검토하도록 요구하여 새로운 라벨링을 의무화하였다. 또한 Class I과 II의 사전자료제출 면제품목이라도 재처리할 경우에는 사전자료제출을 해야 하는 품목을 선정하였다. 무엇보다도 Class III기기가 안전하고 효과적으로 재처리될 수 있는 최대횟수에 대해서 시판 전 자료 제출을 요구하였다.",
+  "summary": "FDA에서 MDUFMA가 법으로 제정되면서 새로운 라벨링이 의무화되고, 사전자료제출 면제대상이라도 재처리할 경우에 사전자료제출해야 하는 지정했고, Class III 재처리 최대횟수에 대한 자료를 요청했다."
+}

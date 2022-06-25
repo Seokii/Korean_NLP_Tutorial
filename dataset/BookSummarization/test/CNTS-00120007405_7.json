@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00120007405_7",
+  "metadata": {
+    "doc_id": "CNTS-00120007405",
+    "doc_type": "도서",
+    "doc_name": "이슈페이퍼",
+    "author": "이진수",
+    "publisher": "한국법제연구원",
+    "published_year": "2019",
+    "kdc_label": "법학",
+    "kdc_code": "360"
+  },
+  "chapter": null,
+  "passage": "SDN기술이 작물에 응용되기 시작하면서 European Food Safety Authority (EFSA)의GMO패널그룹에서는 “게놈의 목표로 하는 특정 DNA단편의 이중나선을 자르고 그 위치에 돌연변이를 유발하거나 특정 카셋트를 삽입하는 모든 기술들”을 총칭하여 SDNs기술에 포함하기로 하였으며 현재까지 개발된 zinc fingernuclease (ZFN), transcription activator-like effector nuclease (TALEN), clustered regularly interspacedshort palindromic repeat (CRISPR)기술 뿐만 아니라 향후 개발될 것으로 전망되는 모든 관련된 새로운 기술들을 포함하도록 하였다.",
+  "summary": "EFSA의 GMO패널그룹은 특정 DNA단편의 이중나선을 자르고 그 위치에 돌연변이를 유발하거나 특정 카셋트를 삽입하는 모든 기술을 SDNs기술에 포함하기로 했다."
+}

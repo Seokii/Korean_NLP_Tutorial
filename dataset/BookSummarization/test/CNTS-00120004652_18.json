@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00120004652_18",
+  "metadata": {
+    "doc_id": "CNTS-00120004652",
+    "doc_type": "도서",
+    "doc_name": "유전자치료제 연구개발 및 규제 동향 2015",
+    "author": "식품의약품안전처",
+    "publisher": "식품의약품안전평가원",
+    "published_year": "2015",
+    "kdc_label": "의학",
+    "kdc_code": "510"
+  },
+  "chapter": null,
+  "passage": "Glybera는 Baculovirus 발현 시스템으로 생산되는데, 이 바이러스 배양에 사용되는 곤충세포(insect cells)에서 3종류의 replicating Baculovirus vectors(LPL cassette, AAV rep gene, AAV cap gene)를 형질전환 시키고, 이 곤충세포에서 재조합된 AAV particle을 만들어 세포 밖으로 배출하면, 용해 완충액(lysis buffer)으로 처리 후 정제, 농축, 필터하여 최종 제조하였다. Glybera(1회용 바이알)은 alipogene tiparvovec (AAV1-LPLS447X) 3 x 1012 genomic copies(gc)가 5% sucrose, PBS 용액(1ml)에 담겨져있다. Glybera는 1 x 1012 gc/kg(체중) 용량으로 근육부위에 1회 투여한다.",
+  "summary": "Glybera는 Baculovirus 발현 시스템으로 생산되는데, alipogene tiparvovec 3 x 1012 genomic copies가 5% sucrose, PBS 용액(1ml)에 담겨져있다. "
+}

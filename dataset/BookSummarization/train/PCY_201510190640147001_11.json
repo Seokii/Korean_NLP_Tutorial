@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201510190640147001_11",
+  "metadata": {
+    "doc_id": "PCY_201510190640147001",
+    "doc_type": "도서",
+    "doc_name": "인간 유용단백질 생산을 위한 형질 전환 소의 개발",
+    "author": null,
+    "publisher": "농림축산식품부",
+    "published_year": null,
+    "kdc_label": "농업·농촌",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "현재 확보된 GFP발현 유전자 발현 DNA로부터 어느 위치에 유전자가 들어가 있는지를 분석중이다. 이를 위하여 sphlinkerette PCR protocol을 확립중에 있으며, 지금까지 나온 결과에 따르면 유전자가 들어간 위치는 chromosome 32번째로 추정중이지만, protocol이 확립된 후 좀 더 정확한 결과를 얻어질 것으로 생각한다. 두 번째 형질 전환 배아 유래의 유산 태아는 twin이었다. 유산된 태아에서 얻어진 genomic DNA를 가지고 microsatellite분석을 한 결과 유산된 형질 전환 복제 태아는 GFP발현 세포로 얻어진 결과였음을 확인하였다.",
+  "summary": "GFP발현 유전자 DNA 분석은 sphlinkerette PCR protocol을 확립해야 한다. 유산 태아 genomic DNA를 분석하여 GFP발현 세포임을 알아내었다."
+}

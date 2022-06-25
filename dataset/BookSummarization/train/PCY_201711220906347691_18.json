@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220906347691_18",
+  "metadata": {
+    "doc_id": "PCY_201711220906347691",
+    "doc_type": "도서",
+    "doc_name": "러시아 군사공공외교의 특징과 함의",
+    "author": "두진호",
+    "publisher": "한국국방연구원",
+    "published_year": "2014",
+    "kdc_label": "기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "정치경제 요인의 주요 변수는 국가수준, 정치체제, 경제수준이다. 국가수준은 UNDP(United Nations Development Programme, 국제연합 개발계획)의 인간개발지수(Human Development Index, 2013)를 활용했다. 인간개발지수는 지식접근성, 생활수준 등을 기준으로 매년 평가되며 ‘1’에 가까울수록 삶의 질이 높은 선진국을 의미한다. 압하지야와 남오세티아 등 국제사회에서 독립국가로 인정받지 못한 신생독립국은 추정치를 적용했다. 정치체제는 EIU(The Economist Intelligence Unit)의 2013년 민주주의 지수를 활용했다(The Economist, 2013). 민주주의 지수는 정치 다원주의, 선거의 제도화, 시민사회, 정치문화 등이 복합적으로 고려되며, 10점에 근접할수록 높은 수준의 민주주의를 의미한다. 민주주의 지수에 따라 Full democracies(완전한 민주주의, 8-10점), Flawed democracies(결함이 있는 민주주의, 6-7.9점), Hybrid regimes(혼성정권, 4-5.9점), Authoritarian regimes(권위주의 체제, 4점 이하)의 네 가지 정치체제로 구분된다. 경제수준은 국가별 1인당 GDP를 적용했다(IMF, 2013).",
+  "summary": "정치경제 요인의 주요 변수는 국가수준, 정치체제, 경제수준인데, 국가수준은 인간개발지수, 정치체제는 EIU의 2013년 민주주의 지수, 경제수준은 국가별 1인당 GDP를 적용한다. "
+}

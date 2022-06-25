@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201602020851381641_18",
+  "metadata": {
+    "doc_id": "PCY_201602020851381641",
+    "doc_type": "도서",
+    "doc_name": "빈곤과 불평등 분석을 위한 한국의 동태적 연산가능 일반균형(CGE) 모형 개발",
+    "author": null,
+    "publisher": "경제‧인문사회연구회",
+    "published_year": null,
+    "kdc_label": "기초생활보장",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "앞에서 언급한 바와 같이 CGE 모형을 현실에 적용하는 데에는 두 가지 방식이 있다. 하나는 호주 Victoria University의 Center of Policy Studies (CoPS)에서 보급하고 있는 ORANI 계열의 CGE 모형이고, 다른 하나는 World Bank의 전통을 따르는 CGE 모형이다. 전자는 Gempack(General Equilibrium Modelling Package)를 사용하고 있으며, 초기값과 증가율을 이용하여 모형의 해를 구하는 Johansen 앨고리즘을 기본으로 채택하고 있다. 이와는 달리 World Bank 방식에서는 수준 변수를 그대로 이용하여 해를 구하는데, 이 때 사용되는 software가 General Algebraic Modeling Software(GAMS)이다. 두 방식의 장·단점은 결국 사용하는 CGE 모형의 규모에 의하여 결정되는 것으로 보인다. 가령 미국의 국제무역위원회(International Trade Commission, ITC)에서 사용하고 있는 국제무역모형은 그 규모가 엄청나기 때문에 호주 Victoria University의 Peter Dixon과 Maureen Rimmer에 의해 Gempack을 이용하는 호주 방식의 CGE 모형을 이용하여 분석하고 있다. 중간 규모의 모형에서는 GAMS를 이용하여 분석하는 경우도 많기 때문에 결과적으로 분석 모형에서 상품이나 산업이 매우 세분화되어 있다면 해(solution)를 구하는데 호주방식이 더 유리하다는 것을 의미한다.",
+  "summary": "CGE 모형은 규모에 따라 세계은행 방식과 호주 방식을 나누어 적용한다. 우선, 호주 방식은 초기값과 증가율을 이용하여 모형의 해를 구하는 방식이다. 이에 국제무형모형과 같이 대규모 모형에 적용하거나, 상품이나 산업이 세분화된 모형에 적용한다. 세계은행 방식은 수준 변수를 그대로 활용하여 결과를 도출하는 방식으로, 호주 방식을 적용에 적합한 모형이 아닌 경우 적용한다고 이해할 수 있다."
+}

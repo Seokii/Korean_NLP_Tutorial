@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00119998514_6",
+  "metadata": {
+    "doc_id": "CNTS-00119998514",
+    "doc_type": "도서",
+    "doc_name": "CNS TODAY",
+    "author": "국토교통부",
+    "publisher": "국토교통부",
+    "published_year": "2014",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": null,
+  "passage": "이러한 SFO의 환경을 고려할 때,FAA의 NextGen에서 제시하는 다양한 미래 항법 중 offsetRNP방식인 RPAT(Parallel Approach Transition)과 CDA(Continuous Descent Arrival)방식을 적용하는 것이 가장 적합할 것으로 보이는데,이를 통해 평균지연량의 약 66%가 감소할 것으로 예상된다. 그러나 궁극적으로는 <그림 10>과 같이 ILS를 SBAS와 GBAS로 대체함으로써 기존 신호 중첩현상을 해소하고,계기비행도 시계비행과 동일한 700ft분리 조건을 적용하는 것을 최종 목표로 한다.",
+  "summary": "RPAT와 CDA방식은 평균지연량의 약 66%의 감소를 예상한다. 그러나 최종 목표는 기존 신호 중첩현상 해소와 계기비행도 시계비행과 동일한 분리 조건 적용이다."
+}

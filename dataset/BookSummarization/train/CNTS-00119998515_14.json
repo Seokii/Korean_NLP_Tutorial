@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00119998515_14",
+  "metadata": {
+    "doc_id": "CNTS-00119998515",
+    "doc_type": "도서",
+    "doc_name": "CNS TODAY",
+    "author": "국토교통부",
+    "publisher": "국토교통부",
+    "published_year": "2015",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": null,
+  "passage": "지상에 설치된 항공용 다변 측정 감시 시스템의 질문기는, 2차 감시레이더가 질문하는 ModeA/C 질문과 ModeS 개별 질문을 동일한 질문으로 처리하여 트랜스폰더를 탑재한 다수의 침입 항공기를 향해 송신할 수 있다. 이러한 질문기의 질문 신호 송신 범위는 모든 항공기에 대하여 공통의 질문을 수행하는 ModeA/C 질문과, 각 항공기에 대해 개별적인 질문과 응답이 가능한 ModeS 질문 범위로 제한된다. 항공용 다변 측정 감시 시스템의 수신기에서 불특정 다수의 ModeA/C 응답이 수신되면, ModeA/C 응답은 중첩된 신호의 동기 가블(synchronous garble)과 비동기 FRUIT(False Replies from Unsynchronized Interrogator Transmissions)으로 인해 응답 신호를 적절히 디코딩 할 수 없게 되어, 항공기 위치 파악을 어렵게 한다.",
+  "summary": "지상에 설치된 항공용 다변 측정 감시 시스템의 질문기는 2차 감시레이더가 질문하는 ModeA/C 질문과 ModeS 개별 질문을 동일한 질문으로 처리해 트랜스폰더를 실은 다수의 침입 항공기를 향해 송신 가능하다."
+}

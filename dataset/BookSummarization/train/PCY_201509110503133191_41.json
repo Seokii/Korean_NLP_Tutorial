@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201509110503133191_41",
+  "metadata": {
+    "doc_id": "PCY_201509110503133191",
+    "doc_type": "도서",
+    "doc_name": "항공분야 빅데이터의 정책적 활용방안 연구",
+    "author": null,
+    "publisher": "한국교통연구원\t",
+    "published_year": null,
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "안전 감독 관리 시스템(SOMS, Safety Oversight Management System)은 항공사 공항 관제기관-정비조직 등에 대한 안전 감독 활동 정보를 DB화하여 체계적으로 관리하기 위해 개발하였다. SOMS는 안전 감독 계획 수립 및 감독관 지정 등 관리, 점검결과 입력, 개선명령 및 사후조치 등 실적 관리, 감독활동 관련 통계 관리, 자체 안전 관리 체계(Safety Management System)이행 점검 관리등으로 데이터가 구성되어 있으며, 각 체크리스트 결과별 분석 및 SMS에 따른 분석 결과 도출이 가능하다.",
+  "summary": "항공사 관제기관과 정비조직에 관한 안전 감독 활동 정보를 관리하기 위해 안전 감독 관리 시스템을 개발했다. "
+}

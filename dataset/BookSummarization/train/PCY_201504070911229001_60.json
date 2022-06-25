@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504070911229001_60",
+  "metadata": {
+    "doc_id": "PCY_201504070911229001",
+    "doc_type": "도서",
+    "doc_name": "5G 이동통신 분야 표준문서 검색 가이드",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "LTE WG1 회의 디렉토리의 하위 디렉토리 중 기고문이 저장되어 있는 “Docsˮ 디렉토리에는 “Tdoclist_RAN1 #xxˮ로 시작되는 엑셀 파일이 저장되어 있다. 제목에서 “xxˮ는 회의 번호에 해당하는 숫자 혹은 문자가 삽입된다. 예를 들어 3GPP ftp 서버에서 http://www.3gpp.org/ftp/tsg_ran/WG1_RL1/ TSGR1_51/Docs/ 디렉토리에는 엑셀화일 “Tdoclist_RAN1 #51(Nov_2007)ˮ이 있다. [그림 42]의 “Tdoclist_RAN1 #51(Nov_2007)ˮ 엑셀 파일에는 해당 회의기간에 제출된 전체 기고문의 문서명, 제목, 기고문 제출인, 협의 여부에 대한 요약 정보가 포함되어 있다.",
+  "summary": "엑셀파일의 이름을 통해 회의번호를 알 수 있다. 또한 해당 파일에는 요약 정보가 포함되어있다."
+}

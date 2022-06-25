@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049144800_66_67-0",
+  "metadata": {
+    "doc_id": "CNTS-00049144800",
+    "doc_type": "도서",
+    "doc_name": "Ethernet 기술혁신과 정책시사점",
+    "author": "강홍렬",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2000",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "III. MAN, WAN의 새로운 대안 2. MAN, WAN을 위한 새로운 선택",
+  "passage": " 정보통신서비스 사업자들은 단일 프로토콜에 근거한 신뢰성 있는 전용 Ethernet서비스를 효과적이고 경제적으로 제공할 수 있게 될 것이다. 그리고, GigE과 10GigE가 과거 Ethernet 기술의 자연스러운 연장이라는 측면에서 Ethernet에 의한 네트워크서비스는 폭넓은 확장가능성(\"straightforward scalability(10/100/1,000/10,000 Mbps)\")을 지닌다. 이와 같은 확장가능성을 전제로 전반적으로 Ethernet으로 구축된 네트워크 Hierarchy를 구성하는 것이 가능해진다.\n 사실상 정보통신네트워크와 관련하여 확장가능성(scalability)은 네트워크를 미래를 설계하는 데 가장 중심적인 역할을 수행한다. 기하급수적인 기술의 확대는 근본적으로 인터넷의 확장가능성(scalability)의 제고로 읽어질 수 있으며, 기술혁신과 관련한 중요한 화두로 작용하고 있다. Ethernet의 확장가능성은 급속하게 변하는 정보통신기술환경 속에서 빠르게 확대되는 대역폭에 대한 수요와 빠른 기술혁신에 따른 가능성의 확대에 발맞추어 연속적으로(continueously and evolutionarily) 업그레이드할 수 있기를 원하는 서비스 사업자의 욕구와 맞아 떨어진다. GigE이나 10GigE에 의하여 구축되는 Ethernet Hierarchy로서의 네트워크는 MAN, WAN서비스를 제공하는 네트워크로서의 잠재력을 백분 발휘할 것이고, 이 hierarchy의 위쪽에 위치하는 Ethernet 장비는 기존 서비스사업자의 백본네트워크 또는 Core네트워크의 장비(ATM, IP /SONET 등)에 대하여 대체재(subtitutes 또는 replacement)로서 경쟁하게 될 것이다.",
+  "summary": "정보통신서비스 사업자들은 Ethernet서비스를 효과적, 경제적으로 제공할 것이며 이는 폭넓은 확장가능성을 가진 Ethernet으로 구축된 네트워크 Hierarchy를 구성하는 것이 가능해진다.  hierarchy의 위쪽에 위치하는 Ethernet 장비는 기존 서비스사업자의 백본네트워크 또는 Core네트워크의 장비에 대체재로 경쟁하게 될 것이다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201908160225012641_41",
+  "metadata": {
+    "doc_id": "PCY_201908160225012641",
+    "doc_type": "도서",
+    "doc_name": "에너지 포커스 : 2019년 여름호",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2019",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Platts사가 Brent 관련 CFD를 발표하는 체계를 살펴보면 다음과 같다. 현재(9월 23일, 수요일)를 기준으로 선적일이 가장 가까운 날이 속한 주(영업일 기준 5일간, 9월 21일(월) ~ 9월 25일(금))의 Dated Brent의 예상평균가격과 Cash BFOE(11월물) 가격(표 2의 49.11)과의 차이를 거래한 정보들로부터 첫째 주(1st week)의 CFD 가격을 평가한다. 이후에 총 8주간의 CFD 거래정보들을 바탕으로 CFD 가격들을 평가하여 발표하고 있다. 첫째 주의 CFD 가격이 도출되는 9월 23일에는 9월 21일부터 9월 25일까지 총 5일 동안에 형성될 Dated Brent 가격을 알 수가 없다. 따라서 이때의 Dated Brent 가격의 5일간 예상평균은 시장 참여자들이 첫째 주의 CFD를 거래하면서 Cash BFOE(11월물) 대비 적정하다고 판단하여 할당한 Dated Brent의 5일 예상평균가격들을 바탕으로 Platts사가 자체적으로 평가한 가치이다. Platts사는 이러한 과정을 통해 도출한 Dated Brent의 5일간의 예상평균가격을 Dated Brent Swaps(표 4 참조)라고 지칭하고 있는데, 시장 참여자들은 5일간(9.21~9.25)의 Dated Brent 가격의 평균으로 BFOE 실물 원유를 거래할 때에 해당 주의 Dated Brent Swaps 가격 수준으로 거래가격을 고정할 수 있다.",
+  "summary": "Platts사가 Brent 관련 CFD를 발표하는 체계를 살펴보면 다음과 같다. 선적일이 가장 가까운 날이 속한 주의 Dated Brent의 예상평균가격과 Cash BFOE 가격과의 차이를 거래한 정보들로부터 첫째 주 CFD 가격을 평가한다. 이후에 총 8주간의 CFD 거래정보들을 바탕으로 CFD 가격들을 평가하여 발표하고 있다."
+}

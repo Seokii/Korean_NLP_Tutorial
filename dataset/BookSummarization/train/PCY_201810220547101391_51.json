@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201810220547101391_51",
+  "metadata": {
+    "doc_id": "PCY_201810220547101391",
+    "doc_type": "도서",
+    "doc_name": "4차 산업혁명 대응 법제 정비 연구 (Research on the Improvement of Legislative Systems in the Era of the 4th Industrial Revolution)",
+    "author": "조성은, 이원태, 이시직",
+    "publisher": "정보통신정책연구원,과학기술정보통신부,정보통신기술진흥센터",
+    "published_year": "2018",
+    "kdc_label": "과학기술연구",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "정보이동권(right to data portability)은 정보주체가 자신의 개인정보를 자신 또는 제3자에게 이전해 줄 것을 정보처리자에게 요구할 수 있는 권리이다. 이로써 특정 기업 ․ 기관이 독점해 온 개인에 대한 정보 처리 권한을 정보주체인 개인에게도 확대하며, 정보가 특정 인에 독점되는 것을 막고 개인 동의를 획득한 다양한 정보를 유통시킬 법적 근거가 마련 되었다. 유럽연합의 개인정보지침(EU Directive(95/46 /EC))에는 관련 규정이 없었으며 정보주체의 자기정보 통제권을 강화시키는 차원에서 2018년 5월에 발표되는 GDPR의 제20 조에 새롭게 도입된 법적 권리이다.",
+  "summary": "정보처리자에게 개인이 자신의 개인정보 이전을 요구할 수 있는 정보이동권은 개인 동의를 받은 정보를 유통할 수 있는 법적 근거이자 권리로 GDPR 제20조에 새롭게 도입되었다."
+}

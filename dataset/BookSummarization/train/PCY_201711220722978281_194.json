@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220722978281_194",
+  "metadata": {
+    "doc_id": "PCY_201711220722978281",
+    "doc_type": "도서",
+    "doc_name": "의료기술평가제도의 국제 비교연구",
+    "author": "김수경",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2015",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "미국에서 의료기기는 위험성에 따라 1등급, 2등급, 3등급(Class Ⅰ, Ⅱ, Ⅲ)으로 분류된다. 미국에서 의료기기를 판매하고자 하는 사람은 시판 전 신고서(Premarket Notification 510(k))를 제출하거나 시판 전 허가(Premarket Approval)를 받아야 한다. 보통 1등급과 2등급 의료기기는 시판 전 신고 대상이고, 3등급 의료기기는 시판 전 허가 대상이다. 1등급과 2등급 의료기기 중, 아래 목록에 해당하는 의료기기는 시판 전 신고 면제 대상이며, 미 식품의약품안전처의 제품 등록 통합 시스템(FDA's Unified Registration and Listing System, FURLS)에 등록하면 된다.",
+  "summary": "미국의 의료기기는 위험에 따라 1, 2, 3으로 등급이 나뉘는데 판매자는 등급에 따라 시판 전 신고서나 허가를 받아야한다. 또한 신고 면제 대상 기기가 있는데 FURLS에 등록해야한다."
+}

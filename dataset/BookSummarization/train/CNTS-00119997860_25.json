@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00119997860_25",
+  "metadata": {
+    "doc_id": "CNTS-00119997860",
+    "doc_type": "도서",
+    "doc_name": "2015년 1/4분기 국내외 규제동향지",
+    "author": "한국행정연구원",
+    "publisher": "한국행정연구원",
+    "published_year": "2015",
+    "kdc_label": "행정학",
+    "kdc_code": "350"
+  },
+  "chapter": null,
+  "passage": "영국정부는 규제비용을 측정하기 위해 규제영향평가계산기(Impact Assessment Calculator)와 규제영향평가 양식(IA Template) 두 가지 도구를 제공하고 있다(BIS, et al., 2012). 먼저 규제영향평가계산기는 사업체에 대한 연간순등가비용(Equivalent Annual Cost to Business, EANCB) 점수와 현재 순가치(Net Present Values), 규제영향평가 양식을 완성하는데 필요한 일부 항목에 대한 계산 기능을 제공하고 있다(BIS, 2013). 계산기는 엑셀(Excel) 파일로 제공되며, 온라인상에 공개되어 있어 필요한 사람은 누구나 다운로드 받아 활용할 수 있다.",
+  "summary": "영국정부는 규제비용을 측정하기 위해 필요한 도구인 규제영향평가계산기 와 평가양식 모두  온라인을 통해 누구나 다운받을 수 있도록 제공하고 있다."
+}

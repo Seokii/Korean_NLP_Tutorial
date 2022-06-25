@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703270437004441_62",
+  "metadata": {
+    "doc_id": "PCY_201703270437004441",
+    "doc_type": "도서",
+    "doc_name": "ICT 융복합 기반 국가교통기술 혁신 중장기 과제 발굴",
+    "author": null,
+    "publisher": "한국교통연구원",
+    "published_year": "2015",
+    "kdc_label": "기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "민간 항공기 항행시스템은 과거의 지상항행안전시설 기반의 항행체계에서 위성 기반의 CNS/ATM(Communication, Navigation, Surveillance / Air Traffic Management) 체계로 전환되고 있다. 항공 통신분야에서는 기존의 ACARS 통신을 보조 및 대체하기 위하여 통신 기술 개발 연구 활동을 추진 중에 있다. 공항과 같이 고밀도의 주파수 용량이 필요한 지역을 대상으로 AeroMACS(Aeronautical Mobile Airport Communications System)을 개발 중에 있으며, 대양 및 원격지 통신을 위한 ATS SATCOM 시스템 및 다중 모드상용 시스템(예, Inmarsat Swift Broadband, Iridium 등)을 개발 중에 있다.",
+  "summary": "민간 항공기 항행시스템은 위성 기반의 CNS/ATM 시스템으로 전환 중이다. 전환을 위해 통신관련 시스템을 개발 하고 있다."
+}

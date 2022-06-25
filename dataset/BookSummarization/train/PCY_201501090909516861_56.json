@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201501090909516861_56",
+  "metadata": {
+    "doc_id": "PCY_201501090909516861",
+    "doc_type": "도서",
+    "doc_name": "잔류동물용의약품 분석법 실무 해설서",
+    "author": null,
+    "publisher": "식품의약품안전처",
+    "published_year": null,
+    "kdc_label": "식품의약안전",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "GC-MS를 이용하여 잔류 분석을 수행하기 위해서는 다음과 같은 과정이 필요하다. 먼저 분자이온을 충분히 포함하는 m/z 범위로 MS 조건을 설정하고, 적정한 농도의 표준용액을 GC-MS의 GC에 주입, full MS spectrum을 얻는다. 이 결과로부터 확인될 수 있는 total-ion chromatogram (TIC)는 분자와 fragment 이온의 총합신호를 기준으로 작성되는 chromatogram이므로, 대상 성분에 대한 선택성이 낮다. 따라서, TIC를 직접 대상 성분의 잔류분석에 사용하기 어려우므로, 우선적으로 분석화합물의 머무름 시간에 해당하는 peak로부터 mass spectrum을 추출한다. Mass spectrum으로부터 abundance가 높으면서 분석 화합물의 구조를 잘 반영할 수 있는 이온을 선정한다. 이때, 분자 이온을 선정하는 것이 가장 바람직하나, 일반적으로 EI에서 분자이온은 abundance가 약하여, 이를 선택할 경우, 결과적으로 분석 감도를 떨어트리는 원인이 될 수 있다. 따라서, 분자이온의 m/z 값에 가장 가깝고, 떨어져 나간 원자단이 확인된 abundance가 높은 fragment 이온들을 선정하는데, 역시 감도저하를 최소화하기 위하여 2개를 초과하지 않는다. 이후, MS 조건을 selected ion monitoring (SIM) mode로 변경한 후 분석한다. SIM mode에서는 이전의 과정을 통해 선정된 ion만을 검출하므로, 선택성과 감도가 높아지게 동시에 높아지게 된다. 또한 GC에서 얻을 수 있는 머무름 시간 외에 대상 물질의 화학적 구조 정보가 동시에 반영되므로, 정성 분석의 신뢰도가 매우 높아지게 된다.",
+  "summary": "분자이온을 다량 포함한 m/z 범위로 MS 조건을 정하고 적정한 농도의 표준용액을 GC-MS의 GC에 주입, full MS spectrum을 확인 후 결과인 TIC보다 mass spectrum을 쓴다. 이곳에서 조건을 만족하는 이온을 2개를 초과하지 않는 선에서 고른다. 이후 MS 조건을 SIM 모드로 바꾼 후 분석한다."
+}

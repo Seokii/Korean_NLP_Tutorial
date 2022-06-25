@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201506290910056371_1",
+  "metadata": {
+    "doc_id": "PCY_201506290910056371",
+    "doc_type": "도서",
+    "doc_name": "유전자치료제 순도시험법 시험정보집",
+    "author": null,
+    "publisher": "식품의약품안전처",
+    "published_year": null,
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "유전자치료제에서 유전자를 전달하기 위한 벡터(vector)는 크게 두 가지로 나눌 수 있는데, 비바이러스성 벡터로 DNA와 RNA와 같이 핵산 그 자체를 이용하는 것이 있고, 바이러스성 벡터로 아데노바이러스(adenovirus), 레트로바이러스(retrovirus), 아데노부속바이러스(AAV, adeno-associated virus) 및 렌티바이러스(lentivirus) 등을 포함한 다양한 바이러스 벡터들이 사용되고 있다. 이들 중, 아데노바이러스 벡터(22.5%)가 가장 많이 이용되고 있으며, 비바이러스성 벡터 중에서는 Naked/Plasmid DNA(17.5%, 전체 3위)가 가장 많이 이용되고 있다.",
+  "summary": "유전자치료제에 유전자를 전달하는 벡터는 크게 비바이러스성 벡터와 바이러스성 벡터로 나뉘는데, 전자는 Naked/Plasmid DNA, 후자는 아데노바이러스벡터가 가장 많이 사용된다."
+}

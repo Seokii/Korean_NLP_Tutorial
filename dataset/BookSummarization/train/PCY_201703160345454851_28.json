@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703160345454851_28",
+  "metadata": {
+    "doc_id": "PCY_201703160345454851",
+    "doc_type": "도서",
+    "doc_name": "2016년 보건복지통계정보 통합 관리 및 운영",
+    "author": null,
+    "publisher": "한국보건사회연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "TF-IDF(term frequency-inverse document frequency)는 여러 개의 문서(document)가 주어졌을 때, 특정 단어(term)가 전체 문서군 (set of documents)에서 얼마나 중요한 역할을 하는지에 대한 양적 수 치이며(Charkrabarti, 2002; Pazzani an Billsus, 2007; Salton and Buckley, 1988; Salton et al., 1975) Text mining 방법에서 널리 사 용되는 가중치 산출 방식 중의 하나이다. 따라서 전체 문서군에서 핵심이 되는 단어를 찾거나 혹은 문서 간의 유사도를 결정하는 과정에 사용된다. TF-IDF를 계산하는 절차는 다음과 같다.",
+  "summary": "TF-IDF는 다양한 문서에서의 특정 단어가 얼마나 중요한 역할을 하는지에 관한 객관적 분석표이며, 핵심 단어찾기 및 유사도 결정에 쓰인다. "
+}

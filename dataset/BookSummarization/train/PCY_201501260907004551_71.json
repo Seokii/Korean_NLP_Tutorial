@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201501260907004551_71",
+  "metadata": {
+    "doc_id": "PCY_201501260907004551",
+    "doc_type": "도서",
+    "doc_name": "2014년 12월호(Vol.7, No.2): 위성 기술과 활용",
+    "author": null,
+    "publisher": "기상청",
+    "published_year": null,
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "우주기상이라는 용어는 1959년 John Brooks가 New Yorker Magazine에 태양플레어 폭발의 효과를 대중에게 설명하며 처음 쓰여지기 시작했다. 우주기상의 피해에 대해 체계적으로 대응해야 한다는 권고는 미국 해양대기청(NOAA)이 1995년 National Space Weather Program이라는 문서에서 공식적으로 채택하였다(NSWPSP, 1995). 이 문서에 기초하여 콜로라도주 Boulder 시에 NOAA의 Space Weather Prediction Center (SWPC)가 설립됨으로서 본격적인 미국의 우주기상 예보업무가 시작되었다. 그 전에는 국제전파과학연맹(International Union Radio Science, URSI) 산하에 International URSIgram and World Days Service (IUWDS) 라는 기구에서 우주환경 정보를 전파하였다. 1996년에 이후에는 이 기구가 International Space Environment Service (ISES) 로 개편되면서, 세계 각 지역에 경보센터(Regional Warning Center, RWS)를 운영하는 방식으로 확장되었다. 현재 16개의 ISES RWS가 운영되고 있고, 그 중 한국도 포함되어 있다. 미국의 NOAA/SWPC는 정지궤도 기상위성에 탑재된 우주환경센서(태양 X-선 감지기, 고에너지입자 검출기, 자력계)와 항시 태양 방향에 위치라는 ACE 위성과 태양연구용인 STEREO 위성, SDO 위성의 자료를 실시간으로 사용하여 가장 종합적인 우주기상 예보를 실시하고 있다. 또한 NOAA/SWPC는 매년 4월 국제적인 우주기상 워크샵을 정기적으로 개최하여 명실공히 우주기상 예보업무의 국제적 리더쉽을 발휘하고 있다.",
+  "summary": "우주기상이라는 단어가 처음 사용된 것은 1959년 John Brooks가 대중에게 태양플레어 폭발의 효과를 설명한 New Yorker Magazine에서였다. 미국의 우주기상 예보는 콜로라도주 Boulder 시에 NOAA의 SWPC가 설립되면서 본격적으로 시작되었다. 현재 미국의 NOAA/SWPC는 가장 종합적인 우주기상 예보를 실시하며 매년 개최하는 국제적인 우주기상 워크샵을 통해 국제적인 리더쉽을 발휘하고 있다."
+}

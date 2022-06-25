@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201509110420252211_51",
+  "metadata": {
+    "doc_id": "PCY_201509110420252211",
+    "doc_type": "도서",
+    "doc_name": "에너지 부문 정보통신 융합의 전개구도와 영향",
+    "author": null,
+    "publisher": "에너지경제연구원\t",
+    "published_year": null,
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "스마트미터 보급만이 데이터양을 늘리는 요인은 아니다. GIS(geographic information systems) 이용 확대도 데이터 양 증가에 크게 기여한다. 정전 관리(outage management) 및 자산 활용(asset utilization)도를 높이기 위해 배전자동화(distribution automation) 프로젝트에서 GIS 관련 수천 개의 모니터, 스위치, 원격 터미널장치 등이 설치된다. 미국Oklahoma Gas and Electric과 같은 전력회사들은 계량기 알람과 배전관리시스템(distribution management system)의 공지(notice) 기능으로 인해 하루에 약 200만 개의 이벤트 메시지가 도착할 것으로 전망하고 있다. GIS 시스템에서 필요로 하는 데이터 저장용량과 처리능력은 GIS시스템이 개별 계량기들과 통합하면서 더욱 확대될 것이다(박찬국, 2013).",
+  "summary": "스마트미터 보급이 데이터양을 늘리는 요인은 아니며 GIS 이용 확대도 데이터 양 증가에 상당부분 기여한다. 게다가 GIS 시스템에서 요구 하는 데이터 저장용량과 처리능력은 GIS시스템이 각자 계량기들과 통합하면서 크게 확장 될 전망이다."
+}

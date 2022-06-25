@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118885761_37",
+  "metadata": {
+    "doc_id": "CNTS-00118885761",
+    "doc_type": "도서",
+    "doc_name": "아이디어 공모전 DB의 효율적 구축방안 연구",
+    "author": "특허청",
+    "publisher": "특허청",
+    "published_year": "2014",
+    "kdc_label": "법학",
+    "kdc_code": "360"
+  },
+  "chapter": null,
+  "passage": "유럽특허청(European Patent Office： EPO)과 미국특허상표청(United States Patent and Trademark Office : USPTO)은 각각 유럽 특허분류체계(ECLA)와 미국 특허분류체계(USPC)를 독자적으로 사용해 왔다. CPC는 이 두 기관에서 사용하는 두 분류체계를 결합한 형태이다. 즉, CPC는 세계지식재산권기구(WIPO) 분류 기준 및 IPC를 모델로 EPO의 ECLA에 USPTO의 USPC를 통합시키기 위해 ECLA에 기초한 공동분류시스템을 개발함으로써 각 특허청의 우수한 분류를 통합하기로 한 것으로, IPC 틀 안에서 조화를 이룬 것이다. 앞선 IPC공동 분류 기반 프로젝트(CHC)를 통해 CPC는 일본의 특허분류인 FI(File Index)와 함께 IPC를 대체할 새로운 특허분류체계로 국제적으로 논의되고 있다.",
+  "summary": "유럽 특허청과 미국특허상표청의 우수한 분류체계를 결합한 CPC는 IPC 구조를 기본 틀로하여 보다 나은 성과를 보이고 있다. 이는 일본의 특허분류 FI와 함께 차세대 특허분류체계로 꼽히고 있다."
+}

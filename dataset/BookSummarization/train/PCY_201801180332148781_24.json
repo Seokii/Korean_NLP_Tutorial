@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201801180332148781_24",
+  "metadata": {
+    "doc_id": "PCY_201801180332148781",
+    "doc_type": "도서",
+    "doc_name": "음성인식 AI 비서 시장의 현황과 시사점",
+    "author": "최지혜, 이선희",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2017",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Microsoft 역시 2016년 말부터 Cortana를 중심으로 한 음성인식 서비스 생태계 조성을 위한 다양한 전략을 취하고 있다. 첫 번째는 기기로의 확장과 관련된 계획이다. 음향기기전문업체인 “Harman/Kardon”과의 협력 하에 Cortana 플랫폼을 탑재한 전용 AI 스피커 “Invoke”가 올해 안에 출시될 예정이며, 컴퓨터 제조업체인 “HP” 기기에도 Cortana를 적용하기 위한 협약이 이루어졌다(The Verge, 2017. 5. 10). 소프트웨어 측면에서는 음성인식 비서 서비스를 스마트홈의 인터페이스로 활용하고자 하는 전략이 구체화 되고 있다. 또한, 외부개발자들이 기기나 OS 관계없이 Cortana 연동 서비스를 개발할 수 있게 해주는 “Cortana Skill Kit”도 공개될 예정이며(Microsoft News Center, 2016. 12. 14), 2017년 9월 업데이트에서는 Windows10 홈허브와 Cortana를 이용한 홈 IoT 제어 등의 기능이 추가될 전망이다.",
+  "summary": "Microsoft 역시 2016년 말부터 Cortana를 중심으로 한 음성인식 서비스 생태계 조성을 위해 기기로의 확장 및 음성인식 비서 서비스 활용 등 다양한 전략을 취하고 있다."
+}

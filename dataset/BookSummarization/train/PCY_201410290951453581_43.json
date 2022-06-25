@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201410290951453581_43",
+  "metadata": {
+    "doc_id": "PCY_201410290951453581",
+    "doc_type": "도서",
+    "doc_name": "방송통신위원회의 의사결정 역량강화 방안 연구",
+    "author": null,
+    "publisher": "방송통신위원회",
+    "published_year": null,
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Defense Mobile이 Sprint의 LTE 네트워크를 통해 제공할 서비스와 연계된 스마트폰에는 ‘MiliPay’라는 선결제 MasterCard 앱이 탑재되어 있다. Defense Mobile은 보안이 적용된 서드파티 링크를 통해 현역 및 재향 군인의 정보를 확인하고 이 정보로 이용자의 Defense Mobile 단말과 MiliPay MasterCard를 연동시킨다. 이러한 인증 절차를 거친 Milipay MasterCard앱을 결제에 사용할 시 캐시백을 비롯한 각종 혜택이 이용자의 Milipay 계정에 누적되며, 누적 사항은 앱을 통해 확인 및 관리할 수 있다.",
+  "summary": "Defense Mobile는 서드파티 링크로 확인한 현역 및 재향 군인 정보를 통해 사용자의 Milipay 앱에 캐시백 등의 결제 혜택이 누적되도록 한다. "
+}

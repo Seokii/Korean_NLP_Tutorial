@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00119998515_9",
+  "metadata": {
+    "doc_id": "CNTS-00119998515",
+    "doc_type": "도서",
+    "doc_name": "CNS TODAY",
+    "author": "국토교통부",
+    "publisher": "국토교통부",
+    "published_year": "2015",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": null,
+  "passage": "AIRM은 데이터 교환 모델이라는 관점에서 SWIM 시스템에서 데이터의 교환을 위한 모델인 AIXM/WXXM/FIXM 등과 혼란을 야기할 수 있지만, AIXM/WXXM/FIXM에 정의된 데이터 교환 모델 및 스키마 등이 기술적으로 상호 운용을 위한 표준이라면 AIRM은 그보다 상위 계층에서 서로 다른 기관 사이, 또는 서로 다른 표준 기술 사이 또는 구기술과 신기술 사이에서 데이터의 효율적인 교환을 가능하게 하는 논리적인 데이터 교환 모델이다. 따라서 AIXM/WXXM/FIXM은 Nato Architecture Framework에 물리적 데이터 모델로 정의된 NSV-11b를 따르며 AIRM은 논리적 데이터 모델로 정의된 NSV-11a를 따른다.",
+  "summary": "AIXM/WXXM/FIXM에 정의된 데이터 교환 모델 등이 기술적 상호 운용을 위한 표준이라면, AIRM은 서로 다른 기관 혹은 기술 사이의 데이터 교환을 위한 논리적인 데이터 교환 모델이다."
+}

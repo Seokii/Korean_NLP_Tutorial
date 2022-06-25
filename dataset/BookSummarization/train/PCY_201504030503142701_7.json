@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504030503142701_7",
+  "metadata": {
+    "doc_id": "PCY_201504030503142701",
+    "doc_type": "도서",
+    "doc_name": "연구개발 투자가 한국 ICT(정보통신기술) 기업 성장에 미치는 영향",
+    "author": null,
+    "publisher": "정보통신정책연구원",
+    "published_year": "2014",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "한편 기업 패널 데이터를 활용한 실증연구 방법론은 대개 사용된 데이터의 성격을 따라 OLS를 사용한 연구부터 system-GMM(Generalized Method of Moments)을 사용한 연구까지 다양하게 존재한다. 동적 패널 분석 방법론에 관한 연구들에서는Arellano and Bond(1991), Arellano and Bover(1995), Blundell and Bond(1998) 등이 대표적인 연구이다. 그리고 동적 패널 분석을 위한 GMM을 기업 연구개발투자와 재무 자료에 적용한 최근의 실증연구는 Brown, Fazzari, and Petersen(2009)이 있다. 연구개발투자와 기업 성장에 관한 패널 데이터 실증연구로는 Del Monte and Papagni(2003)을 찾아볼 수 있었다.",
+  "summary": "기업 패널 데이터를 활용하는 실증연구 방법론은 다양하게 존재한다. 여기엔 동적 패널 분석 방법론, 동적 패널 분석을위한 GMM의 적용, 연구개발투자와 기업 성장에 관한 패널 데이터 등의 실증연구가 있다."
+}

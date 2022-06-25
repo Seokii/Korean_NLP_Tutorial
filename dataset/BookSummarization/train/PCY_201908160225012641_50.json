@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201908160225012641_50",
+  "metadata": {
+    "doc_id": "PCY_201908160225012641",
+    "doc_type": "도서",
+    "doc_name": "에너지 포커스 : 2019년 여름호",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2019",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "결론적으로 BFOE가 Cash BFOE 단계에 있을 경우는 EFP로, Dated BFOE 단계에 있을 경우에는 Dated BFOE 실물 거래의 결제가격이 결정되는 구간에 따라 각각 CFD와 DFL로 가격변동의 위험을 헤지할 수 있는 것이다. 여기서 Dated Brent와 Cash BFOE는 CFD로 연결되어 있고, Cash BFOE와 ICE Brent Futures는 EFP, Dated Brent와 ICE Brent Futures는 DFL을 매개로 상호 작용하고 있음을 알 수 있다. 이는 Brent 관련 파생상품들 간의 강한 연계성을 보여주는 것이며, 필요에 따라서는 여러 가지 파생상품들을 조합하여 실물 BFOE를 거래할 때의 가격변동의 위험을 헤지할 수 있는 가능성을 보여주고 있다.",
+  "summary": "BFOE가 Cash BFOE 단계이면 EFP로, Dated BFOE 단계이면 CFD나 DFL로 가격변동 위험을 헤지 가능하므로 필요 시  여러 파생상품 조합으로 실물 BFOE 가격변동 위험 헤지가 가능하다."
+}

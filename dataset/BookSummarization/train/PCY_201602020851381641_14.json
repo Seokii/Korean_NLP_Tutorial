@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201602020851381641_14",
+  "metadata": {
+    "doc_id": "PCY_201602020851381641",
+    "doc_type": "도서",
+    "doc_name": "빈곤과 불평등 분석을 위한 한국의 동태적 연산가능 일반균형(CGE) 모형 개발",
+    "author": null,
+    "publisher": "경제‧인문사회연구회",
+    "published_year": null,
+    "kdc_label": "기초생활보장",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "여기서는 Top-Down을 기본원칙으로 하여 Macro-SAM으로부터 Micro-SAM을 도출하였다. 세부적인(dis-aggregated) 정보가 담긴 Micro-SAM을 도출하기 위해 앞에서 만든 Macro-SAM의 값을 제어합계(control total)로 이용하였는데, Micro SAM의 작성과정에서도 통계 상의 불일치 문제가 발생하게 된다. 구체적으로 제어치로 활용되는 Macro SAM과 이에 해당하는 Micro SAM의 합계를 비교하면 일치하나, Micro SAM은 분석에 필요한 세부항목들이 포함되는데 이때 각 항목의 하위 구성 항목에 대한 행(row)과 열(column)의 합이 일치하지 않는 문제점이 나타나므로 세부항목에서의 행(row)과 열(column)의 합을 서로 맞추어 주는 balancing 작업이 필요하게 된다. 그런데 사회회계행렬의 balancing을 위한 표준적인 경제이론은 현재까지 개발되어 있지 않으므로 주로 기계적인(mechanical) 방법을 이용하여 행(row)과 열(column)의 합을 일치하도록 조정하여 SAM이 내적 정합성(internal consistency)을 갖도록 하는 것이 일반적이다.",
+  "summary": "Top-Down을 원칙으로 하여 Macro-SAM으로부터 Micro-SAM을 도출할때 통계 상의 불일치 문제가 발생하게 되어 Micro SAM의 세부항목에서 행과 열의 합이 일치하도록 조정하여 서로 맞추어 주는 기계적인 방법을 이용한 balancing 작업이 필요하게 된다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201505190915045931_13",
+  "metadata": {
+    "doc_id": "PCY_201505190915045931",
+    "doc_type": "도서",
+    "doc_name": "해외 특허분쟁 대응전략 로드맵(3D프린팅)",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": "M&A 및 특허 매입현황 분석",
+  "passage": "M&A를 고려한 주요 기업별 특허 보유 현황을 살펴보면, 3D Systems가 기존에 보유하고 있던 특허는 등록특허 258건, 출원특허 37건으로 총 295건인 것으로 나타났다. 또한, 3D Systems는 EOS를 인수함으로써 EOS의 등록특허 57건 및 출원특허 25건을 보유하고 있으며, 인수한 EOS의 특허는 대부분 3D 모델 생산을 위한 적층방식 기술 중 Selective Laser Sintering에 관한 것이다. 또한, 3D Systems는 Silverbrook Research를 인수함으로써 Silverbrook Research의 등록특허 38건 및 출원특허 2건을 보유하고 있으며, 인수한 Silverbrook Research의 특허는 대부분 3D 모델 생산을 위한 프린터에 관한 특허이다. 그 밖에도 인수를 통해 Sensable Technologies, Z Corporation, Inus Technology 등의 특허를 보유하고 있다.",
+  "summary": "M&A를 고려한 주요 기업별 특허 보유 사항을 보면 3D Systems가 기존에 보유하고 있는 특허는 총 295건이며, EOS를 인수해서 보유한 특허는 82건으로 대부분 3D 모델 생산을 위한 Selective Laser SIntering에 관한 것이다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703210435089461_1",
+  "metadata": {
+    "doc_id": "PCY_201703210435089461",
+    "doc_type": "도서",
+    "doc_name": "(2015) 국민연금 기금관리 포럼 운영",
+    "author": null,
+    "publisher": "한국보건사회연구원",
+    "published_year": "2015",
+    "kdc_label": "공적연금",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Black-Litterman 모델은 1992년 Fischer Black과 Robert Litterman이 1992년 Financial Analysts Journal 에 발표한 “Global portfolio optimization”에서 유래한다. Markowitz의 평균분산최적화모델(Mean Variance Optimization Model)의 한계를 극복하기 위해 Black-Litterman 모델은 시장균형수익률을 기대수익률로 활용하고 있다. 시장균형수익률은 시장중립적포트폴리오(Market neutral portfolio)에서 도출하여 Markowitz의 일반적 평균분산최적화모델(이하 MVO) 과 달리 자산배분의 기준수준을 제시한다는 것이 큰 차이가 될 수 있다. 시장중립적 수익률과 자산배분이라는 기준선에 투자자의 주관적 견해(View)를 추가적으로 적용하여 최종적인 균형수익률과 자산배분을 도출하게 된다. 따라서 MVO모델과는 달리 모든 자산군에 자산이 배분되는 안정적인 포트폴리오를 도출하게 된다.",
+  "summary": "Black-Litterman 모델은 시장중립적 포트폴리오에서 도출하고 자산배분 기준을 제시하는 시장균형수익률을 기대수익률로 활용하여, 모든 자산군에 안정 포트폴리오를 도출한다."
+}

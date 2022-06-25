@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00120004626_25",
+  "metadata": {
+    "doc_id": "CNTS-00120004626",
+    "doc_type": "도서",
+    "doc_name": "World Focus",
+    "author": "농촌진흥청",
+    "publisher": "농촌진흥청",
+    "published_year": "2014",
+    "kdc_label": "농업, 농학",
+    "kdc_code": "520"
+  },
+  "chapter": null,
+  "passage": "연구진은 녹차 추출물과 에피테아플라갈린을 사용하는 경우 SEA의 생성이 상당량 감소한다는 사실을 알아냈다. 이를 근거로 연구진은 실시간 역전사 중합효소 연쇄반응(RT-PCR: reverse transcription polymerase chain reaction)을 통해, 녹차 추출물과 에피테아플라갈린으로 처리 후 SEA의 독소 암호화 유전자(toxin-encoding genes)의 상대적 발현 수준을 추가 조사하였다. 그 결과 녹차 추출물과 에피테아플라갈린이 황색포도상구균 C-29에서 SEA의 유전자 전사를 효과적으로 억제한 것이 밝혀졌다.",
+  "summary": "연구진은 녹차 추출물과 에피테아플라갈린을 사용 시 SEA의 생성이 감소하는 점을 근거로 황색포도상구균 C-29에서 SEA의 유전자 전사를 억제하는 걸 알아냈다."
+}

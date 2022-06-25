@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201509110425003031_134",
+  "metadata": {
+    "doc_id": "PCY_201509110425003031",
+    "doc_type": "도서",
+    "doc_name": "ICT 중소·벤처의 M&A를 통한 회수시장 활성화 방안 연구: 대기업의 역할 강화를 중심으로",
+    "author": null,
+    "publisher": "정보통신정책연구원\t",
+    "published_year": "2015",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "앞서, 로지스틱모형을 추정하면서 PEbacked, MNA10years 등 벤처기업 M&A에 필요한 배경이나역량을 갖춘기업이 벤처기업 M&A 확률이 높되, 그 정도가 매출이나 시가총액과 같은 기업규모, 성장성에 따라 다르다는 것을 확인하였다. M&A 건수에서도 이 두 변수에 조절효과(conditioning effect)가 있는지 확인해 보자. <표 4－ 24>는 PEbacked 변수와 매출(Sales), 매출증가율(Sales_g), 시가총액(MarketCap), 시 가총액증가율(MarketCap_g)과의 교호항을 추가하여 음이항 회귀모형을 추정한 결과이며, <표 4－25>는 MNA10years 변수와의 교호작용을 추정한 결과를 나타낸것이다.",
+  "summary": "벤처기업 M&A 확률은 매출이나 시가총액처럼 기업규모, 성장성에 따라 다르다. 따라서 M&A 건수에서 PEbacked, MNA10years의 두 변수에 조절효과가 있는지 확인해 보자."
+}

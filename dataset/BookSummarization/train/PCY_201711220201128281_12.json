@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220201128281_12",
+  "metadata": {
+    "doc_id": "PCY_201711220201128281",
+    "doc_type": "도서",
+    "doc_name": "경제성평가 기준에 관한 국제협력 연구 (International Comparative Study on Value for a QALY)",
+    "author": "안정훈",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2012",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "WTP를 이중경계양분형으로 조사할 경우 제시할 Bid value에 대해서도 연구회의를 통하여 합의를 이루었다. WHO가 권고하고 있는 1 DALY당 1인당 GDP를 1차적으로 적용하였다. 그러나 이중경계양분형에서 제시된 Bid value에 따라 최종 제시되는 WTP가 달라질 수 있으므로 각 국가의 1 GDP의 80%가 넘는 Bid value에서부터 기존 이중경계양분형에서 방법을 변형하여 적용하기로 하였다. 즉 1 GDP의 80%에 해당하는 Bid value에 대해서 지불할 의사가 없다고 응답할 경우 2차 질문에서 첫 번째 Bid value의 1/2 값을 제시하고, 지불할 의사가 있다고 응답할 경우 첫 번째 Bid의 2배가 아니라 1.2배를 적용하는 방법으로 WTP가 과대추정되는 위험을 낮추려고 하였다. Bid value가 너무 높다는 논의로 본 연구에서는 일본에서 이루어진 선행연구에서의 경험을 통하여 각 국가의 1인당 GDP의 0.025~1의 범위로 설정하였다.",
+  "summary": "WTP를 이중경계양분형으로 조사할 때 Bid value에 따라 최종 WTP이 결정된다. 각 국가의 1 GDP의 80%를 차지하는 Bid value에 대해 이중경계양분향을 시행하였고, Bid의 값을 축소하는 방식으로 변경하여 WTP가 과대추정되는 것을 방지했다. "
+}

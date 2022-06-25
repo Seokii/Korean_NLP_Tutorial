@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201702210513170801_15",
+  "metadata": {
+    "doc_id": "PCY_201702210513170801",
+    "doc_type": "도서",
+    "doc_name": "건물부문의 환경부하 평가모형 개발을 위한 기초연구",
+    "author": null,
+    "publisher": "한국환경정책·평가연구원",
+    "published_year": "2016",
+    "kdc_label": "지역및도시",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "전과정영향평가인 LCIA(Life Cycle Impact Assessment)13)는 LCI단계에서 수집 된 데이터를 가지고 환경영향 분석을 진행하고 평가하는 과정이다. 예를 들어, 제조과정에서 일정량의 천연가스가 사용 되었다고 하면, LCIA 과정에서는 제조과정에서 연소된 천연가스연소로 인한 지구온난화효과(Global Warming Impact)를 계산한다. LCIA에는 환경 영향을 측정하는 여러 방법이 있어 분류화(categorizing)와 특성화(characterizing)를 달리하기만 해도 같은 LCI DB를 사용하지만 다른 LCA 결과를 만들어낼 수 있다.",
+  "summary": "LCI단계에서 수집된 데이터를 이용해 환경영향을 분석하고 진행, 평가하는 LCIA단계가 있다. 환경영향 측정에 있어 분류화, 특성화의 방법을 사용한다."
+}

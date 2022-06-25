@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210300242051_22",
+  "metadata": {
+    "doc_id": "PCY_201610210300242051",
+    "doc_type": "도서",
+    "doc_name": "ICT발전의 산업별 전력수요 영향 분석",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Yoo(2005)는 한국의 1970년~2002년 중 연간 전력소비와 GDP에 대해 Granger 인과관계 검정(Granger causality test)과 오차수정모형(ErrorCorrection Model: ECM) 검정을 시행하여 전력소비와 경제성장 간의 장,단기 인과관계를 살펴보았다. 인과관계 검정 결과 전력소비와 경제 성장 간의 양방향으로 유의한 Granger 인과관계가 존재하는 것으로 나타났다. 이러한 결과는 전력소비 증가가 경제성장에 영향을 주고 있으며, 이렇게 증가한 경제성장이 다시 전력소비를 견인하는 역할을 하고 있음을 암시한다.",
+  "summary": "Yoo는 전력소비와 경제 성장 간 Granger 인과관계의 존재를 밝혔고, 이는 전력소비 증가인한 경제성장을,  그 결과 다시 전력소비를 견인함을 보여준다."
+}

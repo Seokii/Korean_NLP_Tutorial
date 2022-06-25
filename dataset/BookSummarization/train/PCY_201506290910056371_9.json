@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201506290910056371_9",
+  "metadata": {
+    "doc_id": "PCY_201506290910056371",
+    "doc_type": "도서",
+    "doc_name": "유전자치료제 순도시험법 시험정보집",
+    "author": null,
+    "publisher": "식품의약품안전처",
+    "published_year": null,
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Naked/Plasmid DNA는 E. coli를 숙주로 하여 생산하였다. 크기 배제 크로마토크래피(size-exclusion chromatography)용 HPLC 칼럼(TSK-GEL G4000SW, Tosoh)을 이용하여 표준액 및 검액의 크로마토그래피 분석을 실시하였다. 이동상으로 Tris 완충액(50mM Tris, 200mM NaCl, pH 7.5)을 이용하였다. 표준액의 크로마토그램으로부터 RNA의 피크면적을 측정하여 검량선을 작성하였다. 검액의 크로마토그램에서 RNA의 유지시간에 해당되는 위치에서의 피크를 확인하였고, 피크 면적 및 검량선으로부터 수식을 산출하여 숙주유래 RNA의 잔류량을 결정하였다.",
+  "summary": "숙주 유래 RNA를 생산해 표준액 및 검액의 크로마토그래피 분석을 실시하였고, 피크 면적 및 검량선으로부터 수식을 산출해서 RNA의 잔류량을 결정하였다."
+}

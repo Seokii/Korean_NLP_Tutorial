@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220774260611_20",
+  "metadata": {
+    "doc_id": "PCY_201711220774260611",
+    "doc_type": "도서",
+    "doc_name": "수면호흡장애 진단을 위한 수면다원검사의 평가",
+    "author": "신상진",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2012",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "수면호흡장애를 평가하는 중요한 생리지표(Physiologic parameter)에는 호흡기류(Airflow), 호흡능(Respiratory effort), 혈중산소치(Blood oxygenation), 수면장애(Sleep disturbance)가 포함된다. 현재까지 미국수면의학회(AASM)의 표준화된 기술은 코와 입에 설치된 열센서(Thermal sensor)와 비강압력변환기(Nasal pressure transducer)를 통해 호흡기류(Airflow)를 기록하도록 되어 있다. 호흡능(Respiratory effort)은 식도압력계(Esophageal manometer), 흉복부의 인덕턴스 맥파계(Chest and abdominal inductance plethysmographs), 늑간 근전도(Intercostal EMG)로 측정될 수 있다. 혈중 산소치(Blood oxygenation)는 평균 3초 이상으로 설정된 맥박산소계측기(Pulse oximeter)로 측정될 수 있다.",
+  "summary": "수면호흡장애 평가의 중요 생리지표는 열센서와 비강압력변화기를 이용해 측정하는 호흡기류, 식도압력계, 흉복부의 인덕턴스 맥파계, 늑간 근전도 등으로 측정하는 호흡능, 맥박산소계측기로 측정하는 혈중산소치, 그리고 수면장애 등이다."
+}

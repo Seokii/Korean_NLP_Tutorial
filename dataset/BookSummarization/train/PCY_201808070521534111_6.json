@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201808070521534111_6",
+  "metadata": {
+    "doc_id": "PCY_201808070521534111",
+    "doc_type": "도서",
+    "doc_name": "eSIM 표준화 및 적용 동향",
+    "author": "이보겸",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2018",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "통신사업자의 경우, 2016년 3월 Vodafone(독일)의 스마트워치를 시작으로, O2(영국), Telia(노르웨이, 에스토니아), Swisscom(스위스), Orange(프랑스), T-Mobile(독일), Telecom Italia Mobile(이탈리아) 등 주요 통신사들이 eSIM이 적용된 스마트워치를 판매하기 시작하였다. 커넥티드 로봇, 자율주행차 등에 주력하고 있는 Softbank의 경우 2017년 3월 IoT 및 M2M 서비스를 위한 ‘eSIM 플랫폼’ 개발계획을 발표하였다. 또한 Softbank는 M2M 뿐만 아니라 태블릿, 웨어러블 등 이용자 기기에 eSIM을 적용할 수있는 플랫폼을 개발 중이며, 2020년 상용화 계획 중인 자율주행 버스에도 eSIM을 적용할 전망이다. **",
+  "summary": "통신사업자는 2016년 독일을 시작으로, 주요 통신사들이 eSIM 적용 스마트워치를 판매하기 시작했다.  Softbank는 eSIM 플랫폼과 이용자 기기에 eSIM 적용 플랫폼을 개발 중이다."
+}

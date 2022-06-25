@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118875832_14",
+  "metadata": {
+    "doc_id": "CNTS-00118875832",
+    "doc_type": "도서",
+    "doc_name": "2018년 신개발 의료기기 전망 분석 보고서",
+    "author": "식품의약품안전처 식품의약품안전평가원",
+    "publisher": "식품의약품안전처 식품의약품안전평가원",
+    "published_year": "2018",
+    "kdc_label": "기계공학",
+    "kdc_code": "550"
+  },
+  "chapter": null,
+  "passage": "전기수술기는 고주파 전류를 이용하여 인체조직을 절개하거나 출혈 부위를 지혈하는 목적으로 사용되는 수술기로 현대 외과수술에 필수적인 수술용 기기이다. 고주파(High frequency) 전기수술기가 대표적인 이유는 20kHz 이상의 교류를 사용하는 고주파 전류가 인체에 영향을 덜 미치기 때문이다. 전기수술기 방식은 단극방식(monopolar mode)과 양극방식(Bipolar mode)으로 구분하며 절개(cutting), 응고(coagulation), 지혈(blended) 모드를 수행한다. 사용 시 출혈량이 적어 혈액의 손실을 줄일 수 있으며 의사의 시야 확보를 용이하게 함과 동시에 일반 외과적 수술기에 비해 흉터가 적고 회복 기간이 빠른 장점이 있어, 현재에는 복강경을 이용하는 최소 침습 수술(Minimal Invasive Surgery)에 없어서는 안 되는 수술도구가 되었다.",
+  "summary": "최소 침습 수술(Minimal Invasive Surgery)에 없어서는 안 되는 수술도구가 되었다."
+}

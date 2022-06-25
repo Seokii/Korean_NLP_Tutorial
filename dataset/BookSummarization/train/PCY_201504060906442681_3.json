@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504060906442681_3",
+  "metadata": {
+    "doc_id": "PCY_201504060906442681",
+    "doc_type": "도서",
+    "doc_name": "반도체설계재산유통가이드북",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "그리하여 이 핸드북에서는 국내 반도체 IP 유통 활성화 방안의 일환으로써 국내 반도체 IP 공급자의 역량 향상을 위해서 IP 유통 시 필요한 기본적인 문서들의 작성법을 제시한다. 구성은 Analog /Mixed-signal IP의 Datasheet, Integration Application Notes, Silicon Characterization Report의 작성법과 Digital IP의 Datasheet 작성법, 그리고 계약 시 필요한 License Agreement까지 총 5종류의 문서에 대한 작성 방법을 포함하고 있으며 각각의 예시를 제공함으로써 독자의 이해를 도왔다.",
+  "summary": "이 핸드북은 반도체 IP 공급자 능력 개발을 위한 IP 유통에 필수적인 문서 작성법 5가지와 예시를 담고 있다."
+}

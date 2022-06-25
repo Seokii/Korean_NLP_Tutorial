@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201905300335298121_31",
+  "metadata": {
+    "doc_id": "PCY_201905300335298121",
+    "doc_type": "도서",
+    "doc_name": "2010 저작권 백서",
+    "author": null,
+    "publisher": "문화체육관광부,한국저작권위원회",
+    "published_year": "2011",
+    "kdc_label": "안전관리",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "DRM 기술은 2007년 DRM-free 서비스의 등장과 DRM 기술의 호환성 때문에 사용자의 공정이용 권한을 제한한다는 문제로 인해서 위기를 맞고 있다. 그러나 기업용 문서보안을 위한 DRM 시장은 지속적으로 성장하고 있으며, e-book 분야에서는 DRM의 필요성이 제기되고 있다. 또한 DRM의 호환성을 해결하기 위한 다양한 시도가 이루어져 상호 호환성 제공 기술들이 등장하고 있으며, 국내에서는 한국전자통신연구원에서 개발한 EXIM(EXport IMport), DRM-CAS 연동기술 표준이 마련되어 있다. 국제적으로는 가전업체들이 Coral 컨소시엄 에서 DRM 상호 호환성을 위한 표준을 마련하였으며, OMA36(Open Mobile Alliance)에서도 SCE(Secure Content Exchange) 표준을 제공하고 있다.",
+  "summary": "기업용 문서보안을 위한 DRM 시장의 성장과 e-book 분야에서의 DRM 필요성의 부각, 상호 호환성 제공 기술들의 등장으로 위기였던 DRM시장이 회복 가능성을 보인다."
+}

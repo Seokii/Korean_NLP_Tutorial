@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201507240625123161_31",
+  "metadata": {
+    "doc_id": "PCY_201507240625123161",
+    "doc_type": "도서",
+    "doc_name": "과학기술정책 통권 202호 제25권 제5호",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": null,
+    "kdc_label": "기타",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "선박의 인명안전을 위한 전세계해상조난안전시스템(Global Maritime Distressand Safety System)이 있다.이 시스템은 과거 영화에서 가끔 등장하는 SOS신호를 사용하는 방식의 현대화 된 해상재난통신시스템으로, 모든 여객선과 총톤수 300톤 이상 되는 선박에 적용되며 위성통신망인 INMARSAT(International Marine Sate llite Organization, 국제해사위성기구)을 이용한 자동 발신이나 음성 교신이 가능하여, 전 세계 어디에서 조난을 당해도 신속, 정확하게 구조 요청을 하고, 항해안전에 관한 정보를 수신 할 수 있다.",
+  "summary": "선박의 인명안전을 위한 전세계해상조난안전시스템은 현대화 된 해상재난 통신시스템으로 전 세계 어디에서 조난을 당해도 정보를 발신하고 구조요청 할 수 있다."
+}

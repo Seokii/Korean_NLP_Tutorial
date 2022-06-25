@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201702210418132651_45",
+  "metadata": {
+    "doc_id": "PCY_201702210418132651",
+    "doc_type": "도서",
+    "doc_name": "교통환경정책 수립을 위한 대기환경 개선효과 추정방안 연구 : 도로이동오염원을 중심으로",
+    "author": null,
+    "publisher": "한국환경정책·평가연구원",
+    "published_year": "2016",
+    "kdc_label": "대기",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "분석 결과인 총 배출량(total emissions)은 엔진 배출량(engine emissions)과 확산 배출량(diffuse emissions)을 모두 고려하여 산정하며, 엔진 배출량은 엔진 가열 배출량(hot emissions)과 엔진 미가열 배출량(cold-start and warming-up effects)을, 확산 배출량은 연료 증발 배출량(fuel evaporation)과 타이어 및 브레이크 마모에 따른 PM 배출량을 각각 고려하여 산정한다. 또한 도로 유형은 도심부(urban), 지방부(rural), 고속도로에 대하여 간선(major)과 지선(minor)으로 구분하여 고려하며 간선도로는 교통량을, 지선도로는 대-km를 배출량 산정 시 기초자료로 활용한다.",
+  "summary": "가열/미가열 배출량을 구분한 엔진 배출량과 연료 증발 배출량/마모에 따른 PM 배출량을 구분한 확산 배출량을 고려해 총 배출량이 산정된다."
+}

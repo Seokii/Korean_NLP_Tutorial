@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220175131901_22",
+  "metadata": {
+    "doc_id": "PCY_201711220175131901",
+    "doc_type": "도서",
+    "doc_name": "환자 안전 확보를 위한 한국형 프로토콜 개발 및 평가",
+    "author": "이상일",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2012",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "다섯  번째  스크리닝  방법은  환자  안전  지표(patient safety indicators,  PSI)의 분석이다. PSI는 Agency for Healthcare Research and Quality (AHRQ)에서 의료의  질을  감시하기  위하여  개발한  소프트웨어로  진단  및  시술  코드와  같은  자료를  사용 하여 20개의  합병증을  감지할  수  있다(표 7). PSI 분석은 11명의  수급자에서 13건의 깃발  표시를  확인하였는데, 이는  연구에서  사용한  스크리닝  방법  중  가장  적은  수였다. 이렇게  적은  수의  깃발  표시가  확인된  것은  PSI  소프트웨어가  20개  의료  관련  문제 (health care conditions)에만  한정되기  때문으로  판단하였다. PSI로  확인된  가장  자 주  발생한  문제는  욕창이었다.",
+  "summary": "스크리닝 방법 중 환자 안전 지표를 분석하는 PSI는 소프트웨어로 합병증을 감시하는데, PSI를 통해 수급자에게서 깃발 표시를 확인 할 수 있었다. 깃발 표시가 적은 이유는 20개의 의료 문제로 한정되기 때문이다. "
+}

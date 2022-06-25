@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118884224_42",
+  "metadata": {
+    "doc_id": "CNTS-00118884224",
+    "doc_type": "도서",
+    "doc_name": "2015년 국가연구개발사업 특정평가보고서 첨단항만물류기술개발사업",
+    "author": "한국과학기술기획평가원",
+    "publisher": "미래창조과학부",
+    "published_year": "2015",
+    "kdc_label": "공학, 공업일반",
+    "kdc_code": "530"
+  },
+  "chapter": null,
+  "passage": "“해운물류 Active IP-RFID 기술 개발”은 열악한 해양 환경 및 해양 주파수 대역에 맞는 Active RFID를 개발하여 WSN(Wireless Sensor Network)을 구현하는 원천기술개발 과제로 차세대 해운물류흐름 및 보안시스템의 성능향상을 위한 IP 기반 해운물류 Active IP-RFID 시스템 개발을 연구개발 최종목표로 한다. 구체적인 연구목표로는 상황인식형 IP 통신이 가능한 IP-RFID 태그 개발, 배터리 교체가 필요 없는 에너지 관리형 IP-RFID 시스템 개발, 글로벌 해운물류 환경에 강인한 IP-RFID 태그 개발, 양방향 통신, 자율 제어 및 상황적응형 IP-RFID 시스템 개발이다.",
+  "summary": "해운물류 Active IP-RFID 기술 개발은 차세대 해운물류흐름 및 보안시스템의 성능향상을 위한 시스템 개발을 연구개발의 목표로 한다."
+}

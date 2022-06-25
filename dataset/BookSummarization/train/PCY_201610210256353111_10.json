@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210256353111_10",
+  "metadata": {
+    "doc_id": "PCY_201610210256353111",
+    "doc_type": "도서",
+    "doc_name": "확률적 전력계통망 최적화모형 구축 연구",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "변동성 재생에너지와 ESS(Energy Storage System)의 결합이 계통운영상에 가져오는 영향과 경제성에 대한 연구도 중요성이 높아지고 있다. ESS의 가격이 빠르게 하락하면서, 변동성 재생에너지의 계통내 안정성을 개선시키는 데에 효과적인 방안으로 부각되고 있으며, 우리나라에서도 정책적으로 RPS(Renewable Portfolio Standard)에서 해상풍력과 ESS가 함께 설치되었을 경우 REC(Renewable Electricity Certificate) 5.5를 주는 지원책을 시행하고 있다. 이는 현재 RPS제도하에서 지원되는 신재생에너지 기술 중 가장 높은 REC가중치이다. 이렇듯 기존에 사업자 관점에서 ESS 설치를 통해 밤 시간 저렴한 에너지를 저장해뒀다가 낮 피크시간 에너지를 되파는 시세차익매매(Price Arbitrage)에서 오는 효용뿐만 아니라, 계통운영자 관점에서 예비력을 대체하고 계통안정성에 기여하는 측면 등을 종합적으로 고려한 ESS의 경제성 분석이 필요하다.",
+  "summary": "ESS(Energy Storage System)의 가격이 빠르게 내려감에 따라 변동성 재생에너지와 ESS의 결합이 예비전력 및 운영안정성, 경제성에 끼칠 긍정적 영향에 대한 연구중요성이 높아지고 있다."
+}

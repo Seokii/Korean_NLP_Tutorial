@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201908190317238481_11",
+  "metadata": {
+    "doc_id": "PCY_201908190317238481",
+    "doc_type": "도서",
+    "doc_name": "미래세대 과학교육표준 : 모든 한국인을 위한 과학적 소양 (Korean Science Education Standards for the Next Generation: Scientific Literacy for All Koreans)",
+    "author": null,
+    "publisher": "교육부,과학기술정보통신부,한국과학창의재단",
+    "published_year": "2019",
+    "kdc_label": "교육일반",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "각 차원별로 나누어진 영역들은 역량 차원 23개, 지식 차원 23개, 참여와 실천 차원 19개 하위 영역으로 다시 구분된다. 이렇게 하여 ToSL 모형에서 정의하는 과학적 소양은 총 3개 차원(dimensions), 16개 영역(categories), 그리고 65개 하위 영역(sub-categories)으로 구성된다. 사용상의 편의성을 높이기 위해서 모든 차원, 영역, 하위 영역들을 영문 첫 대문자를 써서 코드로 표현하였다. 예를 들어, 역량 차원[C]의 첫 번째 영역인 과학적 탐구력[C-SI]에 속하는 첫 번째 하위 영역인 ‘문제인식 능력’은 KSES 문서에서 [C-SI.1]이라는 코드로 표시된다.",
+  "summary": "각 차원별로 나눠진 영역들은 다시 역량, 지식, 참여와 실천의 하위영역으로 구분되어 ToSL 모형의 과학적 소양은 차원-영역-하위영역으로 구성, 영문 대문자 코드로 표시한다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201802060325313561_2",
+  "metadata": {
+    "doc_id": "PCY_201802060325313561",
+    "doc_type": "도서",
+    "doc_name": "KISTI MARKET REPORT(2017-03) : 스마트 재료 : 소재 분야의 혁명으로 미래 생활·산업 전반에 큰 영향",
+    "author": "김경호",
+    "publisher": "한국과학기술정보연구원",
+    "published_year": "2017",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "액추에이터는 점도나 치수 변화와 같은 기계적 물성 변화에 반응하는 기계 구성 부품이다(예, 저 에너지 신호를 고 에너지신호로 변환하는 증폭기). 액추에이터의 구성 요소로서 형상기억합금, 자기왜곡(변형)물질(Magnetostrictive Materials), 압전세라믹, 자기유변유체(Magnetorheological Fluid), 전기유변유체(Electrorheological Fluid) 등의 스마트 재료가 사용된다. 모터(Motor) 또한 연속적인 각 회전(Angular Rotation)을 생성하여 전기에너지를 기계에너지로 변환하는 액추에이터이다.",
+  "summary": "액추에이터는 기계적 물질의 성질 변화에 반응하는 기계 구성 부품으로서 스마트 재료가 사용되고 한 가지 예로 모터도 액추에이터이다."
+}

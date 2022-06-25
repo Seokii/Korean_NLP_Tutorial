@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201506290910056371_14",
+  "metadata": {
+    "doc_id": "PCY_201506290910056371",
+    "doc_type": "도서",
+    "doc_name": "유전자치료제 순도시험법 시험정보집",
+    "author": null,
+    "publisher": "식품의약품안전처",
+    "published_year": null,
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Naked/Plasmid DNA는 E. coli를 숙주로 하여 생산하였다. 따라서 숙주 유래 DNA 분석을 위하여, 숙주유래 단백질 양을 E. coli 유래 숙주유래 단백질을 정량할 수 있는 ELISA 킷트를 이용하여 정량적으로 측정하였다. 이 킷트는 숙주 유래 펩타이드 특이 항체가 코팅된 microplate well에 E. coli 유래 숙주유래 단백질과 검체시료를 넣고 anti-E.coli-HRP에 의한 기질반응을 흡광도로 측정하였다. E. coli 유래 숙주유래 단백질의 흡광도로부터 표준곡선을 작성하고 검체의 숙주유래 단백질량을 계산하였다.",
+  "summary": "Naked/Plasmid DNA는 ELISA 킷트를 이용하여 검체의 숙주 유래 단백질량을 정량적으로 측정한다."
+}

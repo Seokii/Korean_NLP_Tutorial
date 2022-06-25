@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201709040221378651_137",
+  "metadata": {
+    "doc_id": "PCY_201709040221378651",
+    "doc_type": "도서",
+    "doc_name": "기업의 금융활동과 고용 및 설비투자",
+    "author": "정동관, 서환주, 이은정, 김준일",
+    "publisher": "한국노동연구원",
+    "published_year": "2016",
+    "kdc_label": "고용노동",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "패널 데이터의 경우 오차항들끼리 기업 간 혹은 시계열적으로 상관관계를 가지면서 표준오차 값이 과소 추정되고, 그 결과 t-statistics가 부풀려지는 결과를 초래하는 경향이 크다. 이러한 문제를 해결하기 위하여 기업단위에서 관측치들을 clustering하는 것을 허용하는 패널 robust 표본오차를 추정하였다(Petersen, 2009). 이는 White(1980)의 heteroskedasticity consistent variance-covariance estimator의 확장된 방식으로 이해할 수있다. 뿐만 아니라, 앞에서 설명한 것과 마찬가지로 산업더미와 연도더미를 포함하여 연도별 또는 산업별 특성을 통제하였다.",
+  "summary": "패널데이터는 오차항끼리 상관관계를 가지며, t-stastistics가 부풀려지게 되는데, 이를 해결하기 위해 패널 robust 표본오차를 추정하고 연도별·산업별 특성을 통제하였다."
+}

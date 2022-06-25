@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201501260914052391_91",
+  "metadata": {
+    "doc_id": "PCY_201501260914052391",
+    "doc_type": "도서",
+    "doc_name": "2014년 12월호(Vol.7, No.2): 위성 기술과 활용",
+    "author": null,
+    "publisher": "기상청",
+    "published_year": null,
+    "kdc_label": "기타",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "WMO 권고사항에 따라 천리안위성에 탑재된 기상영상기에 비해 그 성능이 대폭 향상된 후속 기상위성의 기상탑재체는 센서부(Sensor unit), 전자부(Electronics Unit) 그리고 저온냉각제어부(Cryocooler Control Electronics)로 구성되어 있으며, 모두 이중화되어 있다. 이는 미국 GOES-R 시리즈와 일본의 히마와리-8(2014년 10월 발사)에 탑재된 기상영상기와 동일한 탑재체이다. [그림6]은 우리나라 및 일본의 차세대 기상탑재체와도 동일한 미국 GOES-R 위성의 기상영상기의 원형 모델(prototype model)이다.",
+  "summary": "천리안위성의 기상영상기에 비해 향상된 후속 기상위성의 기상탑재체는 부품이 전부 이중화 되어있다."
+}

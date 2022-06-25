@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201412100914469071_19",
+  "metadata": {
+    "doc_id": "PCY_201412100914469071",
+    "doc_type": "도서",
+    "doc_name": "여성 지식기술창업 실태 및 활성화 방안",
+    "author": null,
+    "publisher": "산업연구원",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "조절효과(moderation effect)는 제3의 변수가 두 변수 사이의 관계에 변화를 줄 때에 발생하는 효과를 의미하고, 변화를 주는 제3의 변수를 조절변수(moderator or moderating variable)라고 한다. 조절변수는 크게 비매트릭 조절변수(non-metric moderator)와 매트릭 조절변수로 구분되며, 유형에 따라 분석방법에 차이가 있다. 비매트릭 조절변수는 범주형 변수로서, 조절효과는 다중집단분석(multi group analysis)을 사용하여 분석이 가능하다. 매트릭조절변수는 연속형 변수로서, 조절효과는 다중집단분석 또는 상호작용효과 분석을 사용하여 분석이 가능하다.",
+  "summary": "비매트릭 조절변수는 다중집단분석을 사용하여 분석이 가능하고, 매트릭 조절변수는 다중집단분석 또는 상호작용효과 분석을 사용하여 분석이 가능하다."
+}

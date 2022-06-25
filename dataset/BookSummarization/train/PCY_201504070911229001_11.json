@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504070911229001_11",
+  "metadata": {
+    "doc_id": "PCY_201504070911229001",
+    "doc_type": "도서",
+    "doc_name": "5G 이동통신 분야 표준문서 검색 가이드",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "최근, FDD 시스템에서 발생하는 이러한 문제들을 해결할 수 있는 기술로 JSDM(Joint Spatial Division andMultiplexing) 방식이 제안되었다. 이 기술은 단말의 송신상관행렬(transmit correlation matrix) 간에 존재하는 유용한 구조를 이용하여 비슷한 송신상관행렬을 갖는 단말들을 그룹으로 묶고, 이러한 그룹들 중에서로 유사 직교하는 그룹들을 공간 분리하여 동시에 서비스하는 것이다. 또한 그룹 내의 단말들은 공간 다중화를 통해 동시 전송이 가능하다. [그림 7]은 이러한 JSDM 방식의 개념도이다.",
+  "summary": " JSDM 방식은 비슷한 송신상관행렬을 갖는 단말들을 그룹으로 묶고, 이그룹들 중 유사 직교하는 그룹들을 공간 분리하여 동시 서비스하는 것이다. "
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049144800_15_16-0",
+  "metadata": {
+    "doc_id": "CNTS-00049144800",
+    "doc_type": "도서",
+    "doc_name": "Ethernet 기술혁신과 정책시사점",
+    "author": "강홍렬",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2000",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "II. Ethernet기술의 진화 1. Ethernet기술의 혁신: GigE와 10GigE",
+  "passage": "10GigE에 대한 표준화는 2000년 1월에 시작하여 IEEE 802.3ae Task Force에 의하여 진행중이다. 이 이전에 이미 1999년 3월 이래로 IEEE 802.3 HSSG(Higher Speed Study Group)에서 10GigE에 대하여 개략 70개 기업과 150명 정도의 전문가가 참여하여 토론을 진행해오고 있다. 10GigE의 표준화작업은 2002년 3월경에 최종 완료될 것으로 보인다. 만약 10GigE의 표준화와 시장 형성이 GigE의 경우만큼 움직여진다면 2년 이내에 현재 GigE의 10배 용량을 가진 잠재력이 강한 장비가 네트워크 운영자의 손에 들어오는 것이다.\n 10GigE과 관련하여 진행중인 표준화작업은, 종전처럼 LAN을 지원하는 개념뿐만 아니라 사업자의 OC-192에 해당하는 속도의 전송(OC-192c SONET)을 가능하게 할 것으로 예상된다. 10GigE이 MAN과 WAN에 걸친 접속과 네트워크를 지원하기 위한 대안으로서 역할을 수행할 수 있도록 표준화와 기술개발이 진행되고 있다. 표준화를 진행하고 있는 IEEE 802.3ae Task Force는 표준화의 주요 목표를: (가)10Gbps 속도를 지원하기 위한 LAN의 물리망 인터페이스(PHY)와 OC-192c/SDH VC.4.64c 데이터 전송속도를 지원하는 WAN PHY를 규정하고, (나)기존 최대/최소의 프레임 크기를 포함하여 기존의 Ethernet 포맥을 유지하며, (다)full-duplex 활용을 전제로 하며, (라) single mode fiber를 통한 2/10/40km 전송의 지원뿐만 아니라, multimode fiber를 통한 최소 100m에서 300m에 이르는 OSI 물리계층의 spec을 제공하는 것으로 정하고 있다. 대부분 광통신의 잠재력을 이용하고 있다.",
+  "summary": "10GigE의 표준화작업은, 종전처럼 LAN지원뿐만 아니라 사업자의 OC-192에 해당하는 속도의 전송을 가능하게 할 것으로 예상된다. 표준화를 진행하는 IEEE 802.3ae Task Force는 주요 목표를: (가)LAN의 물리망 인터페이스와 WAN PHY를 규정, (나)기존 Ethernet 포맷을 유지, (다)full-duplex 활용을 전제, (라)2/10/40km 전송의 지원뿐 아니라, 최소 100m-300m에 이르는 OSI 물리계층의 spec을 제공하는 것이다."
+}

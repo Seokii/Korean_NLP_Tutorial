@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220175131901_27",
+  "metadata": {
+    "doc_id": "PCY_201711220175131901",
+    "doc_type": "도서",
+    "doc_name": "환자 안전 확보를 위한 한국형 프로토콜 개발 및 평가",
+    "author": "이상일",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2012",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "반면 OIG 연구에서는  환자에게  가해진  위해의  정도에  따라  환자의  장애도  판단을  하였다. 여기서  사용한  것이 NCC MERP (The National Coordinating Council for Medication Errors Reporting and Prevention)의  오류  분류  지표(Index for Categorizing Errors)이다. NCC MERP Index는  투약과정의  오류  영향을  분류하기 위해  처음  개발되었고, 그  오류발생이  환자에게  영향을  주었는지, 주었다면  얼마나  위해가 가해졌는지를  고려하였다. 이  지표에는  일명 ‘near misses’라고  일컬어지는, 위험요소가 있지만  위해가  발생하지는  않은  사건과  실제  위해가  가해진  것들이  포함된다.",
+  "summary": "OIG 연구는 NCC MERP의 오류 분류 지표를 이용해 환자에게 가해진 위해 정도에 따라 장애도를 판단했다. NCC MERP Index는 투약과정의 오류 영향 분류를 위해 개발됐고 near misses의 위험이 있다. "
+}

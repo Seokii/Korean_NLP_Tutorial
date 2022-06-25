@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210302347061_63",
+  "metadata": {
+    "doc_id": "PCY_201610210302347061",
+    "doc_type": "도서",
+    "doc_name": "사물인터넷을 통한 에너지 신산업 발전방향 연구 : 텍스트마이닝을 이용한 미래 신호 탐색",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "이상을 종합하면, 에너지 부문 사물인터넷 응용분야로 건물(building)과 전력망(grid)이 중심을 이루고 있는 가운데, 가스(gas)와 안전(safety) 관리 부문이 집중 대두되고 있고, 앞으로는 풍력에너지(wind energy), 기계류(machinery), 또 건물 부문에서 보다 세부적인 응용영역에 해당하는 에어컨(air conditioning) 등에 집중 활용될 것으로 예상된다. 그리고 해결과제로는 보안(security), 프라이버시(privacy), 표준(standards)이 주로 논의되고 있는 가운데, 보안에 대한 논의가 보다 심층적(infection, authentication, certification 등)으로 지속되고, 데이터 통합(aggregation), 가상화(virtualization), 규모 확장성(scalability), 에너지 수확(harvesting) 등 사물인터넷 활성화를 위한 추가적 기술 개발이 강조될 것으로 보인다. 사물인터넷의 주요 기능으로는 점검(monitoring), 자동화(automation)가 일반적으로 논의되고 있는 가운데, 제어(control), 측정(measurement) 기능이 대세를 이루고 있고, 앞으로 가시화(visualization), 감지(detection), 유지 보수(maintenance) 측면이 강조될 것으로 보인다.",
+  "summary": "에너지 부문에서 사물인터넷은 건물과 전력망을 중심으로 새롭게 가스와 안전 관리 부문, 그리고 세부적인 응용영역에 집중 활용될 것이다. 보안, 프라이버시, 표준을 중심으로 사물인터넷 활성화를 위한 추가적 기술 개발이 필요하다. 사물인터넷 주요 기능으로 점검, 자동화를 중심으로 제어, 측정 기능이 대세이며 가시화, 감지, 유지 보수 측면이 강조될 것이다."
+}

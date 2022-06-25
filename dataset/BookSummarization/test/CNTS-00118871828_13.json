@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118871828_13",
+  "metadata": {
+    "doc_id": "CNTS-00118871828",
+    "doc_type": "도서",
+    "doc_name": "건강기능식품 기능성 평가 가이드",
+    "author": "식품의약품안전평가원",
+    "publisher": "식품의약품안전평가원",
+    "published_year": "2019",
+    "kdc_label": "가사, 가정학",
+    "kdc_code": "590"
+  },
+  "chapter": null,
+  "passage": "신경세포 손상(신경세포사멸)을 유도하는 원인물질인 β-amyloid, glutamate, 3-HK(3-hydroxykynurenine), Fe2SO4 등의 물질 및 시험물질을 처리한 후, 세포생존율을 관찰 한다. 세포생존율은 성장, 증식, 대사활성, 세포막 손상 등을 지표로 평가할 수 있는데, 일반적으로 염색제를 이용하여 세포 생존율을 측정한다. 세포막 변형을 평가하는 방법으로는 propidium iodide, trypan blue, 7-minoactinomycin D 등을 이용한 방법이 있으며,미토콘드리아 활성을 이용한 측정방법으로는 formazan 등을 측정하는 MTT 등의 방법이있다.",
+  "summary": "세포생존율은 성장, 증식, 세포막 손상 등을 지표로 평가하고 염색제를 이용하여 측정한다."
+}

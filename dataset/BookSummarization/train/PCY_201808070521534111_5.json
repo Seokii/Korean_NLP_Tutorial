@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201808070521534111_5",
+  "metadata": {
+    "doc_id": "PCY_201808070521534111",
+    "doc_type": "도서",
+    "doc_name": "eSIM 표준화 및 적용 동향",
+    "author": "이보겸",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2018",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "먼저 디바이스 제조업체 동향을 살펴보면, 삼성은 이용자 디바이스에 eSIM을 적용하기 위해 글로벌 통신사 및 SIM 판매사들과 협력 중에 있는 것으로 알려졌다. * 이에 따라 지난 2016년 2월, 이용자 기기에 GSMA eSIM(phase1) 표준을 최초로 적용한 Galaxy Gear S2 Classic 3G 스마트워치를 출시한 바 있다. 뒤이어 2017년 4월, 화웨이도 GSMA eSIM(phase2) 표준을 적용한 Huawei Watch2를 출시하였다. 애플은 보다 전인 2014년 iPad air2, iPad mini3 태블릿에 Apple SIM * 을 적용한 바 있으며, 2016년 4월 iPad pro에 내장된 형태인 embedded Apple SIM을 적용하여 출시하였 다. 한편 2017년 9월 출시된 Apple Watch3에는 GSMA eSIM(phase2) 표준이 적용되 었다.",
+  "summary": "삼성은 이용자 기기에 eSIM을 적용하기 위해 글로벌 통신사 등과 협력 중이며, 2016년 GSMA eSIM 표준을 최초로 적용한 스마트워치를 출시하였고, 이에 뒤이어 화웨이와 애플 역시 같은 eSIM을 적용한 스마트워치를 출시하였다."
+}

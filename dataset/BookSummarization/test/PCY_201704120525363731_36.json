@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201704120525363731_36",
+  "metadata": {
+    "doc_id": "PCY_201704120525363731",
+    "doc_type": "도서",
+    "doc_name": "빅데이터를 이용한 대기오염의 건강영향 평가 및 피해비용 추정(Ⅱ)",
+    "author": null,
+    "publisher": "한국환경정책·평가연구원",
+    "published_year": "2016",
+    "kdc_label": "대기",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "양분선택형 응답자료를 모형화하는 과정에 주로 활용되는 방법은 크게 2가지로 나누어볼 수 있다. Hanemann(1984)에 의해 제안된 효용격차접근법(Utility-Difference Approach)과 Cameron and James(1987)이 제안한 지불의사액함수접근법(WTP-Function Approach)으로 구분되는데, Kenneth and McConnell(1990)은 두 접근법이 쌍대(Duality) 관계에 있으므로 연구자의 선택에 따라 특정한 방법을 적용하는 것을 권한 바 있다. 대부분의 연구에서 효용격차접근법이 널리 활용되고 있으므로(유승훈, 황석원, 곽소윤, 2010) 본 연구에서도 이를 활용하였다.",
+  "summary": "양분선택형 응답자료 모형화하는 방법은 크게 2가지다. 효용격차접근법과 지불의사액함수접근법으로, 연구자 선택에 따라 적용된다. 주로 효용격차접근법이 널리 활용된다."
+}

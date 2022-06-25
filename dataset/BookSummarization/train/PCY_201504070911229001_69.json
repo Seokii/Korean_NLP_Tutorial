@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504070911229001_69",
+  "metadata": {
+    "doc_id": "PCY_201504070911229001",
+    "doc_type": "도서",
+    "doc_name": "5G 이동통신 분야 표준문서 검색 가이드",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "[그림 58]의 Figure 5.4.3-1에는 네 개의 자원 블록 영역(m=0,1,2,3)에 PUCCH가 매핑되어 있다. PUCCH는 제어 신호에 형태에 따라, format 1,1a,1b와 format 2,2a,2b가 있다. format1은 SR, format 1a/1b는 각각 1비트/2비트 ACK/NACK, format2는 CQI, format 2/2a/2b는 CQI와 ACK/NACK를 전송하는 데 사용된다. Sec 5.4.3에 따르면 format의 종류에 따라 m 값이 서로 상이한 값을 가진다. m 값이 상이하다는 것은 할당된 자원 블록 영역이 다르다는 것을 의미하므로, 결국 제어 신호의 형태가 바뀌면 할당된 자원 블록 영역도 바뀌게 된다.",
+  "summary": "[그림 58]에는 네 개의 자원 블록 영역에 매핑된 제어 신호에 따라 M값이  서로 상이한 값을 가진다. 결국 제어 신호의 형태에 따라 자원 블록 영역도 바뀌게 된다."
+}

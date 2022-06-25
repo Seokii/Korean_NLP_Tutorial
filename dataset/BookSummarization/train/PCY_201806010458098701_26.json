@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201806010458098701_26",
+  "metadata": {
+    "doc_id": "PCY_201806010458098701",
+    "doc_type": "도서",
+    "doc_name": "교통연구 (Journal of Transport Research), 제24권 제2호",
+    "author": null,
+    "publisher": "한국교통연구원",
+    "published_year": "2017",
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "계수 산정 시, 식(6)에서 소개된 랜덤 분포항이 통계적으로 유의한 경우에는 해당 변수는 random parameter를 가지는 것으로 나타나 이질성을 가지게 된다. 반대로 통계적으로 유의하지 않는 경우에는 fixed parameter를 가지는 것으로 나타나 이는 각 구간 및 지점에 상관없이 고정된(동일한) 영향을 미치는 것으로 해석된다. 즉, 사용된 독립 변수가 random parameter를 가지게 된다는 것은 해당 변수와 관련된 이질성이 있다는 것을 의미한다. 이는 관측된 자료로부터는 명확하게 설명되지는 않는다는 것으로, 차량의 성능, 운전자의 습성, 도로의 상태, 날씨 등이 집계된 관측 자료에 포함되지 않거나 고려되지 않기 때문이다(Dinu and Veeraragavan, 2011).",
+  "summary": "식(6)의 랜덤 분포항이 통계적으로 유의하다면 random parameter를 가지는데, 이는 해당 변수가 이질성이 있어 관측 자료 상 명확하게 설명되기 어렵다는 의미이다. "
+}

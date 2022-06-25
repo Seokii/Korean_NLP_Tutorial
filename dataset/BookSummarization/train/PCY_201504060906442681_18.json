@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504060906442681_18",
+  "metadata": {
+    "doc_id": "PCY_201504060906442681",
+    "doc_type": "도서",
+    "doc_name": "반도체설계재산유통가이드북",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Measurement Set Up에는 측정 조건, 측정 하드웨어(IC, Equipment 등) 정보 및 측정 환경을 기술하도록 한다. Measurement Set Up은 객관적이고 신뢰성 있는 측정 결과를 확보하기 위한 필수적 사항이므로 IP 사용자에게 해당 정보가 제공되어야 한다. Measurement Set Up은 각 IP 별로 그 방식이 매우 상이하며 여러 PCB Board를 사용할 수 있으며 FPGA를 사용하는 경우도 있다. 또한 IP 거래를 함에 있어 IP의 신뢰도를 재차 확인하고자 하는 사용자가 있어 DUT(Device Under Test) 및 Measurement Environment를 제공해야 하는 경우가 발생될 수 있으므로 IC 정보, 측정 환경, 측정 장비 및 Register Setting 방법 등을 잘 기술하도록 하며 측정을 위해 소프트웨어, Matlab Code 및 FPGA Code 등을 제공해야 할 경우 해당 정보를 기술하도록 한다.",
+  "summary": "Measurement Set Up에는 측정 하드웨어 정보 및 측정 환경을 기술한다. 이는 객관적이고 신뢰성을 위한 필수적 사항이므로 IP 사용자에게 해당 정보가 제공되어야 한다. 또한 IP의 신뢰도를 위해 IC정보, 측정 장비 등을 기술한다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201410310943009081_160",
+  "metadata": {
+    "doc_id": "PCY_201410310943009081",
+    "doc_type": "도서",
+    "doc_name": "지식재산 동향 및 미래전망 - 지식재산인력 수급전망 연구",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "총량수준에서 인력수요 전망방법 중 계량예측모형으로는 다중회귀분석, 연립방정식, ARMAX(Autoregressive Moving Average with Exogeneous Variables), VAR(Vector Autoregression Model) 혹은 VECM(Vector Error Correction Model) 전망 모형 등이 사용되어 왔다(이시균, 2013). 그러나 다중회귀분석, 연립방정식, ARMAX 모형들은 변수들의 내생성 문제를 고려하지 않거나 동태적 측면을 무시하기도 하며, 예측력의 한계가  지적되고 있다. 반면 VAR 혹은 VECM 모형의 경우는 변수 간의 동태성을 고려하면서 예측력을 높이는 장점이 있다.",
+  "summary": "총량수준 인력수요 전망방법 중 계량예측모형으로 여러방법이 있는데,  ARMAX 등은 동태적 측면을 무시하여 예측력의 한계가 지적되는 반면 VAR 등은 동태성을 고려하여 예측력을 높인다."
+}

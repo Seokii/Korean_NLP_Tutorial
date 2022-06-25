@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201501090909516861_45",
+  "metadata": {
+    "doc_id": "PCY_201501090909516861",
+    "doc_type": "도서",
+    "doc_name": "잔류동물용의약품 분석법 실무 해설서",
+    "author": null,
+    "publisher": "식품의약품안전처",
+    "published_year": null,
+    "kdc_label": "식품의약안전",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "HPLC에서는 단일 조성의 이동상 조건으로 (isocratic) 분석을 수행할 수 있을 뿐만 아니라 이동상의 조성을 변화시키면서 검체를 분석할 수 있는데 이를 gradientelution이라고 한다. GC에서 temperature programming 법과 같이 분리의 효율이 향상되고 분석시간을 단축시키는 장점이 있다. Gradient 방식으로는 low-pressure mixing과 high-pressure mixing의 2 가지 방식이 있는데 전자는 1개 pump와 switching valve로 2∼4 종의 용매를 교체 유입시키는 방식으로 저렴하나 완벽한 degassing을 요구하는 단점이 있다. 후자의 방식은 혼합하고자 하는 용매 수만큼 pump가 필요하나 사용의 편리성 및 안정성이 우수하다.",
+  "summary": "gradientelution는 고효율이며 분석 소요 시간이 적다. low-pressure mixing는 가격은 싸지만 정확한 degassing이 필요하고 high-pressure는 사용이 쉽고 안정적이다."
+}

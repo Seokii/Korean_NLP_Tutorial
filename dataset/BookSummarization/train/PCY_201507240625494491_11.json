@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201507240625494491_11",
+  "metadata": {
+    "doc_id": "PCY_201507240625494491",
+    "doc_type": "도서",
+    "doc_name": "과학기술정책 통권 203호 제25권 제6호",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": null,
+    "kdc_label": "기타",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "구글과 애플에 의해 지배되고 있는 스마트폰 시장에 모질라가 출사표를 던졌다. 그것도 open source 기반의 운영체제를 들고 말이다. 이를 위해 모질라는 모바일 기기를 위한 ‘Firefox OS’라는 운영체제를 개발하고 있다. Firefox OS는 기존의 Firefox 웹 브라우저와 마찬가지로 철저하게 openness 원리에 기반하고 있다. 모질라는 2011년 부터 Firefox OS운영체제 개발 프로젝트를 시작했다. Firefox OS 는 개발자들이 애플과 구글의 게이트웨이를 통과하지 않고도 프로그램을 개발할 수 있는 그러한 환경을 제공하고자 한다.",
+  "summary": "애플과 구글의 게이트웨이를 통과하지 않아도 프로그램을 개발할 수 있도록 모질라는 openness 원리에 기반한 Firefox OS의 운영체제를 개발하고 있다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201801180332148781_25",
+  "metadata": {
+    "doc_id": "PCY_201801180332148781",
+    "doc_type": "도서",
+    "doc_name": "음성인식 AI 비서 시장의 현황과 시사점",
+    "author": "최지혜, 이선희",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2017",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Microsoft는 음성인식 비서 서비스와 AI 스피커 시장에서 후발주자에 속하지만, 그 잠재력은 매우 크다. Microsoft에 따르면 현재 Windows10 이용자는 약 5억 명 규모이며 그 중 약 1억 4천명이 매달 Cortana를 이용하고 있다(CNBC, 2017. 5. 10). 이로 미루어볼 때 Microsoft의 독보적인 PC OS 시장지배력이 Cortana 서비스 이용자 수 증가에 큰 영향을 미치고 있는 것으로 보이며, Windows10 OS 이용자가 늘어남에 따라 Cortana 도 꾸준히 시장 지배력을 넓혀갈 것으로 예상된다.",
+  "summary": "Microsoft는 음성인식 서비스 분야에 뒤늦게 합류했으나 PC OS 시장지배력을 기반으로 Cortana 이용자를 지속적으로 늘릴 것으로 예상됨."
+}

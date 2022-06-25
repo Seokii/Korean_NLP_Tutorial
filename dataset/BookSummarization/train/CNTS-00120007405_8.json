@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00120007405_8",
+  "metadata": {
+    "doc_id": "CNTS-00120007405",
+    "doc_type": "도서",
+    "doc_name": "이슈페이퍼",
+    "author": "이진수",
+    "publisher": "한국법제연구원",
+    "published_year": "2019",
+    "kdc_label": "법학",
+    "kdc_code": "360"
+  },
+  "chapter": null,
+  "passage": "현재까지 개발된 유전자가위 기술은 핵산분해효소와 유전자 적중(Gene targeting) 방식에 따라 총 3세대로구별된다. 1세대유전자가위인ZFN(zincfingernuclease),2세대유전자가위인TALEN(transcriptionactivator-like effector nuclease)은 절단을 위한 핵산분해효소인 FokI과 유전자적중에 이용되는 단백질을 연결한 단백질 기반도구이다. ZFN은 유전자 적중에 zinc finger motif를 DNA와 결합하는 도메인으로 사용하고, TALEN은 식물병원체(Xanthomonas spp.)의 TAL effector 단백질을 DNA 결합 도메인으로 사용한다.",
+  "summary": "유전자 가위기술은 핵산분해효소와 유전자 적중 방식에 따라 총 3세대로 구별된다. 1세대 유전자 가위인 ZFN, 2세대 유전자 가위인 TALEN이다."
+}

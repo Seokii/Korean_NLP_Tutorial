@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118872498_5",
+  "metadata": {
+    "doc_id": "CNTS-00118872498",
+    "doc_type": "도서",
+    "doc_name": "급성 위장관계 감염 항생제 사용지침",
+    "author": "질병관리본부",
+    "publisher": "질병관리본부",
+    "published_year": "2019",
+    "kdc_label": "의학",
+    "kdc_code": "510"
+  },
+  "chapter": null,
+  "passage": "장염과 관련된 장외 합병증으로는 Yersinia, Campylobacter, Salmonella, Shigella의 경우 결절성 홍반, Campylobacter의 경우 길랑 바레 증후군(Guillain-Barresyndrome), STEC나 Shigella dysenteriae serotype 1의 경우 용혈성 요독 증후군, Samonella, Shigella, Campylobacter, Yersinia의 경우 일명 리히터 증후군(Reiter’s syndrome)이라 불리는 반응성 관절염이나 장천공, Salmonella, Yersinia에서는 대동맥염, 골수염이 생길 수 있어서 이에 대한 주의가 필요하다. ‘감염 후 과민성 대장증후군’ 또한 감염성 장염의 잘 알려진 합병증 중 하나이다. 감염성 설사 혹은 여행자 설사 이후 만성 설사가 있거나 복통이 있는 경우에는 반드시 고려해 보아야 하는데, 감염성 장염 후 지속적이고 영구적인 장관 기능의 변화를 유발하여 감염인자가 소실되어도 소화기 증상이 지속되는 질환으로, 보통 1년 안에 호전되지만 몇 년간 지속되기도 하며 이런 경우에는 소화기 내과 전문의의 진료가 필요하다. 한 연구에서는 배양검사로 확진된 세균성 장염 환자에서 과민성 대장증후군이 3개월 안에 9.2%, 6개월 안에 12.3% 발생했다는 보고가 있다.",
+  "summary": "장염과 관련된 반응성 관절염인, 장천공, 대동맥염, 골수염이 장외합병으로 발생할 수 있어 주의가 필요하다. '감염 후 과민성 대장증후군'은 감염성 장염 후 지속적이고 영구적 장관 기능의 변화를 유발하는 합병증으로 상당 기간 호전되지 않으면 소화기 내과 전문의 의 진료가 필요하다."
+}

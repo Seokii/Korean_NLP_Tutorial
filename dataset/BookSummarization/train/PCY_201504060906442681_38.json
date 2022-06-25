@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504060906442681_38",
+  "metadata": {
+    "doc_id": "PCY_201504060906442681",
+    "doc_type": "도서",
+    "doc_name": "반도체설계재산유통가이드북",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Service & Maintenance Fee는 처음 계약하는 경우, 일반적으로 License Fee에 포함되어 있다. 이미 계약이 되어 있으며, 동일한 IP를 재활용하는 경우 별도의 Service & Maintenance Fee를 추가로 계약하게 되는데, IP 사용자의 입장에서는 사전에 미리 개발할 제품의 로드맵을 고려하여 계약 사항에 추가해야 한다. 라이선스 기간 중이라 할지라도 그 기간 내에 IP 사용자의 과실로 인하여 정상적으로 서비스가 진행되지 못하여 첫 Service & Maintenance 기간이 지나가 버리는 경우에도 계약서에 명시된 Service 비용을 추가로 지급하여야 한다.",
+  "summary": "Service & Maintenance Fee는 기존 계약의 아이피를 쓸 경우 별도로 추가되며 사용자과실로 서비스 기간이 그냥 지나버려도 비용을 추가지급해야 한다."
+}

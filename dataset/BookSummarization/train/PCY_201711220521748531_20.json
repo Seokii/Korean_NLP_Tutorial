@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220521748531_20",
+  "metadata": {
+    "doc_id": "PCY_201711220521748531",
+    "doc_type": "도서",
+    "doc_name": "급성 심근경색증 환자에서 약물방출 스텐트와 금속 스텐트의 비교",
+    "author": "최동훈",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2010",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "모든 결과분석은 각 성과변수인 사망, 재발 심근경색, TVR, TLR, 스텐트 혈전증에 대하여 수행하였다. 각 성과변수의 평균효과와 95% 신뢰구간은 inverse variance method를 사용한 random-effects model로 분석하였다. Fixed-effects model이 아닌 random-effects model을 사용한 이유는 연구 내, 연구 간의 변동성을 이 모델이 고려하고, 보다 보수적인 결과를 제공하기 때문이다. 또한 스텐트 사용에 있어 하나의 치료효과 값이 있다고 가정하기 보다는 각 인구집단에 따라 달라질 수 있는 치료효과 값이 분포로 존재한다는 가정이 더욱 현실성이 있기 때문이다. 계산된 RR값의 이질성 (heterogeneity)을 평가하기 위하여 Cochrane Q statistic과 I2 statistic을 사용하였다. 이 통계값들의 검정력은 낮은 편이기 때문에 이를 보완하기 위해 일반적으로 유의하다고 사용되는 p값보다는 높은 0.1을 유의성을 판단하는 경계치로 사용하였다(p값 <0.1이면 유의, 즉 이질성 존재).",
+  "summary": "random-effects model을 이용하여 각각의 성과변수인 사망, TVR, TLR 등에 대해 분석하였다. random-effects model을 이용한 이유는 이 모델이 보수적 결과를 나타내기 때문이며, 치료효과 값이 분포로 존재하고 있다는 가정이 현실적이어서다. "
+}

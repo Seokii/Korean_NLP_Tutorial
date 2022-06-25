@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611030408446161_20",
+  "metadata": {
+    "doc_id": "PCY_201611030408446161",
+    "doc_type": "도서",
+    "doc_name": "바이오 경제시대 과학기술정책 의제 연구사업 : 5년차",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2016",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "생명정보 플랫폼의 대표적 사례로 미국 NIH의 NCBI를 들 수 있다. NIH는 1982년 생명정보기술 진흥을 위해 GenBank를 만들었다. 그리고 1988년 GenBank 관리를 위해 NCBI (National Center for Biotechnology Information)를 신설했다. GenBank가 오픈된 이후 공개적으로 활용 가능한 유전자 시퀀싱 정보는 기하급수적으로 증가해왔다 (그림 2-4 참고). 1982년 이래 GenBank에 등록된 베이스 정보는 18개월마다 두 배씩 증가하고 있으며(NCBI 2015.6.22.), 2015년 현재 28만 종에 관한 1억 7천만 건의 염기서열 정보가 제공되고 있다(그림 2-4 참고).",
+  "summary": "미국의 생명정보 플랫폼인 NIH는 생명정보기술 부흥을 위해 GenBank를 만들었고 이후 그림 2-4와 같이 증가추세를 보이며 유전자 시퀸싱 정보가 제공되고 있다. "
+}

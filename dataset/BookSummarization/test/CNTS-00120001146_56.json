@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00120001146_56",
+  "metadata": {
+    "doc_id": "CNTS-00120001146",
+    "doc_type": "도서",
+    "doc_name": "S-Life",
+    "author": "국가기술표준원",
+    "publisher": "국가기술표준원",
+    "published_year": "2014",
+    "kdc_label": "공학, 공업일반",
+    "kdc_code": "530"
+  },
+  "chapter": null,
+  "passage": "KTC는 국내에서 최초로 개최된 암호 및 정보보호 관련 국제학술대회인 CHES2014에 참가했다. 이 자리에서 KTC와 국민대가 공동으로 개발한 스마트카드 취약성 분석 장비를 전시·홍보하여 많은 관심을 끌었다. KTC 정보기술평가센터는 스마트카드 취약성 분석 장비인 ‘SICADA-BAEKDU Board’와 ‘SICADA-HANRA Board’를 전시해 참가자들과 다른 업체들의 눈길을 끌었다. CHES2014 전시회에는 Cryptography Research Inc, RISCURE, ETRI, Secure IC 등 암호 및 정보보호 취약성 분석 장비 개발을 선도하는 국내외 정상급 업체들이 참여했다.",
+  "summary": "CHES2014는 국내에서 최초로 개최된 암호 및 정보보호 관련 국제학술대회로, KTC가 스마트카드 취약성 분석 장비를 소개하며 많은 업체의 관심을 받았다."
+}

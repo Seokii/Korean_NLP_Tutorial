@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049145505_106_107-0",
+  "metadata": {
+    "doc_id": "CNTS-00049145505",
+    "doc_type": "도서",
+    "doc_name": "공공 및 민간부분의 정보화를 위한 위성통신 활용방안 연구",
+    "author": "손상영",
+    "publisher": "정보통신정책연구원",
+    "published_year": "1999",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "제 4 장 위성망과 타 가입자망과의 비교분석 제 2 절 HFC망(케이블모뎀망)",
+  "passage": "IEEE 802.14의 표준을 기다리는데 지친 케이블사업자들은 표준화과정을 촉진하기 위해 HFC 전송망을 통해 고속의 데이터 전송서비스를 경제적인 비용으로 구현할 수 있도록 기본적인 요구사항을 정의할 MCNS라 불리는 파트너쉽을 체결했다. 1996년 1월 Comcast, Cox, TCI, Time Warner사는 MCNS를 결성하였고 1997년말 초고속 케이블 데이터서비스에 대한 일련의 인터페이스를 연구하고 출간하기 위한 제안요청서(REP: request for proposal)를 발행했다. 이에 MediaOne, Rogers Cablesystem, CableLabs 또한 MCNS의 DOCSIS(Date Over Cable Service Interface Specification)프로젝트 제안 요청서에 서명했다.\nMCNS는 케이블모뎀에 대한 DOCSIS를 1997년 3월 장비 공급업체에 배부하였고, 공급업체들은 MCNS 규격에 따른 칩셋과 시제품을 개발하였다. 1998년 3월에는 IUT가 MCNS의 규격을 수용하였고, 1998년말 DOCSIS 1.0이 표준화됨에 따라 장비의 대량생산이 가능한 상황이다. 최근 MCNS에서는 전화관련 기능을 포함한 좀 더 진보적인 표준인 DOCSIS 1.1을 개발하고 있으며, 몇몇 업체에서 이에 따른 장비를 생산하고 있다. ",
+  "summary": "IIEEE 802.14의 표준이 늦어지자, 케이블사업자 (Corncast 등)들은 표준화 과정을 촉진하기 위해, HFC망 데이터 전송서비스을 정의할 MCNS라 불리는 파트너쉽을 체결하였고, DOCSIS 프로젝트 제안요청서를 발행하였다. 현재 DOCSIS 1.0이 표준화되어 대량생산이 가능해졌고, 보다 진보된 DOCSIS 1.1도 개발 중이다.   "
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201805080330544171_14",
+  "metadata": {
+    "doc_id": "PCY_201805080330544171",
+    "doc_type": "도서",
+    "doc_name": "자동화기계를 이용한 의료수술의 형법적 쟁점 연구 (Criminal Law Issues regarding Surgeries using Robots)",
+    "author": "최민영, 김천수",
+    "publisher": "한국형사정책연구원",
+    "published_year": "2017",
+    "kdc_label": "법무및검찰",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "방사선 수술은 주요한 암치료 방법 중 하나로 전리 방사선을 이용한다. 치료를 원하는 종양에 방사선 빔을 조사(照射)하는데 해당 종양에는 고선량의 방사선이 조사(照射)되지만 주변에 조사되는 방사선의 양은 매우 적다. 대표적인 방사선 수술로봇으로는 사이버나이프(제조사 Accuray Inc., 1999년 FDA승인)가 있다. 이외에도 선형 가속기가 탑재된 무고정틀 시스템으로 TrueBeamSTx(제조사 BrainLab Inc. & Varian Medical Systems, 2000년 첫 FDA 승인)가 있지만, 이 시스템은 마이크로 다엽 콜리메이터(micro-multileaf collimators, mMLC)를 장착하고 있다. 이 시스템과 비교하면, 사이버나이프는 방사선원(radiation source)에 있어 자유도(degree of freedom)가 훨씬 높아 환자를 치료하기 더 용이하다.",
+  "summary": "주요한 암치료 방법 중 하나인 방사선 수술은 치료해야 하는 종양에 방사선 빔을 조사하는데, 대표적으로 사이버나이프라는 방사선 수술로봇이 있으며 TrueBeamSTx에 비해 방사선원의 자유도가 높아 환자를 치료하기 용이하다. "
+}

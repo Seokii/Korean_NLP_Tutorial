@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220722978281_96",
+  "metadata": {
+    "doc_id": "PCY_201711220722978281",
+    "doc_type": "도서",
+    "doc_name": "의료기술평가제도의 국제 비교연구",
+    "author": "김수경",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2015",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "스폰서 혹은 제조사는 공공재원하의 PBS(Pharmaceutical Benefit Scheme), NIP(National Immunization Program), MBS(Medicare Benefits Scheme)와 민간보험 재원 하에 Prostheses list 등재를 위해 호주정부에 의해 HTA평가를 받아야 한다. 재정지원 프로그램(funding program)의 선택은 의료기술의 성격(의약품, 시술, 진단검사, 치료재료)에 따라 달라지며, 의료기술이 상호의존적(예컨대, 약제/검사 병합)인 경우, 2개 이상의 재정프로그램의 적격성(eligibility)이 고려되어져야 한다. 정부가 해당 신의료기술을 급여하지 않는 것으로 결정한 경우에도 해당 의료기술이 ARTG에 등록된 이상 호주시장에서 이용 가능하다.",
+  "summary": "스폰서 및 제조사는 PBS 등 에 등재하기 위해 호주정부의 HTA 평가를 진행하고 어떤 의료기술이냐에 따라 재정프로그램 선택이 상이하며 병합된 의료기술은 2개 이상의 재정프로그램에 자격이 충족하는지 헤아려봐야한다."
+}

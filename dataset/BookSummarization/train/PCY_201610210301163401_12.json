@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210301163401_12",
+  "metadata": {
+    "doc_id": "PCY_201610210301163401",
+    "doc_type": "도서",
+    "doc_name": "열병합발전에서 ESS설치의 경제성 분석 연구",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "ESS는 기술 유형 별로 다양한 특성을 지니고 있어 전력 계통에 활용 하는 데 서로 다른 장단점을 띄게 된다. 따라서 각 기술 별로 전력 계통에 활용하는 분야 또한 다르게 된다. 그러므로 ESS의 적합한 분야에 활용을 위해서는 각 기술 별 기술적 특성과 그에 따른 장단점을 분석하는 것이 중요하다. ESS는 전기 화학적 저장 기술과 비전기 화학적 저장 기술로 구분할 수 있다. 전자는 배터리를 활용하는 기술로 대표적으로 리튬 이온 전지 (Lithuim-ion Battery), 나트륨황 전지(Sodaium-Sufur Battery), 레독스 흐름 전지(Redox-flow Battery), 초 고용량 커패시터(Super-Capacitor)를 들 수 있다. 후자는 전기에너지를 물리 에너지로 변환하여 저장하는 기술로 대표적으로 양수 발전(Pumped-storage hydro power plant), 압축 공기 저장 시스템(Compressed Air Energy Storage), 플라이휠(Flywheel)이 있다.",
+  "summary": "ESS는 기술 유형별로 다양한 특성이 있어 전력계통에 활용할 때 서로 다른 장단점을 띄게 되니 그것의 분석이 중요하다. ESS는 배터리를 활용하는 전기 화학적 저장기술과 전기에너지를 물리 에너지로 변환하여 저장하는 비전기 화학적 저장기술로 구분할 수 있다."
+}

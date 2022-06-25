@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_20171122077503681_88",
+  "metadata": {
+    "doc_id": "PCY_20171122077503681",
+    "doc_type": "도서",
+    "doc_name": "보건의료분야에서 비용 산출 방법",
+    "author": "이태진",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2012",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "질병으로 인해 상실된 시간의 양은 환자에게 직접 설문조사를 수행함으로써 얻을 수 있다. Work Productivity and Activity Impairment(WPAI), Health and LabourQueationaire(HLQ) 등이 이를 측정하기 위해 개발된 설문도구이며, 질병으로 인한 결근인 absenteeism 뿐 아니라 근무 시간 중에 발생하는 생산성 손실 즉, presenteeism 또한 측정하도록 구성되어 있다. 이 외에 생산성 손실을 측정할 수 있는 도구로는 Osterhaus technique, MWPLQ, WPI 등이 있다. Osterhaus technique, MWPLQ은 편두통의 생산성 손실을 측정하기 위해 개발된 도구이다. WPI는 customer serviceemployee를 위해 특별히 제작된 것으로 객관적 · 주관적 측정을 함께 시행하나 주관적 측정 방법에 대해서는 신뢰도와 타당도가 검토되지 않았다.",
+  "summary": "환자에게설문조사를수행함으로질병으로상실된시간의양을얻을수있다. WPAI,HLQ등이설문도구이며결근,생산성손실을측정하도록구성되있다. 편두통의생산성손실을측정하기위해개발된도구도있다."
+}

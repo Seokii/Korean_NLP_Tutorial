@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201612290529323821_3",
+  "metadata": {
+    "doc_id": "PCY_201612290529323821",
+    "doc_type": "도서",
+    "doc_name": "미국의 무정산(Bill & Keep)으로의 상호접속제도 개편과 시사점",
+    "author": null,
+    "publisher": "정보통신정책연구원",
+    "published_year": "2012",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "미국의 사업자간 상호접속 및 보상 제도는 크게 장거리전화사업자(Interexchange Carriers, 이하 IXC)와 시내전화사업자(Local Exchange Carriers, 이하 LEC)간의 접속에서 발생하는 접속료(access charge)와 LEC간 접속에서 발생하는 상호보상(reciprocal compensation)으로 구분된다. 접속료는 통화유형에 따라 상이한 주간(interstate)장거리통화에 적용하는 주간접속료와 동일한 주내(intrastate) 장거리통화에 적용하는 주내접속료로 구분된다. 주간접속료는 FCC가 관할하며, 주내접속료 및 상호보상은 각 주의 PUC(Public Utilities Commission)가 관할한다.",
+  "summary": "미국의 사업자간 상호접속 및 보상 제도는 IXC와 LEC간 접속에서 발생하는 접속료와 LEC간 접속에서 발생하는 상호보상으로 구분되며, 접속료는 통화유형에 따라 주간접속료와 주내접속료로 나뉜다."
+}

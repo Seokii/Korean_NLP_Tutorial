@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201505070933587551_23",
+  "metadata": {
+    "doc_id": "PCY_201505070933587551",
+    "doc_type": "도서",
+    "doc_name": "KATS 기술보고서 제71호(ISO TC 204의 스마트카 표준화 동향)",
+    "author": null,
+    "publisher": "국가기술표준원",
+    "published_year": null,
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "현재까지 GTR에 포함된 스마트 안전차량 관련 항목은 LDWS 등이 있으나, 최근 러시아가 eCall을 추가할 것을 제안하고 있고, 유럽의 AEBS(Advanced Emergency Brake System; ISO의 FVCMS와 유사한 제품)에 대한 상용차 의무장착 규제 시행 등으로 인하여, ADAS 제품군이 점차 추가되는 분위기이다. 가장 최근의 WP29 회의에서는, ADAS 보급을 통한 사고저감에 대한 사회적 요구 증가에 따라, 각국의 개발 현황을 반영, GTR에 포함하고자 하는 아이템에 대한 수요를 올해 하반기 회의에서 의제로 제안하기로 하였으며, 이에 따라 ADAS 제품의 규제화는 매우 활발하게 진행될 전망이다.",
+  "summary": "GTR를 이용한 다양한 제품군의  의무장착이 늘어나는 추세로  WP29 는 올해 하반기 회의에서 ADAS 제품의 규제를 결정할 전망이다."
+}

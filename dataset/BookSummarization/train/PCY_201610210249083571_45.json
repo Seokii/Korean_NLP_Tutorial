@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210249083571_45",
+  "metadata": {
+    "doc_id": "PCY_201610210249083571",
+    "doc_type": "도서",
+    "doc_name": "신재생에너지 공급인증서(REC) 가격 예측 방법론 개발 및 운용",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "영국은 FIT 제도 운영에 성공함에 따라 신재생에너지 의무를 확대하고 있으며, RPS(RO, Renewable Obligation)와 FIT를 병행 운영하는 국가로 자리 매김하였다. 아래 그림에서 영국 태양광 분야의 FIT 지원금 요율 변화 추이를 살펴보면 해마다 낮아지는 경향을 보이고 있다. Ofgem(The office of gas and electricity markets)에서 분기별로 태양광(PV)과 비태양광(Non-PV)을 구분하여 FIT rate를 발표하고 있는데, 영국은 FIT 요율을 하락시키면서 재생에너지 공급 의무 시장의 안정화를 도모하고 있는 것으로 보인다. FIT 지원금은 설비용량 크기에 따라서만 구분되는 것이 아니라 조건에 따라 지원금 요율이 다르게 적용된다.(Ofgem e-serve, 2014)",
+  "summary": "영국은 FIT 제도의 성공으로 신재생에너지 의무를 확대하고 있다. 태양광 분야의 FIT 지원금 요율 변화 추이는 해마다 낮아지는 경향을 보이고 있다. FIT 요율을 하락시켜 공급 의무 시장을 유지하기 위한 것이다."
+}

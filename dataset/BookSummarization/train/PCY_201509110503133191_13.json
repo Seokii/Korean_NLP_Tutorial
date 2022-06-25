@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201509110503133191_13",
+  "metadata": {
+    "doc_id": "PCY_201509110503133191",
+    "doc_type": "도서",
+    "doc_name": "항공분야 빅데이터의 정책적 활용방안 연구",
+    "author": null,
+    "publisher": "한국교통연구원\t",
+    "published_year": null,
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "첫째, 안전분야에는 FAA의 Aviation Safety Information Analysis and Sharing(ASIS), European Coordination Centre for Accident and Incident Reporting System(ECCAIRS), ICAO The integrated Safety Trend Analysis and  Reporting System(iSTARS), Flight Safety Foundation - Global Aviation Safety Network(GAIN) 등이 포함된다. 미국의 연방항공청(the Federal Aviation Administration)은 2007년 개방된 안전 정보 교환 촉진을 통한 항공안전 향상을 위해 다수의 데이터베이스로부터 데이터를 수집·분석하는 항공안전정보분석과 공유시스템(ASIAS, the Aviation Safety Information Analysis and Sharing system)을 개발하였다. FAA의 ASIAS는 잠재적인 안전성 요인의 감시를 지원하는 정부·산업간 정보 공유 및 분석 정책으로, 공공데이터 및 비공개 데이터 등 다양한 데이터소스를 가지는 특징이 있다.",
+  "summary": "안전분야에는 미국연방공항청의 ASIS, ECCAIRS, iSTARS, GAIN 등이 포함된다. FAA는 항공안전을 위해 항공안전정보분석과 공유시스템을 개발했고, ASIAS는 보이지 않는 안전 요소의 감시를 지원하는 정부·산업간 정보공유와 분석 정책으로 공공데이터와 비공개 데이터 등 여러가지 데이터 출처를 보유한다.   "
+}

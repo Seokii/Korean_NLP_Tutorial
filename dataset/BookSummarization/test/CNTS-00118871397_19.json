@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118871397_19",
+  "metadata": {
+    "doc_id": "CNTS-00118871397",
+    "doc_type": "도서",
+    "doc_name": "차세대염기서열분석(Next Generation Sequencing) 검사의 임상적 변이해석 및 검증방법 해설서(민원인 안내서)",
+    "author": "식품의약품안전처 의료기기정책과",
+    "publisher": "식품의약품안전처",
+    "published_year": "2019",
+    "kdc_label": "화학공학",
+    "kdc_code": "570"
+  },
+  "chapter": null,
+  "passage": "검체에서의 커버리지 depth와 변이검출의 재현성 관계는 고품질 시퀀스 read가 많을수록 특정 위치에 대해 정상인지 또는 변이인지의 판단에 신뢰를 제공한다는 점에서 간단하다. 일반적으로 배선변이는 이형접합(heterozygous) 또는 동형접합(homozygous) 상태이므로, 낮은 커버리지 depth에서의 변이 검출이 용이하다. 균일한 30X 커버리지는 보통 배선변이 검사에 충분하다. 반대로, 조직의 heterodeneity, intratumoral heterogeneity, tumor viability 등의 이유로 종양 검체의 체성변이를검출하는 데에는 매우 많은 read depth가 필요하다. 낮은 종양 비율을 가진 조직표본에서 heterogeneous 변이를 확인하기 위해 1,000X 이상의 평균 커버리지가 필요할 수 있다. 변이검출의 기준이 5개 이상의 reads 수로 설정된 경우, 최소 250개 read 이상이면 위음성의 확률이 0.5% 미만이 될 것이다. 임상 NGS 패널의 경우, 유전자 증폭산물(amplicon) 및 대상 유전자(target gene)의 최소 커버리지 depth를 250개 read로 권장한다.",
+  "summary": "배선변이는 이형접합 또는 동형접합 상태이므로 낮은 커버리지 depth에서의 변이 검출이 용이하지만, 조직의 종양 검체의 체성변이를검출하는 데에는 매우 많은 read depth가 필요하다. "
+}

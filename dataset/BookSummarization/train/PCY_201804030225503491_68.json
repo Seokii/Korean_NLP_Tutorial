@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201804030225503491_68",
+  "metadata": {
+    "doc_id": "PCY_201804030225503491",
+    "doc_type": "도서",
+    "doc_name": "청년층 노동시장 실태와 정책과제 연구",
+    "author": "김유빈, 최충",
+    "publisher": "한국노동연구원",
+    "published_year": "2017",
+    "kdc_label": "고용노동",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "상기 기술된 바와 같이 평균처치효과(ATT)를 추정하기 위해서는 성향 점수를 바탕으로 처치집단의 관측치와 통제집단의 관측치를 매칭시켜야 한다. 그러나 성향점수(  )는 연속변수이기 때문에 정확히 같은 성향 점수를 갖는 관측치 간의 매칭은 이론적으로 불가능하다. 이런 문제점을 해결하기 위해서 다양한 매칭법이 활용될 수 있다. Becker and Ichino (2002)는 ① Nearest-Neighbor Matching(최근거리 관측치 매칭법), ② Radius Matching(반경매칭법), ③ Kernel Matching(커넬매칭법), ④ Stratification Matching(층화매칭법) 등 네 가지 매칭 방법을 제안하였다.",
+  "summary": "평균처치효과를 추정하기 위한 성향 점수와 관측지 간의 정확한 매칭은 불가능하기 때문에 네가지의 다양한 매칭법을 제안하였다."
+}

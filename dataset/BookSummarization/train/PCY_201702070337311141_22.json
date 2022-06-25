@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201702070337311141_22",
+  "metadata": {
+    "doc_id": "PCY_201702070337311141",
+    "doc_type": "도서",
+    "doc_name": "FTA 분석을 위한 DBMS 구현과 지표 개발 연구",
+    "author": null,
+    "publisher": "산업연구원",
+    "published_year": "2016",
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Update Process는 Update 대상 자료의 특정과 자료 등록의 두 단계로 이루어져 있다. Update 대상 자료를 특정하려면 현재 DBMS에 수록된 자료의 내역과 원자료 Source에 등록된 자료의 내역을 비교하여 누락분을 대상 범위로 설정하여야 한다. 아래 그림은 DB에 수록된 HS2012 수출입자료의 국가별·연도별 현황을 조회한 화면을 표시하고 있다. 이는 UN COMTRADE의 Data Availability Table과 유사한 형식이며, 각 셀에 표시된 숫자는 현재 DB에 수록되어 있는 해당 국가 연도의 레코드 수이다.",
+  "summary": "Update Process 자료 등록의 두 단계로 이루어져 있다. Update 대상 자료를 특정하려면 수록된 자료와 등록된 자료를 비교해 누락분을 설정한다."
+}

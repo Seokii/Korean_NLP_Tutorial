@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504060906442681_22",
+  "metadata": {
+    "doc_id": "PCY_201504060906442681",
+    "doc_type": "도서",
+    "doc_name": "반도체설계재산유통가이드북",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Introduction이라고 표현되기도 하는 Functional Overview 부분은 IP에 대한 Review 성격의 자료를 제공하는 부분이다. 일반적으로 Brochure 수준의 데이터를 포함하며, 기본적으로 IP의 기능 및 동작을 설명하는 General Description, IP의 성능 및 특성/특징을 기술하는 Feature, IP의 I/O 신호에 대한 특성, 종류 이름 등을 나타내는 I/O Signal Description 부분과 IP를 사용하기 위하여 외부 버스 등과 인터페이스 하는데 필요한 Bus Interface 등의 기본적인 정보를 포함하고 있다. 표준기술을 활용하는 IP에 대해서는 국제표준 또는 산업계 표준규격에 대한 정확한 정의/명시 및 범위를 나타내어야 하며, 표준에 대한 검사기준을 통과하였는지 등에 대한 정보도 함께 표시되어야 한다. 표준의 검사기준을 측정하기 위한 환경 및 결과 등에 대하여는 Test Environment/Reliability Report 등의 내용으로 별도 제공하는 것이 좋으며, 이 부분의 작성방법에 대하여는 본 Guide에서는 제외되어 있다.",
+  "summary": "IP의 성격자료를 Introduction에 제공하고 이는 기본적인 정보를 말하며, 표준 기술을 활용하는 IP는 이에 대한 정보와 검사 기준  통과 여부에 대한 정보도 표시해야 한다. 다만, 검사기준을 측정하기 위한 환경및 결과는 별도 제공하므로 본 가이드에서는 그 작성법은 제외하였다."
+}

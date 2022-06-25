@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118875569_64",
+  "metadata": {
+    "doc_id": "CNTS-00118875569",
+    "doc_type": "도서",
+    "doc_name": "지역혁신 활성화를 위한 도시기반 혁신정책의 전략과 방향",
+    "author": "김형주",
+    "publisher": "과학기술정책연구원",
+    "published_year": "2017",
+    "kdc_label": "공학, 공업일반",
+    "kdc_code": "530"
+  },
+  "chapter": null,
+  "passage": "Urban Informatics는 도시 환경의 맥락에서 정보 및 통신 기술을 활용하여 데이터를 만들어내고, 적용하며 사용하는 것을 의미한다. Urban Informatics를 정의하는 다양한 기준이 있지만, Foth(2011)는 Urban Informatics를 사람, 장소 및 기술이라는 세 가지 광범위한 영역을 대상으로 하는 통합적인 연구 및 실습으로 정의하며, 시민과 도시를 위해 유비쿼터스 컴퓨팅을 통해 인한 행정과 도시의 물리적 측면과 디지털 측면을 융합하는 것을 그 목적으로 하고 설명하고 있다(Foth. et al., 2011).",
+  "summary": "Urban Informatics는 어디서나 접속가능한 정보통신 환경을 시민과 도시에게 선보이며 물리적 한계를 극복하고 디지털 환경을 조성하는 것을 목표로 한다."
+}

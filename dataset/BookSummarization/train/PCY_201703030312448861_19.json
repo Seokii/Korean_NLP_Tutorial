@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703030312448861_19",
+  "metadata": {
+    "doc_id": "PCY_201703030312448861",
+    "doc_type": "도서",
+    "doc_name": "미국 형법상 Recklessness 개념에 관한 고찰",
+    "author": null,
+    "publisher": "대검찰청",
+    "published_year": "2014",
+    "kdc_label": "법무및검찰",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "“고의로”(intentionally)라는 말의 의미는 결과발생을 의욕하였는가와 관계없이, 자신의 행위가 상당정도 분명하게 결과를 야기한다는 사실을 인식하는 것으로 해석된다(substantially certain to cause the result, whether or not he desires the result to occur). 반면, “무모성”(recklessness)은 비록 결과발생이 상당정도 확실한 것은 아니지만, 자신의 행위가 결과를 야기할지도 모른다는 점을 인식하는 것을 의미한다(one is aware that his conduct might cause the result, though it is not substantially certain to happen). 고의(intent)는 거의 확실한 정도의 인식(consciousness of almost-certainty)을 요하는 반면, 무모성은 확실성이나 상당성보다 훨씬 낮은 정도의 무엇인가의 인식(consciousness of something far less than certainty or even probability)을 의미하는 것이다. 확률상 사람과 부딪칠 가능성이 10%도 안 된다고 하더라도, 만약 운전자가 사람이 밀집한 장소에서 빠른 속도로 차를 모는 경우 무모하게(recklessly) 행위했다고 할 수 있다.",
+  "summary": "'고의로'라는 말은 자신의 행위가 결과를 야기한다는 것을 분명하게 인식하는 것이다. 반면 '무모성'은 결과발생이 확실하지는 않지만, 행위가 결과를 야기할지도 모른다고 인식한다. 운전자가 사람이 밀집한 장소에서 빠르게 운전하는 경우 무모하다고 할 수 있다."
+}

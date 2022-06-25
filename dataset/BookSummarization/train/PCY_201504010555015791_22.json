@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504010555015791_22",
+  "metadata": {
+    "doc_id": "PCY_201504010555015791",
+    "doc_type": "도서",
+    "doc_name": "바이오경제시대 과학기술정책의제 연구사업 (4년차) -개인 유전자 기반 맞춤 의료의 현황과 발전 과제-",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": null,
+    "kdc_label": "기타",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Oxford Nanopore technologies의 기술은 이와 다르다. 한 가닥의 DNA를 작은 pore 속으로 당길 때 DNA 가닥이 pore를 통과하면서 이온 전류를 방해하는데, 이 때 염기별로 방해하는 정도의 차이를 검출하여 염기서열을 결정하는 방식이다. 아이디어가 처음 제시된 지는 약 20여 년이 지났지만 실제 기술로 구현된 것은 2012 년 Oxford Nanopore technologies에 의해서이다. 2년이 지난 2014년까지도 상용 화가 지연되고 있는 것은, pore를 구성하는 membrane 물질을 대량생산이 가능한 물질로 대체하기 위해서이다. Oxford Nanopore technologies의 MinION의 경우에는 USB 크기의 휴대용 기기로서 대형 기계인 Illumina의 HiSeq과는 타겟 소비자가 다르다(Pennisi, 2014).",
+  "summary": "Oxford Nanopore technologies는 DNA가 pore 통과시 이온전류 방해도로 염기서열을 결정하며 pore 구성물질을 바꾸고자 상용화가 지연되었다. MinION은 USB기기로 대형 기계와는 타겟 소비자가 다르다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703160345454851_15",
+  "metadata": {
+    "doc_id": "PCY_201703160345454851",
+    "doc_type": "도서",
+    "doc_name": "2016년 보건복지통계정보 통합 관리 및 운영",
+    "author": null,
+    "publisher": "한국보건사회연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "위에서 소개한 User-based nearest neighbor recommendation 방법은 사용자의 선호도 사이의 유사도를 기준으로 하여 추천 시스템을 결정하는 방법이다. 따라서 시스템에 기록된 사용자의 수가 수십만 혹은 수백만에 이르고 추천 시스템을 실시간으로 유지하고자 하는 경우 추천 시스템을 구축하기 위한 유사도를 계산하고 이로부터 -nearest neighbor를 구성하는 것이 현실적으로 가능한지에 대한 기술적인 검토 가 필요하다. 만약 시스템에서 사용자의 수보다 아이템의 수가 상대적으 로 적은 경우라면 사용자 사이의 유사도가 아닌 아이템 사이의 유사도를 활용한 추천 시스템을 구축하는 것이 더 효율적이다. 이러한 방법을 일반 적으로 Item-based nearest neighbor recommendation 방법이라고 하며, 이는 User-based nearest neighbor recommendation 방법과 기본적으로 동일한 시스템이라고 할 수 있다.",
+  "summary": "User-based nearest neighbor recommendation 방법은 시스템상의 사용자 간 선호도의 유사도에 따라 추천 시스템을 정하는 방법이다. 이때 아이템 수가 사용자 수보다 적으면 아이템 간의 유사도를 이용하는 것이 더 좋다."
+}

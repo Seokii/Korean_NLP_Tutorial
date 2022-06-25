@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210300242051_17",
+  "metadata": {
+    "doc_id": "PCY_201610210300242051",
+    "doc_type": "도서",
+    "doc_name": "ICT발전의 산업별 전력수요 영향 분석",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Kuhndt et al.(2003)은 e-비즈니스와 ICT가 비(非)물질화와 생산성에 기여할 수 있음에 주목하였다. Kuhndt et al.(2003)은 1992년~1999년 독일의 산업 부문 에너지 소비량 및 이산화탄소 배출량을 기술효과(technology effect), 구조변화 효과(structural change effect), 성장효과(growth effect)로 분해 분석하였다. 여기에서 기술효과는 환경효율적인 형태로의 기술적 발전으로 인한 에너지절약 효과를 의미한다. Kuhndt et al.(2003)는 에너지 소비량 및 이산화탄소 배출량을 분해 분석한 결과의 추세와 ICT 확산의 추세를 비교하여 ICT 혁신이 효율성 개선을 통해 에너지 소비를 절약하는 효과가 있음을 보였다. 그러나 에너지 소비량을 분해 분석한 결과와 ICT 혁신 간 관계를 연관시킬 수 있는 충분한 근거를 제시하지 못하였다.",
+  "summary": "Kuhndt et al은 추세 분석을 통해 ICT 혁신이 에너지 소비를 줄인다고 주장했지만, 그 둘을 연관시킬 확실한 근거는 제시하지 못했다."
+}

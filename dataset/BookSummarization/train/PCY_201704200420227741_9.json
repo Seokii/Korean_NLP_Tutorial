@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201704200420227741_9",
+  "metadata": {
+    "doc_id": "PCY_201704200420227741",
+    "doc_type": "도서",
+    "doc_name": "초고령사회 대응을 위한 치매의 사회적 부담과 예방 및 관리 방안",
+    "author": null,
+    "publisher": "한국보건사회연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "둘째, 마르코프 시뮬레이션 모형은 크게 결정적 코호트 시뮬레이션(deterministic cohort simulation)과 확률적 시뮬레이션(stochastic simulation) 모형으로 구분할 수 있는데, 본 분석에 활용한 모형은 결정적 코호트 시뮬레이션을 적용하였다. 어떤 가정을 제시하기 위해 고안된 몇 가지의 시나리오(예, 전형적인 가정 vs 극단적인 가정)나 변수값에 거의 변화가 없는 경우 deterministic model을 활용하기도 하며, 보건의료 인력 수요, 의사행태(physician behavior), 의료기술평가(medical technology assessment), 의료보험 정책(health insurance policy) 등의 영역에서 광범위하게 stochastic model이 활용되기도 한다. 본 분석에서 적용한 결정적 코호트 시뮬레이션 모형은 확률적 시뮬레이션 모형과 달리 모든 변수의 불확실성을 반영할 수 없다는 한계점이 있다. 따라서 향후 확률적 시뮬레이션 모형도 함께 설정하여 본 모형에서 설정된 가정을 보다 완화하면서 모형의 불확실성을 반영할 수 있는 모형도 분석이 필요하다.",
+  "summary": "본 분석에 적용한 코호트 시뮬레이션은 보건의료 인력 수요, 의사행태, 기술 평가와 보험 정책 영역에서 활용되며 향후 시뮬레이션 모형도 함께 설정하여 모형의 불확실성을 반영할 수 있는 모형 분석도 필요하다."
+}

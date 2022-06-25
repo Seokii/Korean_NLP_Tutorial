@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00120001841_24",
+  "metadata": {
+    "doc_id": "CNTS-00120001841",
+    "doc_type": "도서",
+    "doc_name": "국세",
+    "author": "임환수",
+    "publisher": "국세청",
+    "published_year": "2017",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": null,
+  "passage": "라이선시가 특허제품의 제조를 제3자에게 위탁할 권리에 관하여는 ‘have made’ 등의표현을 사용하여 이를 같은 조항에서 허락할 수 있겠지만, 제조위탁을 보다 명확히 표현하기 위하여 후술하는 바와 같이 제3자에 의한 제조위탁조항을 별도로 두는 것이 좋다. 이와는 반대로 제3자에 의한 제조위탁을 금지하는 경우라면 “The license granted hereunder does not include any right to make a third party manufacture the Licensed Products.”와 같은 문언을 추가하여 그 취지를 명확히 할 필요가 있다. 왜냐하면 미국이나 일본 등에서는 제3자에 의한 제조위탁은 계약에 특별한 약정이 없는 한 ‘make’, ‘sell’ 등의 문언에 포함되어 있다고 해석하기 때문이다.",
+  "summary": "라이선시가 특허제품의 제조를 제3차에게 위탁할 권리에 대해 'have made'를 사용할 수 있지만 제조위탁조항을 별도로 두어 명확히 표현하는 것이 좋다. 제조위탁을 금지하는 경우엔 그 취지를 명확히 해야 한다. "
+}

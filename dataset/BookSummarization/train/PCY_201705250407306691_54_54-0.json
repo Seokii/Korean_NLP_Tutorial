@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201705250407306691_54_54-0",
+  "metadata": {
+    "doc_id": "PCY_201705250407306691",
+    "doc_type": "도서",
+    "doc_name": "청아람 (2015년 10+11월호, Vol.74)",
+    "author": null,
+    "publisher": "방위사업청",
+    "published_year": "2015",
+    "kdc_label": "병무행정",
+    "kdc_code": "300"
+  },
+  "chapter": "제 3장 금융정보망의 운영/관리 제 1절 한국은행 금융결제망(BOK-Wire)",
+  "passage": "(3) 프랑스의 Paris Integrated System\n프랑스의 거액결제시스템은 총액결제방식인 TBF(Bank of France Transfer)와 차액결제방식인 SAGITTAIRE 두 종류가 있는데 TBF는 주로 금융기관 간의 일반자금이체에 이용되고 있는 반면 SAGITTAIRE는 국제거래 관련 프랑화 표시 은행 간 결제업무의 처리에 이용되어 왔다. 그러나 최근 프랑스 은행은 결제시스템 강화 차원에서 차액 결제시스템인 PNS(Paris Net Settlement)를 TBF와 연결하여 일중 몇 회라도 자동으로 유동성을 이동시킬 수 있도록 한 파리통합결제시스템(PIS ; Paris Integrated System)을 가동하였다. 또한 TBF를 증권결제시스템과 연결하여 실시간 증권/대금동시결제(DVP)를 실현하였다.",
+  "summary": "프랑스의 거액결제시스템은 TBF와 SAGITTAIRE가 있고 차액결제시스템인 PNS를 TBF와 연결하여 파리통합결제시스템을 가동했다. TBF와 증권결제시스템의 연결로 실시간 증권/대금동시결제가 가능하다."
+}

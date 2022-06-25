@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201707260510484661_40",
+  "metadata": {
+    "doc_id": "PCY_201707260510484661",
+    "doc_type": "도서",
+    "doc_name": "환자안전에 대한 현황 분석과 개선 방안",
+    "author": "서제희",
+    "publisher": "한국보건사회연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "PIP는 의료의 질(Quality Stream), 역량(Capacity Stream), 농어촌지지(Rural Support)의 세 가지 영역으로 구분되어 있으며 의료의 질 범주에는 Quality Prescribing Incentive(QPI), 천식 인센티브, 당뇨병 인센티브, 자궁암 검사 인센티브, 원주민 건강 관리 인센티브가 포함된다(Cashin&Chi, 2011, p.4). 이 중 QPI와 이외에 전자의무기록을 활용할 경우 주어지는 e-health 인센티브가 환자안전과 관련 있는 것으로 보인다. QPI는 안전한 약물 관리와 관련이 있으며 전자의무기록은 환자안전에 긍정적인 것으로 알려져 있다.",
+  "summary": "PIP는 의료의 질, 역량, 농어촌지지의 세 영역으로 구분되며 의료의 질은 QPI를 포함하는데, 이것이 환자안전과 관련성이 있다."
+}

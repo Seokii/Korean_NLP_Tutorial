@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201501260914052391_47",
+  "metadata": {
+    "doc_id": "PCY_201501260914052391",
+    "doc_type": "도서",
+    "doc_name": "2014년 12월호(Vol.7, No.2): 위성 기술과 활용",
+    "author": null,
+    "publisher": "기상청",
+    "published_year": null,
+    "kdc_label": "기타",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "2005년 제12회 APRSAF (Asia-Pacific Regional Space Agency Forum)에서 위성을 활용한 아시아·태평양지역의 재해관리 프로젝트인 Sentinel Asia가 착수되어 일본 JAXA (Japan Aerospace Exploration Agency) 주도로 운영되고 있다. Sentinel Asia는 아·태지역에서 발생하는 재해관리를 위해 웹 GIS (Geographic Information System)를 기반으로 지구관측 위성자료를 활용하여 각종 재해에 대한 정보 공유 및 피해복구를 지원하기 위한 목적으로 설립되었다. 정보제공 및 공유를 위해 아·태지역의 지구관측 위성 운용기관 (일본 JAXA, 말레이시아 MACRES, 태국 GISTDA, 싱가폴 CRISP 등)을 정보 노드(Information Node)로 지정하고 광역 범위의 인터넷망을 기반으로 각 노드를 연결하기 위해 초고속 인터넷 통신용 위성인 WINDS (Wideband Inter Networking engineering test and Demonstration Satellite)를 활용하고 있다. 특히 아시아재해저감센터(Asian Disaster Reduction Center, ADRC)는 Sentinel Asia 네트워크의 포털 기관으로 각 노드에서 생산 및 제공되는 재해관련 지구관측 위성자료를 종합적으로 제공하는 역할을 담당하고 있으며, 각 회원국의 재해 담당기관 뿐만 아니라 일반 사용자도 웹을 통해 접속하여 재해정보를 무상으로 수집할 수 있다. 2013년부터 Sentinel Asia 3단계가 착수되었으며, 주요 목표는 전체 재해관리 프로세스 주기 중에서 재해 대비 및 복구 측면에서 위성자료의 활용을 확대하는 것이다. 이를 기반으로 ALOS-2, 3와 같은 신규 위성으로부터 수집되는 위성자료를 통해 산출되는 정보의 정확도를 높이는 것과 전반적인 운영상의 효율성을 도모하여 실제 재해분야 지원에 극대화를 목표하고 있다.",
+  "summary": "APRSAF에서 위성을 이용한 아시아·태평양 지역 재해관리 프로젝트가 시작되어 일본 JAXA 주도로 운영된다. 이는 GIS를 중심으로 위성 지구관측 자료로 각종 재해에 대한 정보의 공유와 피해복구를 한다. 아시아재해 저감센터는 이 네트워크의 포털로서 위성자료를 총괄하여 제공한다. 위성자료의 수집을 통해 정확도를 높이고 운영상 효율성을 꾀하여 재해분야 지원에 최선을 다하고 있다."
+}

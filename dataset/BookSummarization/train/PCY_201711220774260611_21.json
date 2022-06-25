@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220774260611_21",
+  "metadata": {
+    "doc_id": "PCY_201711220774260611",
+    "doc_type": "도서",
+    "doc_name": "수면호흡장애 진단을 위한 수면다원검사의 평가",
+    "author": "신상진",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2012",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "개념적으로 수면 중 적어도 2번의 호흡주기(Respiratory cycles)동안 호흡기류의 중단(Airflow cessation)이 있어야 수면 무호흡 발생(평균적으로 환기 중 10초 이상 중단되는 경우)이라고 한다. 조작적 정의(Operational definition)에서는 비구강 호흡기류(Airflow channel)의 peak-to-trough 진폭이 10초(또는 그 이상) 동안 90% 감소(또는 그 이상)되는 것이 증상발생기간의 최소 90%이상 지속되는 것으로 한다. 중추성, 폐쇄성, 혼합성의 무호흡 에피소드 분류는 호흡기류(Airflow)가 멈춘 시간동안 호흡능(Respiratory effort)이 없는지, 꾸준하게 지속되는지, 혹은 부분적으로만 있는지에 따라 이루어진다. 엄격한 의미에서 저호흡(Hypopnea)은 단지 얕은 호흡(Shallow breath)이지만 저호흡(Hypopnea)이 산소불포화(Oxygen desaturation) 혹은 중추신경계통 각성(CNS arousal)을 유발하면, 이는 수면(Sleep), 각성(Wakefulness), 건강에 악영향을 줄 수 있다. 전통적으로 수면전문가는 저호흡(Hypopnea)을 산소불포화(Oxygen desaturation), 중추신경계통 각성(CNS arousal) 혹은 둘 다와 관련된 얕은 호흡(Shallow breath)으로 정의하였다. 하지만 CMS는 혈중 산소불포화(Blood oxygen concentration)에서의 유의한 감소(≥4%)와 관련된 사건만을 포함하는 것으로 정의를 분리하였다. 이러한 변화는 좋은 폐기능과 빠른 각성 반사(Brisk arousal reflexes)를 가진 환자들이 좀처럼 CMS의 기준을 충족할 정도로 포화도가 충분히 떨어지지(Desaturate) 않기 때문에 수면호흡장애를 확인하는 AHI의 능력(Capability)을 감소시켰다.",
+  "summary": "수면 무호흡은 최소 2번의 호흡주기 간 호흡기류의 중단이 생기는 것이며, 조작적 정의에서는 비구강 호흡기류가 10초간 90% 감소하는 현상이 기간 내 90% 이상 지속되는 것을 의미한다. 저호흡은 전문가에 의하면 산소불포화나 중추신경계통의 각성을 유발하는 얕은 호흡으로 정의되며 수면과 건강에 악영향을 미친다. CMS는 혈중 산소불포화의 유의한 감소와 관련되는데, 이러한 경우는 환자들이 잘 겪지 않아 수면호흡장애의 확인에는 적절하지 않다. "
+}

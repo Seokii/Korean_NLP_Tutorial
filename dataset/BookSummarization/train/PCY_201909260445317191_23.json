@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201909260445317191_23",
+  "metadata": {
+    "doc_id": "PCY_201909260445317191",
+    "doc_type": "도서",
+    "doc_name": "미국 EERS의 고효율기기 인센티브 보급대상 및 산정방안에 관한 연구",
+    "author": "석주헌",
+    "publisher": "에너지경제연구원",
+    "published_year": "2019",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Austin Energy는 고효율 변압기(High-efficiency Transformers) 또는 고조파 감쇄 변압기(Harmonic-canceling Transformers)를 구매한 기업에게 리베이트를 제공하고 있다. 리베이트 금액 산정 시, 변압기 정격부하의 35%를 기준으로 한다. 절감 전력은 베이스라인 기간 동안의 효율성과 새로운 고효율 변압기로 교체했을 시의 효율성을 비교하여 산정되며, 전기 절감량(kW) 당 300달러가 제공된다. 리베이트 신청 시 NEMA TP-1-2002에 따른 입증 결과를 보여주는 ’변압기 성능 데이터(Transformer Performance Data)’ 시트를 함께 제출해야 한다.",
+  "summary": "Austin Energy는 고효율 변압기 또는 고조파 감쇄 변압기 구매 기업에  ’변압기 성능 데이터’ 시트를 함께 제출 시 리베이트를 제공했다. "
+}

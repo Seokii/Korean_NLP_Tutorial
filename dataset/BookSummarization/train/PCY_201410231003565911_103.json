@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201410231003565911_103",
+  "metadata": {
+    "doc_id": "PCY_201410231003565911",
+    "doc_type": "도서",
+    "doc_name": "국제 학습성과 지표 개발을 위한 학습성과 명세화 및 국제 비교 방안 탐색",
+    "author": null,
+    "publisher": "한국교육과정평가원",
+    "published_year": null,
+    "kdc_label": "교육일반",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "SACMEQ에서는 6학년 학생들을 대상으로 읽기(영어)와 수학 능력을 평가한다. 읽기에서는 축어적 회상(verbatim recall), 개념의 재구성(paraphrase concept), 주제 찾기(findmain idea), 추론하기(infer from text), 정보 찾기(locate information), 탐색과 처리(locateand process), 규칙 적용하기(apply rules)의 7가지 읽기 능력을 평가한다. 수학에서는 수,측정, 공간과 자료 영역을 평가하며, 수 영역은 연산과 수직선, 제곱근, 반올림 등의 세부내용을 포함하며, 측정은 거리, 길이, 넓이 등의 측정을 공간자료는 기하학적 도형, 도표, 표 등을 포함한다.",
+  "summary": "SACMEQ에서는 6학년 학생들 대상으로 영어 읽기와 수학능력을 평가하는데  읽기에서는 7가지 능력을, 수학에서는 수, 측정, 공간과 자료 영역을 평가한다."
+}

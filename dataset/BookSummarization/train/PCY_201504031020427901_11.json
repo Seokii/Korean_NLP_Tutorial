@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504031020427901_11",
+  "metadata": {
+    "doc_id": "PCY_201504031020427901",
+    "doc_type": "도서",
+    "doc_name": "공간 빅데이터를 활용한 국토도시 정책방안 연구",
+    "author": null,
+    "publisher": "국토연구원",
+    "published_year": null,
+    "kdc_label": "일반행정",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "김대종‧윤서연(2013)은 위치나 지명과 같은 정보를 결합하여 새로운 형태의 정보로 가공 가능한 빅데이터를 공간 빅데이터라고 정의하였으며, 김용승 외(2013)는 이러한 공간 빅데이터는 수치지도, 공공시설물DB, 지하시설물DB, 부동산DB, 센서정보, 이동객체 정보, 재난재해 정보, 위치기반 SNS정보, 사용자 참여형 공간정보(volunteered geographic information) 등 다양한 종류의 정형(structured), 반정형(semi-structured), 비정형(unstructured) 데이터가 포함되는 것으로 파악하였다.",
+  "summary": "위치, 지명과 같은 정보가  결합하여 새롭게 가공되는 빅데이터를 공간빅데이터라고 정의하거나 정형, 반정형, 비정형의 데이터가 포함되는 것으로 파악할 수 있다."
+}

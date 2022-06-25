@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201501090909516861_32",
+  "metadata": {
+    "doc_id": "PCY_201501090909516861",
+    "doc_type": "도서",
+    "doc_name": "잔류동물용의약품 분석법 실무 해설서",
+    "author": null,
+    "publisher": "식품의약품안전처",
+    "published_year": null,
+    "kdc_label": "식품의약안전",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "용매효율 (solvent efficiency)은 고정상에 대한 화합물들의 상이한 상호작용 정도를 의미한다. 예를 들어 동일한 증기압을 나타내는 두 화합물이 있을 때 고정상을 무시한다면 두 화합물의 분리는 불가능하다. 그러나 이 경우, 두 물질의 극성이 상이하고, 고정상을 새로운 인자로 고려하면, 고정상과 개별 물질의 친화력 차이에 기반한 분리가 가능하게 된다. 따라서 분석 대상성분의 특성을 고려하여 최적의 liquid phase를 선택하고 이동상의 유속을 조절함으로써 화합물간 최고의 분리능을 얻을 수 있다. 용매효율을 최대화하기 위한 liquid phase의 가장 일반적인 선택 원리는 대상 화합물의 극성에 맞추어 극성 화합물-극성 liquid phase, 비극성 화합물-비극성 liquid phase로 조합하는 것이다. 이 경우 대상 화합물의 머무름 시간이 지연되므로 간섭성분과의 분리 가능성이 높아진다. 또한 분석성분의 작용기별 상세한 분리특성을 최적화하기 위해서는 liquid phase별로 알려진 McReynolds constant를 이용하는 것이 바람직하다. McReynolds constant는 squalene를 기준 liquid phase로 하여 각각의 liquid phase 특성을 머무름 지표에 따라 수치화 한 것으로 작용기별 표준 화합물은 benzene, 1-butanol, 2-pentanone, 1-nitropropane 및 pyridine이다. 분석 대상 화합물에 포함된 작용기를 감안하고 간섭성분들의 특성을 추정하면 최대분리가 가능한 liquid phase를 선택하는 것이 가능하다.",
+  "summary": "용매효울은 고정상에 대한 화합물의 상호작용 정도를 뜻하며, 분석 대상성분이 어떤 특성인지를 고려해 최적인 liquid phase를 골라 이동상 유속을 조절해 최고 분리능을 얻을 수 있을 것이다. "
+}

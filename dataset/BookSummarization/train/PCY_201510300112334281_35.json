@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201510300112334281_35",
+  "metadata": {
+    "doc_id": "PCY_201510300112334281",
+    "doc_type": "도서",
+    "doc_name": "KDI Journal of Economic Policy=韓國開發硏究",
+    "author": null,
+    "publisher": "한국개발연구원\t",
+    "published_year": "2015",
+    "kdc_label": "금융",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "한편, 보다 최근에는 이러한 정보 불완전성 모형을 보다 일반적인 DSGE(Dynamic Stochastic General Equilibrium) 모형에 도입한 후, 정보 불완전성이 통화정책에 미치는 효과 등 다양한 이슈에 대한 분석이 시도되고 있다. 먼저 Ball, Mankiw, and Reis(2005)는 Mankiw and Reis(2002) 모형을 비교적 단순한 DSGE 모형에 도입한 후, 정보의 불완전성이 존재할 경우에는 통상의 경우와는 달리 물가 수준(price level) 타깃 팅이 최적통화정책임을 밝혔으며, Branch et al.(2009)은 Mankiw and Reis(2002)의 모형을 정보경직성을 내생화하는 방식으로 변형할 경우, 통화정책의 기조 변화에 따라 민간 경제주체들의 정보경직성의 정도도 달라지면서, 물가와 총산출 사이의 상충관계가 더욱 복잡해질 수 있음을 보인 바 있다. 한편, Woodford(2002)와 Lorenzoni(2009)는 Sims(2003)의 모형을 일반적인 DSGE 모형에 도입한 시도라고 할 수 있는데, 전자는 경제주체가 접하는 신호에 내재한 교란요소의 충격만으로도 경기변동이 발생할 수 있음을 보인 반면, 후자는 기대 형성에 합리적 부주의가 존재할 경우 명목충격의 효과가 훨씬 크고 지속적일 수 있다는 분석 결과를 보고하고 있다.",
+  "summary": "Mankiw and Reis(2002) 모형을 DSGE 모형에 도입하고 정보 불완전성이 있을 때 통상의 경우와는 달리 물가 수준 타깃팅이 최적통화정책임을 밝힌 Ball, Mankiw, and Reis(2005) 등 최근, 정보 불완전성이 통화정책에 주는 효과 등의 이슈에 대해 정보 불완전성 모형을 DSGE 모형에 도입한 후의 분석 시도가 이뤄지고 있다."
+}

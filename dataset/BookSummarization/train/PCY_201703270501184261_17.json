@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703270501184261_17",
+  "metadata": {
+    "doc_id": "PCY_201703270501184261",
+    "doc_type": "도서",
+    "doc_name": "국가도로망의 효율성 평가지표 개발 및 운영방안",
+    "author": null,
+    "publisher": "한국교통연구원",
+    "published_year": "2016",
+    "kdc_label": "도로",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "방법론의 측면에서는 교통 시스템의 전반적인 효율성 평가를 내용적 범위로 하여 대부분의 선행 연구에서 자료포락분석을 주요 분석 방법론으로 적용하였다. Barnum et al.(2007), Sampaio et al(2008), Agarwal(2009), Kliestik(2009), Michaelides et al.(2009) 등은 교통 부문의 효율성 평가를 위해 자료포락분석 기법을 적용하였다. 일부 선행 연구에서는 자료포락분석과 확률적 프론티어 분석 기법을 동시에 적용하여 교통부문 효율성을 평가하고자 시도하였다(Lan and Lin(2003), Michaelides et al.(2009), Margari et al.(2007)).",
+  "summary": "교통 시스템의 효율성 평가에서 대부분의 학자들은 자료포락분석을 적용했으며 일부는 확률적 프론티어 분석 기법을 함께 사용하기도 했다."
+}

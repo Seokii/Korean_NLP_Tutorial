@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201702210418132651_52",
+  "metadata": {
+    "doc_id": "PCY_201702210418132651",
+    "doc_type": "도서",
+    "doc_name": "교통환경정책 수립을 위한 대기환경 개선효과 추정방안 연구 : 도로이동오염원을 중심으로",
+    "author": null,
+    "publisher": "한국환경정책·평가연구원",
+    "published_year": "2016",
+    "kdc_label": "대기",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "AERMOD는 2006년 미국 기상 학회(AMS: American Meteorological Society)와 EPA에서 공동으로 개발하고 배포한 모형으로 정상상태의 가우시안 플럼 모형 기반의 대기확산모형이다. AERMOD는 기존에 활용되었던 ISCST3 모형을 대체하기 위한 EPA의 규제모형(regulatory model)으로 주로 50km 미만의 단거리 확산 분석에 적용되고 있으며, 점 오염원과 면 오염원에 대한 분석도 가능하다. AERMOD는 기상자료 분석을 위한 AERMET와 지형자료 분석을 위한 AERMAP의 전처리 프로세스(pre-process)와 대기확산 분석을 위한 주 프로그램인 AERMOD로 구성된다. AERMOD 분석 시 대기오염물질의 배출량은 오염원 유형에 따라 입력단위를 변환해야 하며, 기본적으로 설정된 배출량 단위는 점 오염원과 선 오염원의 경우 g/sec, 면 오염원의 경우 g/sec/m2이다. 또한 대기질 농도 결과는 μg/m3의 단위로 표출되며 CO, NOX, SO2, PM10, TSP 등의 오염물질에 대한 분석이 가능하다.",
+  "summary": "AERMOD는 정상상태 가우시안 플럼 모형 기반 대기확산모형으로, 주로 단거리 확산 분석에 적용되고 점이나 면 오염원 분석도 가능하고, 기상자료 분석 AERMET와 전처리 프로세스 AERMAP, 주 프로그램인 AERMOD로 구성된다."
+}

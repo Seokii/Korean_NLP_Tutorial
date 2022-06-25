@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201707260510484661_26",
+  "metadata": {
+    "doc_id": "PCY_201707260510484661",
+    "doc_type": "도서",
+    "doc_name": "환자안전에 대한 현황 분석과 개선 방안",
+    "author": "서제희",
+    "publisher": "한국보건사회연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "환자안전법(Patient Safety & Quality Improvement Act)에 따라 기밀성이 보장되는 자발적 보고체계가 운영되고 있다. 주마다 있는 환자 안전기구(PSO)에서는 공통보고양식(Common Format)으로 사건, 근접 오류, 불안전 상황에 대한 정보를 수집하며, 환자안전데이터베이스(NPSD)에 등록한다. 데이터베이스 등록 시 개인 정보 보호를 위해 AHRQ에서 환자안전기구 개인정보보호센터(Patient Safety Organization Privacy Protection Center, PSOPPC)를 설립하여 환자안전기구(PSO)가 보고받은 환자안전 정보를 개인 식별이 불가능하도록 변환하는 과정에 기술적인 지원을 하고, NPSD에 제출하는 환자안전사건 양식에 대하여 교육을 하는 등 환자안전기구(PSO)의 활동을 지원하도록 하였다.",
+  "summary": "환자안전법에 따라 기밀성이 보장되는 자발적 보고체계가 운영중이다. PSO는 정보를 수집해 NSPD에 등록한다. AHRQ는 PSOPPC를 설립하여 정보의 보안화에 기술적인 지원을 하고 환자안전사건 양식에 대하여 교육을 하고 있다."
+}

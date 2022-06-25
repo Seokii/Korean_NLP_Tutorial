@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201509210423009681_73",
+  "metadata": {
+    "doc_id": "PCY_201509210423009681",
+    "doc_type": "도서",
+    "doc_name": "에너지저장시스템(ESS) 수요관리 효과 분석 및 시장조성 방안 연구",
+    "author": null,
+    "publisher": "에너지경제연구원\t",
+    "published_year": null,
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "연간 운영유지비용(operation and maintenance cost per year)은 매년 고정, 또는 가변적으로 발생하는 비용으로써 연간 유지보수 비용을 대표적으로 들 수 있다. 연간 운영유지비용에는 대체비용(replacement cost)도 포함한다. 배터리의 수명이 다되면 효율이 떨어지고 운영할 수 없기 때문에 교체해야 하는데, 이때 들어가는 교체비용도 포함되어야 한다. 에너지저장시스템의 연간 운영비와 관련하여 미국의 EPRI는 “Electricity Energy Storage Technology Option, 2010” 보고서를 통하여 에너지저장시스템 장비 및 시설구축비용의 0.5% ~ 2.0% 수준을 제시하고 있다. IEA는 연간 운영비용에 대해 “Energy Technology Perspectives 2014” 보고서에서 설치비용의 3%를 제시하고 있다. 본 연구에서는 연간 운영유지비로 총 설치비용의 3%를 적용한다.",
+  "summary": "본 연구에 적용되는 연간 운영유지비는 설치비용의 3%이며 IEA나 ERPI 등 기준이 달라지는데, 대표적으로 연간 유지보수 비용이 있다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201505070933587551_6",
+  "metadata": {
+    "doc_id": "PCY_201505070933587551",
+    "doc_type": "도서",
+    "doc_name": "KATS 기술보고서 제71호(ISO TC 204의 스마트카 표준화 동향)",
+    "author": null,
+    "publisher": "국가기술표준원",
+    "published_year": null,
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "EU에서는 1987년부터 1995년까지 749백만 유로를 투자한 PROMETHEUS 프로젝트를 진행하였다. 1980년대 뮌헨 대학의 Ernst Dickmanns 교수는 Daimler-Benz와 공동연구를 통해 VaMP와 VITA-2를 개발해서 파리에서 다중 차선의 고속도로를 수천 km를 최고 시속 130km/h로 주행하였고, 일반차선에서 군집주행과 좌우차선변경 등을 다른 자율주행자동차와 수행하였다. 1995년에는 Mecedes-Benz S Class 차량을 이용해서 뮌헨에서 코펜하겐까지 왕복으로 약 1,600km를 운전자 모니터링용 Saccadic 비전 센서와 Transputer라고 하는 병렬연산 CPU를 이용한 실시간 제어를 이용해 주행했으며 독일 아우토반에서는 175km/h까지 주행했고, 운전자의 개입 없이 최대 158km까지 주행한 바 있다.",
+  "summary": "유럽은 1987년부터 1995년까지 독일의 Ernst Dickmanns 교수의 진두지휘 하에 PROMETHEUS 프로젝트를 진행하여  자율주행자동차기술을 발전시켰다."
+}

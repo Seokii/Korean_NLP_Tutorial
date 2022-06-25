@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220685038251_35",
+  "metadata": {
+    "doc_id": "PCY_201711220685038251",
+    "doc_type": "도서",
+    "doc_name": "환자안전체계 구축 기반연구",
+    "author": "김수경, 이상일",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "덴마크는 2004년 보건의료체계의 환자안전법(Act on Patient Safety in the Danish Health Care System) 제정을 기반으로 이전까지 전문가의 자발적 논의를 중심으로 이루어져 오던 환자안전 위해 사건(adverse event)에 대한 국가적 보고체계를 확립하였다. 환자안전법은 국가보건위원회(National Board of Health)에 보고체계 확립의 의무를 부여하였는데, 보고된 위해사건의 위해 정도에 따라 병원 내에서부터 국립환자권익기구(National Agency for Patients' Right and Complaints, 이하 NAPRC)에 이르기까지 자료 분석의 의무를 부여하여 보고된 위해사건 자료의 유용성을 높였다. 분석된 위해사건 자료의 경우 공적 이익을 위한 공개를 원칙으로 하지만, 보고된 위해사건의 보고자, 당사자 및 관련 의료인에 대한 익명성을 보장하고 있다.",
+  "summary": "2004년 덴마크는 국가보건위원회에 보고체계 확립의 의무를 부여하는 환자안전법을 제정하였다. 이를 기반으로 환자안전 위해사건에 대해 공개가 원칙이지만 보고자, 당자자, 의료자는 익명성을 보장한다는 국가적 보고체계를 확립했다."
+}

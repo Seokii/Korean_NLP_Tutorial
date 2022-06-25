@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201506290910056371_12",
+  "metadata": {
+    "doc_id": "PCY_201506290910056371",
+    "doc_type": "도서",
+    "doc_name": "유전자치료제 순도시험법 시험정보집",
+    "author": null,
+    "publisher": "식품의약품안전처",
+    "published_year": null,
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Naked/Plasmid DNA는 E. coli를 숙주로 하여 생산하였다. 따라서, 숙주유래 DNA 분석을 위하여 사용되는 숙주인 E. coli의 DNA 중 유전적으로 안정하여 잘 보존된 23S rRNA의 7 copy 유전자를 타깃으로 하여 증폭하였다. E. coli 로부터 얻은 DNA를 연속적으로 희석한 시료를 이용하여 표준곡선을 구하고, 검체내 숙주유래 DNA 양을 정량한다. 증폭에 이용되는 Forward(F)/Reverse(R) 프라이머는 다음과 같고, 증폭된 유전자 증폭 산물은 SYBR Green dye를 이용하여 확인하였다.",
+  "summary": "숙주유래 DNA 분석을 위해 E coli의 DNA를 중 잘 보존된 7copy 유전자를 타깃으로 증폭했다. "
+}

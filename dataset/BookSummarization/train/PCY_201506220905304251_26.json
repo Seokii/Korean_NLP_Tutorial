@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201506220905304251_26",
+  "metadata": {
+    "doc_id": "PCY_201506220905304251",
+    "doc_type": "도서",
+    "doc_name": "발명의 컴퓨터 구현 보호체계 합리화를 위한 특허제도 개선방안 연구",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "2010년, 미국 대법원은 Bilski 판결을 통해 선물 상거래(commodities trading)의 위험을 헤지(hedge)시키는 방법은 추상적 아이디어로서 특허대상이 될 수 없다는 결론을 내린다. 대법원은 Bilski 청구항의 금융 리스크 관리 방법을 앞의Benson, Flook, Diehr 판결과 비교했을 때, Bilski 청구항은 Benson에서 제기되었던 선점적 효과의 문제가 존재하였고, 청구항 내의 단계들은 Flook에서 지적되었던 관습적이거나 자명한 사후처리 활동(post-solution activity)에 불과하다고 보았다. 결국 대법원은 Bilski 청구항을 추상적 아이디어에 대해 특허권을 획득하려는 행위로 판단하여 제101조의 특허대상이 아니라는 결론을 내린다. 이러한 결론은 CAFC의 엄격한 ‘기구-또는-변환’ 테스트 또는 다른 공식적 기준을 통해 도출된 것이 아니라, 순순하게 ‘자연법칙(laws of nature), 자연적 현상(physical phenomena), 그리고 추상적 아이디어(abstract ideas)’라는 특허 예외 대상을 확립 시킨 Benson, Flook, Diehr 판결을 통해서만이 도출되었다.",
+  "summary": "2010년 미국 대법원은 Bilski의 선물상거래의 리스크관리법에 대한 청구항에 대해 선점효과의 문제를 동반한 관습적이고 자명한 사후처리활동으로서 추상적 아이디어로 보아 101조의 특허대상이 아니라고 하였다. 다만 이는 기존의 CAFC의 기준을 따라서가 아니라 이전의 다른 판결을 기초로 한 것이다."
+}

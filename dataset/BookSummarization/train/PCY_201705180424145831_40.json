@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201705180424145831_40",
+  "metadata": {
+    "doc_id": "PCY_201705180424145831",
+    "doc_type": "도서",
+    "doc_name": "에너지효율향상 R&D 투자효과 분석 및 정책방향 연구",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Garrone and Grilli(2010)는 관측되지 않는 국가 고유의 특성을 고려한 동적 패널 모형(Dynamic Panel Model)을 설정하고 정부의 에너지 R&D 지출이 탄소배출원단위, 에너지원단위 및 탄소배출계수에 미치는 영향을 분석하였다. 그들은 탄소배출원단위, 에너지원단위 및 탄소배출계수가 직전년도 값의 영향을 받는다고 가정하고 Arellano andBond(1991)의 1계 차분 GMM 추정방법(Diff-GMM)과 Kiviet(1995,1999), Bun and Kiviet(2003) 등이 제안한 수정최소자승더비변수추정법(corrected LSDV estimation)을 이용한 추정결과를 상호 비교 제시하였다.",
+  "summary": "Garrone and Grilli는 정부의 에너지 R&D 지출이 탄소배출원단위, 에너지원단위 및 탄소배출계수에 미치는 영향을 분석했다."
+}

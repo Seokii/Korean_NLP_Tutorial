@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201501090909516861_29",
+  "metadata": {
+    "doc_id": "PCY_201501090909516861",
+    "doc_type": "도서",
+    "doc_name": "잔류동물용의약품 분석법 실무 해설서",
+    "author": null,
+    "publisher": "식품의약품안전처",
+    "published_year": null,
+    "kdc_label": "식품의약안전",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "QuEChERS (Quick, Easy, Cheap, Effective, Rugged and Safe) 법은 일종의 기계적 진탕 추출법, LLE 정제법, dSPE 정제법의 복합체이다. 시료 중 분석 대상 성분의 추출 용매로는 acetonitrile을 이용하는데, 여기에 다량의 NaCl, MgSO4 등의 염을 첨가하여, 고농도의 염과 극성 방해물질을 포함하는 수층과 분석 대상 성분을 포함하는 acetonitrile 층의 분리를 유도한다. 이렇게 취해진 acetonitirle 층에는 유지등의 비극성 방해물질이 분석 대상 물질과 공존하므로, C18 dSPE에 적용시켜, 이들을 정제 제거 시킨다. 시료 및 분석 대상 성분에 따라서 QuEChERS 법의 변형도 고려해 볼 수 있는데, 추출 및 LLE 시 액성 조정을 위해 acetate buffer를 사용한 경우 (AOAC Official 2007. 01 법)와 citrate buffer를 사용한 경우 (prEN 15662법)가 그 대표적 예이다. QuEChERS 법은 분석방법이 간단하고 개발이 쉬운 장점을 가지고 있어 여러 가지 시료를 대상으로 전 세계적으로 연구되고 있으나, 기존 분석법에 비하여 적은 시료량을 사용하고, 상대적으로 불순물을 많이 가지고 있기 때문에 다운스트림 분석에 비교적 고감도 기기 (예: LC-MS/MS) 를 이용하여야 하는 단점이 있다.",
+  "summary": "QuEChERS 법은 일종의 기계적 진탕 추출법인데, 분석 대상 성분에 따라서 변형도 될 수 있고, 개발이 쉬운 장점이 있어 전 세계적으로 연구되고 있다. 그러나 적은 시료량과 불순물로 인해 고감도 기기를 이용해야 한다. "
+}

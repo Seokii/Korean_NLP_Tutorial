@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220600459971_20",
+  "metadata": {
+    "doc_id": "PCY_201711220600459971",
+    "doc_type": "도서",
+    "doc_name": "의료기술 관점에서 방사선치료장비의 안전하고 효율적 사용방안",
+    "author": "김민정",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2013",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "미국에서 방사선치료장비를 포함한 의료기기의 인허가는 연방법인「Federal Food, Drug, and Cosmetic Act(이하 FD&C법)」하에 미국 Food and Drug Administration(FDA)가 관장한다(표 4-11).「FD&C법」을 이행하기 위해 FDA는 관련 규정을 제정·공포하며, 최종적인 규정은 연방법규집(CFR)을 통하여 해마다 법규화되고 있다. 대부분의 의료기기 관련 규정은 Title 21 Code of Federal Regulations Part 800-1200(21 CFR Parts 800-1299)을 따른다. 의료기기의 허가 관할 부서는 FDA의 CDRH(Center for Devices and Radiological Health)로 의료기기의 시판전허가(PMA), 제품개발프로토콜(PDPs), 임상시험 의료기기의 적용면제(IDEs), 시판전신고(510(K)) 등에 대한 심사 및 평가를 담당한다. CDRH는 의료 및 비의료 목적의 방사선발생전자제품 (radiation-emitting electronic products)에 대한 관리도 담당한다.",
+  "summary": "미국의 의료기기 인허가는 FDA가 관장하며, CFR을 통해 해마다 법규화한다. 의료기기 허가 관할 부서는 CDRH가 심사 및 평가를 담당한다. "
+}

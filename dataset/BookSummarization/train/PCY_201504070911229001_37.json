@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504070911229001_37",
+  "metadata": {
+    "doc_id": "PCY_201504070911229001",
+    "doc_type": "도서",
+    "doc_name": "5G 이동통신 분야 표준문서 검색 가이드",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "TD 문서 중 일부는 회의 전에 철회(withdrawn)될 수 있는데, 철회된 문서는 더 이상 논의를 하지 않으며 ftp 서버에서도 문서에 대한 기록이 남아 있지 않다. 논의된 문서 중 단지 정보 제공만을 목적으로 하는 문서(noted)나 합의가 되지 않아 거절(rejected)된 문서는 더 이상 진행되지 않으며, 채택하기로 합의(approved)된 문서만이 plenary 회의에 상정된다. Plenary 회의에서 해당 TD 문헌이 최종 승인(approved)되면, 새로운 TR 혹은 TS 문서로 만들어진다. TR 혹은 TS 문서에 대하여 수정이 필요한 경우에는 다음에 개최되는 WG 회의에 새로운 TD 문서들을 제출하여야 한다.",
+  "summary": "TD 문서의 일부는 회의 전에 철회될 수 있고, 논의된 문서 중 채택합기로 합의한 문서만 plenary 회의에 상정된다. 회의에서 최종 승인된 TD문헌은 새로운 TR, TS 문서가 된다. "
+}

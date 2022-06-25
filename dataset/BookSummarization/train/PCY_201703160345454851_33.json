@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703160345454851_33",
+  "metadata": {
+    "doc_id": "PCY_201703160345454851",
+    "doc_type": "도서",
+    "doc_name": "2016년 보건복지통계정보 통합 관리 및 운영",
+    "author": null,
+    "publisher": "한국보건사회연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Boolean feature vector classification 방법은 각각의 문서에서 각 각의 단어가 사용되는 패턴을 사용하여 문서가 중요한 문서일 확률을 추 정하는 방법이다(Pazzani and Billsus, 1997; Friedman, 1997; McCallum and Nigam, 1998). 특정 문서에 특정 단어가 사용되면 1 그렇지 않으면 0으로 작성된 이진 데이터 행렬(Boolean design matrix)과, 각 문서가 중요하면 1 그렇지 않으면 0으로 작성된 이진 중요도 벡터(Boolean importance vector)를 데이터로 사용하며 이 데이터로 부터 아래의 Bayes 정리를 적용하여 중요도에 대한 조건부 확률을 추정 하는 방법이다.",
+  "summary": "Boolean feature vector classification 방법은 각 문서의 단어 사용 패턴으로 이진 데이터 행렬과 이진 중요도 벡터를 작성해 문서의 중요도를 확률적으로 추정하는 방법이다. "
+}

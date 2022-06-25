@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201806010458098701_54",
+  "metadata": {
+    "doc_id": "PCY_201806010458098701",
+    "doc_type": "도서",
+    "doc_name": "교통연구 (Journal of Transport Research), 제24권 제2호",
+    "author": null,
+    "publisher": "한국교통연구원",
+    "published_year": "2017",
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "대기오염지원시스템(CAPSS, Clean Air Policy Support System)과 REAS(Regional Emission inventory in ASia)의 NOx 배출 인벤토리를 비교 연구하는 차량의 주행거리(VKT)를 주요변수로 채택하고 있다(Kim et al., 2013). 스페인 마드리드 대상으로 NO2 오염도에 대한 모델링 연구에서도 도로교통에 의한 영향 정도가 높게는 90%까지 나타나는 것으로 분석되었다(Borge et al., 2014). CO와 NOx의 배출 인벤토리 구성을 위해서 MOVES(Motor Vehicle Emission Simulator) 프로그램이 2012년 이후 미국 환경청(USEPA)으로부터 권고되어 사용되고 있으며 도시지역단위의 오염도 모델에 다수 응용되고 있다(Wallace et al., 2012; Kota et al., 2014).",
+  "summary": "CAPSS 및 REAS의 NOx 배출 하는 비교 연구결과로는 도로교통에 의한 영향 정도가 높게는 90%까지 나타나는 것으로 분석되었다. 이러한 연구가 도시지역단위의 오염도 모델에 다수 응용되고 있다."
+}

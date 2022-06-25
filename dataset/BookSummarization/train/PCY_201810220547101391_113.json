@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201810220547101391_113",
+  "metadata": {
+    "doc_id": "PCY_201810220547101391",
+    "doc_type": "도서",
+    "doc_name": "4차 산업혁명 대응 법제 정비 연구 (Research on the Improvement of Legislative Systems in the Era of the 4th Industrial Revolution)",
+    "author": "조성은, 이원태, 이시직",
+    "publisher": "정보통신정책연구원,과학기술정보통신부,정보통신기술진흥센터",
+    "published_year": "2018",
+    "kdc_label": "과학기술연구",
+    "kdc_code": "500"
+  },
+  "chapter": "인공지능 SW 오작동 유형 분류 및 개발 시 고려사항",
+  "passage": "또한 인공지능 SW와 관련하여 Bob Friday는 인공지능 SW 속을 들여다보고 싶은 사람 이라면 반드시 알아야 할 4가지 기반 요소가 있다고 말하였다. 범주화(categorization), 분 류(Classification), 머신러닝(Machine Learning), 협업 필터링(Collaborative Filtering)이다. 범주화는 문제 영역, 즉 재무나 네트워킹 등의 영역에 특화된 기준을 생성하는 작업이고, 분류는 어떤 데이터가 문제를 해결하는 데 가장 연관성이 있는지를 결정한다. 머신러닝은 이상행위 탐지나 클러스터링, 딥러닝, 선형 회귀 등과 관련된 것이며, 협업 필터링은 대규 모 데이터 세트에 걸쳐 패턴을 찾는 작업과 관련되어 있다.",
+  "summary": "인공지능 SW를 제대로 이해하기 위해서는  4가지 요소를 알아야 한다. 이는 범주화, 분류, 머신러닝, 협업 필터링이다."
+}

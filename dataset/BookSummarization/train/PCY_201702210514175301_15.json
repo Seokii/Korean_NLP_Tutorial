@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201702210514175301_15",
+  "metadata": {
+    "doc_id": "PCY_201702210514175301",
+    "doc_type": "도서",
+    "doc_name": "미래 고온환경 변화와 직종 간 임금격차 추정",
+    "author": null,
+    "publisher": "한국환경정책·평가연구원",
+    "published_year": "2016",
+    "kdc_label": "고용노동",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "이러한 확장된 방법을 이용한 연구들 역시 다양하게 있다. Kim, Min, and Choi(2015)그리고 Pereira and Galego (2011)는 Juhn, Murphy, and Pierce 방법을 이용하여 지역의 노동 시장 차이에 따른 임금 차별적 요소를 시간에 따라 분석하였다. Piazzalunga(2015)는Blinder(1973)와 Oaxaca(1973)의 표준적인 방법을 확장하여 이중 부정 효과(Double Negative Effect)를 파악하였다. 인종과 성별에 대한 차별을 통합적인 회귀 모형(Pooled Regression Model)을 통하여 먼저 추정한 후, Blinder(1973)와 Oaxaca(1973)의 방법을 적용하였다. 그리고 Blinder(1973)와 Oaxaca(1973)의 분해를 다시 Shamsuddin(1998)의 분해를 하였는데, 이를 통하여 이중 부정 효과를 추정하였다. Shamsuddin(1998)의 분해 방법은 Blinder(1973)와 Oaxaca(1973)의 분해 결과를 다시 4가지로 구분하여 이중 차별(Double Discrimination)을 파악하는 방법이다.",
+  "summary": "지역의 노동 시장의 차이에 따른 임금 차별적 요소를 시간에 따라 분석하고 인종과 성별에 대한 찰별을 통합적 회귀 모형으로 추정한 후 이중 부정 효과로 다시 추정하였다."
+}

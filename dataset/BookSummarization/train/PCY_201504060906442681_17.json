@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504060906442681_17",
+  "metadata": {
+    "doc_id": "PCY_201504060906442681",
+    "doc_type": "도서",
+    "doc_name": "반도체설계재산유통가이드북",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "IP의 각 성능 파라미터에 대해서 Simulation과 Characterization 특성 비교를 Table 등을 통해 Summary하도록 한다. 각 성능 파라미터의 전기적 특성이 포함되어야 하며 이 때 Min / Typ / Max 값을 각각 기술할 필요가 있다. Characterization 결과는 보증하는 Spec의 범위와 다를 수 있으므로 이를 언급하도록 하고 기재된 값이 어느 정도 Sample 수량으로 측정된 값인지 기재하는 것이 좋다. IP의 특성에 따라 필요 시 Min / Typ / Max 값에 추가로 평균값(Average Value)과 표준편차를 기재해야 할 수도 있다.",
+  "summary": "IP의 각 성질에 대해 Simulation과 Characterization 특성 비교를 위한 Min / Typ / Max 값을 각기 적고 여러 상황을 산출하여 기재해야 한다. "
+}

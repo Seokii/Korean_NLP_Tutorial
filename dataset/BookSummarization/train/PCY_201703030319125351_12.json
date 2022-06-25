@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703030319125351_12",
+  "metadata": {
+    "doc_id": "PCY_201703030319125351",
+    "doc_type": "도서",
+    "doc_name": "영·미의 디지털 증거 압수·수색에 관한 소고",
+    "author": null,
+    "publisher": "대검찰청",
+    "published_year": "2014",
+    "kdc_label": "법무및검찰",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "미국은 범죄수사에 있어서 정보통신공간상의 디지털 증거를 확보하기 위하여 주로 두 법률로 규정 ･ 제한하고 있다. 최초에 Title III(Title III of the Omnibus Crime Control and Safe Streets Act of 1968)로 제정된 연방감청법(the federal Wiretap Act, 18 U.S.C. §§2510-2522)과 전자통신프라이버시법(Electronic Communication Privacy Act of 1986)의 일부로 제정된 Pen/Trap법(the Pen Registers and Trap and Trace Devices chapter of Title 18, 18 U.S.C. §§ 3121-3127)이 그것이다. Title III에서는 전기통신의 내용을 지득할 수 있는 감청명령을, 전자통신프라이버시법은 제출명령(subpoena), 법원명령(court order), 수색영장(search warrant) 제도 등을, Pen/Trap법은 네트워크상의 실시간 추척을 위하여 팬/트랩 명령(Pen/Trap order)을 각각 규정하여 입법적으로 해결하고 있다.",
+  "summary": "미국은 범죄수사에서 디지털 증거를 확보하기 위해 Title III은 감청명령을, 전자통신프라이버시법에서 제출명령, 법원명령, 수색영장 등을, Pen/Trap법은 네트워크 추적을 규정한다."
+}

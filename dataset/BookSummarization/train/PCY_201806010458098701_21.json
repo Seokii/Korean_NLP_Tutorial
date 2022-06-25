@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201806010458098701_21",
+  "metadata": {
+    "doc_id": "PCY_201806010458098701",
+    "doc_type": "도서",
+    "doc_name": "교통연구 (Journal of Transport Research), 제24권 제2호",
+    "author": null,
+    "publisher": "한국교통연구원",
+    "published_year": "2017",
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "하지만, 기존 모형에서는 fixed parameters를 적용함에 따라 도출된 계수에서 자료가 가질 수 있는 이질성(heterogeneity)1)이 고려되지 못하며, 이로 인하여 잠재적으로 편향된(biased) 계수값 도출 및 부정확한 추론(incorrect inference)이 발생할 수 있다(Washington et al., 2011). 즉, 사고발생에 대한 독립변수의 영향이 구간 및 지점별로 다양하게 존재할 수 있는 상황이 고려되지 못하고, 독립변수의 영향이 하나의 고정된(fixed, constant) 값으로 존재한다는 가정을 하고 있다. 이러한 이질성에 대한 고려는 사고발생에 미치는 영향이 구간 및 지점별로 다양할 수 있다는 전제로 접근하는, 즉 개별 구간 및 지점 별로 독립변수의 계수 값을 도출할 수 있는 random parameter를 적용함으로써 해결이 가능하며, 이는 선행 연구에서 증명이 된 바 있다(Milton et. al., 2008; Venkataraman et al., 2011; Park 2013; Lee et. al., 2014).",
+  "summary": "사고발생에 대한 독립변수의 영향은 다양하게 존재할 수 있다. 그러나 기존 모형에서는 이질성을 고려하지 않아 부정확한 결과가 나올 수 있다. 따라서 각각의 독립변수를 이끌어 낼 수 있는 random parameter를 적용해 이를 고려해야 한다."
+}

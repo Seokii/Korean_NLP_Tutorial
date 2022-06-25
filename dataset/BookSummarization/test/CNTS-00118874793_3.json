@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118874793_3",
+  "metadata": {
+    "doc_id": "CNTS-00118874793",
+    "doc_type": "도서",
+    "doc_name": "4차산업혁명과 데이터 경제 컨퍼런스",
+    "author": "정보통신정책연구원",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2018",
+    "kdc_label": "사회학, 사회문제",
+    "kdc_code": "330"
+  },
+  "chapter": null,
+  "passage": "데이터 소유권에 관한 논의는 일찍이 정보화시대의 개막과 함께 이루어지기 시작했다. 그러나 구체적인 개념과 쟁점을 처음으로 제시한 것은 2002년 로쉰(D. Loshin)의 논문이었다. 로쉰은 데이터 소유권을 정보의 지배(possession of information)와 정보에 대한 책임(responsibility for information)의 양면에서 정의하였다. 이러한 관점에서 데이터 소유권은 데이터에 대한 접근(access), 생성(create), 변형(modify), 구성(package), 사용 수익(derive benefit from), 양도(sell), 제거(remove), 그리고 이러한 권한의 수여(assign privileges) 등을 포함한다. 데이터 소유권은 그 후로도 데이터 관리에 있어서 핵심적인 의제가 되어 왔다. 예를 들어 EU의 데이터 경제 육성 정책에 있어서 데이터 소유권의 문제는 지속적으로 주요 이슈로 다루어지고 있다.",
+  "summary": "데이터 소유권의 개념을 최초로 제시한 로쉰은 이를 정보에 대한 지배와 책임의 차원에서 정의했으며, 그 이후 데이터 소유권이 데이터 관리의 핵심 의제가 되어 왔다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210300242051_52",
+  "metadata": {
+    "doc_id": "PCY_201610210300242051",
+    "doc_type": "도서",
+    "doc_name": "ICT발전의 산업별 전력수요 영향 분석",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "여기서는 산술평균 사용의 문제점을 극복하기 위해 Ang and Choi(1997)가 제안한 로그평균 디비지아 지수(Logarithmic Mean Divisia Index: LMDI)를 사용하여 에너지소비의 변화요인을 분석한다. LMDI는 변화량을 측정하는 방법에 따라 가법(Addictive) 분해와 승법(Multiplicative)분해로 구분된다. 가법 분해는 전체 변화를 변화량으로 분해한 것이고, 승법 분해는 전체 변화를 변화율로 분해한 것이다(김수이, 김현석, 2011). 아래는 가법적, 승법적 로그평균 디비지아 인덱스(log mean Divisia index; LMDI) 방법을 설명한다.",
+  "summary": "산술평균의 문제점을 극복하기 위해 로그평균 디비지아 지수를 사용하여 에너지소버의 변화요인을 분석한다. 가법분해, 승법분해로 구분되며 LMDI 변화량 측정 방법에 따라 구분된다."
+}

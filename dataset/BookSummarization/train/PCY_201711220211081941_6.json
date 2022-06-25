@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220211081941_6",
+  "metadata": {
+    "doc_id": "PCY_201711220211081941",
+    "doc_type": "도서",
+    "doc_name": "국내 일차 진료에서의 ICPC(International Classification of Primary Care) 분류법과 ICD(International Classification",
+    "author": "심재용, 안정훈",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "1985년에서 1998년까지 핀란드의 일차 진료 의사 절반 이상이 ICPC를 사용하게 한 후 시행한 설문연구에 따르면, ICPC는 일차 진료에서 치료 에피소드 95% 이상을 코딩할 수 있었던 반면, ICD-9은 50% 이하(진단)였다(Corrales 등, 2001). Stevanović R 등(2005)은 건강 보험, 건강 통계, 의료 정보학에서의 적용을 위하여 ICPC를 크로아티아의 보건 의료의 적용을 제안한 바 있다. Haller 등(2010)은 ICPC-2를 통한 스위스 청소년 구금센터에서 건강문제를 분석하여 포괄적인 일차 의료 서비스 개발에 필요한 건강문제를 제시하였다. Mariolis A1 등(2008)은 그리스에서 도시보건센터 도입 후 도시와 농촌의 일차 보건의료 서비스 이용에 유의한 차이가 있음을 ICPC-2를 이용하여 비교하였다.",
+  "summary": "핀란드에서 ICPC는 일차 진료 에피소드 95% 이상을 코딩할 수 있었던 반면 ICD-9은 50% 이하였다. 그리스에서는 도시보건센터 도입 후에 도농의 일차 보건의료 서비스 이용 차이가 ICPC-2로 비교되었다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201806010458098701_25",
+  "metadata": {
+    "doc_id": "PCY_201806010458098701",
+    "doc_type": "도서",
+    "doc_name": "교통연구 (Journal of Transport Research), 제24권 제2호",
+    "author": null,
+    "publisher": "한국교통연구원",
+    "published_year": "2017",
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "앞에서 소개된 tobit 모형은 fixed parameter를 적용한 모형으로 도출되는 독립변수의 계수값이 고정되어 대상 구간 및 지점이 가진 이질성을 고려할 수 없다는 단점이 있다. 즉, 대상 구간 및 지점에 관계없이 종속변수에 미치는 독립변수의 영향이 하나의 계수값으로 도출된다. 이를 해결하기 위해 random parameter를 tobit 모형에 적용시킴으로써 각 구간 및 지점이 가지고 있는 이질성을 도출할 수가 있다. 즉, 대상 구간 및 지점별로 종속변수에 미치는 독립변수의 계수값 도출이 가능하며, 이는 모의 최대 우도함수 산정 방법(simulated maximum likelihood estimation)을 이용하여 접근할 수가 있다(Green, 2007).",
+  "summary": "random parameter를 tobit 모형에 적용시키면 각 구간과 지점이 가진 이질성을 도출하는 것이 가능하여 fixed parameter를 적용했을 때의 단점이 사라진다. "
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201709190603204381_97",
+  "metadata": {
+    "doc_id": "PCY_201709190603204381",
+    "doc_type": "도서",
+    "doc_name": "에너지 포커스 : 2017 봄호",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2017",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Nissan은 미국에서는 전력관리 Start-up 기업인 Green Charge와 협력하여 Leaf 중고배터리를 활용한 상업시설의 전력관리 서비스도 개시했다. 사용자 측에 ESS를 무상설치해주고 전력비용 절감 중 일부를 수익으로 회수하는 방식이다. BMW도 스웨덴 발전기업 Vattenfall, 독일 Bosch와 공동으로 i3 배터리를 활용한 2MWh 규모의 ESS를 구축하고, Grid에 연계한 필드 테스트를 진행 중이다. 설비구축에 i3 100대분 이상의 배터리가 소요된다. BMW가 중고배터리를 공급하고, Bosch가 배터리가공 및 ESS 설비를 구축, Vattenfall이 ESS 설비를 운영하는 방식으로 역할을 분담했다.",
+  "summary": "Nissan과 Green Charge의 협력은 사용자가 ESS를 무상으로 설치해주고 수익을 걷는 방식이다. BMW와 Bosch, Vattenfall의 협력도 ESS와 관련되어 있다."
+}

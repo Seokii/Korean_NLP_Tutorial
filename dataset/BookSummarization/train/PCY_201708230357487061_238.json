@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201708230357487061_238",
+  "metadata": {
+    "doc_id": "PCY_201708230357487061",
+    "doc_type": "도서",
+    "doc_name": "환경정책 제24권 제4호 (2016년 12월)",
+    "author": null,
+    "publisher": "한국환경정책·평가연구원,한국환경정책학회",
+    "published_year": "2016",
+    "kdc_label": "환경일반",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "본 연구에서는 녹조 발생의 심미적 환경비용을 추정하기 위해 힉스적 후생 개념을 기반에 둔 효용격차모형을 적용한다. 이 때, CVM을 적용하며, 양분선택형 CVM(DC-CVM, dichotomous choice-CVM)모형을 통해 WTP를 추정한다. 일반적으로 WTP를 추정하기 위한 방법은 Hanemann(1984)이 제안한 효용격차 접근법(utility difference approach)과 Cameron and James(1987)가 제안한 WTP 함수 접근법으로 구분된다. 이 후, McConnell(1990)에 따르면 두 가지 추정 방법은 쌍대(duality)의 관계이기 때문에 둘 중 하나를 선택하는 것은 옳고 그름의 문제가 아닌 연구자가 선택할 몫이라고 지적하였다. 그렇지만 일반적인 실증연구에서는 WTP 함수 접근법보다 효용격차 접근법이 효용이론에 보다 부 합한다는 의견에 따라 효용격차 접근법이 좀 더 다양하게 활용되고 있다. 따라서 본 연구에서는 실증연구에서 가장 널리 사용되고 있는 Hanemann(1984)에 근거한 단일경계 양분선택모형(SBDC, single-bounded dichotomous choice)의 효용격차 접근법을 적용한다. 다음의 식 (1)은 단일경계 모형에 대한 명의 표본을 가정하여 번째 응답자의 응답결과를 로그-우도함수(log-likelihood function)로 표현한 것이다.",
+  "summary": "이 연구는 녹조 발생의 심미적 환경비용을 알기 위해 효용격차모형으로 확인하며 양분선택형 CVM모형으로 WTP를 추정하기로 한다. 또한 Hanemann의 단일경계 양분선택모형의 효용격차 접근법을 적용한다. "
+}

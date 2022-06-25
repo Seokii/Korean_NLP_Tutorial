@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220774260611_29",
+  "metadata": {
+    "doc_id": "PCY_201711220774260611",
+    "doc_type": "도서",
+    "doc_name": "수면호흡장애 진단을 위한 수면다원검사의 평가",
+    "author": "신상진",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2012",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "수면(Sleep)과 수면호흡(Sleep related breathing) 진단시 현재 추천되거나 표준적인 방법은 수면다원검사(Polysomonogram, PSG)이다. 수면다원검사를 통한 수면과 호흡의 측정에서 가능한 형태의 오류는 자료손실(Data loss), 인위결과(Artifact), 평가자간 및 평가자내 인식오류(Intra-rater, Inter-rater event recognition errors), 측정오류 (Measurement errors)이다. 수면다원검사가 표준적인 검사법으로 고려된 이후, 검사의 신뢰도(Reliability)와 기술적 정확성(Technical accuracy)은 일반적으로 받아들여지고 있다. 하지만 정확히 측정, 기록, 분석되었을 때도 수면다원검사로 측정된 지표에서 측정된 밤 간의 차이(Night-to-night variability)로 인해 환자를 잘못 분류할 수 있고, 다른 종류를 사용(열전대(Thermistors) vs 비강케뉼라(Nasal cannula))하여 무호흡(Event)을 과잉추정 혹은 과소 추정할 수 있거나, 질환에 대한 임상적 정의의 다양성으로 인해 환자 분류를 잘못할 수 있다. 예컨대 폐쇄성 수면무호흡증 환자에서 AHI ≥ 5를 확인하는데 하룻밤 수면다원검사의 민감도는 75%-88%의 범위이다.",
+  "summary": "수면다원검사가 표준적인 검사법으로 실시된 후 검사의 신뢰도와 기술적 정확성은 인정하지만 정확히 측정, 기록 되었을 때도 측정된 밤 간의 차이로 인해 환자 분류에 오류를 범할 수 있고, 다른 종류를 사용 vs 비강케뉼라하여 무호흡을 과잉 또는 과소 추정하거나, 질환에 대한 임상적 정의가 여러가지로 인해 환자 분류를 잘못할 수 있다."
+}

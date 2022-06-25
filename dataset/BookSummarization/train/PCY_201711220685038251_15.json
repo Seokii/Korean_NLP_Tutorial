@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220685038251_15",
+  "metadata": {
+    "doc_id": "PCY_201711220685038251",
+    "doc_type": "도서",
+    "doc_name": "환자안전체계 구축 기반연구",
+    "author": "김수경, 이상일",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "미국 환자안전체계는 연방정부가 병원별로 환자안전 보고 및 학습시스템(patient safety reporting and learning system)을 설치하도록 권장하는 체계로서 AHRQ(Agency for Healthcare Research and Quality)가 중앙기관이 된다. AHRQ는 요건을 충족하여 신청하는 기관을 대상으로 환자안전기구(Patient Safety Organizations, 이하 PSO)를 지정하고 운영을 지원한다. PSO는 독자적으로 또는 각 병원으로부터 환자안전사건에 대한 자발적 보고를 받아 해당 병원을 지원하고 보고 결과는 AHRQ로 집적될 수 있도록 중개한다. 각 주에서는 주정부에서 각 주의 법률에 따라 환자안전위원회를 설치하여 운영하는 사례가 있으나 주별로 상황은 다르다. 민간 활동으로 병원신임기구인 TJC (The Joint Commission)의 적신호 사건(Sentinel event) 보고 체계와 IHI(Institute of Healthcare Improvement)의 환자안전사건의 파악 및 개선 활동을 참고할 수 있다.",
+  "summary": "미국은 정부 주도 하에 병원별로 환자안전 보고 및 학습시스템을 설치할 것을 권하고 있는데, AHRQ를 중앙기관으로 PSO를 설치해 운영하고 이들은 개별 병원으로부터 환자 안전사건에 대해 지원한다."
+}

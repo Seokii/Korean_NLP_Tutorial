@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201501230933258111_28",
+  "metadata": {
+    "doc_id": "PCY_201501230933258111",
+    "doc_type": "도서",
+    "doc_name": "보건복지 빅데이터 효율적 관리방안 연구",
+    "author": null,
+    "publisher": "한국보건사회연구원",
+    "published_year": null,
+    "kdc_label": "일반행정",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "이와 같이 SNA를 활용한 국내 연구의 대부분은 학술활동의 결과물인 출판물에서 연구자가 직접 키워드를 추출하거나 용어 색인기를 사용하여 핵심 키워드를 추출하여 분석을 한 것이다. 해외의 경우처럼 MeSH(medical subject headings) 용어를 추출하여 SNA를 적용한 예로는 Influenza  연구와 대장암  연구, 그리고 미국국립의학도서관(National Library of Medicine: NLM)의 PubMed 데이터베이스에서 소속기관(Affiliation)을 미국 보건의료 분야 연구의 대표적 기관이라 할 수 있는 미국국립보건연구원(National Institute of Health; NIH)으로 제한하여 이 분야의 연구동향을 분석한 연구가 대표적이다.",
+  "summary": "SNA 기반 국내 연구는 주로 출판물에서 직접 혹은 색인기를 사용해 키워드를 추출한 분석 방법을 사용하며, 보건의료 분야에서 MeSH 용어 추출로 SNA를 적용한 다수의 사례들이 있다. "
+}

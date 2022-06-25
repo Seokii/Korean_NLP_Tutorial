@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049144800_54_55-0",
+  "metadata": {
+    "doc_id": "CNTS-00049144800",
+    "doc_type": "도서",
+    "doc_name": "Ethernet 기술혁신과 정책시사점",
+    "author": "강홍렬",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2000",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "III. MAN, WAN의 새로운 대안 I. Ethernet기술의 광역화",
+  "passage": "이와 같이 MAN의 영역에서 사용이 가능한 WDM기술은 고속의 Ethernet의 전송을 위해 단일 wavelength의 싱글모드(single mode) 광섬유에 의존하지 않고 싱글모드 광섬유의 다수 wavelength를 활용함으로써 보다 쉬운 광역화된 전개(deployment)가 가능해지게 되었다. 특정한 회사가 개발한 장비나 질 좋은 광케이블을 사용할 경우 70km 이상 100km 내외의 거리를 도달할 수 있다는 주장도 있다. Artel은, 2000년 3월 30일, DWDM을 이용하여 1Gbps급 Ethernet을 120km까지 전달할 수 있는 Gigabit optical transceiver, \"IP Metro\"를 발표, 공개했다.\n Ethernet을 위하여 WDM기술을 활용하는 것은 GigE에 머물지 않고 10GigE에서도 이미 나타나고 있다. 1999년 9월에 Lucent Technologies의 Bell Labs에 의하여 처음으로 DWDM을 이용하여 40km의 전송능력을 지닌 10GigE Multiplexer를 발표한 바 있다. 그리고 Broadcom은 현존하는 광통신기반 위에서 CWDM(coarse WDM)으로 50km를 커버할 수 있는 단일 칩을 이용한(single-chip) 10GigE transceiver를 발표하였다. GigE과 10GigE을 기존에 존재하는 광통신 전송체계를 활용할 수 있는 가능성이 높아짐으로써 그 만큼 GigE, 10GigE의 시장기반도 커지게 되는 것으로 이해할 수 있다.",
+  "summary": "MAN의 영역에 사용가능한 WDM기술은 고속 Ethernet 전송을 위해 싱글모드 광섬유의 다수 wavelength를 활용하여 보다 쉬운 광역화된 전개가 가능해졌다.  Ethernet을 위해 WDM기술을 활용함은 10GIgE에서도 나타나고 있다. GigE과 10GigE을 기존의 광통신 전송체계를 활용할 가능성이 높아져 GigE, 10GigE의 시장기반도 커질 것이다."
+}

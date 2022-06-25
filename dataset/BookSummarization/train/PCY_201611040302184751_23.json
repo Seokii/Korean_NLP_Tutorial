@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611040302184751_23",
+  "metadata": {
+    "doc_id": "PCY_201611040302184751",
+    "doc_type": "도서",
+    "doc_name": "행위자기반모형(Agent-Based Modeling)을 이용한 신기술과 지식 확산 연구",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2015",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "조직 구성원 간의 행동은 다양한 학문 분야에서 연구되고 있다. 대표적인 예로 사회학에서의 Macy & Willer (2002), 경제학에서의 Kirman & Zimmermann(2001), 심리학에서의 Kenrick et al. (2003), 인류학에서의 Kohler & Gumerman(2001) 등이 있다. Axelord (1997)에 의하면 조직 관리 혹은 Organization 관련된 시뮬레이션 연구는 연구 목적별로 구분이 가능한데, 주요 목적은 1) 예측 (prediction), 2) 증명 (proof), 3) 발견 (discovery) 등 세가지이다.",
+  "summary": "조직 구성원 간의 행동은 사회·경제·심리·인류학 등의 다양한 학문 분야에서 관련 시뮬레이션 등과 같이 연구되고 있다."
+}

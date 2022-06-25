@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504060906442681_28",
+  "metadata": {
+    "doc_id": "PCY_201504060906442681",
+    "doc_type": "도서",
+    "doc_name": "반도체설계재산유통가이드북",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "마지막으로 IP에 대한 테스트 정보가 포함되어야 한다. 테스트 관련정보에는 Test Interface, Test Vector/Test Bench, Test Methodology, Fault Modeling, Fault Isolation 등의 정보가 포함되어야 하며, 테스트의 종류와 방법에 따라 다양한 방식의 내용이 포함될 수 있다. 테스트를 위한 조건에는 IP 내부를 IP 사용자가 접근하여 테스트를 진행할 수 있는지 여부에 따라 Black Box 테스트와 Open Box 테스트로 구분되며, IP 내부에 사용자 접근이 제한되는 Black Box 테스트의 경우 더욱 상세한 정보를 제공하여야 한다.",
+  "summary": "IP 테스트는 다양한 정보가 포함되어 있는데, IP 사용자의 IP 내부 접근 가능 여부에 따라 Black box 테스트와 Open Box 테스트로 나누어 진다."
+}

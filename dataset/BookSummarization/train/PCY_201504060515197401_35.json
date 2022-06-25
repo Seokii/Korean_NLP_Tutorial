@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504060515197401_35",
+  "metadata": {
+    "doc_id": "PCY_201504060515197401",
+    "doc_type": "도서",
+    "doc_name": "기업 내·외부 연구개발과 성과와의 관계에 관한 연구",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": null,
+    "kdc_label": "기타",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "혁신연구에서 산업을 구분하는 가장 간단한 기준이자 통계적으로 산업 구분의 의미가 강력하여 OECD와 EC에서 산업분류 기준으로 활용되고 있는 것이 기술집약도에 따른 산업분류이다(Malerba, 2002). 기술집약도(technology intensity) 구분의 기반은 Hatzichronoglou(1997)로 이 연구에서는 OECD 10개국의 연구개발 자료를 활용해 제조업 22개 산업을 고기술(high-technology), 중상기술(medium high-technology), 중하기술(medium low-technology), 저기술(low-echnology)의 4개 그룹으로 분류하였다. 이때, 기술집약도 지표로 연구개발 집약도를 사용하였는데 중간재나 자본재 구입을 통한 기술획득까지 포함하여 산업의 기술집약도를 측정했다(Hatzichronoglou, 1997. 노지혜 정민근 나중덕, 2010, p.39에서 재인용).",
+  "summary": "혁신연구 중 산업을 구분짓는 기준이고 EC와 OECD에서 산업분류의 기준으로 사용하는 게 기술집약도에 의한 산업분류다. 기술집약도는 고기술, 중상기술, 중하기술, 저기술로 나뉘어 있고, 이는 기술획득의 개념까지 포함한다."
+}

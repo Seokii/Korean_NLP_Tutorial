@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201908160225012641_36",
+  "metadata": {
+    "doc_id": "PCY_201908160225012641",
+    "doc_type": "도서",
+    "doc_name": "에너지 포커스 : 2019년 여름호",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2019",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "한편 지분권자로서 Cash BFOE(11월물)를 Vitol사에게 매도했던 BP사는 계획된 선적일로부터 역산해 한 달 전(前)이 되는 날(10월 23일)의 16시까지는 Vitol사에게 선적 유종 등을 통보하여야 한다. 이시간적인 한계를 넘기게 되면 Cash BFOE(11월물)은 파생상품으로서의 지위를 잃고 선적일이 구체적으로 확정된 실물 상품인 Dated BFOE 카고(60만 배럴)로 전환된다. Platts사는 지분권자가 자신의 Cash BFOE(11월물) 매도 포지션에 결부된 의무로서 최초의 매수자에게 선적 유종 등을 통보(nomination)하는 절차를 ‘Chaining’이라고 일컬으며, 지분권자가 선적 유종 등을 통보함과 동시에 ‘Forward Chain’내에서 Cash BFOE(11월물) 매수 포지션의 마지막 보유자가 확정되는 일련의 양상들을 ‘Running Through Chains’라고 지칭하고 있다.",
+  "summary": "Vitol 사에게 Cash BFOE를 매도한 BP사는 선적일로부터 한달 전에 선적 유종 등을 통보해야 한다. 이러한 통보와 동시에 매수 포지션의 마지막 보유자가 확정되는 것을 'Running Through Chains'라고 칭한다."
+}

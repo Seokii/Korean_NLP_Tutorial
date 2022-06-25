@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201510221035328431_4",
+  "metadata": {
+    "doc_id": "PCY_201510221035328431",
+    "doc_type": "도서",
+    "doc_name": "주간국방논단 제1569호 잠수함구조체계 개발동향 및 구축방향",
+    "author": null,
+    "publisher": "한국국방연구원\t",
+    "published_year": "2015",
+    "kdc_label": "기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "미국의 차기잠수함구조체계인 SRDRS는 기존의 미스틱(Mystic)과 아발론(Avalon) DSRV를 대체하기 위한 것으로서 2008년 말에 전력화되었으며, 이 중 승조원을 치료하는 함상감압챔버인 SDS(Submarine Decompression System)는 2012년도에 전력화되었다. SRDRS를 구성하는 주요 장비로는 탐색장비인 ROV와 대기압잠수복(ADS: Atmospheric Driving Suit), DSRV에 해당하는 PRMS(Pressurized Rescue Module System), 함상감압챔버인 SDS가 있다. 특히 PRMS는 케이블로 연결된 원격조정유인잠수정으로 침몰 잠수함의 승조원을 수상으로 이동시키는 데 이용한다. 조난 잠수함을 구조하는 모든 장비는 공중이나 육상으로 이동하며, 이들 장비를 탑재하기 위하여 바지선을 이용한다. 바지선은 세계 각지의 바지선사와 계약을 맺어 풀(pool)을 확보하여 운영한다.",
+  "summary": "미국의 차기잠수함구조체계인 SRDRS는 ROV와 대기압잠수복, PRMS, SDS가 있다. 승조원을 치료하는 SDS는 2012년도에 전력화되었고 PRMS는 케이블로 연결된 원격조정유인잠수정으로 침몰 잠수함의 승조원을 수상으로 이동시키는 데 이용한다."
+}

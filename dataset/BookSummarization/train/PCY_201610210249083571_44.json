@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210249083571_44",
+  "metadata": {
+    "doc_id": "PCY_201610210249083571",
+    "doc_type": "도서",
+    "doc_name": "신재생에너지 공급인증서(REC) 가격 예측 방법론 개발 및 운용",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "CEC(California Energy Committee)는 MPR(Marginal Price Referent)를 발표하고, RPS 계약당사자 간 REC 계약 설정 시 즉, 의무이행비용 산정시 이 가격을 기준으로 할 것을 의무화하고 있다. MPR은 CCGT(복합 사이클 가스 터빈)의 수익과 비용이 같은 수준, 즉 NPV(Net Present Value)를 기반으로 하는 현금흐름 모델을 통해서 결정되는 균등화 가격이다. CEC는 엑셀 형태로 MPR 테이블과 모델을 제공하고 있으며 설치비용, 고정 및 변동 O&M 비용, 천연가스 연료 비용, 자본비용 및 환경허가 준수비용 항목 등이 입력값으로 제공된다.",
+  "summary": "RPS 계약당사자 간 REC 계약 설정에  MPR 기준을 의무화했다. MPR은 CCGT의 수익과 비용이 같은 수준인 균등화가격이다. CEC는 MPR 테이블과 모델을 제공한다."
+}

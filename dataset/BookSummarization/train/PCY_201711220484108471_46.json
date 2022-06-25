@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220484108471_46",
+  "metadata": {
+    "doc_id": "PCY_201711220484108471",
+    "doc_type": "도서",
+    "doc_name": "보건의료기술안전 의제 선정과 의사결정 방안 연구",
+    "author": "김수경",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2014",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "다른 나라에서 주로 다루어진 보건의료안전 의제로는 영국 정부의 안전한 NHS 만들기 등 정부 주도 안전 논의의 사례와, 매년 10가지 보건의료기술과 관련한 안전 이슈를 선정하고 있는 미국 ECRI 연구소 사례가 제시되었다. ECRI 연구소에서 발표한 최근 6년간 우선순위를 차지한 기술 관련 위해는 의료기관 내에서 빈발하는 경보음 위해 (alarm hazards), 약물주입기를 이용한 투약 오류(medication administration errors using infusion pumps) 및 진단 과정의 불필요한 방사선 노출(unnecessary exposures and radiation burns from diagnostic radiology procedures) 등 이었다. 비영리 민간 연구소가 분석가능한 부작용 보고 자료를 토대로 보건의료 분야 종사자 등 전문가 채점 및 내부 검토 과정을 거치는 방식을 통해 선정되는 것이었다.",
+  "summary": "다른 나라의 보건의료안전 의제 사례를 보면 정부 주도하에 안전한 NHS 만들기 등을 한 영국과 비영리 민간 연구소(ECRI)가 연구한 미국이 있다. 이는 전문가들의 의견을 거쳐 선정된다."
+}

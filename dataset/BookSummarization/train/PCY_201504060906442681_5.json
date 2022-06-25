@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504060906442681_5",
+  "metadata": {
+    "doc_id": "PCY_201504060906442681",
+    "doc_type": "도서",
+    "doc_name": "반도체설계재산유통가이드북",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "검증 수준 및 집적화 시 공급자 요구 항목을 명확히 제시하기 위해서는 Datasheet에 기재되는 Specification을 포함한 제반 정보들을 사실 그대로 기술하는 것이 중요하다. 이 정보들이 사실과 다르거나 예측값과 같은 불확실한 정보가 포함된다면 추후 거래 이후 단계에 대해서 문제 발생 가능성이 존재하기 때문이다. 그러므로 SoC 내에 집적화되며 야기될 수 있는 성능 저하 가능성, Interface를 위한 제반 요구 사항들을 가감없이 기술하고 추후 IP 집적화 이후 Design Review를 통한 제반 사항 검토 시에 공급자는 발생 가능한 Risk를 명확히하여 상호 Consensus를 이룰 수 있도록 유도해야 한다. 소규모 IP 공급자는 이러한 부분을 간과하고 보증할 수 없는 성능을 기재하거나 제대로 된 가이드를 제공하지 못해, SoC 집적화 시 성능 저하가 발생하여 사용자와 마찰을 빚는 경우가 많다. 특히 Analog / Mixedsignal IP의 경우 전기적 특성에 많이 영향을 받으므로 이러한 부분이 간과되지 않게 할 필요가 크다. 일반적으로 Analog / Mixed-signal IP 제공 시 Datasheet, Integration Application Notes, Silicon Characterization Report가 문서 형태로 제공되며 각각은 특성에 맞도록 기술되어야 하고 상호 제공되는 수치 등에 차이가 없어야 한다.",
+  "summary": "공급자 요구 항목의 제반 정보들은 사실 그대로 기술된다. 소규모의 IP 공급자는 이러한 부분을 간과해 SoC 집적화 시 사용자와 마찰을 빚는데, Analog / Mixed-signal IP 제공 시 Datasheet, Integration Application Notes, Silicon Characterization Report를 문서로 제공한다."
+}

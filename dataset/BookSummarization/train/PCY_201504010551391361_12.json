@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504010551391361_12",
+  "metadata": {
+    "doc_id": "PCY_201504010551391361",
+    "doc_type": "도서",
+    "doc_name": "기초·원천연구 투자의 성과 및 경제적 효과분석",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": null,
+    "kdc_label": "기타",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "여기에서 MFP(Multi-Factor Productivity)는 총요소생산성을 의미한다. U는(1-unemployment rate)으로 경기변동에 대한 대응변수이며, G는 독일통합인 1991년에 대한 dummy변수이다. φi는 각 국가별 고정효과(fixed effect)를 대변하는 국가효과(country effect)이며 ψt는 각 연도별 시간효과(time effect)를 대변하는 변수이다. 여기에서 βbrd는 민간 R&D 투자가 총요소생산성에 미치는 장기탄력성을 의미하며 βfrd는 외국인 R&D 투자에 대한 장기탄력성, βprd는 공공 R&D 투자의 장기탄력성을 각각 의미한다.",
+  "summary": "MFP는 총요소생산성을 뜻하고 U는 경기변동에 따른 대응변수 G는 독일통합은 91년 더미변수, ψt는 각 연도별 시간효과를 말하는 변수이다."
+}

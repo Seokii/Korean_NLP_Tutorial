@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611040300357591_147",
+  "metadata": {
+    "doc_id": "PCY_201611040300357591",
+    "doc_type": "도서",
+    "doc_name": "이머징 기술의 위험에 대한 회복력 관전에서의 대응방안",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2015",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "자율주행 관련 기술은 현재 긴급제동시스템(AEBS), 전방추돌경보시스템(FCW), 차선유지시스템(LKAS)와 같은 Level 0 기술과 적응형 순항제어시스템 (ACC), 주 차조향제어시스템(PSA) 등의 Level 1 기술이 상용화 되어 있다. 부분적 자율주행이 가능한 Level 2 기술은 Traffic Jam Assistance (TJA)부터 상용화되기 시작하여, 고속도로 자율 주행이 가능한 Level 3 기술로 발전해 나갈 것으로 예상되고 있다. 완전 자율주행 기술은 Robot Taxi 형태로 발전하여 미래형 모빌리티 서비스를 제공 할 것으로 기대된다.",
+  "summary": "자율주행관련 기술에서 Level2 부분적 자율주행기술은 교통체증에 적용되고 있다. 향후 완전자율주행의 Level3기술은 Robot Taxi형태로 제공될 것으로 예상된다."
+}

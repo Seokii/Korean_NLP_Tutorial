@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611100152577401_48",
+  "metadata": {
+    "doc_id": "PCY_201611100152577401",
+    "doc_type": "도서",
+    "doc_name": "기업 내∙외부 연구개발과 성과와의 관계에 관한 연구",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2014",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "판별타당성(Discriminant Validity)은 여러 가지 방법으로 확인할 수 있는데, 본 연구에서는 평균분산추출지수(AVE)와 각 요인의 결정계수를 비교하는 방법으로 분석해보고자 한다(Fornell and Larcker, 1981)31). 이 방법은 AVE가 잠재요인 간의  상관계수의 제곱보다 크다면 완전판별타당성이 있다고 해석한다. 본 연구에서는 판별타당성을 확보하기 위해 개념들 간의 상관관계 계수와 평균분산추출(AVE)의 제곱근값(Square Root of Average Variance Extracted)을 비교하여 평가하였다(Fornell and Larcker, 1981).",
+  "summary": "본 연구에서는 AVE와 각 요인 결정계수를 비교 분석해서 판별타당성을 확인하고자 한다. 판결타당성 확보를 위해 상관관계 계수 및 AVE의 제곱근값을 비교하고 평가내렸다. "
+}

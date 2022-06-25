@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201811150418141071_80",
+  "metadata": {
+    "doc_id": "PCY_201811150418141071",
+    "doc_type": "도서",
+    "doc_name": "2017 IP Insight: 해외 지식재산권 판례 심층분석 보고서",
+    "author": "한국지식재산보호원",
+    "publisher": "특허청",
+    "published_year": "2018",
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "연방대법원이 미국 특허법 제271조(f)의 적용범위를 제한할 수 있는 중요한 근거로 미국 특허법이 미국의 영역을 넘어서 외국으로까지 확대되어 적용될 수 없다는 “역외적용배제 추정(presumption against extraterritoriality)”의 원칙을 들 수 있다. Life Technologies 판결에서 연방대법원은 이 원칙에 대하여 구체적으로 언급을 하지 않았지만, Microsoft 판결에서 연방대법원은 이 원칙을 언급하면서, “미국 특허법은 국내에서만 적용되고 외국에서 이루어진 행위에까지 확장되지 않는다(our patent law operates only domestically and do not extend to foreign activities).”고 강조하였다. 전통적인 “영역성의 원칙(principle of territoriality)”에 의하면, 특정 국가의 법은 특정 국가의 영토범위 이내에서만 효력을 가지고, 또한 특정 국가의 법의 영역적 효력이 존중될 수 있도록 특정 국가의 주권 행사에 대해서는 신의(comity)가 지켜져야 한다. 영역성의 원칙을 구체화하였다고 평가할 수 있는 법 원칙인 “역외적용배제 추정(presumption against extraterritoriality)의 원칙”에도 국제적인 신의(international comity), 즉 타국의 자주권(sovereignty)과 법에 대한 상호존중(mutual respect) 그리고 권력의 분리(separation of powers)라는 의미가 내포되어 있다. 따라서 미국 특허법은 타국의 자주권과 특허법을 침해하지 않기 위하여 외국에서 이루어진 행위에는 적용되지 않아야 한다.",
+  "summary": "연방대법원의 미국 특허법 제271조(f) 적용범위를 제한하는 주요 근거는 역외적용배제 추정의 원칙이다. 미국 특허법은 국내만 적용되고 외국까지 확장되지 않으며 타국 자주권과 특허법을 보호하기 위해 외국에서 일어난 일에는 적용하지 말아야 한다."
+}

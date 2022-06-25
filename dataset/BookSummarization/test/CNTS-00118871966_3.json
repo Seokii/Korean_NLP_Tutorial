@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118871966_3",
+  "metadata": {
+    "doc_id": "CNTS-00118871966",
+    "doc_type": "도서",
+    "doc_name": "건강기능식품 기능성 평가 가이드",
+    "author": "식품의약품안전처.  식품의약품안전평가원",
+    "publisher": "식품의약품안전평가원",
+    "published_year": "2019",
+    "kdc_label": "가사, 가정학",
+    "kdc_code": "590"
+  },
+  "chapter": null,
+  "passage": "단백질 및 인지질 분해과정에서 제공되는 세린과 palmitoyl-CoA의 결합에 의해 생성되며, 관련 효소명은 serine palmitoyltransferase이다. 이와 같은 De novo 경로에 의해 형성된 세라마이드는 glucosylceramide 또는 sphingomyelin으로 전환이 가능한데, 즉 glucosylceramide synthase 및 sphingomyelin synthase에 의해 glucosylceramide 또는 sphingomyelin으로 전환되며, 또한 이들은 cerebrosidase및 sphingomyelinase에 의해 다시 세라마이드로 전환된다. De novo 및 대사 과정에 의해 형성된 세라마이드는 스핑고신과 지방산으로 최종 분해되는데 관련 효소명은 ceramidase이고 또한 이들 분해 산물은 세라마이드 synthase에 의해 다시 세라마이드로 전환될 수도 있다.",
+  "summary": "피부보습관련인자 중 세라마이드는 지질성분들로 구성되어 있으며, 세포간 intercellular cement의 40%를 차지, 피부의 수화와 관련이 있다. 단백질 및 인지질 분해과정에서 세린과 palmitoyl-CoA의 결합에 의해 생성된다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201502020945494341_7",
+  "metadata": {
+    "doc_id": "PCY_201502020945494341",
+    "doc_type": "도서",
+    "doc_name": "전국 환경방사능 조사보고서(2013년)",
+    "author": null,
+    "publisher": "원자력안전위원회",
+    "published_year": null,
+    "kdc_label": "원자력기술",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "각 지방방사능측정소에서 공기흡입펌프, 공기흡입량조절계, filter paper holder, timer 부분으로 구성된 저용량 연속 공기채집기를 지상 약 1 m 높이의 전용 하우징 내에 설치하여 공기부유진 채집용 filter paper (micro-fine borosilicate glass fiber filter paper, 0.3 μm의 입자 포집효율 99.9%)를 holder에 장착하여 흡입되는 공기량을 분당 42.5 L(1.5 CFM)가 되도록 공기흡입량계를 조정하여, 주에 한번 24시간 동안 공기부유진을 채집하였다. 채집을 마친 상태에서 공기채집기에 흡입된 누적 공기흡입량을 확인하였다. 회수한 filter paper는 2\"φ 스테인리스 시료접시에 담아 적외선 램프로 건조시킨 후 계측시료로 하였다.",
+  "summary": "각 지방방사능측정소에서 저용량 연속 공기채집기를 설치하여 주1회 24시간 동안 공기부유진을 채집했다. 채집완료 후에는 누적 공기흡입량을 확인하고 계측시료로 사용하였다. "
+}

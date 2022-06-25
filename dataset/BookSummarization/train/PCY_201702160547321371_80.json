@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201702160547321371_80",
+  "metadata": {
+    "doc_id": "PCY_201702160547321371",
+    "doc_type": "도서",
+    "doc_name": "산업주도권 확보를 위한 경쟁과 협력(coopetition)의 혁신전략 : 세계 디스플레이 산업구도 분석",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2016",
+    "kdc_label": "과학기술연구",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "본 연구에서는 각 계수를 추정하기 위해 QAP(quadratic assignment procedure) 회귀분석을 실시한다. 일반적인 최소자승법(OLS: ordinary least square) 대신 QAP 회귀분석을 사용하는 이유는 다음과 같다. OLS 회귀분석에서는 회귀식 내의 오차항은 독립적이라고 가정한다. 그러나 본 연구와 같이 두 개체 간의 관계를 나타내는 정보의 경우, 즉 개체 쌍(dyad)으로 표현되는 정보의 경우에는 이러한 가정이 충족되지 않는다. QAP 회귀분석은 개체 쌍으로 구성된 데이터를 분석하는 데에 활용 가능한 방법론으로서 오차항 간의 상관관계를 고려한 추정 결과를 보여준다(Baker and Hubert, 1981; Gulati and Gargiulo, 1999; Hubert and Shultz, 1976; Krackhardt, 1988). 따라서 기업 간 협력과 경쟁이라는 개체 쌍 단위의 데이터를 QAP를 통하여 분석하며, 특히 두 개 이상의 독립변인 간 영향관계를 다루는 MRQAP(multiple regression QAP)를 활용토록 한다.",
+  "summary": "본 연구는 각 계수 추정을 위해 QAP 회귀분석을 실시, 독립적 오차항의 가정이 충족되지않는 개체쌍 정보에 있어 상관관계를 고려한 추정결과를 도출하는 바, 특히  두 개 이상 독립변인간 영향관계를 다루는 MRQAP를 활용해 기업간 협력과 경쟁을 분석한다."
+}

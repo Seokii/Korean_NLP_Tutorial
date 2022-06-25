@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049144800_19_19-0",
+  "metadata": {
+    "doc_id": "CNTS-00049144800",
+    "doc_type": "도서",
+    "doc_name": "Ethernet 기술혁신과 정책시사점",
+    "author": "강홍렬",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2000",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "II. Ethernet기술의 진화 1. Ethernet기술의 혁신: GigE와 10GigE",
+  "passage": "Full-duplex 중심의 표준화를 통하여 광통신기술의 잠재력을 충분히 활용하는 이외에도, 10GigE은 스위칭 기능에서 장애가 발생하지 않도록 스위칭(라우팅) 용량을 극대화하는 네트워크 프로세서(network processor)의 ASIC기술을 결합하여 고속의 Ethernet 스위칭 기술을 구현한다. 칩(chip)화되는 스위칭 fablic 기술의 전개에 따라 라인속도(wire speed)에 달하는 대용량의 Ethernet 스위치가 가능해질 수 있다. 최근 대용량 스위칭 fabric을 활용하여 Terabit switching router의 기술이 도입되고 있는 사실을 고려한다면, 앞에서 가능성으로서 이야기한 \"Terabit Ethernet\"도 전혀 불가능해 보이지는 않는다. 나아가 GigE의 1,000BASE-LH처럼 IEEE 802.3 표준화와는 상관없이 장비업체들은 광통신기술과 스위칭 fabric의 잠재력을 충분히 발휘하여 10GigE의 전송속도를 늘리는 노력들을 기울여 나갈 것으로 보이며, 이와 같은 노력은 중장거리 전송을 지향하는 광대역의 10GigE transceiver의 형태로 구현될 것이다. \n결국 현재 표준화 논의가 진행중인 10GigE의 주요 내용은, Ethernet 전통이 지니고 있는 비용 효율성과 네트워크 디자인의 유연성을 광통신기술의 특징인 대역폭 풍요(bandwidth abundance)뿐만 아니라 장거리 전송가능성과 결합하는 것이다. 이와 같은 양쪽 측면의 기술적인 장점을 결합함으로써 글로벌하게 전개되고 있는 인터넷 환경에서 네트워크의 안정성과 확장가능성(scalability), 그리고 풍부한 대역폭을 확보할 수 있게 할 것이다. 앞으로 10GigE의 영향은 기업의 네트워크 뿐만 아니라 사업자의 네트워크에도 미치게 될 것이다.",
+  "summary": "10GigE은 스위칭에서 장애가 발생하지 않도록 ASIC기술의 결합으로 빠른 Ethernet 스위칭 기술을 보여준다. 칩화되는 스위칭 fablic 기술으로 라인속도만큼 대용량의 Ethernet 스위치가 가능해질 것이다.  결국 10GigE의 주요 내용은, Ethernet의 비용과 설계의 유연성으로 광통신기술의 특성인 대역폭 풍요와 장거리 전송가능성을 결합하는 것이다. 앞으로 10GigE은 기업 네트워크와 사업자의 네트워크 모두에 영향을 미칠 것이다."
+}

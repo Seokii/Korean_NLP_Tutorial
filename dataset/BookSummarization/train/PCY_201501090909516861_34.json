@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201501090909516861_34",
+  "metadata": {
+    "doc_id": "PCY_201501090909516861",
+    "doc_type": "도서",
+    "doc_name": "잔류동물용의약품 분석법 실무 해설서",
+    "author": null,
+    "publisher": "식품의약품안전처",
+    "published_year": null,
+    "kdc_label": "식품의약안전",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "검출기는 분리관을 통하여 carrier gas와 함께 기체 상태로 유출되는 화합물들을 검출 하는 장치이다. 따라서, 개별 검출기의 특성이 파악되어야, 분석 목적에 따른 적절한 검출기의 선택이 가능하다. 일반적으로 GC용 검출기는 검출기의 반응(response)이 용출되는 성분의 농도 (concentration)나 질량용출속도 (mass flow rate)에 비례하는 미분형 검출기 (differential detector) 로서, chromatogram 상peak의 면적이 용출된 화합물의 총량과 비례하며, 특히 잔류 물질 분석을 위해서는 선택성 (selectivity, specificity), 감도 (sensitivity, detectability, response), 직선적 비례 구간 (linear dynamic range), 기타 운용 및 유지 보수성이 고려 되어져야 한다.",
+  "summary": "기체로 유출되는 화합물을 검출하는 장치인 검출기의 개별적 특성을 파악해야 분석 목적에 따라 적절히 검출기를 선택할 수 있다. 그 중 잔류 물질 분석을 위해서는 선택성, 감도, 직선적 비례 구간 등이 고려되어야 한다. "
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201810180306357631_0",
+  "metadata": {
+    "doc_id": "PCY_201810180306357631",
+    "doc_type": "도서",
+    "doc_name": "IoT기반 초연결 공간 분산지능 기술 (IoT Based Distributed Intelligence Technology for Hyper-Connected Space)",
+    "author": "박준희, 손영성, 박동환 외",
+    "publisher": "한국전자통신연구원",
+    "published_year": "2018",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "IoT는 진화하고 있다. 흔히 1.0에서 2.0 시대로 진입하고 있다고 말한다. 2.0 시대의 가장 큰 주요 특징 중 하나는 오래전부터 예측되었던 디바이스 수의 폭발적 증가이다. 통계 전문 기관인 Statista는 2025년 전 세계에 설치될 IoT 디바이스의 수를 754억개로 예측한다. 수많은 디바이스의 온라인화는 연결성(Connectivity)을 초연결성(Hyper-Connectivity)으로 변화시키고 있으며, 세상을 복잡계(Complex System)로 진화시키고 있다. 또한, 컴퓨팅 하드웨어의 고도화는 중소형 디바이스의 성능을 향상시키고 있으며, 클라우드 서버에서 전담처리 하는 것으로 인식되던 지능 기능이 에지 서버로 이동하는 비집중화(Decentralizing) 현상에 이어서 이제는 더 작은 규모의 사물에도 지능이 존재할 수 있는 흐름이 진행되고 있다.",
+  "summary": "IoT는 진화하고있다. 새 IoT시대의 특징 중 하나는 디바이스 수의 폭발적 증가이며 이들의 온라인화는 초연결성을 불러와 세상을 복잡계로 진화시킨다. 또한 컴퓨터와의 연결성을 통해 작은 사물에도 지능이 존재 할 수 있게 됐다."
+}

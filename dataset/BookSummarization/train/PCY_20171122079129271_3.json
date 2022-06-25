@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_20171122079129271_3",
+  "metadata": {
+    "doc_id": "PCY_20171122079129271",
+    "doc_type": "도서",
+    "doc_name": "근거개발을 위한 보건의료 자료연계 전략계획 연구",
+    "author": "박기수",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2011",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "미국에서는 병원에 있는 환자 정보를 이용한 연구의 확대 필요성이 제기되면서, 미국의 건강보험 양도와 책임에 관한 법률(Health Insurance Portability and Accountability Act, HIPAA)에서는 환자 정보를 이용한 연구에서 환자의 정보를 보호하면서도 효과적이고 효율적인 연구를 수행할 수 있는 연구체계를 개발하려는 노력을 기울이고 있다. 이러한 연구체계의 일환으로 실용 임상 연구를 위한 자료 구축을 위하여 개인정보 보호 측면과 공공목적의 활용 측면을 고려한 시스템을 구축 운영하고 있는데, Medicare 자료의 합리적인 활용을 위해 연방 기구인 CMS(Centers for Medicare and Medicaid Service)와 비영리 기구인 ResDAC(Research Data Assistance Center)을 운영하고 있다. 또한, 오바마정부가 의료체계 개혁으로 추진하는 비교효과연구(Comparative Effectiveness Research, CER)를 위하여 8개 기구의 사십만 명의 환자 정보를 통합하는 DARTNet(Distributed Ambulatory Research in Therapeutics Network)을 구축하였는데, 이는 연방정부(AHRQ 지원)에서 2008년도에 만든 전자 건강 데이터 네트워크로서 민간-공공 네트워크이다. DARTNet 안에는 전자 건강기록(Electronic Health Records, EHRs)의 환자 정보(활력 증상, 가족력, 신체검사 결과 등), 약국 이용 데이터, 지급체계 등이 포함되어 있다. 포함된 자료들은 표준화 과정과 개인정보 익명화 과정(de-identified)을 거쳐 보관되고 있으며, 이러한 정보는 환자 진료 시 활용할 수 있도록 설계되어 있고, 관찰연구와 실험연구 모두에 활용할 수 있다.",
+  "summary": "미국에서는 Medicare 자료의 합리적인 활용을 위해 연방 기구인 CMS와 비영리 기구인 ResDAC을 운영하고 있다. 또한 비교효과연구를 위하여 환자 정보를 통합하는 DARTNet을 구축하였는데, DARTNet 안에는 전자 건강기록의 환자 정보, 약국 이용 데이터, 지급체계 등이 포함되어 있다. "
+}

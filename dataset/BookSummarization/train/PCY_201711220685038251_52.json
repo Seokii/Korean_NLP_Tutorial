@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220685038251_52",
+  "metadata": {
+    "doc_id": "PCY_201711220685038251",
+    "doc_type": "도서",
+    "doc_name": "환자안전체계 구축 기반연구",
+    "author": "김수경, 이상일",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "실무협의체는 수정 델파이 방법을 사용하여 연구 우선순위를 설정하였다. 참여 위원은 개별적으로 해당 이슈의 중요도에 따라 1에서 9까지의 가중치를 부여하였다. 가장 중요하다고 판단된 이슈에 9점을 부여하였다. 가중치 부여 기준은 안전 이슈의 빈도(frequency of the safety issue), 인구집단 내 위해 규모(magnitude of harm and its distribution within the population), 보건의료 체계에 대한 영향(the effect on the efficiency of the health system), 해결 방안의 실행성 및 지속 가능성(availability, feasibility, and sustainability of solutions), 문제 해결의 시급성(urgency or political backing required to tackle the problem)등이다. 수정 델파이는 총 3회로 진행되었으며 각 회기의 종료 후에 토론을 통해 의견을 합의하는 과정을 거쳤다. 평균과 표준편차를 계산하여 최종 순위를 설정하였다. 세계은행(World Bank)의 경제 분류에 따라 저소득 국가를 개발도상국으로, 중간 소득 국가를 중진국으로, 고소득 국가를 선진국으로 분류하였다.",
+  "summary": "실무협의체는 델파이 방법을 사용해서 연구 우선순위를 설정했고 개별적으로 중요도에 따라 가중치1부터 9까지 부여했다. 9점이 가장 중요한 우선순위이다. 가중치 부여 기준은 안전 이슈의 빈도, 인구집단 내 위해 규모 등 총 5개가 있다. 델파이 조사는 총 3번의 회의를 한 후에 토론을 통해 최종 순위에 대한 의견을 합의했다."
+}

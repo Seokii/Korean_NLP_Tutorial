@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703160345454851_27",
+  "metadata": {
+    "doc_id": "PCY_201703160345454851",
+    "doc_type": "도서",
+    "doc_name": "2016년 보건복지통계정보 통합 관리 및 운영",
+    "author": null,
+    "publisher": "한국보건사회연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Content-based recommendation 방법은 이렇게 아이템과 사용자 의 고유의 특성, 예를 들면 아이템의 카탈로그나 사용자 정보파일 등에 나타난 키워드(keyword)를 바탕으로 하여 추천 시스템을 구성하는 방법 이며 시스템상에 이러한 고유의 특징이 구체적으로 기록되어 있는 경우 Collaborative recommendation 방법을 대체하여 고려할 수 있는 추 천 방법이다(Charkrabarti, 2002; Adomavicius and Tuhilin, 2005; Pazzani and Billsus, 2007; Manning et al., 2008). 따라서 시스템상 의 문서 혹은 문서 내에서 사용되는 키워드의 중요도나 유사도를 정의하 는 기술이 Content-based recommendation 방법의 핵심을 구성한다. 이러한 특성 때문에 Content-based recommendation 방법은 Text mining 기법과 함께 소개되거나 아니면 Text mining 기법의 응용분야 로 소개되기도 한다.",
+  "summary": "Content-based recommendation 방법은 아이템과 사용자의 고유 특성에 나타난 키워드를 바탕으로 추천 시스템을 구성한다. 시스템상의 문서, 문서 내의 키워드의 중요도나 유사도를 정의하는 기술이 핵심이기 때문에, Text mining 기법과 함께 소개된다."
+}

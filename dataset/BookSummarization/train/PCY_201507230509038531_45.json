@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201507230509038531_45",
+  "metadata": {
+    "doc_id": "PCY_201507230509038531",
+    "doc_type": "도서",
+    "doc_name": "국토: 2015년 7월 (통권405호)",
+    "author": null,
+    "publisher": "국토연구원",
+    "published_year": "2015",
+    "kdc_label": "지역및도시",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "공공부문의 교통운영 및 관리(operation andmanagement) 측면에서는 시공간상 차량의 밀도변화와 통행자의 이동성 패턴분석 등을 통한 능동적 교통류 관리(active traffic management)가 대표적 기법인데, 실시간 제어전략으로 램프미터링, 가변전광표지(Variable Message Sign: VMS), 자유통행속도제어를 통한 일정 속도유지(speed harmonization), 교통정체 시 갓길 개방과 같은 보조차로 운영 등 정체를 해결하고자 하는 전략이 있다. 이를 위해 수집되는 교통 관련 자료는 Cell/Smart Phone Data, GPS Navigation, Satellite Image, Detectors, Service Providers, RFID, LIDAR, Social Medial, 도로센서, 도로카메라, 상업용 GPS, 소비자 GPS, 스마트폰, 통신네트워크 장비 등이다.",
+  "summary": "교통운영 및 관리 측면에서는 능동적 교통류 관리가 대표적인 기법이다. 실시간 제어전략으로 램프미터링, 가변전광표지, 교통정체 시 보조차로 운영 등 정체를 해결하고자 하는 전략이 있다. 이를 위해 도로센서, 도로카메라, 상업용 GPS 등이 수집된다."
+}

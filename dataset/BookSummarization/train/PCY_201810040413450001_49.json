@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201810040413450001_49",
+  "metadata": {
+    "doc_id": "PCY_201810040413450001",
+    "doc_type": "도서",
+    "doc_name": "KIPA 조사포럼 Vol.24",
+    "author": null,
+    "publisher": "한국행정연구원",
+    "published_year": "2018",
+    "kdc_label": "일반행정",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "경제협력개발기구인 OECD의 OUR Data Index는 OECD 회원 국가인 35개국을 대상으로 국가의 공공데이터 정책 추진 현황에 대한 정보를 제공하고 이를 근거로 데이터 개방·활용을 위한 정부의 노력을 평가하여 국가들 간의 공공데이터 현황을 비교 분석할 수 있는 지수(Index)이다. OECD OUR Data Index는 평가를 목적으로 회원국을 대상으로 조사 질문(Survey on Open Government Data)에 관한 답변을 제출토록 하고 있으며 조사 질문은 회원국을 대상으로 사전 현황조사 된 결과를 토대로 조사 항목을 선정하고 지수화하여 평가를 하고 있다.",
+  "summary": "OECD의 OUR Data Index는 회원국의 공공데이터 정책 추진 현황에 대한 정보를 바탕으로 국가 간 공공데이터 현황을 비교 분석하는 지수이다."
+}

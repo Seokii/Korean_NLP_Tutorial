@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201601060939441731_38",
+  "metadata": {
+    "doc_id": "PCY_201601060939441731",
+    "doc_type": "도서",
+    "doc_name": "2014 미래융합법제 연구논문 보고서",
+    "author": null,
+    "publisher": "법제처",
+    "published_year": null,
+    "kdc_label": "법무및검찰",
+    "kdc_code": "300"
+  },
+  "chapter": "Ⅲ. 각국의 사이버 범죄 대응 관리 시스템",
+  "passage": "국토안보부내 정보분석 및 기반시설 보호국이 있으며, 산하에 정보분석단(Assistant Secretary for Information Analysis) 및 기반시설 보호단(Assistant Secretary for Information Protection)이 있다. 이 두 조직의 임무는 미국의 사이버 및 물리적 인프라에 관한 위협평가 수행이다. 기반시설 보호단 산하에는 국가사이버 보안처(NCSD: National Cyber Security Division)이 있으며 주요 임무는 사이버위협과 취약점 판단, 분석 및 대응을 위한 활동과 위협정보, 위협경보의 제공이며 침해사고 대응관련 업무조정 및 복구 활동에 대한 기술적 지원업무의 수행이다.",
+  "summary": "국토안보부에 정보분석단과 기반시설 보호단이 있는데, 이들은 사이버와 물리적 인프라의 위협을 평가한다. 이중 사이버보안처는 사이버 위협에 대한 예방, 대응과 복구를 위한 기술지원을 한다."
+}

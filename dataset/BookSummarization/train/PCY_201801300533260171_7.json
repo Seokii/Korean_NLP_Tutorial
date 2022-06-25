@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201801300533260171_7",
+  "metadata": {
+    "doc_id": "PCY_201801300533260171",
+    "doc_type": "도서",
+    "doc_name": "LPWA 기반 IoT 전용 네트워크 기술동향",
+    "author": "박태준, 이계선, 정운철, 최병철, 방효찬",
+    "publisher": "한국전자통신연구원",
+    "published_year": "2017",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "현재 9개의 draft 문서가 있으며, 8개는 informational 문서이고, 1개가 standard track 문서이다. WG의 standard-track 작업 결정을 위해, LoRaWAN, NBIoT, Sigfox, Wi-SUN와 같은 기존의 LPWA기술 등 충분한 배경정보를 제공하고, 기존 IETF protocol stack 과 통합에 대한 gap 확인을 목적으로 8개의 infor- mational 문서와, 6LowPAN fragmentation header 조차도 감당할 수 없는 극한의 LPWAN에 최적화된 fragmentation header에 대한 standard track 문서 등 9개의 draft 문서에 대한 논의가 진행되고 있다.",
+  "summary": "9개의 draft 문서가 존재하며, WG의 standard track 문서 작업을 위해 많은 배경정보가 제공된다. 또한 IETF protocol stack 통합 등 문서 작업이 진행되고 있다. "
+}

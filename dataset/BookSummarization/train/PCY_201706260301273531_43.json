@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201706260301273531_43",
+  "metadata": {
+    "doc_id": "PCY_201706260301273531",
+    "doc_type": "도서",
+    "doc_name": "OECD ESP 역량 역동성 종단연구(Ⅲ) : OECD 본조사 한국 실행가능성 연구 및 3개년 종단자료 분석",
+    "author": "김미숙",
+    "publisher": "한국교육개발원",
+    "published_year": "2016",
+    "kdc_label": "교육일반",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "단계별로 이루어진 잠재성장모형을 사용하는 연구모형의 적합도는 다양한 모형적합도 지수를 사용하여 나타낼 수 있다. 하지만 본 연구에서는 카이제곱, RMSEA(Root Mean Squared Error of Approximation), CFI(Comparative Fit Index), AIC(Akaike Information Criterion: AIC), BIC(Bayesian Informative Criterion: BIC) 모형적합 지수를 통해 잠재성장을 사용하는 연구모형의 적합성을 검토할 것이다. 카이제곱검증은 가장 많이 사용되어지는 모형적합도 지수이나 다변량 정규성을 가정하고 있으며 정규성이 가정에서 벗어난 경유 제 1종 오류(제안된 모형이 사실이나 기각될 확률)이 높아진다는 내재적 한계를 지나고 있다(McIntosh, 2006). 또한 카이제곱검증은 사례수가 많으면 연구모형이 기각될 확률이 높아지고(Bentler & Bonnet, 1980) 사례수가 작으면 통계적 검증력이 약해지는 문제점(Kenny & McCoach, 2003)도 있다. 이러한 카이제곱검증이 지니고 있는 내재적 문제점들을 극복하기 위해 카이제곱검증을 자유도로 나누어 제시하는 방법이 사용되어지고 있다(Tabachnick & Fidell, 2007; Wheaton et al., 1977). 카이제곱검증을 자유도로 나눈 값에 합의된 기준은 없지만 보통 2(Tabachnick & Fidell, 2007)~5(Wheatonet al., 1977)가 제시되어 많이 사용되고 있다.",
+  "summary": "본 연구에서는 카이제곱, RMSEA, CFI,BIC를 통합하여 잠재성장을 사용하는 연구모형의 적합성을 검토한다. 카이제곱검증은 연구모형 적합성 측정에  활발히 사용되는 방법이지만 정규성이 가정에서 벗어날 때 제 1종 오류가 높아진다는 한계가 있다. 또 사례수가 많을 땐 기각될 확률이 커지며 사례수가 커지면 통계적 검증성이 약해진다. 이를 해결하기 위해 카이제곱검증을 자유도로 나누는 방법이 활용되고 있다."
+}

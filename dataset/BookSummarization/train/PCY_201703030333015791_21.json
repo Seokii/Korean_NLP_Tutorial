@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703030333015791_21",
+  "metadata": {
+    "doc_id": "PCY_201703030333015791",
+    "doc_type": "도서",
+    "doc_name": "초기 청소년기 진로결정수준과 대학 및 전공 만족도가 자아정체감 변화 궤적에 미치는 영향",
+    "author": null,
+    "publisher": "한국직업능력개발원",
+    "published_year": "2015",
+    "kdc_label": "고등교육",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "분석을 위해 SAS 프로그램의 매크로인 PROC TRAJ을 사용하였다(Jones, Nagin, & Roeder, 2001).2) 이 방법은 종단적인 변화 궤적에 따라 잠재집단을 분류할 수 있으며, 결측치를 포함하여 분석하기 때문에 특정 시점에만 응답치가 없는 표본을 생략하지 않고도 많은 표본을 분석할 수 있는 장점이 있다(Nagin, 1999). 일반적으로 잠재집단 도출을 위한 모델은 자료의 특성에 따라 CNORM(censored normal)모델, ZIP(zero-inflated Poisson)모델, LOGIC(logistic)모델로 나뉜다. 이 연구에서 잠재집단을 도출하고자 하는 변수인 자아정체감은 5점 리커트식 척도로 측정되었고 정규 분포를 따르고 있기 때문에 이에 적합한 CNORM 모델을 적용하였다(Jones, Nagin, & Roeder, 2001).",
+  "summary": "분석을 위해 SAS 프로그램의 매크로인 PROC TRAJ를 사용, 특정 시점에 응답치가 없는 표봄을 생략하지 않고 많은 표본을 분석하였고, 자아정체감은 연구 특성에 적합한 CNORM모델을 사용했다."
+}

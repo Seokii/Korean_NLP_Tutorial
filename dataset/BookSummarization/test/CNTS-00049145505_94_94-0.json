@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049145505_94_94-0",
+  "metadata": {
+    "doc_id": "CNTS-00049145505",
+    "doc_type": "도서",
+    "doc_name": "공공 및 민간부분의 정보화를 위한 위성통신 활용방안 연구",
+    "author": "손상영",
+    "publisher": "정보통신정책연구원",
+    "published_year": "1999",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "제 3 장 위성통신서비스 개관 및 현황 제 3 절 해외 위성통신 서비스 현황",
+  "passage": "필리핀의 경우, MPSC는 VSAT 시스템을 통해서 필리핀 군도에서 커뮤니케이션 링크를 제공하며, 15Mbps 속도의 다운링크 성능을 가진 인터넷 접근권을 개인이용자들과 기업들에 제공할 수 있다. MPSC의 주요 고객들은 PLDC, 국영 통신사. 필리핀 전화통신사(Piltel) 등이다.아태지역의 국내 VSAT 사업자의 수가 급속히 증가하고 있다. 인도정부는 ‘95년에 10개의 국내 VSAT사업자에게 면허를 부여, 현재 Comsat Max Pte, Ltd(Bombay), HCL Comnet Systems(Net Delhi)등 4개 사업자가 서비스를 제공하고 있으며, 중국도 ’95년에 15개의 국내 VSAT사업자에게 면허를 부여, ‘96년부터 서비스를 개시하고 있다. 아태지역의 국제 VSAT시장은 아직 초창기에 불과하여, ’95년에 싱가포르의 Pacific Century가 처음으로 국제 VSAT 서비스를 개시한 이후, Singapore Telecom, Hongkong, Telecom Ltd 및 Kokusai denshin Denwa Co. Ltd가 그 뒤를 잇고 있다. 특히 ‘95년 말 Singapore Telecom은 브루나이, 중국, 홍공, 인도, 인도네시아, 말레이시아 등 10개 아시아 국가를 연결하는 최상의 VSAT 링크를 형성하였고, 대륙간 접속을 위해 러시아의 국내 서비스 제공업자 및 유럽의 지역 사업자와 협력하고 있다. 아태지역의 모든 국제 VSAT서비스에는 SCPC(Single Carrier per Channel)기술이 사용되는 반면에 국내 VSAT 서비스에는 대부분 TDMA(Time Division Multiple Access)기술이 사용되고 있는데, 일부 국내서비스에서는 점대점 SCPC링크를 제공하는 사업자도 있다.",
+  "summary": "필리핀의 MPSC는 VSAT 시스템을 통해 커뮤니케이션 링크를 제공한다.아태지역의 VSAT 사업자 수는 증가하는 중이다. 인도는 4개 사업자가 VSAT 서비스를 하고 있고, 중국은 15개의 VSAT 사업자가 서비스를 제공한다. 싱가폴의 싱가폴 텔레콤은 10개의 아시아 국가를 연결하는 VSAT 링크를 이루었다. 아태지역의 국제 VSAT 서비스는 모두 SCPC 기술이고 국내 VSAT 서비스는 거의 TDMA 기술이다."
+}

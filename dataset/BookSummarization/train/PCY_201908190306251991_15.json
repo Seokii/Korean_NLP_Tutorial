@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201908190306251991_15",
+  "metadata": {
+    "doc_id": "PCY_201908190306251991",
+    "doc_type": "도서",
+    "doc_name": "2018년도 『 국가 항생제 사용 및 내성 모니터링 』 : 동물, 축·수산물",
+    "author": null,
+    "publisher": "식품의약품안전처,농림축산식품부,농림축산검역본부",
+    "published_year": "2019",
+    "kdc_label": "식품의약안전",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "정상 가축 분변에서 분리한 대장균 653균주(소 178균주, 돼지 189균주, 닭 163균주, 오리 123균주)에 대해 총 13계열(CLSI subclass 기준) 16종 항생제에 대해 항생제 감수성 검사를 실시한 결과, 축종 별로 내성 양상은 유사하게 나타났지만 내성률은 다소 차이가 있었다. 축종 별로 MICs 분포도를 조사한 결과, MIC50이 64(㎍/㎖) 이상을 나타낸 항생제는 소에서는 관찰되지 않았으나, 돼지에서는 ampicillin, chloramphenicol, streptomycin, sulfisoxazole, tetracycline, 닭에서는 ampicillin, nalidixic acid, sulfisoxazole, tetracycline, 오리에서는 ampicillin, nalidixic acid에서 관찰되었다. 축종 별로는 닭에서 분리한 균주는 ciprofloxacin의 MIC50이 8(㎍/㎖)로 소와 돼지의 0.125(㎍ /㎖), 오리의 0.5(㎍/㎖)에 비해 높게 나타났으며 돼지 분리 균주에서는 chloramphenicol의 MIC50이 64(㎍/㎖)로 다른 축종에 비해 높게 나타났다. Cephalosporin 계 항생제의 경우 모든 축종에서 MIC50이 cefepime 0.25(㎍/㎖), cefoxitin 4(㎍/㎖), ceftazidime 1(㎍/㎖), ceftiofur 0.5(㎍/㎖)로 나타났다.",
+  "summary": "정상 가축 분변에서 분리한 대장균에 대해 항생제 감수성 검사를 실시한 결과, 축종 별로 내성 양상은 유사했지만 내성률은 다소 차이가 있었다. 축종 별로 MICs 분포도를 조사한 결과, MIC50이 64(㎍/㎖) 이상을 나타낸 항생제가 소에서는 관찰되지 않았으나 돼지, 닭, 오리에서는 관찰되었다. "
+}

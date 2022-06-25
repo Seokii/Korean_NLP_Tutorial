@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_202003160257388331_24",
+  "metadata": {
+    "doc_id": "PCY_202003160257388331",
+    "doc_type": "도서",
+    "doc_name": "주요국의 전력설비예비율 비교 연구",
+    "author": "박명덕",
+    "publisher": "에너지경제연구원",
+    "published_year": "2019",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "미국은 “Reference Margin”을 각 지역별 “기준(적정) 설비예비율”로 지정하고 기준치 준수 수준을 관리하고 있다. Anticipated Reserve Margin이 Reference Margin보다 크면 현재의 설비예비율이 적정 수준(Adequate)인 것으로 평가하고 있으며, Anticipated Reserve Margin이Reference Margin을 기준으로 근소하게 크거나 작은 경우는 경계 수준(Marginal)으로 평가한다. 그 외 Anticipated Reserve Margin이 Reference Margin보다 현저하게 낮은 경우는 부적정 수준(Inadequate)으로 판단하고 그에 따른 대응책을 마련하고 있다.",
+  "summary": "미국은 “Reference Margin”을 “기준(적정) 설비예비율”로 지정해 관리하는데,  Anticipated Reserve Margin이 크면 적정수준, 작으면 경계수준으로 평가한다."
+}

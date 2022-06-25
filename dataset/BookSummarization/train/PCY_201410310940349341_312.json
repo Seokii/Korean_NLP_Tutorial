@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201410310940349341_312",
+  "metadata": {
+    "doc_id": "PCY_201410310940349341",
+    "doc_type": "도서",
+    "doc_name": "전통지식 관련 국제적 분쟁양태 및 효과적 대응을 위한 연구",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Traditional Knowledge Resource Classification(TKRC)은 IPC를 보완하는 분류체계로서 약용식물과 연관된 A61K-035/78 IPC 그룹에 대해 5,000개의 하부그룹이 세분화되어 있으며, WIPO에서도 연계하고 있다. ayurvedic 텍스트에서 sloka들로 제일 먼저 식별되는 TKDL은 총 36,000개의 sloka로 되어 있으며, 각 sloka가 시스템에서 읽혀지면 구조화된 언어인 TKRC로 변환된다. 각 sloka의 코드들은 DB에 저장되고 이들은 다시 영어, 프랑스어, 독일어, 힌두어, 일본어, 스페인어 등의 다양한 언어로 변환되며 장차 20개의 외국 언어와 다른 인도 언어까지 제공하게 될 것이다.",
+  "summary": "IPC에 도움을 주는 TKRC는 분류체계로 5000개의 하부그룹이 존재한다. 또한 sloka로 식별되어 데이터베이스에 저장 된 후 20개의 언어로 변환되어 제공된다는 특징도 있다. "
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201801300533260171_3",
+  "metadata": {
+    "doc_id": "PCY_201801300533260171",
+    "doc_type": "도서",
+    "doc_name": "LPWA 기반 IoT 전용 네트워크 기술동향",
+    "author": "박태준, 이계선, 정운철, 최병철, 방효찬",
+    "publisher": "한국전자통신연구원",
+    "published_year": "2017",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "LoRaWAN은 LoRa alliance의 규격으로서, 물리계층은 semtech사의 LoRa칩 규격을 따른다. LoRaWAN PHY의 CSS(Chirp Spread Spectrum) 기술은 레이더에 사용되던 고전적인 CSS기술을 통신에 활용한 것으로서, 프랑스 회사에서 개발한 기술을 semtech사에서 인수하여 LoRa로 사업화하였다. 이 기술은 Sigfox의 UNB기술과는 대비되는 접근 방법으로서 DSSS(Direct Sequence Spread pectrum)와 같이 데이터 전송률보다 훨씬 넓은 대역을 사용하여 장거리 전송에 필요한 수신감도에 대한 제한을 완화한다. 심볼을 수신부와 동일한 시퀀스로 확산하는 DSSS의 경우와 달리, CSS 기술은 하나의 심볼의 전송 중에 지속적인 반송주파수 변화를 통해 확산 효과를 얻는다. <표 2>는 LoRa 모뎀의 확산에 따른 성능 예이다.",
+  "summary": "LoRaWAN PHY의 CSS 기술은 고전 레이더 기수을 통신에 활용한 것으로 DSSS 같은 데이터 전송률보다 더 넓은 대역을 사용해 장거리 전송을 원활하게 하며, 지속적인 반송주파수 변화로써 확산 효과를 획득한다. "
+}

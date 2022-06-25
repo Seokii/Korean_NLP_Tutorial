@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118870244_7",
+  "metadata": {
+    "doc_id": "CNTS-00118870244",
+    "doc_type": "도서",
+    "doc_name": "AI 관련 분야 특허 심사 사례",
+    "author": "특허청",
+    "publisher": "특허청",
+    "published_year": "2020",
+    "kdc_label": "총류일반",
+    "kdc_code": "000"
+  },
+  "chapter": null,
+  "passage": "일 실시예로서 골 연령 판독 장치가 각각의 제1 관심영역에서 추출하는 복수의 제2 관심영역들은 손목 부위 주요 관심영역에서 요골(Radius) 및 척골(Ulna) 관심영역을 추출하고, 엄지 부위 주요 관심영역에서 엄지 원위부 지골(1st Distal Phalanx), 엄지 근위부 지골(1st Proximal Phalanx) 및 엄지 중수골(1st Metacarpal) 관심영역을 추출하고, 중지 부위 주요 관심영역에서 중지 원위부 지골(3rd Distal Phalanx), 중지 중간부 지골(3rd Middle Phalanx), 중지 근위부 지골(3rd Proximal Phalanx), 및 중지 중수골(3rd Metacarpal) 관심영역을 추출하고, 소지 부위 주요 관심영역에서 소지 원위부 지골(5th Distal Phalanx), 소지 중간부 지골(5th Middle Phalanx), 소지 근위부 지골(5th Proximal Phalanx) 및 소지 중수골(5th Metacarpal) 관심영역을 추출할 수 있다.",
+  "summary": "골 연령 판독 장치는 제1관심영역에서 복수의 제2관심영역들을 추출할 수 있다. 예를 들어 손목 부위 주요 관심영역에서 요골 및 척골을 추출하고, 엄지 부위 주요 관심영역에서 엄지 원위부 지골, 엄지 근위부 지골 등을 추출할 수 있다."
+}

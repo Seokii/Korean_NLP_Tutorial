@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201702070337311141_16",
+  "metadata": {
+    "doc_id": "PCY_201702070337311141",
+    "doc_type": "도서",
+    "doc_name": "FTA 분석을 위한 DBMS 구현과 지표 개발 연구",
+    "author": null,
+    "publisher": "산업연구원",
+    "published_year": "2016",
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "관계형 데이터베이스의 구조는 일반적으로 ER(Entity Relationship) Diagram 형태로 정의되며, 통합DB의 ER Diagram은 아래 그림과 같이 표현된다. 그림에서 사각형은 물리적 테이블(Entity)을 나타내며 각 테이블에 등록되는 정보의 속성은 사각형 내에 포함된 Field의 구성으로 정의된다. 또한, 사각형들의 연결선은 테이블간의 관계(Relationship)를 나타내며 이는 각 테이블의 key field간 대응유형을 규정함으로써 정의된다. 각 field명 앞에 표시된 열쇠 모양의 기호는 테이블 내에서 정의된 key field를 표시하고 있다.",
+  "summary": "관계형 데이터베이스의 구조는 ER Diagram 형태로 정의된다. 사각형은 물리적 테이블을, 연결선은 그 간의 관계를 나타내며, 열쇠 기호는 key field를 표시한다."
+}

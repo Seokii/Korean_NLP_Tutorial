@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201806010458098701_7",
+  "metadata": {
+    "doc_id": "PCY_201806010458098701",
+    "doc_type": "도서",
+    "doc_name": "교통연구 (Journal of Transport Research), 제24권 제2호",
+    "author": null,
+    "publisher": "한국교통연구원",
+    "published_year": "2017",
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "총비용함수와 요소점유율방정식의 오차항이 상관관계를 가지는, 즉 결합정규분포를 하고 있다는 가정 하에 Zellner의 반복결합일반화최소자승법(ITSUR, iterative seemingly unrelated regression)을 이용해 푸리에 총비용함수모형을 추정한다. 이와 같이 비용함수를 요소점유율방정식과 함께 추정하는 방법은 자유도가 증가하는 장점이 있다. 또한 앞의식 (1)과 같이 설정한 완전모형을 추정한 후 동조성(homotheticity), 동차성(homogeneity) 및 콥-더글라스(Cobb-Douglas) 생산기술에 대한 가설을 검정하여 설정한 모형의 타당성을 검증한다.",
+  "summary": "총비용함수와 요소점유율방정식의 오차항은 결합정규분포를 하고 있다는 가정 하에 푸리에 총비용함수모형을 추정하면 자유도가 증가하는 장점이 있으며 설정한 모형의 타당성을 검증한다. "
+}

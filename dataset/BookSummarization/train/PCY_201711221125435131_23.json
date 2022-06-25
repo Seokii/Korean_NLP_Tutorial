@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711221125435131_23",
+  "metadata": {
+    "doc_id": "PCY_201711221125435131",
+    "doc_type": "도서",
+    "doc_name": "램(RAM) 활성화를 통한 방위사업 관리 효율성 제고 방안",
+    "author": "정순목",
+    "publisher": "한국국방연구원",
+    "published_year": "2016",
+    "kdc_label": "병무행정",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "정비도는 정비하는데 소요되는 시간인 MTTR(Mean Time To Repair), 비(非)행정적인 정비지연시간인 LDT(Logistics Delay Time), 행정처리 시간인 ADT (Administrative Delay Time) 등의 합이다. MTTR은 정비활동 때문에 운용되지 못하는 평균불가동시간인 MDT(Maintenance Down Time)와 정비활동횟수를 나타내는 계획정비활동 사이의 평균시간(MTBM-Scheduled)과 결함발생에 의한 비계획정비 사이의 평균시간(MTBM-Unscheduled)을 계산하여 산정한다. 따라서 MTTR은 고장항목과 고장률, 지원장비와 정비장비의 획득과 정비인력 확충, 시설의 구축정도 등에 의해 영향 받는다. 신뢰도가 정량화될수록 MTTR도 정량화되고, 정비도도 정량화된다.",
+  "summary": "정비도는 정비하는데 소요되는 시간인 MTTR, 비행정적인 정비지연시간인 LDT, 행정처리 시간인 ADT 등의 합이다. MTTR은 고장항목과 고장률, 지원장비, 정비장비의 획득과 등에 의해 영향 받는다."
+}

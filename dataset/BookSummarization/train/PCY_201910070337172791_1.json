@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201910070337172791_1",
+  "metadata": {
+    "doc_id": "PCY_201910070337172791",
+    "doc_type": "도서",
+    "doc_name": "해양무인체계 발전을 위한 몇 가지 과제",
+    "author": "윤형노",
+    "publisher": "한국국방연구원",
+    "published_year": "2019",
+    "kdc_label": "병무행정",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "해양무인체계(UMS: Unmanned Maritime System)란 “미래 전투 환경에서 인명손실을 최소화하면서, 전투력 우위를 확보하기 위하여 유인으로 운용되는 함정의 임무를 세분하여 네트워크 중심 전(NCW: Network-Centric Warfare)에 적합하게 자율제어 기반의 무인플랫폼으로 운용되는 체계”라고 정의할 수 있다. 무인잠수정(UUV: Unmanned Undersea Vehicle)과 무인수상정(USV: Unmanned Surface Vehicle)이 여기에 속한다. 무인잠수정은 다시 유선으로 운용인력이 직접 원격 통제하는 원격운용 잠수정(ROV: Remotely Operated Vehicle), 자율적으로 움직이지만 운용인력의 원격통제도 부분적으로 필요한 반자율 잠수정(SAUV: Semi-Autonomous Undersea Vehicle), 사람의 조작 없이 자율적으로 판단하고 이동하는 자율형 무인잠수정(AUV: Autonomous Undersea Vehicle)으로 분류된다.",
+  "summary": "무인잠수정과 무인수상정은 인명 손실 최소화를 위해 무인플랫폼으로 운영되는 해양무인체계에 속한다. 여기서 무인잠수정은 다시 사람의 원격 통제 여부에 따라 원격운용 잠수정, 반자율 잠수정, 자율형 무인잠수정으로 분류된다."
+}

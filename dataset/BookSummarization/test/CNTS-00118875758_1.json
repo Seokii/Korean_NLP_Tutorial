@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118875758_1",
+  "metadata": {
+    "doc_id": "CNTS-00118875758",
+    "doc_type": "도서",
+    "doc_name": "캐나다 우주분야 투자회수율(ROI) 분석",
+    "author": "박정호",
+    "publisher": "한국항공우주연구원",
+    "published_year": "2017",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": null,
+  "passage": "각국 우주청들은 공공 R&D투자의 편익 및 ROI를 측정하는데 다양한 방법론을 사용하고 있다. 정량적 방법으로는 서지분석(bibliometrics), 특허 출원, 데이터 사용자 수, 연결 비율(rate of connectivity), Value-for-Information, 비용절감 및 생산성 향상, GDP 효과, 일자리 창출, 매출액, 수출 통계 등을 사용하고 있다. 경제적 파급효과 추정등 top-down 방식으로 측정할 수도 있고, 기업 설문 및 인터뷰를 통해 bottom up 방식으로 정보를 종합할 수도 있다. 최근 캐나다 우주청(CSA)은 자국의 우주분야에 대해서 “Principal Investigators Survey”를 바탕으로 우주분야 투자회수율(Return onInvestment, ROI)에 대해 분석을 실시하였다. 민간부문에서 ROI는 투자 총액 대비 그로부터 발생한 이익 또는 손실을 측정하는 금융 지표이다. 이는 서로 다른 투자들 간에수익성(profitability) 또는 효율성(efficiency)을 비교하는 데 사용된다. 공공부문에서ROI는 정부 예산이 공공 편익을 창출하는데 얼마나 효율적으로 할당되었는지를 나타내는 지표로 사용된다. 우주분야에 대한 ROI 지표는 이익이 실현되어 측정할 수 있을 때까지의 기간이 길기 때문에 측정에 다소 어려움이 있다. 캐나다 우주청은 문헌분석, 산업체 컨설팅, 계약 분석, 설문, 인터뷰, 미래 경제 투영법(Future economicprojection) 등을 종합적으로 사용하여 우주분야 투자로부터 발생한 편익 및 ROI를 정량화하였다. 이를 위해서 캐나다 우주청은 Innovation, Science and Economic Development Canada(ISED)과 함께 “pace Economic Model”을 개발하여 실증분석을 실시하였다.",
+  "summary": "투자 총액에 대비해서 발생한 이익 또는 손실을 측정하는 지표인 ROI(Return On Investment)를 우주분야에 적용할 때 우주분야는 측정될 수 있을 때까지의 기간이 길어서 측정이 다소 어려운데 캐나다 우주청은 문헌분석, 산업체 컨설팅, 미래 경제 투영법 등을 종합적으로 사용해서 우주분야 투자의 편익이나 ROI를 정량화했다."
+}

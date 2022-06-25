@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611040302184751_27",
+  "metadata": {
+    "doc_id": "PCY_201611040302184751",
+    "doc_type": "도서",
+    "doc_name": "행위자기반모형(Agent-Based Modeling)을 이용한 신기술과 지식 확산 연구",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2015",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Zhang & Nuttall (2011)은 에너지 절약을 위한 smart metering이라는 제품 확산을 위한 정부 정책 대안을 살펴보고, 행위자기반모형을 이용하여 각 대안의 장,단점을 분석하고 제품 확산을 위한 최상의 대안을 도출했다. 특히 Zhang & Nuttall 은 산업이 구조 (기업 간의 경쟁 정도)에 따른 smart metering 제품의 확산이 어떻게 달라질 수 있는지, 그리고 각 산업 구조에서의 효과적인 정부의 정책이 무엇이 되어야 하는지에 대해서 연구하였다. Kaufmann et al. (2009)는 정부의 보조금 지원 정책이 농민들 사이에 유기농 작물 재배 기법 확산에 어떻게 영향을 미치는지를 분석하였다.",
+  "summary": "각 산업구조에서 smart metering 제품을 확산시키기 위한 정부 정책에 대한 연구와, 유기농 작물재배 기법 확산에 있어 정부의 보조금 정책이 미치는 영향을 분석한 연구가 있다."
+}

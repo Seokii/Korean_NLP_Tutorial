@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210301163401_28",
+  "metadata": {
+    "doc_id": "PCY_201610210301163401",
+    "doc_type": "도서",
+    "doc_name": "열병합발전에서 ESS설치의 경제성 분석 연구",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "본 연구에서는 CHP의 기동 정지 계획 문제(Unit commitment)를 반영한 혼합 정수 계획법(Mixed integer linear programming) 모형을 구축하였다. 모형의 해법으로 Land and Doig(1960)가 개발한 분단 탐색법(Branch and bound method)으로 해의 집합에서 가능성이 없는 집합을 배제하며 가능해 영역을 계속 분할해 최적해를 구하는 방법이며, 본 연구는 수리 계획법에 널리 활용되는 상용화 프로그램 GAMS(The General Algebraic Modeling System )과 Cplex solver를 이용하여 해를 구하였다.",
+  "summary": "본 연구는 CHP의 기동정지계획문제를 반영해 혼합정수계획법 모형을 구축, 해를 구하기 위해 수리계획법에서 활용되는 상용화프로그램 GAMS와 Cplex solver를 이용했다."
+}

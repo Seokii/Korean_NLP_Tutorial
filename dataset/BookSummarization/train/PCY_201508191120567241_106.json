@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201508191120567241_106",
+  "metadata": {
+    "doc_id": "PCY_201508191120567241",
+    "doc_type": "도서",
+    "doc_name": "한국개발협력의 삼각협력 추진방안에 관한 연구",
+    "author": null,
+    "publisher": "경제‧인문사회연구회",
+    "published_year": null,
+    "kdc_label": "외교",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "“지배구조역량 지표”로는 세계은행에서 구축한 World GovernanceIndicator(WGI) 데이터에는 국가수준의 지배구조 역량을 측정하는 구성요소로서 언론의 자유와 책무성(Voice and Accountability), 정치적 안정과 비폭력(Political stability and absence of violence), 정부의 효과성(Government effectiveness), 규제의 질(Regulatory quality), 법치주의(Rule of law), 부패방지(Control of corruption) 등의 6개의 지표가 포함되어있다. WGI 데이터는 이 6개의 지표를 추정한 후 이 추정치를 백분위로 환산한 점수 자료를 제공하는데, 본 연구는 이 6개의 백분위 점수들의 평균값을 각 국가의 지배구조 역량을 대표하는 데이터로 해석한다.",
+  "summary": "국가수준 지배구조역량 측정의 구성요소로서 언론의 자유와 책무성, 정치적 안정과 비폭력 등 6개 지표가 포함되어, WGI데이터는 이들의 추정치를 백분위로 환산한 점수를 제공해 평균값을 국가의 지배구조를 대표하는 데이터로 본다."
+}

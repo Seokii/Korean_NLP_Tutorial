@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118884033_13",
+  "metadata": {
+    "doc_id": "CNTS-00118884033",
+    "doc_type": "도서",
+    "doc_name": "사회조사 자료연계 방법 연구",
+    "author": "정미옥",
+    "publisher": "통계청 통계개발원",
+    "published_year": null,
+    "kdc_label": "통계학",
+    "kdc_code": "310"
+  },
+  "chapter": null,
+  "passage": "미국의 사회조사는 커져가는 미국 사회의 복잡성을 연구하고, 사회적 변화를 모니터링 하고자 시카고대학교 여론조사센터(NORC: National Opinion Research Center)에서 실시하고 있다. 1972년부터 시작된 사회조사는 거의 매해 조사되었으나 1994년부터 2년 주기로 조사를 수행하고 있다. 조사방법은 조사원 대면 방식을 기본으로 하되 2000년까지는 PAPI(Paper and Pencil Interview)로, 2002년부터는 CAPI(Computer-Assisted Personal Interview)로 조사하고 있다. 조사영역은 매년 반복적으로 조사되는 핵심(core)영역과 사회적 관심사에 따라 특별히 선정된 관심(interest)영역으로 구성된다. 18세 이상 인구에 대해 매년 독립적으로 표본 설계하여 응답률은 약 70~80%로 응답자수는 약 1,500여 명 수준이다.",
+  "summary": "미국의 사회조사는  매년 실시되다 2년 주기로  PAPI에서  CAPI 방식으로 18세 이상 인구  중 표본 설계를 하여 핵심영역과 특별 선정 관심영역으로  실시되고  있다."
+}

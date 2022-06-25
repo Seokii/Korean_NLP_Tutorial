@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118871397_30",
+  "metadata": {
+    "doc_id": "CNTS-00118871397",
+    "doc_type": "도서",
+    "doc_name": "차세대염기서열분석(Next Generation Sequencing) 검사의 임상적 변이해석 및 검증방법 해설서(민원인 안내서)",
+    "author": "식품의약품안전처 의료기기정책과",
+    "publisher": "식품의약품안전처",
+    "published_year": "2019",
+    "kdc_label": "화학공학",
+    "kdc_code": "570"
+  },
+  "chapter": null,
+  "passage": "이 분류에 속하는 변이들은 암 관련 유전자에서 발견되는 체성돌연변이로써, 임상적 중요도가 알려지지 않은 채 같은 또는 다른 암 종에서 보고된 변이이거나, 아직까지 어느 암종에서도 보고된 적이 없는 변이이다. 이러한 변이들은 일반적인 인구집단 데이터베이스(the 1000 Genomes Project database, Exome Variant Server, Exome Aggregation Consortium database)에서도 유의마한 대립유전자 빈도가 관찰되지 않아야 한다. 이 그룹의 변이를 평가할 때는 돌연변이의 유형(예, nonsense 또는 missense 여부, frameshift 또는 in-frame deletion/duplication 여부)과 유전자의 주기능(예, 종양 억제 또는 유발 유전자 여부)을 고려해야 한다.",
+  "summary": "체성 돌연변이는 임상적 중요도가 알려지지 않았고 다른 암종에서도 보고되지 않은 변이이다. 이런 변이를 평가할 경우는 돌연변이의 유형 그리고 유전자의 주기능을 생각해야 한다."
+}

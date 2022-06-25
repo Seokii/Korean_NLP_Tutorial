@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611180239139771_8",
+  "metadata": {
+    "doc_id": "PCY_201611180239139771",
+    "doc_type": "도서",
+    "doc_name": "평일계통한계가격의 변동성 예측 : 다중주기(multi-frequency)모형을 중심으로",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "손실함수 비교 결과의 통계적 유의성 여부를 평가하기 위하여 Diebold andMariano (1995) 예측성과 비교 검정(DM 검정)을 실시하였다. DM 검정의 귀무가설은 두 모형의 예측성과가 동일하다는 것(equal predictive accuracy)이다. DM 검정 결과를 정리한 것이다. 기준모형(benchmark)을 MSM(8) 모형으로 두고 DM 통계량을 산출하였다. DM 통계량의 부호가 양(+)이면 기준모형에서 손실이 더 크고 음(-)이면 그 반대이다. DM 검정 결과 QLIKE를 제외하고 MSE(20일 예측기간 제외), MAD, R2LOG의 검정 통계치가 모두 음수이고 p-value 도 대부분 5% 이하이므로 MSM 모형의 예측성과가 높다는 점을 통계적으로도 확인된다.",
+  "summary": "손실함수의 통계적 유의성을 분석하기 위해 예측성과 비교검정을 진행하였는데 DM 검정의 귀무가설은 예측이 동일했다. DM 통계량의 부호가 양일 경우 손실이 더 크고 음일 경우 반대였다."
+}

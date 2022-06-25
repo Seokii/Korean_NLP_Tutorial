@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118879960_23",
+  "metadata": {
+    "doc_id": "CNTS-00118879960",
+    "doc_type": "도서",
+    "doc_name": "국민이전계정(NTA) 결과를 활용한 인구 변화의 경제 효과 분석",
+    "author": "김현경",
+    "publisher": "통계청 통계개발원",
+    "published_year": "2016",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": null,
+  "passage": "소비 부분에 대한 총량값 구성에 이어 노동 소득 부분에 대한 총량값 구성의 경우에는 임금 소득에 대한 총량값과 자영자 노동 소득에 대한 총량값을 역시 국민계정 자료를 활용하여 각각 구성해 내게 된다. 구체적으로 임금 소득에 대한 총량값의 경우에는 국민계정 내 ‘국민 처분가능소득과 처분(national disposable income and its appropriation)’ 부분의 ‘피용자보수 (compensation of employees)’와 ‘국외순수취 피용자보수(compensation of employees from the rest of the world, net)’에 대한 자료, 국민계정 내 ‘제도 부문별 소득계정(income accounts by institutional sectors)’ 부분의 ‘기타생산세(other taxes on production)’와 ‘기타생산보조금(other subsidies on production)’에 대한 정보, 그리고 노동 소득과 자본 소득 간의 배분 비율 정보를 이용하여 계산해 낸 노동 소득에 대한 ‘순생산 및 수입세(taxes less subsidies on production)’ 정보를 통해 구성이 이루어지게 된다. 반면에 자영자 노동 소득에 대한 총량값의 경우에는 국민계정 내 ‘제도 부문별 소득계정(income accounts by institutional sectors)’ 부분의 ‘영업 잉여(operating surplus)’ 항목에서 자가주거서비스(owner-occupied housing)를 차감하여 계산되는 혼합 소득(mixed income)에 2/3를 곱해 줌으로써 총량값 구성이 최종적으로 이루어지게 된다.",
+  "summary": "노동 소득 부분의 총량값 구성은 피용자보수와 국외순수취 피용자보수에 대한 자료, 기타생산세, 기타생산보조금에 대한 자료, 순생산 및 수입세의 정보를 통해  구성된 임금 소득 총량값과 영업잉여에서 자가주거서비스를 뺀 값인 혼합소득에 2/3을 곱한 값인 자영자 노동소득으로 구성한다. 임금 소득 총량값과 자영자 노동소득 모두 국민계정 자료를 활용하여 구성한다."
+}

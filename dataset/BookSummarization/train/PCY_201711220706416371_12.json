@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220706416371_12",
+  "metadata": {
+    "doc_id": "PCY_201711220706416371",
+    "doc_type": "도서",
+    "doc_name": "공익적 보건의료연구 자료 활용을 위한 Round-table conference",
+    "author": "배종면",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2011",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "미국의 SEER-Medicare data는 암등록자료와 65세 이상의 노인 인구만을 대상으로 한 자료로, 그간 NEJM 등을 포함하여 약 600여편의 국가 정책 방향 수립에 근거 제공한 자료원이다. National Cancer Institute(NCI) 산하 SEER registries와 Centers for Medicare and Medicaid Services(CMS)의 협력하에 이루어진 자료원은 SEER program에 속한 registries들이 제공한 개인식별자(individual identifiers)를 Medicare자료에 있는 개인식별자와 짝을 지어 병합되었다.",
+  "summary": "미국의 SEER-Medicare data는 암등록자료와 65세 이상 노인 인구 대상 자료로, 개인식별자를 Medicare자료에 있는 개인식별자와 짝을 지어 병합되었다. "
+}

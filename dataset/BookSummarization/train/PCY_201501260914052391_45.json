@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201501260914052391_45",
+  "metadata": {
+    "doc_id": "PCY_201501260914052391",
+    "doc_type": "도서",
+    "doc_name": "2014년 12월호(Vol.7, No.2): 위성 기술과 활용",
+    "author": null,
+    "publisher": "기상청",
+    "published_year": null,
+    "kdc_label": "기타",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "2012년 11월에 지구관측 관련 서비스가 실용화 단계(2015~2030)에 착수함에 따라 GMES (Global Monitoring for Environment and Security)에서 Copernicus로 명칭이 바뀌었다. 코페르니쿠스 운영을 위해 Sentinel 시리즈 위성이 개발 중에 있으며, 사회경제적 이익창출, 환경보호와 관리, 의사결정 지원 수단으로 활용 예정이다. 2012년부터 운영되고 있는 두 가지 코페르니쿠스 서비스는 위기관리서비스(Emergency Management Service, EMS)와 토지모니터링서비스(Land Monitoring Service)이다.",
+  "summary": "2012년부터 지구관측 관련 서비스 명칭은 GMES에서 코페르니쿠스로 바뀌었다. 코페르니쿠스 서비스는 위기관리서비스와 토지모니터링서비스가 있다."
+}

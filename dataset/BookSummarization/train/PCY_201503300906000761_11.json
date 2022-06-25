@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201503300906000761_11",
+  "metadata": {
+    "doc_id": "PCY_201503300906000761",
+    "doc_type": "도서",
+    "doc_name": "무기체계 RAM 업무지침",
+    "author": null,
+    "publisher": "방위사업청",
+    "published_year": null,
+    "kdc_label": "병무행정",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "부품 표면의 Case Temperature는 Absolute Maximum Rating과 부품의 특성인 Thermal Resistance( )에 의해 내부의 온도가 상승한다. 이러한 온도 상승으로 인해 부품 및 회로가 손상되는 것을 방지하기 위해 부품 선정 시 부품 및 회로에 인가되는 Absolute Maximum Rating에 비해 더 높은 수준의 Absolute Maximum Rating을 갖는 부품 및 회로를 선정하는 것이다. 예를 들면, 어떤 회로상에 1W의 전력이 인가된다면 실제 회로 및 부품 선정 시 1W의 Absolute Maximum Rating을 갖는 부품을 선정하는 것이 아닌 2W의 Absolute Maximum Rating을 갖는 부품을 선정하는 것이다. 이러한 것을 Derating Factor를 적용한다고 하는데, Derating Factor를 적용하는 이유는 생산된 부품은 설계 시에 예상했던 범위보다 낮거나 높은 일정 공차가 발생할 수 있으며, 운용 시 회로는 개발 시 예상한 부하에 비해 높은 부하가 발생할 수 있기 때문이다.",
+  "summary": "온도 상승으로 인한 부품손상을 예방하기 위해 Absolute Maximum Rating을 갖는 부품을 고른다. 예컨대, 회로에 1W 전력이 전달되면, 실제 회로에는 2W의 Absolute Maximum Rating을 갖도록 하는 것이며, Derating Factor를 적용한다고 한다."
+}

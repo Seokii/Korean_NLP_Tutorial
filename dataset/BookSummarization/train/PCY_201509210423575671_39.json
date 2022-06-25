@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201509210423575671_39",
+  "metadata": {
+    "doc_id": "PCY_201509210423575671",
+    "doc_type": "도서",
+    "doc_name": "계통안정성을 고려한 태양광･풍력 발전의 경제성연구",
+    "author": null,
+    "publisher": "에너지경제연구원\t",
+    "published_year": null,
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "슈퍼커패시터와 플라이휠(Flywheel) 기술은 충전할 수 있는 에너지 양이 적기 때문에 전력저장의 적용에는 한계가 있다. CAES (Compressed Air Energy Storage)의 경제성을 확보하기 위해서는 대 용량으로 설치되어야 하며, 지하 암반층 또는 폐광산 등을 이용해야 한다. 즉, 설치 장소의 제약을 받는다. 그러므로 전력저장에 쉽게 접근 가능한 저장기술은 대부분이 2차전지에 의한 저장기술들이다. 이중 활발한 연구가 진행 중인 기술로서는 나트륨-유황전지, 진보된 납축전 지(Advanced Lead-Acid), 바나듐레독스플로우(Vanadium Redox Flow; VRF), 리튬이온전지, VRLA(Valve Regulated Lead Acid)등 5가지가 대 표적이다.",
+  "summary": "전력저장에 쉽게 접근 가능한 저장기술은 대부분 2차전지에 의한 기술들이다. 여러 기술에 대해 활발한 연구가 진행 중이다."
+}

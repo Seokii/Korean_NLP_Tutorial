@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201509110503133191_8",
+  "metadata": {
+    "doc_id": "PCY_201509110503133191",
+    "doc_type": "도서",
+    "doc_name": "항공분야 빅데이터의 정책적 활용방안 연구",
+    "author": null,
+    "publisher": "한국교통연구원\t",
+    "published_year": null,
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "국제항공안전규정관리 및 구현 시스템(SARPs Management & Implementation System, SMIS)은 ICAO가 회원국을 대상으로 실시중인 항공안전평가에 대비하여 1만 여개의 방대한 국제표준의 이행현황을 매 조항별로 실시간 관리를 위 해 2006년 데이터베이스 기반 시스템을 개발 및 해외보급 중이다. 안전감독관리시스템(Safety Oversight Management System, SOMS)은 항공사 공항관제기관-정비조직 등에 대한 안전감독활동정보를 DB화하여 체계적으로 관리하기 위해 `01년에 국내용으로 개발하였다.",
+  "summary": "국제항공안전규정관리 및 구현시스템은 방대한 국제표준의 이행현황을 매 조항별로 실시간 관리를 위해 2006년 데이터베이스 기반시스템을 개발, 해외에 보급하고 있다. "
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201702210513170801_22",
+  "metadata": {
+    "doc_id": "PCY_201702210513170801",
+    "doc_type": "도서",
+    "doc_name": "건물부문의 환경부하 평가모형 개발을 위한 기초연구",
+    "author": null,
+    "publisher": "한국환경정책·평가연구원",
+    "published_year": "2016",
+    "kdc_label": "지역및도시",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Hybrid LCA 모델은 개별적산법인 상향식(Bottom-up)과 산업연관분석법을 차용한 하향식(Top-down)방법론을 통합한 방법론으로 볼 수 있다. Hybrid LCA는 여러 종류의 LCA방법론의 각 장점을 묶어 더 나은 LCA 접근법을 만드는데 있다고 볼 수 있다. HybridLCA 방법론들은 각각 매우 뚜렷한 차이점이 있으나, 모두 프로세스(process)와 산업연관분석법(I-O method)을 어떠한 방식으로든 결합했다는 공통점이 있다. 차이점은 프로세스와 투입산출 데이터를 혼합한 비율이 각각 Hybrid LCA방법 마다 조금씩 다르다는 점이다.",
+  "summary": "Hybrid LCA 모델은 프로세스와 투입산출 데이터를 혼합한 비율이 각기 다른 여러 방법론의 장점을 통합한 방법론이다."
+}

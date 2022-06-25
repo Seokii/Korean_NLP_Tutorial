@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504030503142701_34",
+  "metadata": {
+    "doc_id": "PCY_201504030503142701",
+    "doc_type": "도서",
+    "doc_name": "연구개발 투자가 한국 ICT(정보통신기술) 기업 성장에 미치는 영향",
+    "author": null,
+    "publisher": "정보통신정책연구원",
+    "published_year": "2014",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Blundell and Bond(1998)의 System-GMM은 위에서 지적된 바와 같이 변수의AR(1) 계수가 1에 가까워지는 경우 효율성(asymptotic efficiency)과 편이를 줄이기위해 추가적인 moment 조건을 더하는 방식이다. First-difference GMM의 방법대로difference equation 추정을 위해서 변수의 과거 값을 도구변수로 활용하여 추정하는동시에, level equation 추정을 위해서 변수의 first difference 값을 도구 변수로 활용하여 두 등식을 추정하기 때문에 system-GMM이라 불린다.",
+  "summary": "System-GMM은 과거 변수값과 변수의 first difference값을 도구 변수로 활용하여 두 등식을 추정하기 때문에 System-GMM이라고 불린다."
+}

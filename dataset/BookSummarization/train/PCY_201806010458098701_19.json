@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201806010458098701_19",
+  "metadata": {
+    "doc_id": "PCY_201806010458098701",
+    "doc_type": "도서",
+    "doc_name": "교통연구 (Journal of Transport Research), 제24권 제2호",
+    "author": null,
+    "publisher": "한국교통연구원",
+    "published_year": "2017",
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "사고예측 모형은 통계적 방법론에 의한 모형 구축방법이 대표적이며, 통계적 방법론은 교통사고건수를 기반으로 하기에 가산모형이 주로 이용되어 왔으며, 대표적으로 포아송모형(Jovanis and Chang, 1986; Joshua and Garber, 1990; Miaou and Lum, 1994), 음이항모형(Shankar et al., 1995; Poch and Mannering, 1996), 임의효과(Random effects) 모형(Shankar et al., 1998; Chin H. C. and Quddus, M.A., 2003; Sttikariya et.al., 2009), 영과잉(zero-inflated count model) 모형(Shankar et. al., 1997; Lee and Mannering, 2002; Malyshkina, N., Mannering, F. L., 2010), 확률적 모수(random parameters count models)모형(Anastasopoulos and Mannering, 2009; Venkataraman et al., 2011, 2013, 2014; Park, 2013) 등이 모형 구축에 적용되어왔다.",
+  "summary": "사고예측 모형은 통계적 방법론에 의한 모형 구축방법을 대표적으로 사용하며, 통계적 방법론은 교통사고건수 기반으로 가산모형을 주로 이용하여 대표적으로 포아송모형, 음이항모형 등이 모형 구축에 적용되었다. "
+}

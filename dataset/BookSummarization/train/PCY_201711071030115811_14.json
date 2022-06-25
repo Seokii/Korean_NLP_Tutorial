@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711071030115811_14",
+  "metadata": {
+    "doc_id": "PCY_201711071030115811",
+    "doc_type": "도서",
+    "doc_name": "전자적 증거와 관련한 미국의 전문법칙",
+    "author": "강구민",
+    "publisher": "대검찰청",
+    "published_year": "2016",
+    "kdc_label": "법무및검찰",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "연방증거법 제901(b)(4)에 따르면, “외향(appearance), 내용(contents), 실질(substance), 내적 유형(internal patterns), 또는 기타 현저한 특징들(distinctive characteristics)”을 근거로 제반상황(circumstances)과 연관하여 증거의 진정성을 인정할 수 있다. 예를 들어, email이 증거로 제출된 경우에 있어 email 상에 피고인의 email 주소, 피고인에게 익숙한 내용들(피고인과 관련된 것이라고 추정할 수 있는), 피고인의 별명이 보이는 경우에는 그 email을 정황증거(circumstantial evidence)에 근거하여 진정성을 인정할 수 있다. email의 독특한 특성으로 부호인 “@”가 표시되어 있고, email 주소에는 email에 접속한 사람의 이름이 나타나고, “To,” “From,” 또는 서명란(signature block areas)에는 송･수신의 이름이 있다.",
+  "summary": "연방증거법에 따르면 외향, 내용, 실질, 내적유형 또는 기타 현저한 특징들, 즉 이메일의 피고인 주소, 피고인에게 익숙한 내용 등 정황을 근거로 제반상황과 연관하여 증거의 진정성을 인정할 수 있다."
+}

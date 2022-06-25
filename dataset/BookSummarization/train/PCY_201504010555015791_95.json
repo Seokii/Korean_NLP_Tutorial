@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504010555015791_95",
+  "metadata": {
+    "doc_id": "PCY_201504010555015791",
+    "doc_type": "도서",
+    "doc_name": "바이오경제시대 과학기술정책의제 연구사업 (4년차) -개인 유전자 기반 맞춤 의료의 현황과 발전 과제-",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": null,
+    "kdc_label": "기타",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Mi-Oncoseq 프로젝트(Michigan Oncology Sequencing Program)는 미시건 의대에서 진행성 혹은 난치성 암환자를 대상으로 하는 유전자 기반 진단, 상담, 치료 프로그램이다(Roychowdhury et al., 2011). 이 프로젝트에서는 우선 암 환자의 암 조직 일부를 떼어내어 조직검사를 통해 인체조직학적 측면에서의 분석 적격성을 판별한 뒤, 조직샘플을 생성하고 시퀀싱, 분석의 과정을 거쳐 특정 유전자의 발현을 검출하고 표적치료제를 권고하는데, 이 모든 과정이 3~4주 안에 이루어진다 (Chinnaiyan, 2013). 예를 들어, Mi-Oncoseq 프로젝트를 통해 소아백혈병 환자에 게서 처치 가능한 유전자(actionable gene)인 ETV6와 ABL1가 발견되었다면 Michigan 의대의 의사들은 환자에게 imatinib을 표적치료제로 권고할 수 있다.",
+  "summary": "Mi-Oncoseq 프로젝트는 진행성, 난치성 암환우를 대상으로 하는 일련의 의료 프로그램이다. 이것은 조직검사로 분석 적절성 파악, 샘플 생생 및 조사를 통해 특정 DNA를 찾아내고 표적치료를 권유하는 과정이 1달 안에 이뤄진다."
+}

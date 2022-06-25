@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049144800_50_50-0",
+  "metadata": {
+    "doc_id": "CNTS-00049144800",
+    "doc_type": "도서",
+    "doc_name": "Ethernet 기술혁신과 정책시사점",
+    "author": "강홍렬",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2000",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "III. MAN, WAN의 새로운 대안 I. Ethernet기술의 광역화",
+  "passage": "장기적인 방향과는 달리 당분간 Ethernet기술과 SONET은 상호 대체적인 위치에 있기보다는 상호보완적인(complimentary) 대안으로 수용될 것이다. 이를 위해 10GigE과 관련한 표준화도 정보통신사업자들이 가지고 있는 기존의 설비, 즉 SONET 기반을 활용할 수 있는 방향을 포함하게 될 것이다. MAN, WAN 서비스를 위한 Ethernet은 ATM이나 SONET과 비교하여 아직은 풀어야 할 단점들을 가지고 있기 때문에, 당분간 기존의 SONET기술이 가지고 있는 기술적인 장점을 활용하여 10GigE의 개념을 보완할 필요도 있을 것이다. 그리고, SONET 위에 Ethernet기술을 접합하는 방식은, 종래에 광범위하게 사용되고 있는 SONET이 지니고 있는 비용 측면의 비효율성과 복잡성(complexity)을 극복할 수 있는 방법론의 하나로서 제공될 것이다. Ethernet과 SONET의 접점에는 나름대로의 기술적인 문제점이 존재한다. 그것은 우선 기존 Ethernet의 조합과 SONET의 미묘한 속도 차이 때문에 발생한다. 10GigE의 표준화 과정에서도 관련된 논의가 진행되고 있다.",
+  "summary": "당분간 Ethernet과 SONET은 상호보완적 대안일 것이다. 따라서 10GigE의 표준화도 SONET 기반 활용을 포함할 것이다. SONET과 Ethernet기술의 접합은, SONET의 비효율성 및 복잡성 극복방법의 하나일 것이다. Ethernet과 SONET의 속도 차이로 기술적 문제점이 있다."
+}

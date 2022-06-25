@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611140504439121_5",
+  "metadata": {
+    "doc_id": "PCY_201611140504439121",
+    "doc_type": "도서",
+    "doc_name": "표준특허 길라잡이",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": "2016",
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "ISO의 경우에는 회원들만이 접속하여 기고서 제출, 의견 제출 등을 행할 수 있는 전자시스템인 라이브링크(Livelink)가 구축되어 있고, IEC의 경우에는 협업 툴(Collaboration Tools)라는 전자 시스템이 구축되어 있으며, ITU의 경우에는 ITU TIES(Telecommunication Information Exchange Service)라는 문서 교환을 위한 전자 시스템이 구축되어 있는 등 회원만이 접속 가능한 자체의 전자 시스템을 통하여 표준화 문서들을 업로드 및 다운로드하는 것이 많은 표준화 기구들에서 일반화되어 있으므로, 표준화 기구 가입 후에 홈페이지를 통해 전자 시스템에 관한 정보(설명서 등)를 알아보면 될 것이다.",
+  "summary": "표준화 기구들은 자체 전자 시스템을 통한 표준화 문서들의 업로드 및 다운로드가 일반화되어 있는데, ISO는 라이브링크, IEC는 협업 툴, ITU는 ITU TIES가 그것이다."
+}

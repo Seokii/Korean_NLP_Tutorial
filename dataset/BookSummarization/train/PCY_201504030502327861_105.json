@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504030502327861_105",
+  "metadata": {
+    "doc_id": "PCY_201504030502327861",
+    "doc_type": "도서",
+    "doc_name": "사람중심 정보화 실행 전략",
+    "author": null,
+    "publisher": "정보통신정책연구원",
+    "published_year": "2014",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "데이터 관리층(Storage-Tier: Data Generation)은 3계층 구조로 제안된 정보서비스 플랫폼의 기저(Infra)에 자리하면서 다양한 형식의 원천 데이터(Raw Data)를 유지, 관리한다. 한편 최상위에 위치하는 웹기반 이용층(Web-Tier: Application Ends)은 플랫폼 참여자들의 사회적 활동 공간으로서 인터넷의 사회적 특성을 반영하는 역할을 수행한다. 서비스 전달층(Process-Tier: Service Means)은 데이터 관리층(Storage-Tier)과 웹기반 이용 층(Web-Tier) 사이의 연결고리로서, 미디어 가치사슬(CPNT: Contents－Platform－Network－Terminal)에서 Contents를 Terminal까지 전달하는 공통기반 역할을 수행한다.",
+  "summary": "데이터 관리층은 다양한 원천 데이터 관리와 플랫폼 참여자들의 활동의 장, 미디어 가치사슬을 연결하는 고리로서의 역할을 한다. "
+}

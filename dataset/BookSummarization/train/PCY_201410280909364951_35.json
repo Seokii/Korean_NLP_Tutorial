@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201410280909364951_35",
+  "metadata": {
+    "doc_id": "PCY_201410280909364951",
+    "doc_type": "도서",
+    "doc_name": "국토연구 2014년 9월(통권 82권)",
+    "author": null,
+    "publisher": "국토연구원",
+    "published_year": null,
+    "kdc_label": "지역및도시",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "이러한 이유로 공사비 예측과 관련된 다양한 방식의 연구가 이루어져 왔으며 현재에도 예측 정확도 향상을 위한 연구가 이루어지고 있다. 초기에는 단위 기준에 의한 공사비 예측 방법(Square Foot Price)이 사용되었고, 이후 컴퓨터를 이용한 회귀분석기법(Regression Analysis), 인공신경망(Neural Networks), 사례기반추론(Case Based Reasoning: CBR), 유전자알고리즘(Genetic Algorithm), 몬테카를로 시뮬레이션(Monte Carlo Simulation), 전문가 시스템(Expert System) 등이 공사비 예측 방법으로 사용되고 있다.",
+  "summary": "공사비 예측의 정확도를 높이기 위해 지속적인 연구가 이뤄지고 있으며 인공신경망, 유전자알고리즘 등은 실제 현장에서 공사비 예측 방법으로 사용된다."
+}

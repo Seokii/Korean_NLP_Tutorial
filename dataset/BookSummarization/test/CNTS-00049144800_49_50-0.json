@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049144800_49_50-0",
+  "metadata": {
+    "doc_id": "CNTS-00049144800",
+    "doc_type": "도서",
+    "doc_name": "Ethernet 기술혁신과 정책시사점",
+    "author": "강홍렬",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2000",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "III. MAN, WAN의 새로운 대안 I. Ethernet기술의 광역화",
+  "passage": "SONET에 대한 기존의 투자와 SONET기반의 존재는 사실상 GigE이나 표준화 되고 있는 10GigE의 시장 확보와 관련하여 중요한 시사점을 내포하고 있는 것으로 이해할 수 있다. 10GigE의 표준화 과정에 기존 SOENT의 존재를 민감하게 받아들이는 것도 서비스 사업자들이 이미 광범위하게 가지고 있는 기반을 10GigE의 중요한 시장기반으로 활용하겠다는 의도를 담고 있다. 10GigE의 가장 기본적인 용도 중의 하나를 SONET 중심의 기존 정보통신기반 위에서 WAN서비스 제공을 위한 선택의 하나로서 부각시키겠다는 것이다. 지금까지 대부분의 MAN 서비스가 SONET과 TEM(time division multiplexting)에 근거하고 있었기 때문에, MAN 영역에서의 Ethernet과 관련한 논의에서 SONET의 존재를 무시할 경우 네트워크 진화의 단절(discontinuity)을 의미하고 이는 사실상 10GigE 시장의 전망 자체를 상당히 흐리게 할 것이다.",
+  "summary": "10GigE의 표준화 과정에 기존 SOENT의 존재를 민감하게 받아들이는 것도 서비스 사업자가 가진 기반을 10GigE의 중요시장기반으로 활용할 의도이다. MAN 영역에서 Ethernet관련 논의에서 SONET의 존재 무시는 네트워크 진화의 단절을 의미한다."
+}

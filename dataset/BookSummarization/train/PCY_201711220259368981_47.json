@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220259368981_47",
+  "metadata": {
+    "doc_id": "PCY_201711220259368981",
+    "doc_type": "도서",
+    "doc_name": "진단 및 치료재료의 재사용 원칙에 관한 연구",
+    "author": "이상무",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2009",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "대부분의 적합성 평가절차에서 제조업자들은 제조품질표준(QMS)의 개발과 실행을 요구받는다. Class I로 분류된 의료기기 이외의 다른 의료기기의 재처리업자는 적합한 적합성평가절차(CAP)를 제출해야 하며, TGA로부터 적합성평가인증서(Conformity Assessment Certificate, CAC)를 받아야 한다. Medical Devices Regulation의 schedule 3에서 CAP에 대해 기술하고 있으며 적합성평가인증서는 의료기기의 안전성과 유효성에 대한 필수원칙(Essential Principles, EP)의 준수를 제조업자가 보여주도록 하는 수단이 된다.",
+  "summary": "제조업자들은 적합성평가에서 품질표준을 지켜야한다. Class l 이외의 의료기기에 대해 안정성과 유효성을 위한 적합한 적합성평가절차를 제출하고 적합성평가인증서를 받아야 한다."
+}

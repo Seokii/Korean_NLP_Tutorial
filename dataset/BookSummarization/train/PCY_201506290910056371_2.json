@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201506290910056371_2",
+  "metadata": {
+    "doc_id": "PCY_201506290910056371",
+    "doc_type": "도서",
+    "doc_name": "유전자치료제 순도시험법 시험정보집",
+    "author": null,
+    "publisher": "식품의약품안전처",
+    "published_year": null,
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "이러한 이유로, 의약품 국제조화회의 (ICH, International Conference on Harmonization) 가이드라인인 “Specifications: Test Procedures and Acceptance Criteria for Biotechnological/Biological Products, Q6B”에서도 공정 관련 또는 제품 관련 불순물에 대한 품질관리 시험을 권고하고 있다. 제조공정 관련 불순물은 세포기질(예; 숙주세포 단백질, 숙주세포 DNA), 세포배양(예; 유도물질, 항생제 또는 배지 성분) 또는 완제의약품을 제조하는 일련의 공정에서 유래한 물질이 불순물로 분류될 수 있으며, 크게 세포기질 유래, 세포배양 유래, 다운 스트림(down stream) 유래 불순물과 같이 3범주로 구분하였다. 그러나, 아래에 기술된 불순물로만 한정되지는 않는다.",
+  "summary": "의약품 국제조화회의 가이드라인에서 공정관련 또는 제품관련 불순물에대한 품질관리 시험을 권고하고있다.  제조공정 관련 불순물은 세포기질, 세포배양, 완제의약품을 제조 공정에서 유래한 물질로 분류된다."
+}

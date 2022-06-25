@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611040302184751_33",
+  "metadata": {
+    "doc_id": "PCY_201611040302184751",
+    "doc_type": "도서",
+    "doc_name": "행위자기반모형(Agent-Based Modeling)을 이용한 신기술과 지식 확산 연구",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2015",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Network effects는 크게 직접적인 network effects와 간접적인 network effects로 구분된다 (Katz & Shapiro, 1986). 직접적인 network effects는 특정 제품을 사는 사람이 수가 많아졌을 때, 해당 제품을 구매함으로써 생기는 직접적인 효과를 말한다. 예를 들면, 특정 자동차를 구매하는 사람이 많은 경우 해당 자동차의 가격이 하락할 수 있는데, 이것이 직접적인 network effects의 예이다. 간접적인 network effects는 특정 제품을 사용하는 사람이 많을 때 해당 제품과 관련된 부가적인 혜택이 생기는 경우를 말한다. 예를 들어 특정 브랜드의 자동차를 사는 사람이 많은 경우 해당 브랜드의 차량을 수리해 주는 수리점들이 많이 생긴다든지, 아니면 해당 브랜드 관련 액세서리 제품을 판매하는 회사가 많아지는 경우가 간접적 network effects의 예이다.",
+  "summary": "Network effects는 직접적인 것과 간접적인 것으로 나뉜다. 직접적인 것은 제품 구매자 수가 증가할 때 생기는 효과를 의미한다. 간접적인 것은 제품 사용자가 많을 때 관련 부가 혜택이 생기는 경우를 말한다. "
+}

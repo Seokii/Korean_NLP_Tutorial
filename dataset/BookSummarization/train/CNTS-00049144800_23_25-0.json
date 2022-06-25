@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049144800_23_25-0",
+  "metadata": {
+    "doc_id": "CNTS-00049144800",
+    "doc_type": "도서",
+    "doc_name": "Ethernet 기술혁신과 정책시사점",
+    "author": "강홍렬",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2000",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "II. Ethernet기술의 진화 1. Ethernet기술의 혁신: GigE와 10GigE",
+  "passage": "따라서 GigE과 10GigE은 당분간 주로 현재 네트워크를 설계하는 과정에 장애가 주로 발생하는 분야인 링크(link)나 포트(port)의 통합(aggregation) 또는 multiplexing과 트렁킹(trunking)에서 장애를 제거하는 용도에서 주로 활용될 것으로 보인다. 즉 서버팜(server farm 또는 data center)과 백본 부분 또는 그 이상의 서비스사업자를 위한 용도 등이 이들을 활용할 수 있는 영역이 될 것이다. 이들 분야에서는 100Mbps수준의 Fast Ethernet이나 OC-3 ATM으로 새로이 전개되는 데이터 트래픽의 흐름을 받아들이기에는 무리가 많은 것으로 판단된다. ‘Gigabit Ethernet Alliance'에서 GigE의 용도를 4가지 정도로 제시하고, 그 전이경로(migration path)를 제시하고 있다: (가) 스위치와 서버 사이의 링크 고도화, (나) 스위치간의 연결 고도화, (다) Fast Ethernet 스위치의 고도화, (라) 공유FDDI의 고도화 등이다. 장비업체들도 자신들의 제품에 적합한 다양한 전이경로와 LAN 고도화를 위한 네트워크의 설계방식을 제시하고 있다. 이와 같이 기존에 장애가 발생하던 영역에서 GigE이나 10GigE이 활용되어 장애를 풀어갈 경우, 서버나 호스트(host), 그리고 Ethernet 위에서 트래픽을 제어하는 스위치나 라우터에서 발생하는 트래픽은 모두 수용될 수 있을 것으로 판단된다. 지금까지 판매되고 있는 GigE도 Core계층과 분배(distribution)계층의 통합을 위하여 사용된 것으로 나타나고 있다.",
+  "summary": "GigE과 10GigE은 링크나 포트의 통합, multiplexing과 트렁킹의 장애해소에 활용될 것이다. ‘Gigabit Ethernet Alliance'에서 GigE의 용도를 (가)스위치와 서버 링크 고도화, (나)스위치 연결 고도화, (다)Fast Ethernet 스위치 고도화, (라)공유FDDI 고도화 등으로 제시하였다. GigE, 10GigE로 장애를 해소하면 스위치, 라우터에서 발생하는 트래픽은 모두 수용될 것이다."
+}

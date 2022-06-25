@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201510190640147001_2",
+  "metadata": {
+    "doc_id": "PCY_201510190640147001",
+    "doc_type": "도서",
+    "doc_name": "인간 유용단백질 생산을 위한 형질 전환 소의 개발",
+    "author": null,
+    "publisher": "농림축산식품부",
+    "published_year": null,
+    "kdc_label": "농업·농촌",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "최근에 축산업에도 첨단 분자생물학적 기술이 적용 되어 소, 염소 등의 우유에서의 유용단백질 생산관련 연구가 수행되고 있다. 현재 치료용 재조합 단백질을 생산하는 방법에는 크게 네 가지 방법이 적용되고 있다. E.coli을 이용하는 방법은 가장 먼저 상업화 되었고 효율적이지만, 그 재조합 단백질이 단순한 non-glycosylated proteins이라는 제한점이 있다. 비록 생산 가격은 저렴할지라도, 단백질의 processing과 refolding의 가격이 너무 높다. 그 외에 fungal systems, baculovirus production system등이 있다. 가장 표준적으로 complex glycosylated proteins (예, monoclonal antibody)를 생산하는 방법은 세포 배양 방법이다. 이 방법은 단백질이 적절히 folding되고 변환되지만, 생산 시설에 대한 낮은 양이 문제점으로 지적되고 있다.",
+  "summary": "축산업에 분자생물학적 기술을 적용, 우유에서의 유용단백질 생산관련 연구가 수행중이다. 세포 배양법을 통해 complex glycosylated proteins를 생산할 수 있다. "
+}

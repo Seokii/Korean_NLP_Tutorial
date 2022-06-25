@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201709040221378651_135",
+  "metadata": {
+    "doc_id": "PCY_201709040221378651",
+    "doc_type": "도서",
+    "doc_name": "기업의 금융활동과 고용 및 설비투자",
+    "author": "정동관, 서환주, 이은정, 김준일",
+    "publisher": "한국노동연구원",
+    "published_year": "2016",
+    "kdc_label": "고용노동",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "분석 방법은 패널데이터에 관한 일반적인 방식인 고정효과분석과 임의효과분석 이외에 Arellano-Bond difference GMM을 활용하였다. AB GMM은 기본적으로 많은 표본과 짧은 분석기간으로 구성된 패널데이터를 측정하기 위하여 고안된 추정방식이다. 즉, 많은 기업들을 대상으로 짧은 기간 동안에 발생한 현상을 분석하는 데 용이하다. 이러한 점에서 본 연구내용에 적합한 분석틀이라고 말할 수 있다. 뿐만 아니라, AB GMM는 기술수준, 경영진 능력 등의 unobserved firm-specific heterogeneity로인한 내생성 문제를 해결하는 데도 도움이 된다. 또한, 자체적인 생성된 도구변수를 활용함으로써 역상관관계로 인한 내생성 문제를 극복하는 데에도 효과적이다. 또한 Error term의 heteroskedasticity와 serial correlation문제를 보완하기 위하여 panel robust 표준오차를 활용하였다.",
+  "summary": "많은 기업들에 짧은 기간 동안 발생한 현상을 분석하기 위해 Arellano-Bond difference GMM 분석 방법을 사용하였다. unobserved firm-specific heterogeneity와 상관관계로 인한 내생성 문제 해결에 도움이 되다."
+}

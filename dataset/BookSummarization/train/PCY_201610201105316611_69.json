@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610201105316611_69",
+  "metadata": {
+    "doc_id": "PCY_201610201105316611",
+    "doc_type": "도서",
+    "doc_name": "사회·기술시스템 전환 전략 연구사업(1차년도)",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2015",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Openspending은 모든 정부와 기업의 금융거래를 추적하고, 관련 데이터를 유용하고 보기 좋은 형태로 표현하는 데이터 공유 목적의 커뮤니티 및 웹 어플리케이션이다. Openspending은 자원자들의 커뮤니티 참여에 의해 유지되며, 정부 예산에 관심 있는 사람은 누구든지 Openspending data-base에 자료 제공하고, 이를 가시화시킬 수 있다. 또한, 정부 재정과 연관된 일련의 거래비용 자료들로 구성된 집합 데이터를 지원한다. 대표적인 프로젝트로는 where does my money go가 있다. 이 프로젝트는 영국 시민들이 그들의 세금이 어디에서 소비되는지를 시각화하여 보여준다(EU, 2015; 29).",
+  "summary": "정부 예산에 흥미가 있는 사람들의 자발적인 참여로 서비스되는 Openspending을 통해 정부 예산을 시각화할 수 있다. 영국의 where dose my money go?가 그 예이다."
+}

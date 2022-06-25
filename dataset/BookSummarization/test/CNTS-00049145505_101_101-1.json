@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049145505_101_101-1",
+  "metadata": {
+    "doc_id": "CNTS-00049145505",
+    "doc_type": "도서",
+    "doc_name": "공공 및 민간부분의 정보화를 위한 위성통신 활용방안 연구",
+    "author": "손상영",
+    "publisher": "정보통신정책연구원",
+    "published_year": "1999",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "제 4 장 위성망과 타 가입자망과의 비교분석 제 1 절 xDSL(x Digital Subscriber Line)",
+  "passage": "ANSI와 ETSI에서 표준화가 진행되고 있으며 그 방향은 기존의 xDSL 기술에 비해 훨씬 광대역의 데이터 속도를 유지하면서 모뎀가격은 ADSL보다 저렴하도록 표준화가 추진되고 있다. 현재 Amiti사에서는 S-DMT(Synchronous-DMT) 방식을 제안하고 있으며, Bell Lab에서는 CAP 방식을 제안하고 있다. 또한 Analog Device, Aware, BT사 등에서는 하향에서는 전력 측변에서 유리한 CAP 방식을, 상향에서는 잡음(noise)을 고려하여 S-DMT 방식을 채택하는 혼합시스템(hybrid system)을 제안하고 있다. 현재 S-DMT를 주장하는 진영과 CAP 방식을 주장하는 진영이 제안서를 만들고 있는데 아직까지는 확정된 표준이 없는 상황이다.",
+  "summary": "기존 xDSL 기술보다 데이터 속도가 빠르고 ADSL보다 모뎀이 저렴한 방향으로 표준화가 진행되고 있다. 현재 여러 회사에서 S-DMT 또는 CAP 방식을 제안하고 있는데, 아직 결정된 바는 없다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201911060512260561_10",
+  "metadata": {
+    "doc_id": "PCY_201911060512260561",
+    "doc_type": "도서",
+    "doc_name": "드론 기반 무선 센서 네트워크의 통신 및 보안 기술 동향 (Communication and Security Technology Trends in Drone-assisted Wireless Sensor Network)",
+    "author": "왕기철, 이병선, 안재영",
+    "publisher": "한국전자통신연구원",
+    "published_year": "2019",
+    "kdc_label": "과학기술연구",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Ho 등은 센서 노드들의 전송 시 비트 에러율(BER: Bit Error Rate) 감소, 에너지 소모 감소, 그리고 드론의 비행시간 최소화를 목표로 하는 ParticleSwarm Optimization(PSO) 기법을 제안하였다. 제안된 PSO 방법은 Low-Energy Adaptive Clustering Hierarchy(LEACH)에 비해 드론의 비행시간은 비슷하게 유지하면서 노드들의 에너지 소모 및 BER을 크게 감소시켰다. 노드들의 에너지 소모가 평균적으로 감소함으로써 네트워크의 수명이 증가하였고, 바람은 드론의 비행시간에만 영향을 미칠 뿐 에너지 소모와 BER에는 별 영향이 없었다.",
+  "summary": "Ho 등이 제안한 PSO는 드론의 비행시간은 유지하되 노드들의 에너지 소모와 BER은 많이 줄여 네트워크의 수명이 늘어났고 바람의 영향은 미미했다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210256353111_28",
+  "metadata": {
+    "doc_id": "PCY_201610210256353111",
+    "doc_type": "도서",
+    "doc_name": "확률적 전력계통망 최적화모형 구축 연구",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "풍력확률모형 도출을 위한 방법론은 크게 네 단계의 과정으로 이루어져있다. 첫 번째 단계에서는 풍속예측모형을 통계모형을 이용해서 개발하고, 두 번째 단계에서는 풍속예측모형을 이용해 Monte Carlo 시뮬레이션 방법론을 통해서 샘플 풍속 profile을 생산한다. 세 번째 단계에서는 풍력 터빈의 power curve를 이용해 풍속 Profile을 풍력 Profile로 변환시키고, 그리고 마지막 네 번째 단계에서는 풍력 Profile 샘플에서 대표성을 지니는 시나리오 Profile을 추출하게 된다. 풍력 확률 모형의 방법론은 Jeon et al(2015)에서 사용된 방법을 적용하였으며, 아래에서 각 단계에 대해서 자세하게 살펴보도록 하겠다.",
+  "summary": "풍력확률모형 도출 방법론은 풍속예측모형 개발, 샘플 풍속 profile 생산, 풍속 profile을 풍력 profile로 변환, 시나리오 profile 추출 등의 네 단계의 과정이 있다."
+}

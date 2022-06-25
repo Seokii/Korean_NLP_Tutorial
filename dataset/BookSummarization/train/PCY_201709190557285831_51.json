@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201709190557285831_51",
+  "metadata": {
+    "doc_id": "PCY_201709190557285831",
+    "doc_type": "도서",
+    "doc_name": "에너지 포커스 : 2016 여름호",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Singapore Electricity Pool로 불리는 하루 전 도매시장이 1998년 개장되었다. NEMS(National Electricity Market of Singapore)는 실시간 도매시 장과 소매시장을 총괄하고 2003년 운영을 시작하였다. NEMS는 에너지시장과 1차·2차 보조서비스 시장, contingency reserves, regulation을 조달한다. DR은 공식적으로 2004년부터 NEMS에 포함되었고 차단가능 부하제도(Interruptible Load Scheme, IL)가 도입되었다. IL 프로그램에 참여하면 relevant reserve price(발전기에 지급하는 1차, 2차 및 contingency reserves 가격과 동일)로 보상을 받게 된다.",
+  "summary": "실시간 도매시장과 소매시장을 총괄하는 NEMS는 2003년 운영을 시작했다. DR은 2004년부터 NEMS에 포함되었으며 차단가능 부하제도가 도입되었다."
+}

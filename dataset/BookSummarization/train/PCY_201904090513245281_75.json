@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201904090513245281_75",
+  "metadata": {
+    "doc_id": "PCY_201904090513245281",
+    "doc_type": "도서",
+    "doc_name": "농업·농촌 분야 4차 산업혁명 기술 적용 현황과 확대 방안",
+    "author": "김병률, 이명기, 허정회, 송성환",
+    "publisher": "한국농촌경제연구원",
+    "published_year": "2018",
+    "kdc_label": "농업·농촌",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "지능형 식품 생산, 유통 환경 제어시스템의 대표 기술로 u-RPC 개발이 이루어졌는데, 현재 제2세대 RPC에서 발생하는 이력, 물량 및 품질관리 문제점을 해결하기 위하여 수행되었으며, 특히 WTO에 의한 수입쌀에 대한 우리나라 쌀 산업의 경쟁력 강화를 위해 이력추적을 통한 외국산과의 차별화, 안전한 고품질 쌀 생산, 기술 향상을 통한 가격경쟁력 강화을 위하여 u-IT 기술을 융합한 새로운 RPC 모델, 즉 제3세대 u-RPC 모델을 개발하였다. u-RPC모델은 아래 그림과 같이 크게 u-생산 및 반입 관리 모델(u-Traceability and Intake Management System of Paddy: u-TIMSP), u-가공공정 모델(Extended- Yield &Inventory Control System: E-YICS) 및 u-유통 공정 모델(Real Time Quality Management System: RTQMS) 등 3개 세부 모델로 구성되어 있으며, 총 16개의 세부 기술로 구분할 수 있다.",
+  "summary": "u-RPC은 지능형 식품생산과 유통 환경 제어시스템의 대표기술로 총 3세대까지 개발되었으며 16개의 세부기술을 가지고 있다. "
+}

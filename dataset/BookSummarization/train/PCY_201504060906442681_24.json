@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504060906442681_24",
+  "metadata": {
+    "doc_id": "PCY_201504060906442681",
+    "doc_type": "도서",
+    "doc_name": "반도체설계재산유통가이드북",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "외부 인터페이스에서 빼놓지 말아야 할 부분이 Bus Interface이다. IP를 통합하기 위해서는 일반적으로 통일된 Bus를 사용하게 되는데, 만일 서로 다른 Bus를 사용하는 경우에는 별도의 Bus Bridge를 사용하여야 한다. 따라서 제공되는 IP가 어떤 Bus를 사용하고 있으며, IP 사용자가 다른 버스를 사용할 경우에는 어떠한 형태로 Bus 변환을 지원할 것인지에 대한 부분도 함께 기술되어 있어야 한다. Bus Bridge와 같이 별도로 지원되는 부분에 대해서는 Document Datasheet의 내용에 추가로 포함하지 않고 Function Overview 내용에 일부 포함하여 제공하는 수준이다. 실제 지원이 필요한 경우에는 별도의 Bus Bridge Document 또는 Integration Guide 등을 통하여 제공할 수 있다.",
+  "summary": "IP를 통합할 때 서로 다른 Bus를 사용하는 경우에는 별도의 Bus Bridge를 사용하여야 한다. 실제 지원이 필요한 경우에는 별도의 Bus Bridge Document 등을 통하여 제공할 수 있다."
+}

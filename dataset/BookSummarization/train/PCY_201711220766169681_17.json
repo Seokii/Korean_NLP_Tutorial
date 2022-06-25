@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220766169681_17",
+  "metadata": {
+    "doc_id": "PCY_201711220766169681",
+    "doc_type": "도서",
+    "doc_name": "비교효과연구를 위한 인프라 현황분석",
+    "author": "신상진",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2012",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "국소 전립샘암의 치료법에 대한 비교효과연구가 2008년 AHRQ의 지원으로 수행되었다. 전립샘암 치료법들 즉, 한냉요법(Cryotherapy), 복강경술 또는 로봇수술절제(Laparascopic or robotic prostatectomy), 안드로겐 박탈요법(Primary androgen deprivation therapy), 고강도 집속형 초음파 수술기(High-Intensity Focused Ultrasound), 양성자 치료(Proton beam therapy), 그리고 세기변조방사선치료(Intensity Modulated Radiation Therapy) 등을 비교하였으나 어느 치료법이 더 효과적인지에 대한 평가는 불가능하였다. 그러나 수술방법 중 근치적 전립샘 절제술(Radical prostatectomy)의 경우는 시술이 많이 시행된 의료기관에서 숙련된 외과의에 의해 수술을 받은 경우가 부작용 발생이 적게 발생하는 것을 확인하였다.",
+  "summary": "AHRQ의 지원을 통해 진행된 국소 전립샘암 치료방법의 효율성 비교 연구는 어떤 치료법이 가장 효과적인지 판단하지 못했다. 하지만 숙련된 의사로부터 근치적 전립샘 절제술을 받을 시 부작용 발생률이 낮다는 것을 확인했다."
+}

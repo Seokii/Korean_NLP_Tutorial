@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201908280928406611_18",
+  "metadata": {
+    "doc_id": "PCY_201908280928406611",
+    "doc_type": "도서",
+    "doc_name": "노동시장제도와 임금불평등 연구",
+    "author": "이병희, 정성미, 김현경, 이시균",
+    "publisher": "한국노동연구원",
+    "published_year": "2018",
+    "kdc_label": "고용노동",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "모성 임금 페널티를 평균 수준이 아닌 분위 수준에서 연구한 대표적 연구인 Budig and Hodges(2010)는 조건부 분위회귀분석을 통해 분위별로 모성 임금 페널티가 다르게 영향을 미치며, 특히 저임금에서 더욱 크다는 주장을 했다. 그러나 Killewald and Bearak(2014)는 분위별 모성 페널티(Motherhood penalty) 연구를 함에 있어 기존의 조건 분위회귀분석을 사용한 방법론을 지적했다. Killewald and Bearak(2014)는 Budig and Hodges(2010)의 자료구성을 그대로 따르며, 패널데이터를 이용하여 무조건부 분위회귀 고정효과분석(Fixed effects in unconditional quantile regression)으로 추정한 결과, 기존의 결과와 달리 저임금에서 모성 페널티가 더 크지 않다는 것을 밝혔다. 또한 모성 페널티는 중간분위에서 가장 컸으며, 상위분위에서는 모성 페널티가 거의 없는 것으로 분석되었다.",
+  "summary": "Killewald and Bearak(2014)는  Budig and Hodges(2010)와 달리 무조건부분회귀 교정효과분석으로 자료를 추정했고, 기존 결과와 달리 모성 페널티가 저임금이 아닌 중간분위에서 가장 크고, 상위분위에서는 거의 없다는 것을 밝혔다."
+}

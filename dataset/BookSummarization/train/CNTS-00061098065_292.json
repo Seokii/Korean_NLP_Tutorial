@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00061098065_292",
+  "metadata": {
+    "doc_id": "CNTS-00061098065",
+    "doc_type": "도서",
+    "doc_name": "문화기술 연감",
+    "author": "한국콘텐츠진흥원",
+    "publisher": "한국콘텐츠진흥원",
+    "published_year": "2010",
+    "kdc_label": "예술",
+    "kdc_code": "600"
+  },
+  "chapter": null,
+  "passage": "광역적 의미의 DRM(Digital Rights Management)76) 기술은 디지털콘텐츠의 생성에서 이용까지 유통 전 과정에 걸쳐 디지털콘텐츠를 안전하게 관리/보호하고, 부여된 권한정보에 따라 디지털콘텐츠의 이용을 제어/통제하는 기술이다. DRM은 <그림 8-2>와 같이 세부적으로 디지털콘텐츠의 지적재산권 보호를 위해 사용되는 보호기술(protection technology)과 디지털콘텐츠의 관리 효율화를 위해 사용되는 관리기술(management technology), 그리고 디지털콘텐츠의 신뢰성 있는 전자상거래 환경을 위해 사용되는 유통기술(distribution technology)로 크게 구분할 수 있다.",
+  "summary": "DRM기술은 유통 전 과정에 걸쳐 디지털콘텐츠를 안전하게 관리/보호하고, 부여된 권한정보에 따라 디지털콘텐츠의 이용을 제어/통제하는 기술이다."
+}

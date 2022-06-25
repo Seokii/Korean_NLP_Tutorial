@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00061098065_330",
+  "metadata": {
+    "doc_id": "CNTS-00061098065",
+    "doc_type": "도서",
+    "doc_name": "문화기술 연감",
+    "author": "한국콘텐츠진흥원",
+    "publisher": "한국콘텐츠진흥원",
+    "published_year": "2010",
+    "kdc_label": "예술",
+    "kdc_code": "600"
+  },
+  "chapter": null,
+  "passage": "UMID, ISAN/V-ISAN, CRID, DOI 등 다양한 표준식별체계가 정의되어 있으나, 분야별로 분산된 콘텐츠 식별체계를 단일화하여 콘텐츠 서비스의 다양성과 품질을 높이고 저작권 관리의 효율성을 높이기 위해 다양한 콘텐츠 식별체계에 대한 통합 움직임이 가시화되고 있다. DOI, ISBN, ISRC 등의 식별체계에 대한 단일 표준안이 2009년 초 ISO에서 최종 채택될 예정이며, 실제 산업체에서는 DOI와 SBN(International Standard Book Number)의 통합 규격이 가장 먼저 적용될 전망이다. 미국 MPAA(Motion Picture Association of America)와 모션픽처 레버러토리스(Motion Picture Laboratories Inc.)는 2006년 말 미국의 오더블 매직(Audible Magic Corp.), 그레이스노트(Gracenote Inc.), 보바일(Vobile Inc.), 일본의 NTT(Nippon Telegraph & Telephone Corp.) 등 10여개 업체들과 함께 디지털 비디오 인증에 대한 테스트를 실시하였다.",
+  "summary": "콘텐츠 서비스의 다양성과 품질을 높이고 저작권 관리의 효율성을 높이기 위해 다양한 콘텐츠 식별체계에 대한 통합 움직임이 가시화되고 있다.  단일 표준안이 2009년 초 ISO에서 최종 채택될 예정이며, 실제 산업체에서는 DOI와 SBN의 통합 규격이 가장 먼저 적용될 전망이다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118886751_4",
+  "metadata": {
+    "doc_id": "CNTS-00118886751",
+    "doc_type": "도서",
+    "doc_name": "통계이용 활성화를 위한 2차 자료 생산·활용 방안 연구",
+    "author": "심규호",
+    "publisher": "통계청 통계개발원",
+    "published_year": "2010",
+    "kdc_label": "통계학",
+    "kdc_code": "310"
+  },
+  "chapter": null,
+  "passage": "호주는 데이터 연계를 통한 연구 분야에서 국제적으로 선두적인 입지 마련을 위한 기반을 잘 갖추어 왔다. 특히 호주는 국가 역량을 제고하기 위한 특별한 기회를 갖추고 있다. 호주의 보건 시스템은 매우 자세한 정보를 담고 있는 고품질의 통계이며, 호주의 개인 정보 보호법은 데이터 연계의 기초가 되는 한편 개인 정보 보호를 위한 확고한 기반을 제공한다. 또한 다른 선진국의 데이터 연계 시스템(Manitoba, British Columbia, Oxford 등)이 다루는 인구자료보다 호주의 인구자료는 상대적으로 크고 매우 다양하다. 국가 보건 데이터 셋은 Australian Health Minister's Advisory Council(AHMAC)의 National Health Information Group을 통해 9개의 Australian Government에 의해 보관된다. 이렇게 수집된 메타-데이터는 National Health Data Dictionary와 Australian Institute of Health and Welfare(AIHW)의 전자보관소에서 이용이 가능하다. National Health Information Management Principal Committee의 소위원회인 Statistical Information Management Committee(SIMC)는 최근 연구목적의 보건 데이터 세트들 간의 연계를 위한 관할권의 상태를 문서화하기 위한 프로젝트를 끝마쳤고, 현재 국가적 차원의 연계를 위한 체제 공사를 진행 중에 있다. 이전에 호주통계청(ABS)은 인구조사 데이터에 제약된 연결만을 허용했지만, 2006년 인구조사부터 사회·경제 분야의 광범위한 자료의 연계를 가능케 하였다.",
+  "summary": "호주는 데이터 연계를 통한 연구 분야에 국제적인 선두 기반을 잘 갖추었고, 특히 국가 역량을 높이기 위해 특별한 기회를 갖추고 있는데 호주 보건 시스템은 자세한 정보를 가진 고품질의 통계이다. 개인 정보 보호법은 데이터 연계의 기초인 동시에 개인 정보 보호를 위한 확고한 기반을 제공한다. 2006년 인구조사부터는 호주 통계청의 제약된 연결 뿐 아니라 사회나 경제 분야의 광범위한 자료의 연계도 가능하게 되었다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118884029_29",
+  "metadata": {
+    "doc_id": "CNTS-00118884029",
+    "doc_type": "도서",
+    "doc_name": "온실가스 배출권거래제 해외사례 연구",
+    "author": "정규승",
+    "publisher": "통계청 통계개발원",
+    "published_year": null,
+    "kdc_label": "공학, 공업일반",
+    "kdc_code": "530"
+  },
+  "chapter": null,
+  "passage": "배출권거래시장에서 거래되는 배출권에는 유엔기후변화협약(UNFCCC)에서 공식적으로 인정하고 있는 AAUs, CERs, ERUs, RMUs 및 EUAs 등이 있다. AAUs(Assigned Amount Units)는 교토의정서 상의 의무감축국이 할당받은 감축량을 의미하며, CERs(Certified Emission Reductions)는 교토메커니즘으로 소개된 탄소감축방안 중 하나인 CDM사업을 통해 얻는 배출권을 의미한다. ERUs(Emissions Reduction Units)는 JI사업을 통해 얻는 탄소감축량을 의미한다. RMUs(Removal Units)는 산림경영을 통한 흡수원 감축량에 대해 발생된 배출권을 의미한다. 끝으로 EU ETS에서 거래되는 European Union Allowance의 약자인 EUAs는 AAUs를 받은 국가가 각 사업장에 감축량을 할당한 것이다. AAUs 등 모든 배출권은 1단위가 1tCO2eq의 배출권을 의미한다.",
+  "summary": "배출권에는 AAUs, CERs, ERUs 등이 있다. AAUs는 의무감축국이 할당받은 감축량이며, CERs는 CDM사업을 통해 얻는 배출권을 의미한다. ERUs는 JI사업을 통해 얻는 탄소감축량을 의미한다."
+}

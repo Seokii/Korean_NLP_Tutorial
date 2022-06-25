@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201505190915045931_15",
+  "metadata": {
+    "doc_id": "PCY_201505190915045931",
+    "doc_type": "도서",
+    "doc_name": "해외 특허분쟁 대응전략 로드맵(3D프린팅)",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": "분석 결과",
+  "passage": "상위 기업의 주력 기술분야 중 특히 최근 2년간 피인용된 비율이 높은 기술분야를 살펴보면, 3D Systems는 기술분야마다 대체로 유사한 비율을 나타내는 가운데 적층방식 분류(AA)의 Powder Bed Fusion(AAC) 소분류의 피인용 비율이 높게 나온편이며, Stratasys는 프린팅재료 분류(AD)의 수지, 광경화재(ADB) 소분류, 하드웨어 분류(AB), 적층방식 분류(AA)의 Material Jetting(AAB) 소분류가 최근 2년간의 피인용 회수가 전체 피인용 회수의 절반에 육박할 정도로 활발하게 피인용되고 있는 것으로 나타났다. 그 밖에 EOS 및 Huntsman Advanced Materials는 특히 프린팅재료 분류(AD)의 수지, 광경화재(ADB) 소분류의 최근 2년간 피인용 비율이 매우 높게 나왔다.",
+  "summary": "3D Systems는 적층방식 분류의 Powder Bed Fusion, Stratasys는 프린팅 재료 분류의 수지 등이 상위 기업의 주력 기술 분야 중 최근 2년간 피인용된 비율이 높은 기술 분야였다."
+}

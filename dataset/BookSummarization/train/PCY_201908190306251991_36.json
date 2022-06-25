@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201908190306251991_36",
+  "metadata": {
+    "doc_id": "PCY_201908190306251991",
+    "doc_type": "도서",
+    "doc_name": "2018년도 『 국가 항생제 사용 및 내성 모니터링 』 : 동물, 축·수산물",
+    "author": null,
+    "publisher": "식품의약품안전처,농림축산식품부,농림축산검역본부",
+    "published_year": "2019",
+    "kdc_label": "식품의약안전",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "항생제 내성률을 조사한 결과, 항생제별, 축종 별로 다소 차이가 있었다. 축종 별 항생제 내성률을 분석한 결과, 돼지 도체 유래 균주의 항생제 내성률은 ampicillin이 86.4%로 가장 높았으며 sulfisoxazole(68.2%), streptomycin(63.6%), tetracycline(50.0%) 순으로 높았다. 닭 도체 유래 균주의 내성 양상은 돼지 유래 균주와 다소 차이가 있었다. Nalidixic acid의 내성률이 69.6%로 가장 높았으며, tetracycline(47.3%), sulfisoxazole(46.7%), ampicillin(45.1%) 순으로 내성률이 높았다. 오리 도체 분리주의 항생제 내성률은 모두 30% 이하로 sulfisoxazole이 29.4%로 가장 높았으며, nalidixic acid(27.5%), trimethoprim/ sulfamethoxazole(21.6%) 순으로 나타났다. Cephalosporins 계 항생제는 돼지와 오리 도체 유래에서는 내성을 나타내지 않았으나 닭 도체 유래 균주에서 ceftiofur(2.2%), ceftazidime(2.2%), cefepime(1.6%), cefoxitin(0.5%)의 내성이 확인되었다. Ciprofloxacin에 대한 내성 균주는 오리 도체 유래 균주에서만 1주(2%) 확인되었으며, colistin에 대한 내성 균주도 닭 도체 유래에서 14주(7.6%), 오리 도체 유래 분리주에서 2주(3.9%) 확인되었다. Meropenem에 대한 내성 균주는 모든 축종 및 시료에서 검출되지 않았다.",
+  "summary": "항생제 내성률의 축종 별 분석 결과, 돼지 유래 균주의 내성률은 ampicillin이, 닭 유래 균주는 Nalidixic acid가, 오리 유래 균주는 sulfisoxazole이 가장 높았다. Cephalosporins 계열의 항생제는 닭 유래 균주에서만, Ciprofloxacin는 오리 유래 균주에서만, colistin은 닭과 오리의 유래 균주에서 내성이 확인되었다."
+}

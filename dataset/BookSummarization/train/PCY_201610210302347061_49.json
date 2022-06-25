@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210302347061_49",
+  "metadata": {
+    "doc_id": "PCY_201610210302347061",
+    "doc_type": "도서",
+    "doc_name": "사물인터넷을 통한 에너지 신산업 발전방향 연구 : 텍스트마이닝을 이용한 미래 신호 탐색",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "구체적으로 Yoon(2012)의 텍스트 마이닝을 통한 약 신호 탐색 절차를 살펴보면 [그림 4-3]과 같다. 우선, 인터넷을 통하여 분석 대상이 되는 문서를 수집한다(Collection of Web news). 그리고 문서에서 키워드를 추출하고 키워드 목록을 작성한다(Definition of Keywords). 키워드 목록을 활용하여 키워드 포트폴리오 지도를 작성한다(Construction of Keyword portfolio maps). 키워드 포트폴리오는 KEM(Keyword Emergence Map)과 KIM(Keyword Issue Map)으로 작성한다. 작성된 키워드 포트폴리오를 이용하여 약 신호를 선별한다(identification of weak signal topics).",
+  "summary": "Yoon의 텍스트 마이닝을 통한 약 신호 탐색은 먼저 인터넷을 통해 분석 대상이 되는 문서를 수집한 뒤 키워드를 추출하여 목록을 작성한다. 다음 목록을 이용해 키워드 포트폴리오를 작성 후 약 신호를 선별한다."
+}

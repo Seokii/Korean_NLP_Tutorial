@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201505070933587551_1",
+  "metadata": {
+    "doc_id": "PCY_201505070933587551",
+    "doc_type": "도서",
+    "doc_name": "KATS 기술보고서 제71호(ISO TC 204의 스마트카 표준화 동향)",
+    "author": null,
+    "publisher": "국가기술표준원",
+    "published_year": null,
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "24GHz 단거리 레이더(SRR; Short Range RADAR)는 유럽의 주파수 사용 허가기간 만료에 따라 79GHz로 교체될 예정이며, 현재 주요 제조사들은 79GHz 레이더를 양산개발 중에 있다. 77GHz 장거리 레이더(LRR; Long Range RADAR)는 250m 수준의 검지거리를 갖으며, 국내에서도 2014년 11월 만도가 양산발표를 한 바 있고, 국내 차종에 양산적용을 하고 있다. 초음파 센서는 근거리 MALSO (Maneuvoring Aid for Low Speed Operation) 시스템이나 PAS(초음파 주차경고장치)에도 사용된다. 최근에는 거리 뿐만 아니라 방향까지 감지하는 형태로 발전하고 있다.",
+  "summary": "24GHz 단거리 레이더는 79GHz 레이더로 교체될 것이다. 77GHz 장거리 레이더는 250m 수준의 검지거리와 방향까지 감지 가능한 형태로 발전 중이다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201908210236112981_4",
+  "metadata": {
+    "doc_id": "PCY_201908210236112981",
+    "doc_type": "도서",
+    "doc_name": "디스플레이 현황과 발전방향 : 실감 및 스킨 기기로의 확대 (Display Technologies for Immersive Devices and Electronic Skin)",
+    "author": "박영준",
+    "publisher": "한국전자통신연구원",
+    "published_year": "2019",
+    "kdc_label": "과학기술연구",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "생체신호 감지 기술은 심전도, 혈압, 동맥 산화도,땀 성분 등 신체의 다양한 중요 생체신호를 감지하는 기술이다. 심전도 측정을 위해서는 ECG(Electrocardiogram) 측정 기술이 주로 사용되며, 밴드 또는 패치 형태로 적절히 디자인된 두 개의 전극으로 ECG 신호를 측정한다. 동맥 산화도(Pulse Oxygenation)는 LED를 특정 영역(손가락, 귓불, 이마,손목 등)의 혈관에 비춘 후 혈류로부터 나오는 반사파, 투과파를 이용하여 측정한다. 땀 성분 측정은 기본적으로  땀에 포함되어 있는 포도당, 젖산, Na+,K+ 이온의 농도를 분석하는 방법을 이용한다.",
+  "summary": "생체신호 감지기술에서 심전도는 전극으로 ECG신호를 보내 밴드형태로 제공하며 동맥 산화도는 손가락 등의 혈관에 LED를 비춰서 반사파, 투과파를 이용해 측정한다."
+}

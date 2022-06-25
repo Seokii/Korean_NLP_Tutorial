@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049603860_130_130-0",
+  "metadata": {
+    "doc_id": "CNTS-00049603860",
+    "doc_type": "도서",
+    "doc_name": "1999년도 금융정보화 추진현황",
+    "author": "금융정보화추진분과위원회 사무국",
+    "publisher": "한국은행",
+    "published_year": "2000",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "제 4장 신규사업의 추진 제 1절 전자화폐",
+  "passage": "98년 Credit Suisse와 Ecofin AG가 공동으로 Swiss NetPay AG사를 설립하여 E-CASH 시범사업을 실시하였다. Credit Suisse에 계좌를 보유하여야만 거래할 수 있으며, 계좌를 가지고 있지 않을 경우에는 계좌이체 방식을 통해 이용할 수 있다. 저장한도는 월 5,000스위스프랑이며, 시범사업후 다수은행이 참여하는 시스템으로 확장할 계획이다. Mondex사가 British Telecom사와 공동으로 800여명의 고객들에게 인터넷상의 지급결제서비스를 제공하기 시작하였다. PC를 이용하여 은행계좌에서 몬덱스 카드로의 가치이전 가능하다.",
+  "summary": "스위스는 Swiss NetPay AG사를 설립하여 E-CASH 시범사업을 실시하였고 Credit Suisse에 계좌를 보유하여야만 거래가 가능하다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118871826_6",
+  "metadata": {
+    "doc_id": "CNTS-00118871826",
+    "doc_type": "도서",
+    "doc_name": "건강기능식품 기능성 평가 가이드",
+    "author": "식품의약품안전평가원",
+    "publisher": "식품의약품안전평가원",
+    "published_year": "2019",
+    "kdc_label": "가사, 가정학",
+    "kdc_code": "590"
+  },
+  "chapter": null,
+  "passage": "소장 alpha-glucosidase는 소장점막 미세융모막에 존재하는 효소로서 다당류의 탄수화물을 단당류로 분해하는 탄수화물의 소화에 필수적인 효소이다. Alpha-glucosidase 저해제로 알려진 아카보스(acarbose)는 인슐린과 같이 저혈당 활성을 갖는 것이 아니라, 소장내의 점막에서 다당류를 분해하는 alpha-glucosidase를 억제하여 소장 내에서 탄수화물의 소화흡수율을 저하시킴으로써 식후혈당을 감소시킨다고 보고된다. 기능성식품 중 acarbose와 같은 alpha-glucosidase 활성억제 작용이 있는 것으로 판단되는 것들은 이 효소의 억제정도를 측정하는 것으로 기능성을 판단한다. Alpha-glucosidase 활성억제 측정은 실험관 내에서 기질과의 반응역학분석(kinetic analysis)하는 방법과 소화관 내에서 sucrose의 분해흡수를 억제하는 것을 측정하는 OGTT로 검사하는 in-vivo 검사법을 이용한다.",
+  "summary": "소장 alpha-glucosidase은 소장점막 미세융모막에 존재하는 효소로 다당류의 탄수화물을 단당류로 분해하는 탄수화물의 소화에 필수적인 효소이다. Alpha-glucosidase 활성억제 측정에는 기질과 반응역학분석과 in-vivo 검사법이 있다."
+}

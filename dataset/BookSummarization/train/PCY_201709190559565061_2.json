@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201709190559565061_2",
+  "metadata": {
+    "doc_id": "PCY_201709190559565061",
+    "doc_type": "도서",
+    "doc_name": "에너지 포커스 : 2016 겨울호",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "사물인터넷이란 용어는 1999년 MIT Auto ID연구소의 이사(executive director)인 Kevin Ashton이 처음으로 사용한 용어로 알려져 있다. 당시 Ashton은 RFID(Radio Frequency Identification)와 센서 정보를 인터넷에 연결할 경우 모든 사물의 상태를 관찰할 수 있고, 컴퓨터가 사물을 보고 듣고 냄새를 맡을 수 있을 것이라고 전망하였다. 그리고 지구상의 사물들을 어떻게 연결하고 어떤 무선통신을 이용하며, 수십 억 개의 장치들이 통신하기 위해서는 기존 인터넷 인프라를 어떻게 바꿔야 하는지, 또 각 장치들이 소비하는 전력을 어떻게 공급해야 하는지 등의 질문을 제기하였다(Lopez Research, 2013: 2).",
+  "summary": "Kevin Ashton은 사물인터넷이란 용어를 처음으로 사용했으며 RFID와 센서 정보를 인터넷에 연결하면 컴퓨터가 모든 사물의 상태를 관찰할 수 있을 것이라고 전망했다."
+}

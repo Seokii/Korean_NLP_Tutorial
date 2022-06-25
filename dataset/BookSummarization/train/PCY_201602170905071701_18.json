@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201602170905071701_18",
+  "metadata": {
+    "doc_id": "PCY_201602170905071701",
+    "doc_type": "도서",
+    "doc_name": "전력산업 규제개혁 방안 : ICT 수용을 중심으로",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2015",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "ESS 기술개발 및 실증은 공공기관 및 대형 전력회사 중심으로 추진되고 있는 상황으로 미국 에너지부(Department of Energy) 산하 기관인 ARPA-E는 2009년부터 2010년까지 총 92백만 달러를 리튬이온전지, 하소물질(capacity), 흐름전지(Flow Battery), 지하압축공기저장장치(CAES), 플라이휠(Flywheel), 초전도에너지저장(SMES) 등의 에너지 저장기술에 투자하였으며 대형 전력회사인 AES는 뉴욕 Westover 발전소의 화력발전 설비에 20MW급의 리튬이온전지를 설치하여 ESS 실증을 적극적으로 추진하고 있다. 또한 Southern California Edision 사는 Tehachapi 사막지역의 풍력발전소에 8MW 용량의 리튬이온전지로 구성된 ESS를 2010년부터 5년간 연간 250억원의 규모로 실증사업이 진행되고 있다.",
+  "summary": "미국 에너지부 산하 기관은 2009년부터 리튬이온전지, 하소물질 등 에너지저장기술에 투자하여 ESS 기술을 개발하고 뉴욕의 화력발전 설비와 사막지역의 풍력발전소에서 ESS 실증 사업을 적극적으로 진행하고 있다."
+}

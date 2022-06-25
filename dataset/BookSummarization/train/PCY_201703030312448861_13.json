@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703030312448861_13",
+  "metadata": {
+    "doc_id": "PCY_201703030312448861",
+    "doc_type": "도서",
+    "doc_name": "미국 형법상 Recklessness 개념에 관한 고찰",
+    "author": null,
+    "publisher": "대검찰청",
+    "published_year": "2014",
+    "kdc_label": "법무및검찰",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "영국에서 무모성(recklessness)에 대한 현대적인 개념정의는 1957년의 R v Cunningham 사건에서부터 비롯되었으며, 이 판례의 입장은 현재까지 영국법원의 기본적인 견해이다. 영국법원은 Cunningham 판결에서 무모성의 개념 정의는 객관적 기준(objective test)이 아니라 주관적 기준(subjective test)에 의해야 한다고 판결하여, 주관적 관점을 기초로 무모성의 개념을 정의하였다. 이에 따르면, 무모성이란 정당화될 수 없는 위험을 의식적으로 받아들이는 것(conscious taking of an unjustified risk)이며, 정당화될 수 없는 위험을 알면서 의식적으로 실행행위를 한 것(conscious running of an unjustifiable risk)이다. 이 사건은 피고인이 요금지급 미터기에서 돈을 훔치려고 시도하다가 가스관을 건드려 가스를 누출시켰고, 이로 인해 가스를 흡입한 이웃사람이 부분적으로 질식 상태에 이르렀던 사건이다. 현재 영국에서는 주관적 척도를 기준으로 판단하는 무모성 개념이 일반적으로 인정되고 있으며, 이는 영국 대법원(House of Lords)의 2003년 R v G and Another 사건 판결에서도 재확인 되었다. 이러한 종류의 무모성(recklessness) 개념은 “Cunningham recklessness”라고 불린다.",
+  "summary": "무모성이란 주관적 척도에 의해 판단되는 개념이다. 영국법원은 1957년 R v Cunningham 사건을 기점으로 해당 개념을 정의했으며, 현재까지도 무모성의 판단을 주관적 기준에 맡기고 있다."
+}

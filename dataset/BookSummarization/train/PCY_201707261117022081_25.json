@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201707261117022081_25",
+  "metadata": {
+    "doc_id": "PCY_201707261117022081",
+    "doc_type": "도서",
+    "doc_name": "저출산 대책의 효과성 평가",
+    "author": "이상협",
+    "publisher": "한국보건사회연구원",
+    "published_year": "2016",
+    "kdc_label": "보육·가족및여성",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Slonimczyk와 Yurko(2014)는 Russian Longitudinal Monitoring Survey의 2000~2011년 자료를 이용해서 출산자본제도(Maternity capital program)가 둘 이상 자녀를 출산하게 하는가를 분석하였다. 출산자본제도는 2007년 1월에 도입해서 2016년까지 한시적으로 시행한 제도로 둘 이상 자녀를 출생할 경우 매년 물가가 연동되는 특정 수준의 펀드를 받을 수 있는 권리를 부여하는 제도이다. 2007~2012년 가구당 평균 수혜액은 약 1만 1,000달러 수준이며 제도 도입 당시 펀드 사용 조건은 출생아가 3세가 된 이후부터 주택 구매, 자녀 교육, 여성부모 연금투자 목적에만 사용할 수 있다. 분석 모델로는 DID가 사용되었으며 분석 결과 해당 정책이 둘째 이상 출산에 유의미한 영향을 미친 것으로 나타나고 있다.",
+  "summary": "Slonimczyk와 Yurko가 Russian Longitudinal Monitoring Survey의 2000~2011년 자료를 DID로 분석한 결과, 출산자본제도는 둘 이상 자녀의 출산에 유의미한 영향을 미친 것으로 나타났다."
+}

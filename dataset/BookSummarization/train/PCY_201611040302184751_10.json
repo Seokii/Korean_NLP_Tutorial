@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611040302184751_10",
+  "metadata": {
+    "doc_id": "PCY_201611040302184751",
+    "doc_type": "도서",
+    "doc_name": "행위자기반모형(Agent-Based Modeling)을 이용한 신기술과 지식 확산 연구",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2015",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "네트워크 효과 (Network effects)는 경제학자인 Katz와 Shapiro (1986)에 의해서 제안된 개념으로 같은 제품을 사용하는 사람들이 증가할수록 그 제품을 통해 얻을 수 있는 만족도 (utility)가 높아진다는 이론이다. Network effects도 새로운 제품과 혁신의 확산에서 중요한 역할을 한다. 예를 들면, 소셜네트워크서비스 (SNS)의 경우 network effects가 아주 중요하게 작용하는데, 같은 SNS를 사용하는 사람들이 증가할수록 사람들이 그 서비스를 통해서 얻는 효용성과 만족도가 증가하기 때문이다. SNS 뿐만 아니라 자동차와 같은 commodity도 network effects에 영향을 많이 받는다. 예를 들어, 특정 자동차를 사용하는 사람들이 많을 경우 그 자동차를 위한 정비소와 관련 제품도 늘어날 것이기 때문에 사람들의 만족도가 증가하기 때문이다. 이러한 network effects가 신제품/혁신 확산에서 어떠한 역할을 하는지를 행위자기반모형을 가지고 연구한 연구자로는 Goldenberg et al. (2007)과 Goldenberg et al. (2010)이 대표적이다.",
+  "summary": "Katz와 Shapiro는 동일 제품을 사용하는 소비자가 늘어날수록 그 제품을 통해 획득할 수 있는 만족도가 제고된다는 네트워크 효과를 제시했다. 예를 들어 SNS 사용자가 늘면 효용성이 늘고, 동일 자동차를 구입하는 사람이 증가하면 이를 위한 관련 물건도 늘어나기 때문이다."
+}

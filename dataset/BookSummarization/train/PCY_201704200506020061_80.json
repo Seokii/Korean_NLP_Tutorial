@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201704200506020061_80",
+  "metadata": {
+    "doc_id": "PCY_201704200506020061",
+    "doc_type": "도서",
+    "doc_name": "재난안전 실무자의 업무 스트레스의 효과적 관리를 통한 직무만족도 및 조직몰입 제고방안",
+    "author": null,
+    "publisher": "한국행정연구원",
+    "published_year": "2016",
+    "kdc_label": "고용노동",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "모형을 객관적으로 평가하는 근거로 적합도 지수를 사용하는데, 표본의 영향을 받지 않으며 모형의 간명성과 오류를 동시에 고려하는 적합도 지수를 사용한다. Chi-square는 표본 크기의 영향을 많이 받는다는 문제점을 가지고 있기 때문에, 다른 적합도 지수를 함께 살펴볼 필요가 있다. 따라서 본 연구에서는 모형의 적합도를 확인하기 위해 상대적 적합도 지수인 CFI (Comparative Fit Index)와 NFI (Normed Fit Index), 절대적 적합도 지수인 RMSEA(Root Mean Square Error of Approximation) 값이 사용되었다.",
+  "summary": "표본의 영향을 받지 않으며 모형을 객관적으로 평가하는 근거로 적합도 지수를 사용한다. 본연구는 이를 위해 CFI, NFI와 RMSEA값을 사용했다."
+}

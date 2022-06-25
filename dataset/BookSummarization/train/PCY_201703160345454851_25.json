@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703160345454851_25",
+  "metadata": {
+    "doc_id": "PCY_201703160345454851",
+    "doc_type": "도서",
+    "doc_name": "2016년 보건복지통계정보 통합 관리 및 운영",
+    "author": null,
+    "publisher": "한국보건사회연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Probabilistic recommendation 방법은 선호도가 주어진 아이템집 합을 활용하여 선호도가 주어지지 않은 다른 아이템에 대한 선호도의 조 건부 분포를 예측하는 방법이다. 이러한 예측 과정에서 모형을 완성하기 위한 몇 가지 조건부 확률이 필요하고 이 확률을 계산하는 과정에서 Bayes 정리와 Naive Bayes 추정법을 사용하게 된다(Breese et al., 1998; Chen and George, 1999; Miyahara and Pazzani, 2000). 먼 저 Probabilistic recommendation 방법에서 가장 핵심적인 역할을 하는 Bayes 정리는 다음과 같다.",
+  "summary": "Probabilistic recommendation 방법을 사용한 예측 과정에서 필요한 조건부 확률은 Bayes 정리와 Naive Bayes 추정법으로 계산한다. "
+}

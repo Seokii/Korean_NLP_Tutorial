@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201506120916179271_49",
+  "metadata": {
+    "doc_id": "PCY_201506120916179271",
+    "doc_type": "도서",
+    "doc_name": "한반도 통일이 중국에 미칠 편익비용 분석(대외경제정책연구원, 2014)",
+    "author": null,
+    "publisher": "통일부",
+    "published_year": null,
+    "kdc_label": "무역및투자유치",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "남북통일이 중국에 미치는 영향을 분석하기 위해 본 연구는 사전 분석(ex-ante analysis)에 널리 활용되고 있는 CGE 모형을 이용한다. CGE 모형은 생산, 소비, 투자, 지출 등 대내 부문과 수출, 수입 등 대외 부문을 통합한 모형으로 경제주체의 행위와 산업 간의 연관관계 속에서 모형 내의 충격에 대한 최적의 해를 도출한다. 북한경제에 대한 통계를 확보하기 쉽지 않은 상황이기 때문에 본 연구는 비록 제한적이지만 GTAP(Global Trade Analysis Project) Version 8.2의 Rest of East Asia를 북한 경제를 나타내는 대용국가로 활용한다.",
+  "summary": "본 연구는 CGE 모형으로 남북통일이 중국에 미치는 영향을 분석했으며,  GTAP ver. 8. 2의 Rest of East Asia를 북한경제 통계 대용으로 사용했다."
+}

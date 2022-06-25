@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201807050411339681_2",
+  "metadata": {
+    "doc_id": "PCY_201807050411339681",
+    "doc_type": "도서",
+    "doc_name": "세탁소 VOCs 관리현황 고찰 및 정책제언 (Study on the Enhancement of VOCs Management at Laundry Facilities in Korea)",
+    "author": "김재혁, 유경선",
+    "publisher": "한국환경정책·평가연구원",
+    "published_year": "2017",
+    "kdc_label": "환경일반",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "PCE, TCE 뿐만 아니라, 국내에서 주로 사용되는 석유계 세탁 용제에는 BTEX(Benzene, Toluene, Xylene, Ethyl-benzene) 등의 방향족화합물과 Nonane, Decane, Dodecane, Undecane 등의 광화학오염물질을 함유하고 있다(환경부, 2014, pp.55-56). 벤젠과 Ethyl-benzene은 IARC에서 지정한 1A(인체 발암성 확인물질)와 2B(인체 발암 가능물질)물질이며, Nonane, Decane, Dodecane, Undecane 등은 POCP(Photochemical Ozone Creation Potential)가 높아 대기 중에서 광화학 반응을 통해 오존을 생성할 수 있다(정장표 등, 2010). 실제로 노영만 등(2001)의 연구에서 석유계 용제를 사용하는 세탁소 내부 작업자의 호흡기 위치, 작업대 및 건조기 주변에서 BTEX가 검출되었고, 특히 벤젠 농도는 작업노출기준 농도인 1 ppm을 초과하였다. 또한 이주형 등(2012)은 드라이클리닝 작업후의 세탁소 내부 톨루엔, 클로로 벤젠, 에틸 벤젠, 크실렌의 농도가 작업 전과 비교하여 각각 약 2.7배, 11.2배, 3.2배, 6.2배 높았다고 보고하였다. 한국환경공단(2011)의 연구에서도 드라이클리닝 작업이 이루어지는 세탁소 내부와 건조기 주변에서 BTEX를 포함한 다수의 탄화수소류가 검출되었다. 이외에도 세탁소는 주요 생활 악취배출시설으로써, 국내 2011년 악취민원 중 음식점, 세탁소를 포함한 생활 악취배출시설에서 총 1,865건의 악취 민원이 발생하는 등 악취관리 측면에서도 세탁소에서 배출되는 VOCs는 관리되어야 한다(환경부, 2013, pp.7-8).",
+  "summary": "국내에서 주로 사용되는 석유계 세탁 용제에는 방향족화합물과 광화학오염물질을 함유하고 있다. 벤젠과 Ethyl-benzene은 인체 발암성 확인물질와 인체 발암 가능물질이며, Nonane, Decane, Dodecane, Undecane 등은 대기 중에서 광화학 반응을 통해 오존을 생성할 수 있다. 드라이클리닝 작업이 이루어지는 세탁소 내부와 건조기 주변에서 BTEX를 포함한 다수의 탄화수소류가 검출되었다."
+}

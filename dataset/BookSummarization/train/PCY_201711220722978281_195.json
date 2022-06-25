@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220722978281_195",
+  "metadata": {
+    "doc_id": "PCY_201711220722978281",
+    "doc_type": "도서",
+    "doc_name": "의료기술평가제도의 국제 비교연구",
+    "author": "김수경",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2015",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "시판 전 허가를 필요로 하는 의료기기는 3등급 의료기기이다. 시판 전 허가 신청서에는 의료 기기에 사용된 기술 정보(technical section), 독성 등 비임상 정보(non-clinical laboratory studies section), 임상시험에서 나타난 정보(clinical investigations' section) 등이 포함되어야 한다. 시판 전 허가 신청부터 결과 통보까지는 180일이 소요된다. 임상시험용 의료기기 승인 면제(Investigational Device Exemption, IDE)는 시판 전 허가 신청을 위한 유효성․안전성 정보를 수집하기 위해 임상시험을 하는 경우에 해당한다.",
+  "summary": "3등급 의료기기는 기술, 비임상, 임상 정보 등을 포함한 허가 신청서를 제출하고 180일 후 허가 결과가 통보된다. IDE는 허가를 위한 정보 수집을 위해 임상시험을 하는 것이다."
+}

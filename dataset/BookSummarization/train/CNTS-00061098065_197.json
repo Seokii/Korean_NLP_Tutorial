@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00061098065_197",
+  "metadata": {
+    "doc_id": "CNTS-00061098065",
+    "doc_type": "도서",
+    "doc_name": "문화기술 연감",
+    "author": "한국콘텐츠진흥원",
+    "publisher": "한국콘텐츠진흥원",
+    "published_year": "2010",
+    "kdc_label": "예술",
+    "kdc_code": "600"
+  },
+  "chapter": null,
+  "passage": "게임에서 기본적으로 사용되는 인공지능 기법으로는 스타크래프트와 같은 전략 시뮬레이션에서 사용되는 것과 같은 길찾기(Path Finding) 알고리즘, 상태들간의 전이에 의해 통제되는 그래프 내에 유한개의 상태들이 연결되어 있는 FSM(Finite State Machine), 단순함을 방지하고 다양한 형태의 반응을 끌어내기 위한 목적으로 사용되는 퍼지이론(Fuzzy Logic), FSM의 기본 개념에 퍼지 이론을 적용하여 FSM의 단순함을 제거한 FuSM(Fuzzy State Machine), 새떼, 물고기떼, 벌떼 등을 표현할 때 많은 무리가 같은 방향으로 충돌 없이 이동하는 모습을 표현할 때 주로 사용되는 플로킹(Flocking) 등이 있다. 또한 이를 제어하기 위하여 트리거시스템(Trigger System), 스크립팅(Scripting) 등을 이용한다. 보다 복잡한 알고리즘으로는 인간의 두뇌 자제를 모델링하여 학습 능력을 가지는 신경망(Neural Network)이나 자연계의 생태 법칙인 적자생존과 DNA 등 자연의 선택과정에 힌트를 얻어 고안된 유전자 알고리즘(Genetic Algorithm) 등이 있다. 최근의 게임 인공지능에서는 축구나 농구 등 스포츠 게임, RTS(Real Time Simulation), RPG(Role Playing Game) 등의 게임과 같이 멀티플레이어가 모여 한 팀을 이루고 게임을 진행하는 집단 방식 게임에서 사용되는 팀 AI(Team AI)나 다중 에이전트 시스템 등의 기술 연구가 적용되고 있다. 이와 같은 인공지능을 보다 쉽게 구현하기 위해서는 인공지능 저작도구나 인공지능 미들웨어들이 필요하다. 대표적인 인공지능 미들웨어로는 Biographic Technologies의 AI.Implant, 프랑스 Kynogon의 Renderware AI, Shottler Henky Associates의 Simbionic 등이 있다.",
+  "summary": "게임에서 보통 사용되는 인공지능 기법으로는 전략 시뮬레이션에서 사용되는 ‘길찾기 알고리즘’, 상태들간의 전이에 의해 통제되는 그래프 내에 유한개의 상태들이 연결되어 있는 ‘FSM’, 단순함을 방지하고 다양한 형태의 반응을 끌어내는 ‘퍼지이론’, FSM의 기본 개념에 퍼지이론을 적용한 ‘FuSM’, 많은 무리가 같은 방향으로 충돌 없이 이동하는 모습을 표현하는 ‘플로킹’, 인간의 두뇌 자제를 모델링하여 학습 능력을 가지는 ‘신경망’이나 자연의 선택과정에 힌트를 얻은 ‘유전자 알고리즘’ 등이 있다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201702210418132651_49",
+  "metadata": {
+    "doc_id": "PCY_201702210418132651",
+    "doc_type": "도서",
+    "doc_name": "교통환경정책 수립을 위한 대기환경 개선효과 추정방안 연구 : 도로이동오염원을 중심으로",
+    "author": null,
+    "publisher": "한국환경정책·평가연구원",
+    "published_year": "2016",
+    "kdc_label": "대기",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "AERMOD와 CALPUFF는 모두 가우시안 모형(gaussian model)을 기반으로 개발된 수리적 모형으로 AERMOD는 매 시간 바람의 속도와 세기가 동일하다고 가정하는 정상상태의 가우시안 플럼 모형(steady-state Gaussian plume model)이다. 반면, CALPUFF는 시공간적으로 기상조건의 변화를 고려하여 오염물질의 확산을 추정하는 비정상 라그랑지안 가우시안 퍼프 모형(non-steady-state Lagrangian Gaussian puff model)으로 복잡한 지형과 대기오염물질의 장거리 이동 등을 고려해야 할 경우 유용하다.",
+  "summary": "가우시안 모형 기반 수리적 모형의 AERMOD는 정상상태의 가우시안 플럼 모형이고, CALPUFF는 비정상 라그랑지안 가우시안 퍼프모형이다."
+}

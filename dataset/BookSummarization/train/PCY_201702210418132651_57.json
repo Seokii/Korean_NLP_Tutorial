@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201702210418132651_57",
+  "metadata": {
+    "doc_id": "PCY_201702210418132651",
+    "doc_type": "도서",
+    "doc_name": "교통환경정책 수립을 위한 대기환경 개선효과 추정방안 연구 : 도로이동오염원을 중심으로",
+    "author": null,
+    "publisher": "한국환경정책·평가연구원",
+    "published_year": "2016",
+    "kdc_label": "대기",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "BenMAP은 EPA에서 대기질 변화에 따른 공공보건 개선 편익을 분석하고자 2003년에 개발한 지리정보시스템(GIS: Geographic Information System) 기반 모형이며, 2015년에 배포된 BenMAP-CE(Community Edition)가 가장 최신 버전이다. BenMAP의 분석 과정은 분석 대상 지역 인구 추정, 대기질 변화에 영향을 받는 노출인구 추정, 농도반응함수(C-R function: Concentration-Response Function) 선택과 건강피해 추정, 편익산정을 위한 경제적 가치추정 등 4단계로 구성된다. 국내에서 BenMAP을 적용하기 위해서는 행정구역별(시군구 또는 읍면동 단위) 인구통계 자료가 GIS 입력 형태로 구축되어야 한다.",
+  "summary": "BenMAP은 공공보건 개선 편익 분석을 위한 지리정보시스템 기반 모형으로, 국내 적용을 위해서는 행정구역별 인구통계가 GIS 형태로 구축돼야 한다."
+}

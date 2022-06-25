@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118877166_7",
+  "metadata": {
+    "doc_id": "CNTS-00118877166",
+    "doc_type": "도서",
+    "doc_name": "안전성 강화를 위한 내진설계 및 성능평가 방법론 비교 분석",
+    "author": "국회예산정책처",
+    "publisher": "국회예산정책처",
+    "published_year": "2017",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "2. 내진설계기준 발전 배경",
+  "passage": "IBC-2000으로부터 설계기준의 정의가 바뀌었다는 것은 매우 조목할 만한 일이다. IBC-2000에서는 MCE Gound Motion Map을 통하여 내진설계에 적용되는 지반운동의 수준을 정의하고 있다. 여기에서 MCE란 구조물의 내진설계시합리적으로 적용 할 수 있는 최대 수준의 지진을 의미한다. 50년간 2%의 초과확률(재현주기 2475년)을 기준으로 하고 있다. 지금까지 대부분의 내진설계 기준들에서는 50년간 10%의 초과확률을 가진 지반운동에 대하여 “Life Safety”를 목표로 설정하고 있었다. 그러나 IBC-2000에서는 50년간 2%의 초과확률을 가진 지반운동에 대해 “Collapse Prevention”을 내진설계의 목표로 하고 있으며, MCE   Ground Motion의 2/3수준에 해당하는 지반운동을 설계 지반운동으로 규정하고 있다.",
+  "summary": "IBC-2000에서는 MCE Gound Motion Map을 통하여 'Collapse Prevention'을 내진설계의 목표로 하고 MCE Ground Motion의 2/3수준에 해당하는 지반운동을 설계 지반운동으로 규정한다."
+}

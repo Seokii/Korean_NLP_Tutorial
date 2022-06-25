@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201505190915045931_2",
+  "metadata": {
+    "doc_id": "PCY_201505190915045931",
+    "doc_type": "도서",
+    "doc_name": "해외 특허분쟁 대응전략 로드맵(3D프린팅)",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "최초의 3D 프린팅 기술은 1981년 Nagoya Municipal Industrial Research Institute의 Hideo Kodama(히데오 코다마)가 처음으로 인쇄된 3차원 물체를 개발하였으나, 이를 시스템으로 최초 구현한 것은 미국의 Charles Hull이다. Charles Hull은 1984년 입체인쇄술(Stereolithography)이라는 제목으로 특허를 출원하였으며, 1986년 기업 3D systems社 설립과 함께 제품화 하였다. 이래 지속적으로 산업용으로 RP에 산업용 3D 프린터가 지속적으로 개발되었으며 3D Systems, Stratasys, Objet Geometries 등의 기업들에 의해 제조·판매되고 있다. 연도별 주요 역사적 사실은 다음<표>와 같다.",
+  "summary": "1981년 히데오 코다마에 의해 개발된 최초의 3D 프린팅 기술은 미국의 Hull에 의해 최초로 시스템으로 구현된 이후 다양한 기업들에 의해 산업용으로 개발되어 제조, 판매되고 있다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504030502327861_98",
+  "metadata": {
+    "doc_id": "PCY_201504030502327861",
+    "doc_type": "도서",
+    "doc_name": "사람중심 정보화 실행 전략",
+    "author": null,
+    "publisher": "정보통신정책연구원",
+    "published_year": "2014",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "이런 맥락에서 관계적 서비스(Relational Service)와 협력적 서비스(Collaborative Service)의 구현 수단은 개인화 서비스(Personalized Service)와 다르지 않다. 다만 한가지 차이점은 개인화 서비스(Personalized Service)에서의 플랫폼이 개별 서비스를 만들어 소비를 할 수 있는 기술적인 수단에 초점을 둔다면 관계적 서비스(Relational Service)와 협력적 서비스(Collaborative Service)에서의 플랫폼은 대중의 발현적 행동을 촉진할 수 있는 사회적인 속성에 무게중심을 둔다는 점이다. 조직의 구성원 집단과 불특정 다수의 집단, 즉 대중의 근본적 차이에 대한 이해가 우선되어야 하는 이유도 바로 여기에 있다. 이전 연구에서 제시된 정보서비스 플랫폼(GEM/SOCIAL)설계가 3대 기술적 요소(G·E·M)와 6대 사회적 요소(S·O·C·I·A·L)로 구성되고 관리모델이 4대 지식성장요소(I·C·R·A)를 측정, 관리하고자 하는 논거가 된다.",
+  "summary": "관계적 서비스와 협력적 서비스의 구현 수단은 대중의 발현적 행동을 촉진하는 사회적 속성에 무게를 둔다는 점에서만 개인화 서비스와 다르다. "
+}

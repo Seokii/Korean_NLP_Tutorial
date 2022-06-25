@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703160345454851_35",
+  "metadata": {
+    "doc_id": "PCY_201703160345454851",
+    "doc_type": "도서",
+    "doc_name": "2016년 보건복지통계정보 통합 관리 및 운영",
+    "author": null,
+    "publisher": "한국보건사회연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "위 Probabilistic classification 방법에서 사용된 데이터 구조는 Machine learning 방법에서 사용되는 분류방법에 바로 적용할 수 있 다. 예를 들면, 와 를 데이터행렬(design matrix) 을 분류변수 벡터 (target vector)로 간주하면 바로 Logistic regression model 방법 (Nelder and Wedderburn, 1972)을 적용할 수 있다. 물론 TF-IDF 에서 제공하는 가중치를 활용하면 Weighted logistic regression model 방법을 적용할 수도 있다. 이 밖에도 Support vector machine (Joachims, 1998), Decision tree(Quinlan, 1993; Kim et al., 2001), Neural network(Bishop, 1995) 방법 등 다양한 방법을 적용할 수 있다.",
+  "summary": "Machine learning 에 사용하는 분류방법에 위의 Probabilistic classification 방법에서 사용한 데이터 구조를 바로 적용 가능하다."
+}

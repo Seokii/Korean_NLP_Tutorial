@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201810220547101391_68",
+  "metadata": {
+    "doc_id": "PCY_201810220547101391",
+    "doc_type": "도서",
+    "doc_name": "4차 산업혁명 대응 법제 정비 연구 (Research on the Improvement of Legislative Systems in the Era of the 4th Industrial Revolution)",
+    "author": "조성은, 이원태, 이시직",
+    "publisher": "정보통신정책연구원,과학기술정보통신부,정보통신기술진흥센터",
+    "published_year": "2018",
+    "kdc_label": "과학기술연구",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "GDPR의 정보이동권은 IoT 기반의 초연결 사회에서 무한 생성되는 데이터를 원활히 유 통시키고 인공지능 등의 지능정보기술에 적용, 기술 발전에 기여하는 데이터 생태계를 구 축하는데 필요한 법적 근거로 주목받는다. 각국은 smart disclosure, midata 등의 제도 도입을 통해 데이터 유통 활성화를 꾀하는 한편, 제도 정립을 위헌 법적 근거를 마련하기 위한 논의를 지속하고 있다. 우리나라도 K-MyData 제도 도입을 추진하고 있으나 이 제도를 뒷 받침하는 법적 근거는 부재한 상태이다. 이에 GDPR의 정보이동권과 같은 법령을 국내 도 입하여 해당 제도의 법적 근거를 모색해볼 수 있으며, 이 때 발생할 수 있는 법적 쟁점을 살펴보고자 한다.",
+  "summary": "GDPR의 정보이동권은 데이터 유통을 통한 생태계 구축을 위한 법적근거이며 우리나라도 이와 같은 법령을 도입하여 K-MyData 제도의 법적 근거를 마련해 볼 수 있다."
+}

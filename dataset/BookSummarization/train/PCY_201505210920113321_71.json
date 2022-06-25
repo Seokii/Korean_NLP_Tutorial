@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201505210920113321_71",
+  "metadata": {
+    "doc_id": "PCY_201505210920113321",
+    "doc_type": "도서",
+    "doc_name": "해외 주요국의 지식재산 법제도 및 정책동향 조사분석",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "법무및검찰",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "이후 In re Seagate 사건에서 연방항소법원은 Underwater Devices의 결정을 뒤집는 판결을 내렸다. 즉, “고의”의 판단 기준은 Underwater Devices 사건에서 판시한과실(negligence)이 아닌, 부주의한 행위(reckless behavior)를 포함한다고 판시한 것이다. 그리고 특허 침해의 고의성을 판단하기 위한 부주의함을 특허권자가 입증하기 위해서는 i) 침해자의 행위가 유효 특허 침해를 구성할 객관적 가능성이 높음에도 불구하고 행동했음을 명백하고 확실한 증거(clear and convincing evidence)로 제시해야하고, 이와 같은 객관적 부주의 조건이 입증되면 ii) 피고가 객관적으로 정의된 위험을 알았거나 알았음이 분명하다는 것을 제시할 것을 요구하였다. 따라서 피고의 고의입증 기준이 Underwater Devices 사건의 “과실”에서 “부주의”로 강화되므로, 민사 소송에서 고의 침해를 근거로 세 배 배상, 즉 징벌적 손해 배상을 요구하는 것이 더욱 힘들어지게 된 것이다.",
+  "summary": "연방항소법원은 In re seagate 사건에서 고의 판단기준은 부주의한 행위를 포함한다고 하여 Underwater Devices결정을 뒤집는 판결을 내렸다. 즉 피고의 고의입증 기준이 과실에서 부주의로 강화되어 민사소송에서 징벌적 손해배상을 요구하는 것이 힘들어지게 된 것이다."
+}

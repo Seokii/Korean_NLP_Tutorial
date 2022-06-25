@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201810180325153701_6",
+  "metadata": {
+    "doc_id": "PCY_201810180325153701",
+    "doc_type": "도서",
+    "doc_name": "자율주행자동차의 등장과 교통형법적인 대응",
+    "author": "차종진, 이경렬",
+    "publisher": "한국형사정책연구원",
+    "published_year": "2018",
+    "kdc_label": "법무및검찰",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "자동차 교통부문에서의 안전성과 효율성은 특히 ‘협력 지능형 교통시스템(Cooperative Intelligent Transport System, C-ITS)’ 기술의 발전을 통하여 극대화될 것이라 예상되고 있다. C-ITS 플랫폼에는 차량간 직접 통신(Vehicle to Vehicle, V2V), 차량과 인프라간통신(Vehicle to Infrastructure, V2I), 보행자와 차량간 통신(Pedestrian to Vehicle, P2V),보행자와 인프라간 통신(Pedestrian to Infrastructure, P2I) 및 도로 센서 네트워크와 인프라간 통신(Road to Infrastructure) 등 ‘차량･사물 통신(Vehicle to Everything communication, V2X)’ 기술이 적용되며, 이를 V2X 통신의 중요성을 강조하는 측면에서 Networked Car 또는 Connected Car라고 부르기도 한다. C-ITS 플랫폼에서 자율주행자동차는 교통환경에 영향을 미치는 인자들 간의 광범위한 정보교환을 통하여 현재 기술수준에서 수백미터로 제한된 카메라, 레이더 및 라이다 등 인식장치의 한계를 극복할 수 있다. 이를 통하여 자율주행자동차들은 차량 간 그리고 도로 기반시설과 직접 상호작용할 수 있으며, 정보공유를 통하여 운전자가 올바른 결정을 하고 교통상황에 적응하도록 지원하고 도로 안전, 교통 효율성 및 운전의 편안함을 크게 향상시킬 것으로 기대되고 있다.",
+  "summary": "‘협력 지능형 교통시스템(Cooperative Intelligent Transport System, C-ITS)’ 기술이 발전하며 차량 간 직접 통신, 인프라 간 통신 등 ‘차량･사물 통신’ 기술이 적용되어 정보교환을 통해 현 기술 내 센서의 한계를 극복할 수 있다. 이를 통해 자동차 교통부문의 안전성 및 효율성이 향상될 것이라 예상되고 있다.  "
+}

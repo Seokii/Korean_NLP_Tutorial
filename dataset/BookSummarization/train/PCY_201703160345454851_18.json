@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703160345454851_18",
+  "metadata": {
+    "doc_id": "PCY_201703160345454851",
+    "doc_type": "도서",
+    "doc_name": "2016년 보건복지통계정보 통합 관리 및 운영",
+    "author": null,
+    "publisher": "한국보건사회연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Matrix factorization 방법은 추천 시스템을 구성하는 과정에서 다양 한 방식으로 응용될 수 있다. 예를 들면 정사영 공간에서 적당한 거리 (distance)를 정의하면 특정 사용자로부터 가까운 거리에 위치하는 사용 자들의 집합을 정의할 수 있고 이러한 사용자들의 집합을 -nearest neighbor로 지정하면 User-based nearest neighbor recommendation 방법을 직접 사용할 수 있다. Matrix factorization 방법을 적용하기 위한 데이터는 선호도 행렬이며 절차는 다음과 같다.",
+  "summary": "시스템 구성 과정에서 여러가지 활용이 가능한 Matrix factorization의 데이터는 행렬이고, 사용자들의 거리와 위치사용을 통해 응용한 예가 있다."
+}

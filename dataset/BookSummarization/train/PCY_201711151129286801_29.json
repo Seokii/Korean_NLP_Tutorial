@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711151129286801_29",
+  "metadata": {
+    "doc_id": "PCY_201711151129286801",
+    "doc_type": "도서",
+    "doc_name": "유·초등교사의 교사목표 척도 개발 및 타당화",
+    "author": null,
+    "publisher": "한국교육과정평가원",
+    "published_year": "2016",
+    "kdc_label": "유아및초·중등교육",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "본 검사 문항의 경우 예비검사분석과 마찬가지로 기술통계치와 상관을 통해 문항의 양호도를 확인하였다. 신뢰도 검증은 내적일치도 계수인 Cronbach’s α를 통해 확인하였다. 그리고 본 연구에서 가정한요인구조가 적절한지를 확인하기 위해 AMOS 20.0 프로그램을 사용하여 확인적 요인분석을 실시하였다. 완전정보최대우도법(full information maximum likelihood)을 사용하여 모형을 추정하였으며(Arbuckle, 1996) 모형의 평가는 χ2와 Root Mean Square Error of Approximation(RMSEA), Tucker-LewisIndex(TLI), Comparative Fit Index(CFI) 적합도 지수를 이용하여 이루어졌다(홍세희, 2000). χ2의 경우영가설이 너무 엄격하다는 점과 χ2값이 표본의 크기에도 영향을 받는다는 점을 고려하여(Kelloway, 1995) RMSEA와 TLI, CFI를 위주로 모형을 평가하였다. RMSEA는 .05에서 .06 이하, TLI와 CFI는 .90에서 .95 이상일 때 좋은 적합도로 간주하였다(Browne & Cudeck, 1993; Hu & Bentler, 1999).",
+  "summary": "본 검사 문항의 경우 기술통계치와 상관을 통해 문항 양호도를 확인 했고, 신뢰도 검증은 크론바하의 알파를 통해 확인 하였으며, 가정적 요인구조가 적절한지 확인하기 위해서 amos20 프로그램을 사용했다."
+}

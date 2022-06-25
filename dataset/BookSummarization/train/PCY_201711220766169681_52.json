@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220766169681_52",
+  "metadata": {
+    "doc_id": "PCY_201711220766169681",
+    "doc_type": "도서",
+    "doc_name": "비교효과연구를 위한 인프라 현황분석",
+    "author": "신상진",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2012",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Brown & Platt(2012)는 이를 확대하여 Multiple Networking Sharing Infrastructure의 구성을 통해 PCORI가 해당 자료원에 대한 접근성을 갖게 되는 좋은 기회로 제안하였다. 이 때 관련된 유관기관들은 Multiple Network에 참여할지를 결정할 수 있으며, 각 네트워크는 각자의 거버넌스와 조율(Coordination) 기능을 포함할 수 있게 설계할 수 있다. 이런 네트워크의 구성은 자료의 연계뿐만 아니라 네트워크는 자연스럽게 하부구조, data curation, 분석, 교육, 보안, 소프트웨어 개발 등을 공유할 수 있는 시너지 효과를 갖게 된다.",
+  "summary": "선행연구는 이를 PCORI의 접근성을 위한 기회라고 봤다. 유관기관들은 참여 여부를 결정하고 네트워크를 각자 설계할 수 있다. 이는 자료뿐 아니라 다른 많은 것도 공유하게 해 준다."
+}

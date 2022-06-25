@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118877082_7",
+  "metadata": {
+    "doc_id": "CNTS-00118877082",
+    "doc_type": "도서",
+    "doc_name": "가계동향조사 조사기간 단축 대비 회상조사 방안 검토",
+    "author": "김경미",
+    "publisher": "통계청 통계개발원",
+    "published_year": "2016",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": null,
+  "passage": "본 프로젝트는 BLS(U.S. Bureau of Labor Statistics) 내부전문가로 팀을 조직하여, 외부전문가 집단과 유기적 관계를 유지하고 있다. Gemini Steering Team이 내부조직 전체를 포괄하며 4개의 세부조직으로 구성된다. 세부조직으로 Research Tracking System Team은 연구결과 축적을 위한 데이터베이스를 구축한다. Data Quality Definition Team은 조사에 사용된 데이터 품질의 정의를 개발하고 OPLC Requirements Team은 BLS 내부 이해관계자와 지출 범주, 데이터 제공 범위를 조정한다. Sampling Team은 조정된 제공 범위를 바탕으로 면접조사 및 가계부조사의 표본과 관련된 역할 등을 수행한다. 외부전문가 집단으로는 CNSTAT(Committee on National Statistics)가 있으며 또한 WESTAT과 계약하여 연구를 진행하고 있다. CNSTAT는 조사방법론, 통계학, 심리학, 경제학, 공공정책 분야를 포함한 관련 분야들의 전문가로 구성되어, CE의 재설계를 위해 조사방법론을 리뷰하고 제안하는 역할을 한다. WESTAT는 CNSTAT이 제안한 방안에 대해 방법론적으로 잘 작동하는지 확인하는 프로젝트를 수행, 각종 테스트 및 시험조사를 BLS와 함께 진행하고 있다.",
+  "summary": "외부전문가 집단과  BLS내부전문가 팀이 유기적 관계를 유지한다. 내부조직 전체를 포괄하며 4개의 세부조직으로 구성된 Gemini Steering Team은 세부적으로 데이터베이스를 구축, 품질의 정의 개발, 제공범위를 각각 조정한다. 외부전문가 집단인 CNSTAT는 조사방법론을 리뷰하고 제안하며 CE의 재설계를 위한 역할을 한다."
+}

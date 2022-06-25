@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118871826_14",
+  "metadata": {
+    "doc_id": "CNTS-00118871826",
+    "doc_type": "도서",
+    "doc_name": "건강기능식품 기능성 평가 가이드",
+    "author": "식품의약품안전평가원",
+    "publisher": "식품의약품안전평가원",
+    "published_year": "2019",
+    "kdc_label": "가사, 가정학",
+    "kdc_code": "590"
+  },
+  "chapter": null,
+  "passage": "실험동물을 희생시킨 동물에서는 혈액을 채취하고 췌장조직을 절취하여 무게를 측정하고 고정액에 담거나 액체질소에 보관한다. 고정액에 담긴 조직은 면역조직화학법과 in-situ hybridization을 위하여 paraffin에 포매 후 조직절편을 작성한다. 조직절편에서 인슐린세포와 glucagon 세포 등을 관찰하기 위하여 면역조직화학법을 시행한다. 면역세포화학 기법은 avidin-biotin-peroxidase complex 법을 이용한다. 한편 필요에 따라 베타세포 내 인슐린분자의 위치를 추적하기 위하여 insulin immunogold labeling을 시행할 수 있다. 전자현미경적 면역세포화학법은 immunogold법을 이용한다.",
+  "summary": "실험동물에서 절취한 췌장조직을 고정액에 담아  paraffin에 포매하여 조직절편을 작성한다. 조직절편은 면역조직화학법을 시행하여 인슐린세포와 glucagon 세포 등을 관찰한다."
+}

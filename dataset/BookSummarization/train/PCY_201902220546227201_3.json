@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201902220546227201_3",
+  "metadata": {
+    "doc_id": "PCY_201902220546227201",
+    "doc_type": "도서",
+    "doc_name": "오토모티브 이더넷 보안 기술 (Trends in Automotive Ethernet Security Technology)",
+    "author": "정보흥, 김대원, 전부선, 주홍일, 나중찬",
+    "publisher": "한국전자통신연구원",
+    "published_year": "2018",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "차량에는 변속기 ECU, 에어백 ECU, 원격시동 ECU와 같이 다양한 기능을 수행하는 ECU가 최소 100여 개 이상 장착되어 있다. 오토모티브 이더넷 자동차는 이들이 동시에 안전하게 수행되도록 하기 위해 개별 ECU에 실시간 운영체제 적용과 콤포넌트 단위 SW배포와 모듈화가 가능한 ECU 미들웨어 플랫폼인 AUTOSAR(AUTomotive Open System ARchtecture) 적용을 확대하고 있는 추세이다. 고화질 영상처리와 같은 대용량 데이터 지원 및 내부 트래픽 대역폭 확대 요구에 따라서 자동차 내부통신 네트워크 기술 발전전망을 예측한 자료에 의하면 2020년까지 엔진, 변속기제어, Braking Control, 카메라 기반 ADAS, 도어 및 시트제어, AV 엔터테인먼트를 비롯한 진단을 위한 OBD-Ⅱ(On-Board Diagnostics-Ⅱ)에 걸쳐 대부분의 ECU가 기존의 레거시 네트워크 방식에서 오토모티브 이더넷에 연결될 것이라고 한다.",
+  "summary": "개편이 성공적으로 추진되어 군 장병을 비롯한 국민 모두에게 신뢰받는 국군병원이 되기를 기원합니다."
+}

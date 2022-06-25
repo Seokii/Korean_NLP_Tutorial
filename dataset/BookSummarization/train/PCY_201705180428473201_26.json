@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201705180428473201_26",
+  "metadata": {
+    "doc_id": "PCY_201705180428473201",
+    "doc_type": "도서",
+    "doc_name": "주요국의 Post 2020 온실가스 감축목표에 대한 비교분석 연구",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "이러한 시나리오로 11개 분석대상 국가에 대하여 분석하였다. 분석의 일관성을 유지하기 위해서 각국의 CO2 배출, GDP, 인구는IEA(2014) 자료를 사용하였다. IEA 자료는 ‘CO2 emissions from fuel combustion’의 2014년 자료를 사용하였다. 누적배출량은 World Resource Institute의 CAIT 데이터베이스를 사용하였으며 1950년부터 2010년까지의 배출량을 누적하였으며 산림 및 토지부문은 제외하였다. CO2에 대한 2030 BAU 전망은 미국 에너지부의 ‘International Energy Outlook’ 자료를 활용하였다.",
+  "summary": "CAIT DB에서 참조한 CO2 배출, GDP, ‘CO2 emissions from fuel combustion’의 IEA 인구자료를 토대로 11개 국가에 대하여 분석하였다."
+}

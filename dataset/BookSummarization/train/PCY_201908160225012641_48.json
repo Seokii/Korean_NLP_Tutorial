@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201908160225012641_48",
+  "metadata": {
+    "doc_id": "PCY_201908160225012641",
+    "doc_type": "도서",
+    "doc_name": "에너지 포커스 : 2019년 여름호",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2019",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "DFL은 BFOE 실물을 Dated Brent 가격의 월평균으로 거래할 때의 Dated Brent 가격변동의 위험을 헤지하기 위한 것으로 Dubai Swaps를 이용한 헤지 구조와 비슷하나 BFOE Swaps 상품이 없기 때문에 ICE Brent Futures Swaps를 활용한 것이다. 주지하다시피 Dubai 실물을 거래할 때 많이 활용되는 파생상품은 Dubai Swaps이다. 예를 들어 9월 23일에 11월에 선적되는 Dubai 실물 원유를 Platts사가 11월에 발표하는 Cash Dubai 가격(익년 1월물)의 월평균으로 매도하는 계약을 체결할 경우 11월 발표되는 가격이 얼마일지 모르기 때문에 매도자는 매도가격을 미리 고정하고 싶을 것이다. 이때 Dubai 실물의 매도가격을 고정하기 위해서는 Dubai Swaps 11월물을 매도하면 되고 매수 시에는 정반대의 절차를 거치면 된다. 만약 Dubai Swaps처럼 BFOE Swaps 상품이 존재할 경우(거래유동성이 풍부하다면) 11월에 선적하는 BFOE 실물을 거래할 때 11월에 Platts사가 발표하는 Cash BFOE(익년 1월물) 가격의 월평균으로 계약을 체결한 후에 BFOE Swaps 11월물을 사거나 팔아서 가격을 고정할 수 있을 것이다. 추가적으로 만약에 BFOE Swaps 상품이 있다면 BFOE 실물을 거래할 때 Cash BFOE 가격을 기준으로 거래하면 되므로 굳이 Dated Brent 가격에 연동할 필요성도 적어질 것이다. 다만, Cash BFOE 대신 Dated Brent 가격에 연동하는 것은 수송기간이 다른 지역(중동-아시아 등)보다 짧은 북해시장의 특성에 기인하는 바가 크기 때문에 BFOE Swaps 상품이 등장하기는 쉽지 않을 것이다.",
+  "summary": "Dubai 실물을 거래할 때 매도가격을 고정하기 위해서 해당 월 익년 가격의 월평균으로 계약을 체결한 뒤에 실물을 거래하는 Dubai Swaps가 활용된다. 이와 같은 단위는 다양한 종류가 있으며, 위험 부담을 줄이기 위해 사용되는 것으로 보인다."
+}

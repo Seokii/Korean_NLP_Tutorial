@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201410290951453581_44",
+  "metadata": {
+    "doc_id": "PCY_201410290951453581",
+    "doc_type": "도서",
+    "doc_name": "방송통신위원회의 의사결정 역량강화 방안 연구",
+    "author": null,
+    "publisher": "방송통신위원회",
+    "published_year": null,
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "이에 맞서 AT&T의 경쟁사업자인 T-Mobile은 지난 10월 초 Walmart의 라이벌 유통사인 Target에 자사의 LTE 네트워크를 직접 개방했다. 기존의 MVNO 사업자를 통하지 않고 Target이 직접 MVNO 서비스에 나선 것이다. Target의 ‘BrightSpot’ 서비스는 T-Mobile의 LTE 네트워크를 통한 무제한 음성통화 및 SMS를 월 35달러에 제공하며, 월 15달러 추가 시 1GB의 데이터를, 30달러 추가시 4GB의 데이터를 이용할 수 있다. 국제 SMS 서비스 이용을 희망할 경우 5달러, 국제 전화까지 포함될 경우 10달러의 요금이 추가 된다.",
+  "summary": "T-Mobile은 Target에게 LTE 네트워크를 개방했다. 이를 통해 Target은 ‘BrightSpot’ 서비스를 오픈하고 직접 MVNO 서비스에 나섰다."
+}

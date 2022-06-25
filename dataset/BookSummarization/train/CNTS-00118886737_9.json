@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118886737_9",
+  "metadata": {
+    "doc_id": "CNTS-00118886737",
+    "doc_type": "도서",
+    "doc_name": "벤치마킹기법의 이해와 활용",
+    "author": "어운선",
+    "publisher": "통계청 통계개발원",
+    "published_year": "2011",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": null,
+  "passage": "앞에서 살펴본 GRDP통계와 관련지표를 토대로 가장 타당한 수준에서의 분기 GRDP통계를 추정해 보고자 한다. 여기서는 월별 혹은 분기통계로 활용 가능한 관련지표는 제조업부문의 산업생산지수가 가장 타당한 지표로 판단하고, 이를 토대로 분기별 제조업 GRDP통계를 시범적으로 추정하였다. 각각의 벤치마킹기법의 추정결과를 평가하기 위해 관련지표 및 실제 분기 국민계정 추계값과 비교해 보았다. 비교 기준은 RMSPE(root mean square percent error) 및 RMSE(root mean square error)를 통해 성과를 평가하였다. 벤치마킹 적용 프로그램은 ECOTRIM Ver. 1.01(Barcellan and Buono, 2002) 및 BENCH Ver. 1.00 (StatCan, 1995)을 활용하였다.",
+  "summary": "GRDP통계와 관련지표를 바탕으로 합리적인 수준에서의 분기 GRDP통계를 추측해 보고자 한다. 따라서 월별 혹은 분기통계로는 제조업부문의 산업생산지수가 적합하고 분기별 제조업 GRDP통계를 선례로 판정했다."
+}

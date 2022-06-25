@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703160345454851_17",
+  "metadata": {
+    "doc_id": "PCY_201703160345454851",
+    "doc_type": "도서",
+    "doc_name": "2016년 보건복지통계정보 통합 관리 및 운영",
+    "author": null,
+    "publisher": "한국보건사회연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Matrix factorization 방법은 선호도 행렬을 분해하여 Latent factor 를 구성하고 중요한 Latent factor로 생성되는 저차원 공간에 사용자 혹 은 아이템의 선호도를 정사영하여 다른 사용자의 선호도와의 관계를 시 각적으로 표현해 주는 방법이다(Deerwester et al., 1990; Koren et al., 2009). 특히 Latent factor를 구성하는 방법은 선호도 행렬에 대한 Singular value decomposition 방법이 자주 이용된다(Sarwar et al., 2000a; Grigorik, 2007).",
+  "summary": "Matrix factorization은 주요 Latent factor의 공간에 요인의 선호도를 표시해 다른 사용자의 선호도에 따른 관계를 시각적 방식으로 나타내준다."
+}

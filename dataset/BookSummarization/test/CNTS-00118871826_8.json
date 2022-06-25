@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118871826_8",
+  "metadata": {
+    "doc_id": "CNTS-00118871826",
+    "doc_type": "도서",
+    "doc_name": "건강기능식품 기능성 평가 가이드",
+    "author": "식품의약품안전평가원",
+    "publisher": "식품의약품안전평가원",
+    "published_year": "2019",
+    "kdc_label": "가사, 가정학",
+    "kdc_code": "590"
+  },
+  "chapter": null,
+  "passage": "Alpha-glucosidase 활성 억제 실험에서 효과가 있는 시료의 inhibition mode를 분석하기 위해 기질인 PNP-glycoside(0.125-2 mM)를 시료의 몇 가지 다른 농도 에 대하여 각각 반응시킨다. 그 외에 조건들은 상기 서술한 assay 방법과 동일하게 수행하며 대조실험으로는 시료를 반응에 첨가하지 않고 효소와 기질만을 반응시킨다. 그리고 다양한 농도의 p-nitrophenol을 미리 측정하여 표준곡선을 그린 후, 각각의 다른 시료농도에 대하여 얻어진 흡광도수치를 표준곡선의 방정식에 대입하여 반응의 최종 산물인 p-nitrophenol의 양을 계산한다. 이러한 방법으로 산출된 값들은 1/PNP-G(mM)을 X축으로, 1/V(mM/min)을 Y축으로 하여 Lineweaver-Burk plot으로 다시 작성하며 alpha-glucosidase에 대한 PNP-glycoside의 Km 값을 구한다.",
+  "summary": "Alpha-glucosidase 활성 억제 실험에서  다양한 시료 농도를 측정하여 표준곡선을 그린다. 다른 농도의 시료와 기질의 반응에서 얻어진 흡광도수치를  넣어 표준곡선 방정식으로 계산한 값으로 PNP glycoside의 Km 값을 구한다."
+}

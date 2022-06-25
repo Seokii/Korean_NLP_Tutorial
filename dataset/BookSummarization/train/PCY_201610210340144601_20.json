@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610210340144601_20",
+  "metadata": {
+    "doc_id": "PCY_201610210340144601",
+    "doc_type": "도서",
+    "doc_name": "상하이선물거래소 원유선물 상장의 의미와 우리의 대응",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "미주지역 기준원유이자 대표적 저유황 경질유인 WTI를 기초자산(underlying asset)으로 한다. WTI 선물계약은 만기일까지 포지션을 보유하면 실물 인수도 의무가 발생하는데, 인수도 대상 유종에는 WTI 뿐만 아니라 Low Sweet Mix, New Mexican Sweet, North Texas Sweet 등 품질 조건이 충족되는 유종도 포함된다. 영국 브렌트유, 나이지리아 Bonny Light, 콜롬비아 Cusiana 등 수입원유로도 인수도가 가능하다. 인수도는 오클라호마주 쿠싱(Cushing)에서 이루어지며, 따라서 이곳의 재고 동향은 WTI 가격에 큰 영향을 미친다.",
+  "summary": "WTI이 기초자산이며 WTI 선물계약은 만기일까지 보유 시 실물 인수도 의무가 발생하는데 인수도는 쿠싱에서 이루어지기에 이곳의 재고 동향이 WTI 가격에 큰 영향을 미친다."
+}

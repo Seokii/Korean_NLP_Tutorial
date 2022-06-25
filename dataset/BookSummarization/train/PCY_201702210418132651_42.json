@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201702210418132651_42",
+  "metadata": {
+    "doc_id": "PCY_201702210418132651",
+    "doc_type": "도서",
+    "doc_name": "교통환경정책 수립을 위한 대기환경 개선효과 추정방안 연구 : 도로이동오염원을 중심으로",
+    "author": null,
+    "publisher": "한국환경정책·평가연구원",
+    "published_year": "2016",
+    "kdc_label": "대기",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "도로이동오염원 배출량 산정 시 국내에서는 전술한 바와 같이 CPASS 기반의 TDA 방법이 주로 활용되고 있으며, 미국 환경청(EPA: U.S. Environmental Protection Agency)은 Motor Vehicle Emission Simulator(MOVES) 기반의 BUA 방법을, 유럽에서는 유럽 환경청(EEA: European Environment Agency)의 지원으로 EU 산하 공동연구센터(JRC: Joint Research Centre)에서 개발한 Computer Programme to calculate Emissions from Road Transport(COPERT) 기반의 TDA 방법을 주로 활용한다.",
+  "summary": "도로이동오염원 배출량 산정 시 CPASS 기반 TDA 방법이 주로 활용되고, 미국 환경청은 BUA를, 유럽은 TDA 방법을 주로 활용한다."
+}

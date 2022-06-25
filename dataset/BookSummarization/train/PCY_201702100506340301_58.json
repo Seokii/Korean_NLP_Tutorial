@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201702100506340301_58",
+  "metadata": {
+    "doc_id": "PCY_201702100506340301",
+    "doc_type": "도서",
+    "doc_name": "지진포커스. 통권5호",
+    "author": null,
+    "publisher": "기상청",
+    "published_year": "2014",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "환태평양조산대에 속하여 전 세계적으로 지진발생빈도가 높은 지역 중 한 곳인 미국 서부 캘리포니아와 일본은 1980년대부터 GNSS를 이용한 지각변동 및 지진 모니터링 연구를 시작하였다. 미국의 경우 서부 캘리포니아 지역의 단층 모니터링을 위하여 서부 캘리포니아는 물론 로스엔젤레스에 250여개소의 GPS 네트워크 SCIGN(Southern California Integrated GPS Network)을 구축하여 지각의 움직임과 지진과의 상호 관련성을 조사하고 있다. SCIGN은 USGS(US Geological Survey), SIO(Scripps Institution of Oceanography) 그리고 JPL(Jet Propulsion Laboratory)의 공동 프로젝트로, 홈페이지(http://www.scign.org)를 통해 GNSS 관측소 정보와 실시간 지각변동 현황을 제공하고 있다.",
+  "summary": "환태평양조산대에 속하여 지진발생빈도가 높은 지역 중 한 곳인 미국 서부캘리포니아와 일본은 1980년 GNSS를 이용한 지진 연구를 시작하였고, 현재는 홈페이지를 통해 GNSS 관측소 정보와 실시간 지각변동 현황을 제공한다."
+}

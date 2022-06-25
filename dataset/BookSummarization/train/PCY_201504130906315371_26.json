@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504130906315371_26",
+  "metadata": {
+    "doc_id": "PCY_201504130906315371",
+    "doc_type": "도서",
+    "doc_name": "사이버스페이스 거버넌스 차원에서의 국제규범 적용 가능성",
+    "author": null,
+    "publisher": "국립외교원",
+    "published_year": null,
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "OECD에서는 1992년 “Recommendation Concerning Guidelines for the Security of Information Systems”을 채택한 이래 이에 대한 논의를 꾸준히 이어가고 있다. 동 권고에서는 5년 주기로 권고의 유효성에 대한 검토를 규정하고 있다. 이에 따라 2002년 이를 개정한 “Guidelines for the Security of Information Systems and Networks: Towards a Culture of Security”가 채택되었다. 이는 1992년 권고가 채택되던 당시와 달라진 네트워크 환경의 변화에 따라 구(舊) 권고가 유효성을 상실했다는 판단에 따른 것이다. 즉, 구 권고에서는 국가 또는 기업의 독립된 정보시스템에 대한 외부로부터의 접근 통제, 내부자에 의한 정보 유출, 기술적 결함으로 인한 시스템 실패의 방지에 초점을 맞추었으나, 이는 각 정보시스템이 네트워크로 연결·개방되어 있는 새로운 IT 환경에서 발생하는 위협에 대응하기에 부적절한 것이었다. 이에 더해 2008년에는 주요 정보 기반시설의 보호에 관한 권고가 추가적으로 채택되었으며, 2013년 현재 2002년 가이드라인의 개정을 위한 검토 작업이 진행 중이다.",
+  "summary": "OECD는 1992년 \"Recommendation Concerning Guidelines for the Security of Information Systems\"을 채택한 후, 2002년 이를 개정하였다. 2008년엔 기반시설의 보호에 관한 권고를 추가적으로 채택하였고 2013년 현재 가이드라인 개정을 위한 검토를 진행 중이다."
+}

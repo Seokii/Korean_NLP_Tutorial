@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611180239139771_6",
+  "metadata": {
+    "doc_id": "PCY_201611180239139771",
+    "doc_type": "도서",
+    "doc_name": "평일계통한계가격의 변동성 예측 : 다중주기(multi-frequency)모형을 중심으로",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "SMP는 전력의 수요에 영향을 받으므로 전력 수요에 영향을 주는 요인들을고려하여 SMP 변화율의 구조식을 설정할 필요가 있다. 이는 일반적으로구조식을 식별하기 힘든 금융시계열과는 다른 SMP의 특징에 기인한다. 따라서 기존 연구를 토대로 SMP 변화율의 구조식에 공급예비율(reserve ratio),냉방도일(CDD: cooling degree days), 난방도일(HDD: heating degree days)등의 SMP 결정요인을 설명 변수로 설정하였고 계절 및 요일 효과를 통제하기 위하여 계절더미(seasonal dummy), 요일더미(weekday dummy)를 추가적으로 고려하였다.",
+  "summary": "전력 수요에 영향을 주는 요인들을 고려하여 SMP 변화율의 구조식을 설정하여 기존 연구에 변화율의 구조식을 추가하여야 한다."
+}

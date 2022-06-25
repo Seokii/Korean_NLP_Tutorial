@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201808060519201521_4",
+  "metadata": {
+    "doc_id": "PCY_201808060519201521",
+    "doc_type": "도서",
+    "doc_name": "클라우드 컴퓨팅 환경에서 전자정보 압수수색에 관한 입법적 개선방안 : 선행연구 결과에 대한 입법론적 접근",
+    "author": "이인곤",
+    "publisher": "대검찰청",
+    "published_year": "2018",
+    "kdc_label": "법무및검찰",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "우선 미국의 경우 과거 ｢연방형사소송규칙(The Federal Rules of Criminal Procedure)｣에서 압수‧수색의 대상이 되는 물건에 “문서(documents), 장부(books), 서류(papers) 기타 유체물(tangible objects)을 포함한다”고 규정하였다. 이에 대해 미국 법원은 “이는 한정적 열거조항이 아니며 유체물에 한정되지 않는다”라고 판시하여 무체정보인 전자정보의 압수대상성을 판례를 통해 인정한바 있다(Michigan Bell Tel. v. United States). 나아가 현행 ｢연방형사소송규칙｣에서는 압수대상 재산(Property)에 ‘정보(information)’를 직접 명문화하여 입법적으로 정보의 압수대상 문제를 해결하고 있다. 영국의 경우에는 압수에 대한 일반적 권한(General power of seizure)을 규정하고 있는 ｢경찰 및 형사 증거법(Police and Criminal Evidence Act 1984)」제19조에서 경찰관(constable)이 합리적인 근거에 기초해 범죄와 관련된 증거이고, 해당 증거의 은닉․손실․변경․파괴를 방지하기 위해 압수할 필요가 있다고 믿은 경우에는 증거의 압수를 허용하면서 ‘전자적 형태의 정보(any information which is stored in any electronic form)’도 인정하고 있다(동조 제4항).",
+  "summary": "미국은 압수‧수색대상에 관해 ｢연방형사소송규칙｣을 통해 전자정보의 압수대상 해당 문제를 해결하고 있으며 영국은 ｢경찰 및 형사 증거법」을 통해 경찰관이 합리적인 근거에 기초하여 범죄와 관련된 전자적 형태의 정보를 압수할 수 있음을 인정하고 있다. "
+}

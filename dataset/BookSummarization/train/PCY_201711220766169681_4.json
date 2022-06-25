@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220766169681_4",
+  "metadata": {
+    "doc_id": "PCY_201711220766169681",
+    "doc_type": "도서",
+    "doc_name": "비교효과연구를 위한 인프라 현황분석",
+    "author": "신상진",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2012",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "첫째 국내에서 구축된 자료원의 현황파악이 어려울 만큼 정보가 제한적이었으며 R&D로 진행된 자료원의 경우 더욱 그러한 경향이 있었다. 이를 개선하기 위해 일단 국내에서 구축된 자료원에 대한 현황을 정부관계자 및 연구자들이 공유할 수 있도록 DB구축이 필요하다. 이는 현재 구축된 자료원의 현황을 확인할 수 있게 되고 장기적으로는 자료원의 활용도를 향상시킬 수 있으며, 향후 새로운 자료원 구축 시 참고할 수 있는 정보로도 유용하게 활용될 수 있을 것이다. 본 연구에서 제안하고자 하는 DB가 비슷한 사례로 미국의 Clinical and Translational Science Institute(University of California, San Francisco)에서 비슷한 목적의 DB를 구축·운영하는 사례를 찾아볼 수 있었다.",
+  "summary": "미국의 Clinical and Translational Science Institute의 DB 사례처럼 국내도 자료 현황 파악을 위해 정부관계자와 연구자들이 유용히 활용할 수 있도록 DB구축이 필요하다. "
+}

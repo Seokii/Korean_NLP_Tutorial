@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118886777_22",
+  "metadata": {
+    "doc_id": "CNTS-00118886777",
+    "doc_type": "도서",
+    "doc_name": "국내인구이동 추계모형 개선방안 검토",
+    "author": "이태직",
+    "publisher": "통계청 통계개발원",
+    "published_year": "2010",
+    "kdc_label": "통계학",
+    "kdc_code": "310"
+  },
+  "chapter": null,
+  "passage": "앞의 2절에서도 잠시 설명했듯이 Markov 과정(Markov process)은 반복되는 상황에 대해 특정 상태에서 다음의 상태로 어떻게 변화할 것인가를 확률적으로 예측하는 기법으로 어떤 사건이나 현상이 바로 이전 사건이나 현상에 의해서만 결정되는 확률적 과정(stochastic process)에 관한 이론이다. Markov 과정을 전이확률과 함께 Markov chain이라고 하며 이를 수학적으로 정리하면 다음과 같다. 즉, t번째 기간에 i라는 상태에 있는 것을 Xt라고 할 때, 다음의 관계를 만족하는 경우를 Markov chain이라고 한다.",
+  "summary": "Markov chain을 구성하는 Markov 과정은 되풀이되는 환경에서 일정 시점의 어떤 일이 직전 상황 또는 사건과 인과관계에 있을 확률 추정 이론이다."
+}

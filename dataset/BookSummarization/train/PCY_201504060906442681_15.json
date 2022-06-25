@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504060906442681_15",
+  "metadata": {
+    "doc_id": "PCY_201504060906442681",
+    "doc_type": "도서",
+    "doc_name": "반도체설계재산유통가이드북",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "IP Characterization을 위해서는 무엇보다 측정 환경을 잘 구축하는 과정이 필요하다. IEEE, IEC등의 기관에서 각 IP 별로 Test Method를 개발하여 제시하고 있기 때문에 개발자는 이러한 표준을 잘 활용하는 것이 중요하다. 이렇게 Measurement Set-up이 이루어진 후 각 성능 파라미터의 특성을 Characterization 하는 과정을 진행한다. IP Characterization Report 작성은 IP의 객관적 신뢰도를 높이는 아주 중요한 과정이므로 측정 조건, 모드를 측정 결과와 함께 객관적이고 투명하게 제시하도록 한다.",
+  "summary": "IP Characterization은 테스트 메서드를 활용해 측정 환경을 구축하여 진행한 후 보고서에서 모든 조건과 결과를 투명하게 제시하여 IP의 신뢰성을 높인다."
+}

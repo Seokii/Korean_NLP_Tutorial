@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201411200924585141_103",
+  "metadata": {
+    "doc_id": "PCY_201411200924585141",
+    "doc_type": "도서",
+    "doc_name": "가계부채가 내수에 미치는 영향",
+    "author": null,
+    "publisher": "국회예산정책처",
+    "published_year": null,
+    "kdc_label": "금융",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Home Mortgage Loan에는 크게 고정이자(Fixed Rate)와 변동이자(Adjustable) 2가지로 구분이 된다. 고정 모기지는 융자기간 전체에 걸쳐 고정된 이자를 정하여 계산된 일정액의 원금과 이자를 냄으로써 융자 기간이 만료됨과 동시에 원금이 완전히 상환되는 융자를 말한다. 변동 모기지는 그 규정에 따라 일정 기간 혹은 융자 발생후 전 기간에 걸쳐 이자가 변동되는 모기지를 말한다. 변동 모기지에는 매우 다양한 융자 종류가 있다. 매달 변하는 Monthly , 3개월, 6개월, 1년부터 10년까지 고정 후 변동, 또는 이러한 변동에 이자만 내는 Interest only 융자 등 그 조합을 따지면 수 많은 종류의 모기지 상품이 있다. 그 중에서Monthly, 혹은 첫 3개월만 낮은 이자로 주는 변동 모기지가 있는데 주로 여러 가지 옵션을 붙여서 Option ARM(Optional Adjustable Rate Mortgage)라 한다. 문제는 이러한 Option ARM에서 Negative Amortization가 발생할 수 있다는 데 있다.",
+  "summary": "Home Mortgage Loan에는 고정 이자와 변동 이자가 있다. 고정 모기지는 고정된 이자를 정해 융자 기간 전체에 걸쳐 일정액의 원금과 이자를 내는 것이고, 변동 모기지는 융자 발생 후  전 기간에 걸쳐 변동되는 이자를 가진 모기지를 말한다."
+}

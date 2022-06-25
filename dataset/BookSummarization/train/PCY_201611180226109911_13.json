@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611180226109911_13",
+  "metadata": {
+    "doc_id": "PCY_201611180226109911",
+    "doc_type": "도서",
+    "doc_name": "혼합 MDCEV 모형을 이용한 발전사업자의 최적 재생에너지 포트폴리오 구성에 관한 연구",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Bhat(2005)는 Kim et al. (2002)의 연구를 바탕으로 이산-연속 선택모형인 Multiple Discrete Continuous Extreme Value (MDCEV) 모형을 제시하였고 이로써, 단일 대안 선택만 가능한 기존의 다항로짓모형의 한계점을 극복하였다. Bhat (2005)는 2000 San Francisco Bay Area Travel Survey(BATS) 자료를 바탕으로 MDCEV모형을 사용하여 사람들이 주말에 어떤 활동을 선택하고, 각 활동에 어느 정도 시간을 투자하는지에 대해 실증분석을 수행하였다. 이 연구는 Kim et al(2002)의 모형의 한계점인 복잡한 추정 과정을 보완하고, 수식적인 완결성을 더한 새로운 MDCEV라는 모형을 제시했다는 것에 큰 의의가 있다.",
+  "summary": "Bhat은 MDCEV 모형을 제시해 기존 다항로짓모형의 한계점을 극복하고 BATS자료를 바탕으로 사람의 활동과 시간 투자에 대한 실증분석을 했다. 이는 Kim et al 모형의 보완과 완결모형 제시의 의미가 있다."
+}

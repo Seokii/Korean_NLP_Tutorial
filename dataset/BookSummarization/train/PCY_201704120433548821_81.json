@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201704120433548821_81",
+  "metadata": {
+    "doc_id": "PCY_201704120433548821",
+    "doc_type": "도서",
+    "doc_name": "온실가스 감축-기후변화 적응 연계전략 수립",
+    "author": null,
+    "publisher": "한국환경정책·평가연구원",
+    "published_year": "2016",
+    "kdc_label": "대기",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "기후변화 불확실성은 기후변화 정책을 수립하는 데 있어 큰 영향을 미친다. 대표적으로 하버드대학교(Harvard University) Martin Weitzman 교수는 기후변화 불확실성이 클 경우 (fat-tailed or deep uncertainty) 온실가스를 감축하기 위한 지불용의액(willingness to pay)이 무한히 크다는 것을 수학적으로 증명했다(Weitzman, 2009). 이와 관련하여 기후변화 경제학에서는 많은 후속 연구들이 진행되고 있다(Nordhaus, 2011; Pindyck, 2011; Anthoff and Tol, 2014; Millner, 2013; Hwang et al., 2013; 2016a; 2017; Horowitz and Lange, 2014). 실례로 Hwang et al.(2016b)은 <표 4-18>과 같이 불확실성에 따라 최적의 탄소세가 크게 달라질 수 있음을 보인 바 있다. 일반적으로 기후경제모형에서 최적의 탄소세는 기후변화 대응정책의 강도를 대표하는 값으로 이해할 수 있다. 이러한 점에서 <표4-18>의 결과는 불확실성이 기후변화정책에 미치는 영향이 상당히 크다는 것을 의미한다.",
+  "summary": "기후변화 불확실성은 기후변화 정책 수립에 큰 영향을 준다. 기후변화 불확실성이 크면 온실가스 감축을 위한 지불용의액이 무한히 크다는 것이 수학적으로 증명됐고, 불확실성에 따라 최적 탄소세가 크게 달라질 수 있음이 보인 바 있다."
+}

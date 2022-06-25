@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201705291039589311_19",
+  "metadata": {
+    "doc_id": "PCY_201705291039589311",
+    "doc_type": "도서",
+    "doc_name": "공간정보 연계를 통한 보육서비스 인프라 적정성 분석",
+    "author": "최현수",
+    "publisher": "한국보건사회연구원",
+    "published_year": "2016",
+    "kdc_label": "보육·가족및여성",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "공간 접근성(Place Accessibility)은 특정 시설이나 공간에 다양한 사람들이 여러 수단을 통해서 얼마나 쉽게 접근할 수 있는지를 측정하는 대표적인 지표이다. 공간 접근성을 측정하는 방법은 Distance Measures, Cumulative Opportunity Measures, Gravity Measures, Utility Based Measures 등이 대표적(Markri & Follkesson, 1999)이며, 본 연구에서는 단위 구역 내 특정 집단만을 대상으로 평균적인 접근성을 산출한다는 전제 아래 Distance Measures와 Cumulative Opportunity Measures를 활용하였다.",
+  "summary": "공간 접근성은 다양한 사람들의 접근의 용이성 지표로 거리, 누적 기회, 무게, 다용도성을 측정한다. 구역 내 특정 집단의 평균 접근성 산출을 위하여 거리 측정과 누적 기회 측정을 활용한다."
+}

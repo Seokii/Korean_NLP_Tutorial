@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220774260611_25",
+  "metadata": {
+    "doc_id": "PCY_201711220774260611",
+    "doc_type": "도서",
+    "doc_name": "수면호흡장애 진단을 위한 수면다원검사의 평가",
+    "author": "신상진",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2012",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "수면검사실에서의 수면다원검사(Full night PSG)는 폐쇄성 수면무호흡증의 주된 평가방법이다. 이 검사는 뇌파(Electoencephalogram, EEG), 안전도(Electroculogram, EOG), 턱과 사지의 비침습적인 근전도(Noninvasive EMG)(보통 전비골근(Anterior tibialis), 구비강 호흡기류(Oronasal airflow)의 양적 측정(Qualitative measurement), 흉복부의 호흡능(Thoracic and abdominal respiratory efforts), 심전도(Electrocardiogram, ECG), 맥박산소측정법(Pulse oximetry)과 같은 다양한 채널을 제공한다. 밤 동안 일 수면 주기에서 다른 주기까지 전형적으로 일어나는 호흡방해(Respiratory disturbance)에서 중요한 변화가 일어날 수 있기 때문에 부분야간검사(Partial night)와 대조되는 전체야간검사가 추천된다. REM 수면이 밤의 끝으로 가면서 두드러지기 때문에 REM과 관련한 호흡곤란(Respiratory disturbance)은 수면검사(Full night)없이는 쉽게 놓칠 수 있다.",
+  "summary": "수면다원검사는 폐쇄성 수면무호흡증의 주된 평가방법이며 뇌파, 안전도 등의 다양한 채널을 제공한다. 밤 동안 호흡방해에서 중요한 변화가 생길 수 있기 때문에 전체야간검사가 추천된다. REM 수면의 경우 수면이 끝나가면서 두드러지므로 수면검사 없이는 REM 관련 호흡곤란을 놓치기 쉽다."
+}

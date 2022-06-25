@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049603859_48_49-0",
+  "metadata": {
+    "doc_id": "CNTS-00049603859",
+    "doc_type": "도서",
+    "doc_name": "2000년도 금융정보화 추진현황",
+    "author": "금융정보화추진분과위원회 사무국",
+    "publisher": "한국은행",
+    "published_year": "2001",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "제 3장 금융정보망의 운영/관리 제 1절 한국은행 금융결제망(BOK-Wire)",
+  "passage": "5. 주요국의 거액결제시스템\n가. 미국\n미국 거액결제시스템에는 연준이 운영하는 Fedwire와 뉴욕어음교환소협회(New York Clearing House Association)가 운영하는 CHIPS(Clearing House Interbank Payment System)가 있다. \n(1) Fedwire\nFedwire(The Federal Reserve Wire Transfer Service)는 연준이 운영하는 거액자금이체시스템(large-value transfer system)으로 자금이체시스템과 증권이체시스템으로 되어 있다. Fedwire 자금이체시스템은 과거 상업 은행 간 자금이체가 주로 관할 연준 간 현금 또는 금괴의 실물이동으로 이루어지던 불편을 해소하고자 1918년에 구축된 이래 teletype 시스템 도입(30년대), 자동메시지시스템 도입(’53) 등을 통해 자금이체기능이 지속적으로 향상되어 ’70년에 현재의 Fedwire 운영시스템의 모습을 갖추게 되었다. 한편 ’67년에 미 재무성과 연준은 Fedwire 증권이체시스템을 개발하여 ’77년까지 대부분의 기 발행된 국채를 계좌대체방식(Book-entry)으로 대체하였으며 ’78년 이후 신규발행(Treasury Bill(’78), Treasury Note(’86), Treasury Bond(’86))되는 국채는 모두 계좌대체방식으로 발행하고 있다.",
+  "summary": "미국 거액결제시스템에는 Fedwire와 CHIPS가 있다. Fedwire는 연준이 운영하는 거액자금이체시스템으로, 자금이체시스템과 증권이체시스템으로 구성되어 있으며 국채는 모두 계좌대체방식으로 발행하고 있다."
+}

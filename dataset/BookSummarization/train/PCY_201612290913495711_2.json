@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201612290913495711_2",
+  "metadata": {
+    "doc_id": "PCY_201612290913495711",
+    "doc_type": "도서",
+    "doc_name": "교통약자를 위한 공간정보 플랫폼 기술 및 앱 개발",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2016",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "사용자의 자발적인 참여를 기반으로 구축되는 지리정보 플랫폼을 VGI(Volunteered GeographicInformation) 플랫폼이라고 한다. VGI는 일반적으로 다수의 개인에 의해 자발적으로 수집된 지리정보의 생성, 조합, 배포를 위한 도구의 모음을 의미한다(Goodchild, 2007). 이를 구현한 사례로는 위키매피아(WikiMapia), 오픈스트리트맵(OpenStreetMap), 구글 맵 메이커(Google Map Maker) 등이 있다. 최근에는 스마트폰의 대중화에 힘입어, VGI의 개념을 혁신적으로 구현한 다양한 서비스들이 국내외에 걸쳐 활발히 시도되고 있다.",
+  "summary": "사용자의 참여로 구축되는 지리정보 플랫폼인 VGI는 다수의 개인에게 자발적으로 수집된 지리정보의 모음이다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220259368981_110",
+  "metadata": {
+    "doc_id": "PCY_201711220259368981",
+    "doc_type": "도서",
+    "doc_name": "진단 및 치료재료의 재사용 원칙에 관한 연구",
+    "author": "이상무",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2009",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Tessrolo 등(2009)은 공공보건의료서비스(health national service) 관점에서 1년 동안 임상전기생리학적 검사용 카테터의 재처리가 가져올 수 있는 비용절감을 추정하였다. 재처리의 가능성과 재사용시 임상전기생리학적 검사용 카테터가 제대로 기능할 수 있는 선에서 가능한 최대 재처리 횟수를 정의하기 위해 지역 정부에 의해 지원된 다학제적인 연구 결과(SIX-SICC Project)를 검토하였다. 이러한 결과물은 사전에 시행된 비용 최소화모형에 적용하였다. 새로운 의료기기의 비용과 다른 고정비용(쓰레기 폐기, 수집, 관리비용, 새로운 의료기기 계약의 체결)은 이탈리아 북부의 cardiology division activities의 statement로부터 추정되었다. 재처리 비용과 재처리율은 유럽의 제3자 재처리업체(Vanguard AG)로부터 추정하였으며 비용은 2004년 유로 단위를 기준으로 하였다. Field evaluation(시술당 non stented balloons와 non irrigated EP catheters의 평균 숫자)은 Trento의 S.Chiara의 cardiology department의 registry자료로부터 추정하였다. National cardiology department의 workload 자료는 haemodynamics와 electrophysiology로 인해 발표된 활동연보(annual statement activity)로부터 인용하였다. 비용 최소화모형은 일회용과 재사용 정책 두 개의 시나리오로 department level에서 interventional cardiology를 위한 catheter와 관련한 비용을 기수하기 위해 이용되었다.",
+  "summary": "공공보건 의료서비스에서 검사용 카테터 재처리가 불러올 비용절감을 추산하였다. 최대 재처리가 가능한 횟수을 찾기 위해 지역 정부의 연구결과를 검토하고, 그 결과물을 비용 최소화 모형에다가 적용했다. 이때 비용 최소화 모델은 재사용 정책과 일회용 두 개의 가정으로 진행되었다."
+}

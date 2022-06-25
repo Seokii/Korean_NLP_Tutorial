@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610200107140441_51",
+  "metadata": {
+    "doc_id": "PCY_201610200107140441",
+    "doc_type": "도서",
+    "doc_name": "중견기업의 성장경로 분석과 맞춤형 지원 방안",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2015",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "HP필터 적용을 위해, 데이터(한국기업데이터, Korea Enterprise Data)부터 추출한 기업(745개)의 1990년 ~ 2012년의 3개년 매출액 이동평균(Moving average) 수치와 이 매출액 이동평균의 연 증가율(Annual growth rate)을 계산하였다, 추출한 기업데이터에 대해서, HP필터를 적용함으로써 성장 기업 판단 후 대표사례를 선별하고자 하기 위한 목적이다. 분석을 위해서, Matlab 시뮬레이션 툴을 활용하여, 개별 기업들의 시계열 매출액 Moving average 자료에 대해 HP필터링을 적용했다.",
+  "summary": "데이터부터 추출한 기업의 성장도를 확인하려고 매출액 이동평균 및 연 증가율을 계산하였고 덧붙여 개별 기업들의 시계열 매출액 자료에 HP 필터링을 적용했다."
+}

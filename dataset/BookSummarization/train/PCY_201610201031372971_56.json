@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201610201031372971_56",
+  "metadata": {
+    "doc_id": "PCY_201610201031372971",
+    "doc_type": "도서",
+    "doc_name": "국가연구개발 정성평가 현황과 발전방향",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2015",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Grant를 신청하기 위해 연구자는 7개의 연구회가 공유하는 R&D 과제관리 시스템인 Joint Electronic Submission System(Je-S)를 이용하여 과제를 응모하게 된다. 신청된 과제에 대해 BBSRC의 프로그램 매니저인 Peer Review Officer는 프로포절의 내용을 검토하는 역할을 수행한다. 프로포절의 내용을 검토하여 적절한 심사위원을 선정하며, 연구과제 신청자와 심사위원 간 이해관계의 상충여부(conflict of interest) 등도 Peer Review Officer가 검토한다. 만약 프로포절의 내용이 타 연구회에 적당하다고 판단될 경우, Peer Review Officer는 연구과제 신청자에게 이를 통지한다. 이는 연구과제 신청이 반드시 1개의 연구회를 대상으로 해야 하며, 동일한 연구과제를 2개 이상의 연구회를 대상으로 신청하는 것은 금지되어 있기 때문이다.",
+  "summary": "연구자는 Grant를 신청하기 위해서 Je-S를 이용하여 과제에 응모한다. 이후 신청된 과제에 대해서 적절한 심사위원을 선정하여 Peer Review Officer가 내용을 검토하게 된다. "
+}

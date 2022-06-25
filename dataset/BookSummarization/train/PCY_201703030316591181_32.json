@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703030316591181_32",
+  "metadata": {
+    "doc_id": "PCY_201703030316591181",
+    "doc_type": "도서",
+    "doc_name": "제조업 기업의 HRD애로인식 양극화와 예측변인에 대한 연구 : 협력적 노사관계의 효과를 중심으로",
+    "author": null,
+    "publisher": "한국직업능력개발원",
+    "published_year": "2015",
+    "kdc_label": "고용노동",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "구체적으로 본 연구에서는 HRD애로요인 지표변인들에 대하여 2개 잠재집단부터 순차적으로 잠재집단의 수를 늘려 분석을 실행한다. 최적 잠재집단 수를 정하기 위해서 본 연구는 AIC(Akeike Information Criteria), BIC(Baysian Information Criteria), ABIC(Adjusted Baysian Information Criteria)정보적합도 지수를 고려하고, 순차적으로 투입된 잠재집단 유형수(k)의 수의 통계적 유의미성을 살펴보기 위한 LMR-LRT(Lo-Mendell-Rubin Likelihood Ratio Test), ALRT(Lo-Mendell-Rubin Adjusted Likelihood Ratio Test) B-LRT(Bootstrap Likelhood Ratio Test) 검증을 실시한다. 이를 통해 현재 k개의 잠재집단 유형의 모형(H1)과 현재 모형보다 1개 잠재집단유형 수가 적은(k-1) 모형(H0)을 비교하여 유의미한 수준에서 모형적합도가 개선되었는지 확인하게 된다. 또한 잠재집단의 수가 확인되면, 각각의 개별사례들이 얼마나 정확히 집단에 분류되었는지를 평가하는 엔트로피(Entropy)를 확인하는데, 엔트로피 지수는 0에서 1의 범위를 가지며, 1에 가까울수록 정확히 분류가 되었음을 의미한다. 소결하여, 최적화된 잠재집단의 수(k)는 분석에서 잠재집단의 수를 순차적 증가시키고, 그 때 해당 통계치들이 얼마나 적합한지를 비교, 평가하여 결정된다. AIC와 BIC지수는 작은 값을 가질수록 모형적합도가 좋은 것을 의미하며, LRT와 ALRT, BLRT검정은 유의미할 때 k개의 잠재집단 유형이 적합함을 의미한다(이왕원, 2014).",
+  "summary": "본 연구는 HRD애로요인 지표변인들에 대해 차례로 잠재집단 수를 늘려 분석한다. 최적 잠재집단 수(k) 결정을 위해 AIC, BIC, ABIC 정보적합도 지수 고려 하에, LMR-LRT, ALRT, B-LRT 검증을 실시한다. 분석에서 최적화된 잠재집단 수는 순차적으로 증가하며, 해당 통계치들의 적합도를 비교∙평가하여 결정한다. AIC와 BIC지수는 값이 작을수록 모형적합도가 좋으며, 검정이 유의미할 때 k개의 잠재집단 유형이 적합함을 의미한다."
+}

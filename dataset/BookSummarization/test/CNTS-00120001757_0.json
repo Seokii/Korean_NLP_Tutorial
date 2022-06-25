@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00120001757_0",
+  "metadata": {
+    "doc_id": "CNTS-00120001757",
+    "doc_type": "도서",
+    "doc_name": "국방이슈브리핑시리즈",
+    "author": "박문언",
+    "publisher": "한국국방연구원",
+    "published_year": "2019",
+    "kdc_label": "국방, 군사학",
+    "kdc_code": "390"
+  },
+  "chapter": null,
+  "passage": "OODA Loop 개념을 통해 무기체계를 human in the loop, human on the loop, human out of the loop로 구분하는 경우, 인간이 무기체계를 통제를 할 수 없는 human out of the loop의 경우만 자율무기체계로 볼 수도 있습니다. 하지만 이 경우 구체적으로 어떤 세부 요소에 의해 자율무기체계로 볼 것인지 명확한 기준을 제시하지 못합니다. 더욱이 형식적으로는 human on the loop이지만 판단시간이나 능력에 있어 기계가 인간보다 우월하다면 인간감독이 불가능해지고, 실질적으로 human out of the loop가 될 수도 있습니다.",
+  "summary": "OODA Loop 개념을 통한 무기체계 분류 시, human out of the loop만이 자율무기체계로 구분된다. 하지만 이 경우 명확한 기준이 없다는 문제가 있다."
+}

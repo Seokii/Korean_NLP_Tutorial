@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220722978281_35",
+  "metadata": {
+    "doc_id": "PCY_201711220722978281",
+    "doc_type": "도서",
+    "doc_name": "의료기술평가제도의 국제 비교연구",
+    "author": "김수경",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2015",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "NICE에서는 지속적인 의료현장 모니터링을 통해 매월 \"Recommendation Reminders\"를 발간하여 의료기술의 비용 분석도(costing template)를 제공하여 사용이 권고되지 않는 기술을 지속적으로 알리고 있다. 그리고 재평가 결과 사용 중지가 권고된 의료기술의 목록('Do Not Do')을 만들어 공표하고 있으며, 2013년 9월 현재 약 800개의 의료기술이 이 목록에 포함되어 있다. 또한 Cochrane Collaboration의 연간 보고서를 근거로 ‘추천하지 않는 시술’과 ‘연구 목적으로만 사용되어야 하는 시술’을 구분하고 있다.",
+  "summary": "NICE에서는 모니터링을 통해 Recommendation Reminders\"를 발간해 의료기술 비용을 분석하고, 재평가 결과 사용중지된 기술 목록 등을 공표하고 있다."
+}

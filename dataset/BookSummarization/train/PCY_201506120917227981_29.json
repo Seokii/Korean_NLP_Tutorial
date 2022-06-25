@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201506120917227981_29",
+  "metadata": {
+    "doc_id": "PCY_201506120917227981",
+    "doc_type": "도서",
+    "doc_name": "한반도 통일이 미국에 미칠 편익비용 분석(대외경제정책연구원, 2014)",
+    "author": null,
+    "publisher": "통일부",
+    "published_year": null,
+    "kdc_label": "무역및투자유치",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "현재 존재하는 무역 데이터를 사용하여 본 연구에서는 표준적인 Pooled OLS방식과 Heckman 표본선택모형을 사용하여 양국간의 수출입을 추정하고 [표4-1]에 결과를 보고하였다. 표준 무역 모형에 따라 모든 표준 오차는 이분산적으로 강건(heteroskedastically robust)하며 국가별 클러스터(clustered by country-pairs)로 추정되었다. 가장 주목할 만한 점은 Pooled OLS(1.1)가 양국간의 무역 값이 0이 아닌 경우에만 설명이 가능함에 비해 Heckman model(1.2)은 훨씬 더 많은 관측치에 대한 설명을 해줄 수 있다는 점이다. 하지만 양 추정 방식 모두 비슷한 결과를 도출한다.",
+  "summary": "본 연구에서는 양국간의 수출입을 추측했는데,  Pooled OLS(1. 1 )와 eckman model(1. 2 )의 양 추정 방식 모두 비슷한 결과를 도출했다."
+}

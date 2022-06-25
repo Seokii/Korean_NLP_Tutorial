@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201705290357086081_5",
+  "metadata": {
+    "doc_id": "PCY_201705290357086081",
+    "doc_type": "도서",
+    "doc_name": "보건의료정책 평가 모형 연구(I) : 현황 분석과 우선순위 설정",
+    "author": "김남순",
+    "publisher": "한국보건사회연구원",
+    "published_year": "2016",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "이와 같은 관점에서 정책 영향 평가를 위한 연구방법 선정 시 우선적으로 고려해야 할 요소는 무작위성과 비교 그룹의 존재이다. 따라서 무작위실험연구(randomized controlled trial) 혹은 유사 실험 연구( quasi experimental trial) 등이 가능하다. 영향 평가에서 비교 집단이 없는 경우에는 자연적 실험 연구 혹은 도구 변수(instrumental variables) 사용, 전후 비교 연구 등이 가능하다. 경제성 평가에는 비용 효과 분석 혹은 비용 편익 분석(cost benefit analysis)이 있다. 혹은 자원 사용과 결과의 변화에 관한 시뮬레이션 모델링을 하는 방법도 있다(HM Treasury, 2011, p.97).",
+  "summary": "정책영향평가에서는 무작위실험 혹은 유사 실험 연구 등이 가능하다. 비교집단이 없는 경우에는 전후 비교 연구 등이 가능하고, 경제성 평가에서는 비용 효과 분석 등이 가능하다. "
+}

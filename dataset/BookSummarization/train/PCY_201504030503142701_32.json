@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504030503142701_32",
+  "metadata": {
+    "doc_id": "PCY_201504030503142701",
+    "doc_type": "도서",
+    "doc_name": "연구개발 투자가 한국 ICT(정보통신기술) 기업 성장에 미치는 영향",
+    "author": null,
+    "publisher": "정보통신정책연구원",
+    "published_year": "2014",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "이와 같은 동적 패널 모형을 OLS 방식으로 회귀분석하면, 변수들과 오차의 내생성(endogeneity)에서 발생하는 편의가 있게 된다. 이때, 기업 특수성(예: 기업 경영진의 경영능력)이 시간 불변(time invariant)의 성격을 갖고 있다고 가정하고, 이것이 오차항에 포함되어 있으면 이러한 문제를 회피하기 위해 Fixed effects(FE) 방식을 활용하게 된다. 그러나 FE 방식으로 동적 패널 모형을 추정하면, 피설명 변수의 과거 값이여전히 새로운 first-differenced 오차와 상관관계를 갖게 되어 편이가 해소될 수 없다.",
+  "summary": "OLS 방식은 변수와 오차의 내생성을 가져오지만 FE 방식 추정은 과거 변수가 first-differenced 오차에 영향을 주게 된다."
+}

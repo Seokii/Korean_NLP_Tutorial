@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504070911229001_18",
+  "metadata": {
+    "doc_id": "PCY_201504070911229001",
+    "doc_type": "도서",
+    "doc_name": "5G 이동통신 분야 표준문서 검색 가이드",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "비면허 주파수 대역(unlicensed shared access, secondary horizontal shared access 등의 방식 적용)은 요구 기준을 만족하면 누구나 해당 주파수 자원을 이용할 수 있는 대역이다. 이러한 대역은 주로 WiFi와 Bluetooth 등이 이용하고 있으며, 그 중에서도 WiFi의 이용률이 가장 높다. 그러나 현재의 WiFi 기술은 기본적으로 CSMA/CA(Carrier Sense Multiple Access/Collision Avoidance)를 기반으로 하고 있기 때문에 하나의 AP에 접속된 사용자 수가 증가할수록 전체 시스템 용량이 감소하게 된다. 이는 사용자 수가 늘어남에 따라 시스템 용량이 증가하는 셀룰러 시스템과 대조적이다. WiFi는 이러한 문제를 해결하기 위한 표준화 노력을 시작하였으며, 또 다른 측에서는 LTE 등의 셀룰러 기술을 비면허 대역에 적용하는 것을 고려하고 있다. 향후 이 두 기술은 동일한 비면허 주파수 대역을 두고 상호 경쟁하거나 협력하게 될 것이다.",
+  "summary": "WiFi는 비면허 주파수 대역으로 셀룰러 시스템과 다르게 사용자 수가 많을수록 시스템은 저하된다. 문제 해결을 위해 WiFi는 표준화 및 셀룰러 기술을 비면허 대역에 적용하기 위해 노력하고 있으며 추후 두 기술이 비면허 주파수 대역을 두고 경쟁 혹은 협력할 것으로 전망된다. "
+}

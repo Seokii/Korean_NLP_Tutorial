@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201702160546431221_51",
+  "metadata": {
+    "doc_id": "PCY_201702160546431221",
+    "doc_type": "도서",
+    "doc_name": "데이터 기반 헬스케어 혁신의 부상과 대응전략",
+    "author": null,
+    "publisher": "과학기술정책연구원",
+    "published_year": "2016",
+    "kdc_label": "과학기술연구",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "2012년, 국가건강정보기술조정국(ONC-HIT)에서는 Blue Button의 이용 대상을 미국 내 모든 환자로 확대 적용(Blue Button for America)시키기 위한 ‘Automate Blue Button Initiative’에 착수하여, 향후 진료기록을 자동 전송시키는 Push Service 기능과 제3자 사업자(third party)가 환자 정보를 주기적으로 확인할 수 있는 Pull Service도 지원할 예정이다. 이에 따라, 미국 내 의료기관들은 환자의 의료기록을 이메일, 헬스케어 앱과 같은 전자매체로를 이용하여 자동 전송하고, 사용자들은 진료 기록을 해당 병원에 직접 제출해야 하는 번거로움 없이 병원 간 진료기록을 전송하는 것이 가능해진다(허영 외, 2013). Blue Button의 성공에 힘입어 미 에너지부에서도 전력 사용정보에 대한 정보공유 시스템인 Green Button을 운영하는 등 Blue Button은 오픈 데이터 시스템의 대표적인 성공사례로 손꼽히고 있다.",
+  "summary": "국가건강정보기술조정국에서는 Blue Button을 모든 미국시민에게 적용하는 대응 방법을 실시하였다. 또한 진료기록 자동 전송, 주기적 확인을 가능하게 하는 서비스를 지원하여 환자들에게 편리함을 제공하였다. 이는 오픈 데이터 시스템의 성공적 활용 모습이라 할 수 있다. "
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049144800_47_47-0",
+  "metadata": {
+    "doc_id": "CNTS-00049144800",
+    "doc_type": "도서",
+    "doc_name": "Ethernet 기술혁신과 정책시사점",
+    "author": "강홍렬",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2000",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "III. MAN, WAN의 새로운 대안 I. Ethernet기술의 광역화",
+  "passage": "그리고 GigE은 Layer 2 스위치에 머물지 않고 Multilayer 스위치로 빠르게 진화하고 있다. 이는 IP, TCP /IP, IPX 등을 교환하는 기술로서 백본에서 기존의 라우터를 대체할 수 있는 edge장비의 역할을 수행하게 된다 그리고 GigE은 MAN, WAN 서비스를 위하여 !Gbps 속도의 full-duplex를 거의 예외없이 지원하여 스위치 사이, 스위치와 NIC 사이를 연결할 수 있게 한다. GigE이 full-duplex를 지원하는 것은 CSMA/CD 프로토콜이 필요성을 우회함으로써 Ethernet이 지니는 거리의 한계를 뛰어넘는 첫 번째 선택이 될 것이다.\n Gig과는 다르게 10GigE은 표준화 단계에서부터 본격적으로 MAN, WAN서비스를 겨냥하고 있다. Dataquest의 Todd Hanson은 일부 서비스사업자들이 PoP(point of presence)에서 10Gbps의 속도를 확보할 수 있고, 대형 스위치 사이를 연결할 수 있는 대안으로서 사용할 수 있으며, Packet /SONET이 적합하지 않은 짧은거리에서도 서비스사업자의 보다 저렴한 선택이 될 수 있을 것이라고 지적한다.",
+  "summary": " GigE은 Multilayer 스위치로 빠르게 진화하고 있으며 스위치 사이, 스위치와 NIC 사이를 연결할 수 있게 한다.   10GigE은 표준화 단계부터 MAN, WAN서비스를 겨냥하고, 짧은 거리에도 서비스사업자의 보다 저렴한 선택이 될것이라고 지적된다."
+}

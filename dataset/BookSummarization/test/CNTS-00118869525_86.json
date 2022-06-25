@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118869525_86",
+  "metadata": {
+    "doc_id": "CNTS-00118869525",
+    "doc_type": "도서",
+    "doc_name": "2019 우주산업 실태조사",
+    "author": "과학기술정보통신부",
+    "publisher": "과학기술정보통신부",
+    "published_year": "2019",
+    "kdc_label": "기계공학",
+    "kdc_code": "550"
+  },
+  "chapter": null,
+  "passage": "일본의 위성통신 예산은 차세대 위성통신 기술을 개발함에 따라 지난 5년간 33% 증가할 만큼 가파른 성장세를 보이고 있다. 2006년 발사를 마지막으로 중단되었던 ETS(Engineering Test Satellite) 시리즈를 재개하여 JAXA는 NICT(National Institute of Information and Communication Technology)의 지원을 받아 대용량위성(High Throughput Satellite, HTS)인 ETS-9의 개발에 착수하였으며 2021년 발사를 목표로 개발 중에 있다. 또한 JAXA와 NICT는 IGS(Intelligence Gathering Satellite) 위성군의 확장에 따라 증가하는 정보 및 감시, 정찰 관련 트래픽에 대응하기 위해 차세대 중계위성 개발을 준비 중으로 2019년 말 새로운 광통신 기술을 적용하여 발사될 예정이다. 이는 2002년 발사된 일본의 첫 데이터 중계 및 추적 위성(DRTS)의 수명이 지난 2017년 8월 종료됨에 따라 이를 대체하기 위한 것으로 보인다.",
+  "summary": "일본 위성통신 예산은 성장세를 보이고 있고, JAXA는 대용량위성 ETS-9를 개발하고 있다. 또한 IGS 위성군 확장에 따라 차세대 중계 위성을 개발 중이며 2019년 말에 발사될 것이다. "
+}

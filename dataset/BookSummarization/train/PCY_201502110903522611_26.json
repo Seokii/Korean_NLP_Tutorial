@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201502110903522611_26",
+  "metadata": {
+    "doc_id": "PCY_201502110903522611",
+    "doc_type": "도서",
+    "doc_name": "감사논집(제21호)",
+    "author": null,
+    "publisher": "감사원",
+    "published_year": null,
+    "kdc_label": "국정운영",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "운영중심 평가모형 중 대표적인 Stufflebeam(1973)의 CIPP 모형은 4단계 평가유형으로 상황평가(context evaluation), 투입평가(input evaluation), 과정평가(process evaluation), 산출평가(product evaluation)로 구분된다. 상황평가는 계획단계의 의사결정에 도움이 되는 정보를 제공하기 위해 상황이나 환경적 요인을 파악하며, 투입평가는 구조화 단계로서, 현재 어떠한 요인이 투입되고 있고, 앞으로 어떠한 요인이 투입되어야 하는가를 분석한다. 과정평가는 실행단계의 의사결정에 도움을 주는 평가로서, 수립된 전략이 실행되는 과정에서 고려해야 하는 사건 등을 평가한다. 마지막으로 산출평가는 결과단계에서 산출된 결과의 가치를 판단하기 위해 정보를 수집하거나 분석하는 단계이다.",
+  "summary": "Stufflebeam(1973)의 CIPP 모형은 상황평가, 투입평가, 과정평가, 산출평가의 4단계 평가유형으로 구성된다."
+}

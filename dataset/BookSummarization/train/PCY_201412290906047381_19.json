@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201412290906047381_19",
+  "metadata": {
+    "doc_id": "PCY_201412290906047381",
+    "doc_type": "도서",
+    "doc_name": "실업급여사업 평가",
+    "author": null,
+    "publisher": "국회예산정책처",
+    "published_year": null,
+    "kdc_label": "고용노동",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "구직급여 소정급여일수가 미취업기간에 미치는 영향을 알아보기 위하여 생존분석(survival analysis)을 실시하였다.65) 구직급여가 미취업기간에 미치는 영향에 대한 생존분석은 대부분 콕스비례위험 회귀모형(Cox proportional hazard regressin mod- el) 또는 와이블(Weibull) 분포를 가정한 지속기간 모형(duration model)을 사용하는데, 이 중 와이블 분포는 구직급여 수급자가 미취업상태에서 탈출할 확률이 미취업기간의 경과에 따라 증가하거나 감소하는 경우에 적합하므로 동 보고서에서는 와이블 분포를 가정한 지속기간 모형을 사용하여 분석하였다.",
+  "summary": "구직급여 소정급여일수가 미취업기간에 미치는 영향을 알아보고자 생존분석(와이블 분포를 가정한 지속기간 모형을 사용)을 실시하였다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201805080330544171_8",
+  "metadata": {
+    "doc_id": "PCY_201805080330544171",
+    "doc_type": "도서",
+    "doc_name": "자동화기계를 이용한 의료수술의 형법적 쟁점 연구 (Criminal Law Issues regarding Surgeries using Robots)",
+    "author": "최민영, 김천수",
+    "publisher": "한국형사정책연구원",
+    "published_year": "2017",
+    "kdc_label": "법무및검찰",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "원격수술로봇 다빈치(daVinci)의 핵심기술이기도 한 이솝의 핵심기술은 미국 항공우주국 나사(National Air and Space Administration)의 에임스(Ames)연구센터에서 개발되었다. 수술용 로봇개발에 있어 견인차 역할을 했던 에임스 연구센터는 1980년대 후반에 가상현실 원격수술(virtual reality telesurgery presence) 프로그램에 착수했다. 수술로봇에 관한 연구활동을 통해 컴퓨터 모션(Computer Motion)社의 제우스(Zeus)와 인튜이티브 서지컬(Intuitive Surgical)社의 다빈치라는 두 가지 원격수술용 로봇이 탄생하게 되었다. 이후 인튜이티브 서지컬사는 2003년, 제우스 시스템을 인수했다.",
+  "summary": "이솝의 핵심기술은 수술용 로봇개발의 주도적 역할을 했던 나사 에임스 연구센터에서 개발되었으며 가상현실 원격수술 프로그램 개발을 통해 제우스와 다빈치 두 원격수술용 로봇이 탄생하게 되었다."
+}

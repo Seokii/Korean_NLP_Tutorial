@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201909180440421131_3",
+  "metadata": {
+    "doc_id": "PCY_201909180440421131",
+    "doc_type": "도서",
+    "doc_name": "5G 네트워크 자동화 및 지능 기술 표준화 동향 (Trends of 5G Network Automation and Intelligence Technologies Standardization)",
+    "author": "신명기, 이수환, 이종화",
+    "publisher": "한국전자통신연구원",
+    "published_year": "2019",
+    "kdc_label": "방송통신",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "마지막으로, OAM과 NWDAF 간 데이터 수집 및 분석 결과 전달에 대한 제약사항으로는 NWDAF는 3GPP SA5에서 정한 인터페이스와 방법을 통해 OAM 데이터를 수집하고, NWDAF가 생성하는 슬라이스 분석 정보를 3GPP SA2에서 정한 인터페이스와 방법을 통해 OAM에 전달할 수 있다. 이와 관련하여 현재 3GPP SA5에서는 SON_5G(Study on Self-Organizing Networks for 5G networks)라는 새로운 연구 아이템이 승인되었으며, 해당 연구 아이템을 통해 3GPP SA5에서 필요로 하는 NWDAF 유즈케이스 및 인터페이스가 추가로 정의될 예정이다",
+  "summary": "마지막, 데이터 수집 분석 전달 제약으로 NWDAF는 3GPP SA5 인터페이스로 OAM 데이터를 수집하고, NWDAF 정보를 3GPP SA2 인터페이스로 OAM에 전달한다."
+}

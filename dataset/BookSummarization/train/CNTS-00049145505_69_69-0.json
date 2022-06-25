@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00049145505_69_69-0",
+  "metadata": {
+    "doc_id": "CNTS-00049145505",
+    "doc_type": "도서",
+    "doc_name": "공공 및 민간부분의 정보화를 위한 위성통신 활용방안 연구",
+    "author": "손상영",
+    "publisher": "정보통신정책연구원",
+    "published_year": "1999",
+    "kdc_label": "경제학",
+    "kdc_code": "320"
+  },
+  "chapter": "제 3 장 위성통신서비스 개관 및 현황 제 3 절 해외 위성통신 서비스 현황",
+  "passage": "위성이동통신서비스는 1998년에 Iridium에 의해 처음 시작되었다. Iridium은 미국의 Motorola사가 자회사를 만들어 제공하고 있다. 전세계를 커버하며 전화, 데이터, 팩스, 무선호출 등의 서비스를 제공하며 현재 우리나라에서도 서비스되고 있지만, 크게 성공하지는 못하였다. 또한, Globalstar Limited Partnership에 의해 제공되는 Globalstar는 1999년부터 서비스가 개시되고 있으며 Iridium과는 달리 비교적 인구가 많은 지역을 대상으로 전화, 데이터, 팩스, 무선호출, 무선측위 등의 서비스를 제공하고 있다. 그 외 Odyssey Telecomms International Inc. 의 Odyssey가 2000년에 통신서비스를 개시할 예정이다. AT&T에서는 2000년부터 디지털 음성, 데이터 멀티미디어 서비스를 전세계를 대상으로 제공할 수 있는 VoiceSpan서비스를 추진하고 있다. 또한, Hughes Aricraft사는 1998년부터 전세계를 대상으로 저가격으로 양방향음성, 데이터 이미지, 비디오, 화상전화 등의 서비스를 사업자나 개인에게 제공하고 있다.",
+  "summary": "Iridium는 위성통신서비스를 시작했다. Globalstar는 1999년부터 인구가 많은 곳에 전화 ,팩스 등의 서비스를 한다. 2000년에는 오디세이가 통신서비스, AT&T가 VoiceSpan 서비스를 계획 중이다. Hughes Aricraft는 1998년부터 전세계에 저가의 화상전화 등을 제공한다."
+}

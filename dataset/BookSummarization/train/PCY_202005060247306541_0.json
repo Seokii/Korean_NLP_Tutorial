@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_202005060247306541_0",
+  "metadata": {
+    "doc_id": "PCY_202005060247306541",
+    "doc_type": "도서",
+    "doc_name": "수산식품원료의 형태학적 및 유전학적 분류 매뉴얼",
+    "author": null,
+    "publisher": "식품의약품안전처",
+    "published_year": "2020",
+    "kdc_label": "해양수산·어촌",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "DNA 염기서열 분석은 ABI 3730 DNA Sequencer (Thermo Fisher Scientific)를 기본으로 사용하여 진행하며 PCR primer 서열에 포함되어 있는 universal primer M13F (-20), M13R (-20)를 이용하여 분석한다(표 1 참조). 염기서열 분석 장치가 없는 경우 염기서열 분석 대행업체(㈜마크로젠, ㈜바이오니아 등)에 의뢰하여 분석한다. 분석 결과로 얻어지는 AB1 파일을 BioEdit (또는 Chromas와 같은 분석 프로그램)을 사용하여 크로마토그램의 base peak 및 분석 오류 등을 확인하고 염기서열을 결정한다.",
+  "summary": "DNA 염기서열 분석은 시퀀서로 PCR 프라이머를 붙이는 시퀀싱 과정을 거쳐 크로마토그램을 얻은 후, 분석프로그램으로 피크와 노이즈를 읽어내어 염기서열을 결정하는 방식이다."
+}

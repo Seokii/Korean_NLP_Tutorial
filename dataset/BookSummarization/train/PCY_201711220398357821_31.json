@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220398357821_31",
+  "metadata": {
+    "doc_id": "PCY_201711220398357821",
+    "doc_type": "도서",
+    "doc_name": "암 보장성 강화 전·후 의료서비스 및 건강불평등 영향 평가",
+    "author": null,
+    "publisher": "한국보건의료연구원",
+    "published_year": "2012",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Tang 등(2009)은 2001~2006년까지의 대만의 사망등록자료(National Register of Deaths Database)와 암등록자료Cancer Register System)와 국가건강보험자료(National Health Insurance claims data)를 활용해 사망 전 1개월 동안의 적극적 치료현황을 파악하였다. 측정도구는 Earle의 말기 암환자 적극적 치료 지표를 변형하여 6개의 지표를 만들고 1개의 지표당 1점을 부가하여 0-6점으로 측정하였다. 6개의 지표는 항암치료 여부, 2회 이상의 응급실방문(ER방문>1회), 2회 이상의 입원(입원횟수>1회), 15일 이상의 입원(입원일 >14일), 집중치료실 이용, 병원에서의 사망 등이다.",
+  "summary": "Tang 등은 대만의 사망등록자료와 암등록자료, 국가건강보험자료를 사용해 사망 전 1개월간의 적극적 치료현황을 조사했다. 이를 위해 6개의 지표를 생성하고 지표당 1점으로 점수를 측정하였다."
+}

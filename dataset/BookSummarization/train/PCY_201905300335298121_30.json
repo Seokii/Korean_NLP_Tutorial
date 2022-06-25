@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201905300335298121_30",
+  "metadata": {
+    "doc_id": "PCY_201905300335298121",
+    "doc_type": "도서",
+    "doc_name": "2010 저작권 백서",
+    "author": null,
+    "publisher": "문화체육관광부,한국저작권위원회",
+    "published_year": "2011",
+    "kdc_label": "안전관리",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "비즈니스 모델이 복잡해지면서 DRM 기술을 한마디로 정의하기는 매우 어렵다. 국내외 전문가들 사이에서도 DRM 기술에 대한 정의는 서로 차이를 보이고 있으나 다양한 비즈니스 모델을 지원할 수 있도록 DRM 기술이 유연성을 가지면서 광의의 DRM 기술에 대한 정의가 주류로 자리를 잡아가고 있다. 미국의 ContentGuard사에서는 DRM을 “디지털 콘텐츠의 라이프사이클 동안 계약사항에 따라서 디지털 객체(콘텐츠)를 지속적으로 관리하는 것”으로 정의 하고 있으며, Renato Iannella는 앞에서 언급했던 1세대 DRM과 2세대 DRM 에 대한 정의를 내세우고 있다. XrML(eXtensible Rights Markup Language) 의 개발을 주도하였던 ContentGuard사는 DRM에 대해서 ‘디지털 권리에 대 한 관리(management of digital rights)’와 ‘권리에 대한 디지털 관리(digital management of rights)’라는 측면으로 정의하였다. 결국은 DRM이란 권한을 관리하는데 사용되는 시스템이라고 정의하는 것이다.",
+  "summary": "디지털 콘텐츠의 일생동안 계약사항에 따라 디지털 콘텐츠를 지속적으로 관리하는 것으로 DRM 기술을 정의하고, 디지털 권리에 대한 관리와 권리에 대한 디지털관리로 정의하는 등 이 기술에 대한 정의는 서로 차이를 보이고 있다. 정리하면, DRM이란 권한을 관리하는데 사용되는 시스템이다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118875217_18",
+  "metadata": {
+    "doc_id": "CNTS-00118875217",
+    "doc_type": "도서",
+    "doc_name": "디지털 전문증거 진정성립을 위한 디지털 본래증거 수집 방안",
+    "author": "김영철",
+    "publisher": "대검찰청",
+    "published_year": "2018",
+    "kdc_label": "법학",
+    "kdc_code": "360"
+  },
+  "chapter": null,
+  "passage": "레지스트리는 ‘HKEY_CLASSES_ROOT’를 비롯한 6개의 ‘루트키’를 기점으로 계층적으로 ‘키’를 가진다. 각각의 ‘하위 키’들은 ‘값’과 ‘데이터 타입’, ‘데이터’를 가지고 있다. 각각의 루트키는 성격에 따라 유사한 하위키에 다양한 설정 정보를 가지고 있다. 현재 사용자의 프로파일과 관련된 ‘HKEY_ CURRENT_USER’를 예로들면, 하위에 ‘ControlPanel’, ‘Identities’, ‘Network’, ‘Printers’, ‘Software’ 등의 하위키를 가진다. ‘ControlPanel’은 데스크탑 테마, 키보드/마우스 세팅 등의 환경설정 정보를 가지며, ‘Identities’는 윈도우 메일 계정 정보를 가진다. ‘Network’는 네트워크 드라이브 매핑 정보 및 환경 설정 값을 가지며, ‘Printers’는 프린트연결 설정, ‘Software’는 로그온한 사용자 소프트웨어 목록 정보를 가진다.",
+  "summary": "레지스트리는 유사한 하위키에 대한 설정 정보를 가진 6개의 루트키를 기점으로 '값', '데이터 타입'과 '데이터'를 가진 하위 키를 가진다."
+}

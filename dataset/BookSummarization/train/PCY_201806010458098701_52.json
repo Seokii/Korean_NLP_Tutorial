@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201806010458098701_52",
+  "metadata": {
+    "doc_id": "PCY_201806010458098701",
+    "doc_type": "도서",
+    "doc_name": "교통연구 (Journal of Transport Research), 제24권 제2호",
+    "author": null,
+    "publisher": "한국교통연구원",
+    "published_year": "2017",
+    "kdc_label": "물류등기타",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "도시 내 대기질 문제를 분석하기 위한 다양한 모델이 여러 나라에서 연구되고 있으며 다수의 연구가 교통량과 오염 증가문제를 주요 과제로 다루고 있다. 이러한 연구에는 덴마크의 AirGIS(Jensen et al., 2001), 핀란드의 UDM‐FMI & CAR‐FMI(urban dispersion modelling system & road network dispersion model: Karppinen et al., 2000a), 노르웨이의 AirQUIS (Air Quality Information System: Bøhler et al., 2002), 그리고 영국의 TEMMS(Traffic Emission Modelling and Mapping Suite: Namdeo et al., 2002) 등이 있다. 이 외에도 독일, 대만, 터키와 같은 나라에서 교통량에 의한 도시 내 대기오염 문제를 다루고 있으나(Schmidt and Schäfer, 1998; Lin and Lin, 2002; Elbir, 2004), 실제 교통량과 대기오염측정 자료를 바탕으로 한 정량적인 검증은 다소 미흡한 실정이다. Frank(1998, p. 24)에 따르면 토지이용과 교통과의 상관관계에 대한 연구는 이미 검토된 바가 상당하나, 이들과 대기오염과의 관계에 대한 연구는 충분하지 않다고 주장한다. 최근 연구로 NO2에 대해 서울을 대상으로 패널 형태의 자료를 구축하여 교통량 및 기상요인과 오염농도와의 관계를 규명한 시도가 있다(Kim and Guldmann, 2015).",
+  "summary": "도시 내 대기질 문제를 분석하기 위한 다양한 모델이 여러 나라에서 연구되고 있다. 덴마크, 핀란드, 노르웨이, 영국, 독일, 대만, 터키와 같은 나라에서 교통량에 의한 도시 내 대기오염 문제를 다루고 있으나, 실제 교통량과 대기오염측정 자료를 바탕으로 한 정량적인 검증은 다소 미흡한 실정이다."
+}

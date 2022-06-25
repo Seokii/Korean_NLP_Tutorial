@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00120004652_20",
+  "metadata": {
+    "doc_id": "CNTS-00120004652",
+    "doc_type": "도서",
+    "doc_name": "유전자치료제 연구개발 및 규제 동향 2015",
+    "author": "식품의약품안전처",
+    "publisher": "식품의약품안전평가원",
+    "published_year": "2015",
+    "kdc_label": "의학",
+    "kdc_code": "510"
+  },
+  "chapter": null,
+  "passage": "Glybera를 이용한 체내분포 평가는 동물종으로 C57Bl/6 마우스(♂♀, 5수/time point)를 사용하였고, 시험기간은 7일, 28일, 90일이었다. 투여경로는 근육주사를 하였고, 음성대조군으로는 PBS와 5% sucrose가 함유된 것을 사용하고, 검체의 투여량은 1× 1011, 1 × 1013 gc/kg(6 × 108, 6 × 1010gc/site, 2sites/leg)로 하여, 영국의 Covance사에서 실시하였다. 이때 사용된 시험법은 정량 PCR법(Q-PCR)으로, 시험법의 최소검출한계(LOD) 및 최소정량한계(LOQ)는 10 copies/rxn 이다. 사용된 장기는 testes, epididymis, ovaries, liver, adrenals, brain, contralateral mandibular lymph nodes, draining inguinal lymph nodes, heart, biceps (uninjected) muscle, spleen, kidneys,lungs, marrow from femur, injected muscles 이다. 시험기간 동안 암수 고용량군 (1 × 1013 gc/kg)에서는 체중의 감소가 관찰되었다. 벡터 DNA는 7일차에 투여부위 근육, 비장, 간, 림프절, 골수에서 높은 농도로 검출되다가 28일 및 90일차에 감소되는 경향을 나타냈다. 90일차에는 투여부위인 근육, 간, 림프절에서 높은 농도(40,000-790,000c/ug)로 지속 검출되었다. 또한 생식선(고환, 부고환, 난소)에서도 7일차에 높은 농도로 검출 되다가 시간추이에 따라 감소하는 경향을 나타내었다. 특히 90일차에는 생식선에서 낮은 농도(10-330 c/ug)로 검출되었다. 저용량군(1 × 1011 gc/kg)에서도 고용량군과 유사한 체내분포 양상을 보였다.",
+  "summary": "Glybera를 이용한 체내분포 평가 시험기간 중 암수 고용량군에서는 체중이 감소되었다. 벡터 DNA는 7일차에 투여부위인 근육, 비장, 간, 림프절, 골수에서 농도가 높게 검출되다가 28일 및 90일차에 줄어들었고, 90일차에는 투여부위인 근육, 간, 림프절에서 농도가 높게 지속적으로 검출되었다. 생식선에서도 7일차에 농도가 높게 검출되다가 시간이 지나면서 줄어드는 경향을 보였다. 저용량군에서도 고용량군과 비슷한 체내분포 양상을 나타내었다."
+}

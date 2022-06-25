@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201504060906442681_26",
+  "metadata": {
+    "doc_id": "PCY_201504060906442681",
+    "doc_type": "도서",
+    "doc_name": "반도체설계재산유통가이드북",
+    "author": null,
+    "publisher": "특허청",
+    "published_year": null,
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "Timing Diagram을 나타낼 때에는 Clock, Data 등을 파형으로 나타내며, 입출력을 위한 유효한 조건(어떤 Clock에서 입력 신호를 획득하고, 어느 Clock에서 출력신호가 변화하는지 등에 대한 정보)을 정확하게 명시하여야 한다. 또한 False Path, 무시할 수 있는 Timing Error 조건/결과, Setup Time, Hold Time 등에 대한 정보도 반드시 포함하여 IP를 통합하는데 있어 불필요하거나 잘못된 신호를 처리하지 않도록 상세하게 기술되어야 한다. 특히 비동기신호(Asynchronous Signal)를 사용하는 경우에는 IP의 검증 및 테스트 과정에서 발생할 수 있는 문제를 충분히 예측할 수 있을 만큼의 정보가 필요하다. 따라서 비동기 신호를 사용한 경우 “비동기 신호가 있는 위치”, “비동기 회로의 구조”, 그리고 “비동기 회로와 관련된 Metastability 가능성”에 대해서는 반드시 포함하여야 한다.",
+  "summary": "Timing Diagram을 나타낼 때에는 입출력을 위한 유효한 조건을 정확하게 명시하여야 한다. 또한 False Path, 무시할 수 있는 Timing Error 조건/결과 등에 대한 정보도 반드시 상세하게 기술되어야 한다. "
+}

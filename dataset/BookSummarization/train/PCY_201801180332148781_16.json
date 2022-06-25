@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201801180332148781_16",
+  "metadata": {
+    "doc_id": "PCY_201801180332148781",
+    "doc_type": "도서",
+    "doc_name": "음성인식 AI 비서 시장의 현황과 시사점",
+    "author": "최지혜, 이선희",
+    "publisher": "정보통신정책연구원",
+    "published_year": "2017",
+    "kdc_label": "과학기술진흥",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "Echo의 유력한 대항마로 떠오른 음성인식 AI 스피커 Google Home은 2016년 11월 출시되었다. 그 이름에서 예상할 수 있듯이 홈 오토메이션을 주력 기능으로 내세우고 있다. Google Home의 운영체제는 “Chromecast”의 OS를 변형한 것이며, 음성인식 소프트웨어 Google Assistant는 기존에 Android OS 스마트폰에 도입되었던 Google Now에서 AI 기능이 강화된 버전이다. Google Now와 동일하게 “OK Google”이라는 호출어로 구동되는데, 이용자는 Google Home으로 음악 재생, 일기예보 확인, 물건 주문 등의 기능은 홈IoT를 제어할 수도 있다. Google Home으로 제어할 수 있는 대표적 IoT로는 “Chromecast(멀티미디어 스트리밍 어댑터)”, “Google Nest”의 스마트홈 기기, “Phillips Hue(스마트조명)”, “삼성 SmartThings(IoT)”가 있다. 또한 스마트기기 자동화 애플리케이션인 “IF”의 레시피를 직접 생성하고 명령을 수행하게 만들 수도 있다(Techradar, 2017. 1. 18)",
+  "summary": "Google Home은 홈 오토메이션이 주력 기능이고, AI 기능이 강화되어 홈loT를 제어할 수 있다. 또한 스마트기기 자동화 애플리케이션 IF의 레시피 제어도 가능하다."
+}

@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201811150418141071_120",
+  "metadata": {
+    "doc_id": "PCY_201811150418141071",
+    "doc_type": "도서",
+    "doc_name": "2017 IP Insight: 해외 지식재산권 판례 심층분석 보고서",
+    "author": "한국지식재산보호원",
+    "publisher": "특허청",
+    "published_year": "2018",
+    "kdc_label": "산업진흥·고도화",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "크루즈선 회사인 South Carolina Maritime Services, Inc.(이하 Maritime)는 South Carolina 주의 찰스턴 항구에 위치한 South Carolina State Ports Authority(이하 SCSPA)의 항만시설에 배를 정박하게 해달라고 수차례 요청하였다. 하지만, SCSPA는 Maritime의 크루즈선 중 일부에서 도박을 할 수 있도록 한 것을 이유로 Maritime의 청구를 일관되게 거부하였다. Maritime은 Federal Maritime Commission(이하 FMC)에 SCSPA를 선박법 위반으로 고소하였다. 행정법판사(Administrative Law Judge, ALJ)는 이 사건에도 주의 주권면책이 적용된다고 보았으나, FMC는 주권면책은 사법 재판 절차에 적용되는 것이지 행정절차에 적용되는 것이 아니라고 판단하였다. 결국 쟁점은 행정절차에도 주권면책이 적용될 것인지 여부로 압축되게 되었고, 이에 대해 판단한 것이 연방대법원의 Federal Maritime Commission v. South Carolina State Ports Authority 판결이다. 연방대법원은 FMC 절차와 민사소송 절차의 강한 유사성(strong similarities)을 고려할 때, FMC 절차에도 주권면책이 적용되는 것이라고 판시하였다. 즉, 소송과 유사한 행정절차에 대해서도 주의 주권면책이 적용된다는 점을 확인한 것이다. 이 판결을 근거로 하여 특허심판원의 IPR 절차에서도 주는 주권면책을 주장할 수 있게 되었다. IPR 절차 역시 소송절차와 유사하게 설계된 것이기 때문이다.",
+  "summary": "연방대법원은 Federal  Maritime Commission v. South Carolina State Ports Authority 판결에서 소송과 유사한 행정절차에도 주의 주권면책이 적용됨을 확실히 하였다. 이에 특허심판원의 IPR절차에서도 주의 주권면책이 적용되게 되었다."
+}

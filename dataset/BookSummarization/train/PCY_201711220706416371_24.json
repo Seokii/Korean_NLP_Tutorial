@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201711220706416371_24",
+  "metadata": {
+    "doc_id": "PCY_201711220706416371",
+    "doc_type": "도서",
+    "doc_name": "공익적 보건의료연구 자료 활용을 위한 Round-table conference",
+    "author": "배종면",
+    "publisher": "한국보건의료연구원",
+    "published_year": "2011",
+    "kdc_label": "보건의료",
+    "kdc_code": "500"
+  },
+  "chapter": null,
+  "passage": "미국 정부는 개인 건강정보보호를 위해 법적으로 HIPAA 프라이버시 규칙을 마련하였으며, 건강정보 활용을 위한 연구자료지원센터(The Research Data Assistance Center, ResDAC) 운영, Google Health 서비스 제공, Cancer Biomedical Informatics Grid(CaBIG) 등의 사업을 시행하고 있다. 서호주, 캐나다 등에서도 Western Australia Diabetes Data Linkage Project 등을 통해 개인 건강정보를 연계시켜 연구를 수행할 수 있도록 정책적으로 지원을 하고 있다.",
+  "summary": "미국 정부는 개인 건강정보보호를 법적으로 규칙을 마련해 건강정보 활용 연구 사업을 시행하며, 다른 나라에서도 개인 건강정보를 연계해서 연구 할 수 있게 지원한다."
+}

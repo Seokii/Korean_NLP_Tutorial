@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201703270501184261_26",
+  "metadata": {
+    "doc_id": "PCY_201703270501184261",
+    "doc_type": "도서",
+    "doc_name": "국가도로망의 효율성 평가지표 개발 및 운영방안",
+    "author": null,
+    "publisher": "한국교통연구원",
+    "published_year": "2016",
+    "kdc_label": "도로",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "다기준분석(MCDM: Multi-Criteria Decision Making)은 “복수의 기준을 지닌 의사결정을 최적화하는 방법”이다. 다기준분석의 유형은 단순하게 분류하기는 어렵지만 크게 다음과 같은 두 가지 유형으로 구분할 수 있다. 첫 번째 유형은 다목적의사결정법(MODM: Multiple Objective Decision Making)이고, 두 번째 방법은 다속성의사결정법(MADM: Multiple Attribute DecisionMaking)이다. MODM기법은 무한개의 대안 내에서 구성된 대안집합 중 목표들과의 편차를 최소화하는 대안을 찾아내는 것이다. 일반적인 공공투자 의사결정에서는 유한한 대안 중에서 우선순위의 선정을 통한 대안의 결정이 의사결정의 핵심 목표이며, 따라서 MODM기법은 적합하지 않다. 본 연구에서는 다기준분석의 유형으로서 다속성 의사결정(MADM) 기법을 중심으로 그 장단점을 살펴보고자 한다.",
+  "summary": "다기준분석은 복수의 기준을 지닌 의사결정을 최적화하는 방법인데, 그 유형은 두 가지로 구분할 수 있다. 바로 MODM과 MADM이다. 일반적 공공투자 의사결정에선 유한한 대안 중 우선순위를 선정해 대안을 결정하기 때문에 MODM은 적절하지 않다."
+}

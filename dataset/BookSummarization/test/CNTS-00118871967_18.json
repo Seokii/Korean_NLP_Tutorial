@@ -1,0 +1,16 @@
+{
+  "passage_id": "CNTS-00118871967_18",
+  "metadata": {
+    "doc_id": "CNTS-00118871967",
+    "doc_type": "도서",
+    "doc_name": "건강기능식품 기능성 평가 가이드",
+    "author": "식품의약품안전처.  식품의약품안전평가원",
+    "publisher": "식품의약품안전평가원",
+    "published_year": "2019",
+    "kdc_label": "가사, 가정학",
+    "kdc_code": "590"
+  },
+  "chapter": null,
+  "passage": "간 또는 근육에서 지방산의 산화 증가 기전 규명을 위해서는 peroxisome proliferatoractivated receptor-coactivator 1(PGC-1), peroxisome proliferator-activated receptors(PPARα), AMP-activated protein kinase(AMPK) 유전자 발현을 분석한다. PGC-1 발현이 증가하면 간에서 지방산 산화 증가 및 중성지방 합성 감소가 나타난다. PPARα는 주로 간, 심장, 근육, 신장에 발현하여 지방산의 산화와 아포 지단백질의 합성을 조절한다. 간에서 AMP-activated protein Kinase(AMPK) 증가는 SREBP-1c 발현을 감소시킬 뿐만 아니라, SREBP-1c의 표적 유전자를 감소시켜 간에서의 중성지방 합성을 억제한다. AMPK 발현이 증가하면 지방산 산화가 증가하여 중성지방 합성이 억제되는 것으로 해석된다. 또한 AMPK 발현이 증가하면 고혈당 개선에 도움이 되는지 알아볼 수 있다.",
+  "summary": "유전자 발현 분석을 보면,  AMPK 발현 증가 시 지방산 산화가 증가해 중성지방 합성이 억제되는 것으로 해석되며, 고혈당 개선에 도움이 되는지 알아볼 수 있다."
+}

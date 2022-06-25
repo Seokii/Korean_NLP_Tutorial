@@ -1,0 +1,16 @@
+{
+  "passage_id": "PCY_201611180226109911_16",
+  "metadata": {
+    "doc_id": "PCY_201611180226109911",
+    "doc_type": "도서",
+    "doc_name": "혼합 MDCEV 모형을 이용한 발전사업자의 최적 재생에너지 포트폴리오 구성에 관한 연구",
+    "author": null,
+    "publisher": "에너지경제연구원",
+    "published_year": "2016",
+    "kdc_label": "에너지및자원개발",
+    "kdc_code": "300"
+  },
+  "chapter": null,
+  "passage": "MDCEV 분석 수행을 위해서는 방대한 발전회사의 현시선호 자료가 필요하다. 본 연구에서는 이 목적에 가장 적합한 데이터로서, ‘UDI Directory of Electric Power Producers & Distributors (약칭 UDI EPPD)’자료와 ‘UDI World Electric Power Plants Database (UDI WEPP)’의 2012년 출시 자료를 확보하였다. 이 중 실제로 분석에 사용된 것은 WEPP 자료로서 EPPD 자료를 활용하지 못한 것은 EPPD가 상세한 자료를 가지고 있긴 하나 대상이 북미에 한정되어 있고, 의미 있는 결과를 얻기 위해서는 우리나라 발전사들을 분석에 포함해야 하기 때문이다. 우리나라만의 자료를 이용할 수 없는 것은 현재 우리나라에서 중간 규모 이상 발전사는 13개로 자료의 개수가 작아 분석이 불가능하므로 전 세계 자료를 활용하여야만 선택 및 사용량에 대한 충분한 현시선호 자료를 확보할 수 있기 때문이다.",
+  "summary": "MDCEV 를 분석하려면 발전회사의 현시선호 자료가 있어야 하기에 본 연구에서 UDI WEPP 자료를 사용하였다. 한국은 중간 규모 이상 되는 발전사가 많지 않기 때문에 분석이 어려워서 전 세계 자료를 이용해야만 했다. "
+}
