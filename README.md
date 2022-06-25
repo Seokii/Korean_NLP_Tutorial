@@ -43,4 +43,4 @@ pip install konlpy
 ## Dataset
 - Naver sentiment movie corpus(네이버 영화 리뷰 데이터셋) -> [GitHub e0t/nsmc](https://github.com/e9t/nsmc)
 - AI Hub 도서자료요약 데이터셋 -> [AI Hub 도서자료요약 소개](https://aihub.or.kr/aidata/30713)
-- 도서자료요약 데이터 csv로 정리 -> [작성자 구글 드라이브 공유 링크](https://drive.google.com/drive/folders/1x0FHjLsuQeOpd0HZD_3ZAeMAcCeWCUF6?usp=sharing)
+- 도서자료요약 데이터 csv로 정리 -> [작성자 구글 드라이브 공유 링크](https://drive.google.com/drive/folders/1xKEErru12VNZBH-LK59rsHtke5tWxgQV?usp=sharing)
