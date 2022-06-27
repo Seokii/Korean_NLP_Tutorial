@@ -8,6 +8,7 @@ Python == 3.8.5
 Tensorflow == 2.5.0  
 KoNLPy == 0.6.0  
 ### PC environment
+OS : WINDOWS 10
 GPU : RTX 3070  
 CPU : AMD Ryzen 5 5600X 6-Core Processor 3.70 GHz  
 
