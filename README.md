@@ -3,9 +3,13 @@
 예시 코드를 통해 자연어처리 분야의 입문자들에게 도움이 되었으면 합니다 :)
 
 ## 작업환경
+### Library Version
 Python == 3.8.5  
 Tensorflow == 2.5.0  
 KoNLPy == 0.6.0  
+### PC environment
+GPU : RTX 3070  
+CPU : AMD Ryzen 5 5600X 6-Core Processor 3.70 GHz  
 
 ## KoNLPy
 한국어 형태소 분석기인 KoNLPy를 사용할 때, 아래와 같은 코드를 입력 시 오류가 발생할 수 있습니다.  
