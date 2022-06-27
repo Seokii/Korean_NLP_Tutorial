@@ -43,7 +43,7 @@ pip install konlpy
 2. Naver Movie Review - CNN
 
 ### Text Summarization
-1. 
+1. (미완성) Book Summarization - Seq2Seq + Attention
 
 ## Dataset
 - Naver sentiment movie corpus(네이버 영화 리뷰 데이터셋) -> [GitHub e0t/nsmc](https://github.com/e9t/nsmc)
