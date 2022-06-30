@@ -43,7 +43,7 @@ pip install konlpy
 2. Naver Movie Review - CNN -> [Tistory Blog](https://seokii.tistory.com/144)
 
 ### Text Summarization
-1. Book Summarization - TextRank (Use Gensim)  
+1. Book Summarization - TextRank (Use Gensim) -> [Tistory Blog](https://seokii.tistory.com/145)  
 2. (미완성) Book Summarization - Seq2Seq + Attention
 
 ## Dataset
