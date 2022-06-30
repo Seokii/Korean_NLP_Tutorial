@@ -8,7 +8,7 @@ Python == 3.8.5
 Tensorflow == 2.5.0  
 KoNLPy == 0.6.0  
 ### PC environment
-OS : WINDOWS 10  
+OS : Windows 10  
 GPU : RTX 3070  
 CPU : AMD Ryzen 5 5600X 6-Core Processor 3.70 GHz  
 
@@ -43,7 +43,8 @@ pip install konlpy
 2. Naver Movie Review - CNN
 
 ### Text Summarization
-1. (미완성) Book Summarization - Seq2Seq + Attention
+1. Book Summarization - TextRank (Use Gensim)  
+2. (미완성) Book Summarization - Seq2Seq + Attention
 
 ## Dataset
 - Naver sentiment movie corpus(네이버 영화 리뷰 데이터셋) -> [GitHub e0t/nsmc](https://github.com/e9t/nsmc)
