@@ -39,8 +39,8 @@ pip install konlpy
 - Text Summarization (텍스트 요약)
 
 ### Sentiment Analysis
-1. Naver Movie Review - LSTM
-2. Naver Movie Review - CNN
+1. Naver Movie Review - LSTM [Tistory Blog](https://seokii.tistory.com/142)
+2. Naver Movie Review - CNN [Tistory Blog](https://seokii.tistory.com/144)
 
 ### Text Summarization
 1. Book Summarization - TextRank (Use Gensim)  
