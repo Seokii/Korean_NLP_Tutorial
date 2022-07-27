@@ -48,7 +48,7 @@ pip install konlpy
 2. (미완성) Book Summarization - Seq2Seq + Attention  
   
 ### Nautral Language Inference(NLI)
-1. KLUE - ELECTRA(pretrained)  
+1. KLUE - ELECTRA(pretrained) -> [Tistory Blog](https://seokii.tistory.com/150)
   
 ## Pre-trained models
 - KoELECTRA -> [monologg/koELECTRA](https://github.com/monologg/KoELECTRA)  
