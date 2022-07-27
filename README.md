@@ -35,18 +35,26 @@ pip install konlpy
 ```
 
 ## NLP Tasks
-- Sentiment Analysis (감성 분석)
-- Text Summarization (텍스트 요약)
-
+- Sentiment Analysis (감성분석)
+- Text Summarization (텍스트요약)
+- Natural Language Inference(NLI) (자연어추론)
+  
 ### Sentiment Analysis
-1. Naver Movie Review - LSTM -> [Tistory Blog](https://seokii.tistory.com/142)
-2. Naver Movie Review - CNN -> [Tistory Blog](https://seokii.tistory.com/144)
-
+1. Naver Movie Review - LSTM -> [Tistory Blog](https://seokii.tistory.com/142)  
+2. Naver Movie Review - CNN -> [Tistory Blog](https://seokii.tistory.com/144)  
+  
 ### Text Summarization
 1. Book Summarization - TextRank (Use Gensim) -> [Tistory Blog](https://seokii.tistory.com/145)  
-2. (미완성) Book Summarization - Seq2Seq + Attention
-
+2. (미완성) Book Summarization - Seq2Seq + Attention  
+  
+### Nautral Language Inference(NLI)
+1. KLUE - ELECTRA(pretrained)  
+  
+## Pre-trained models
+- KoELECTRA -> [monologg/koELECTRA](https://github.com/monologg/KoELECTRA)  
+  
 ## Dataset
 - Naver sentiment movie corpus(네이버 영화 리뷰 데이터셋) -> [GitHub e0t/nsmc](https://github.com/e9t/nsmc)
 - AI Hub 도서자료요약 데이터셋 -> [AI Hub 도서자료요약 소개](https://aihub.or.kr/aidata/30713)
 - 도서자료요약 데이터 csv로 정리 -> [작성자 구글 드라이브 공유 링크](https://drive.google.com/drive/folders/1xKEErru12VNZBH-LK59rsHtke5tWxgQV?usp=sharing)
+- Hugging Face KLUE-nli -> [Datasets at Hugging Face](https://huggingface.co/datasets/klue)
